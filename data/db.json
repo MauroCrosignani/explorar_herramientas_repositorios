@@ -1,0 +1,820 @@
+{
+  "topics_log": [
+    "ggplot",
+    "shiny",
+    "ai",
+    "machine learning",
+    "mcp",
+    "codex",
+    "antigravity",
+    "agents",
+    "dashboard",
+    "analytics",
+    "cran",
+    "quarto",
+    "dplyr",
+    "tidymodels",
+    "llm"
+  ],
+  "historical_items": [
+    {
+      "title": "R Weekly 2026-W19 Shiny webAwesome, ggplot2 tricks, knitr",
+      "url": "https://rweekly.org/2026-W19.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-05-30",
+      "tags": [
+        "ggplot",
+        "shiny"
+      ],
+      "score": 20,
+      "read": false,
+      "id": "item_1780179149"
+    },
+    {
+      "title": "[R] How to Position the Legend Inside a Plot in ggplot2",
+      "url": "https://www.r-bloggers.com/2026/05/r-how-to-position-the-legend-inside-a-plot-in-ggplot2/",
+      "summary": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/05/30/r-position-legend-inside-plot/ -\nBy default, ggplot2 places the legend outside the plot area (usually on the right). However, sometimes ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-05-30",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 14,
+      "read": false,
+      "id": "item_1780179150"
+    },
+    {
+      "title": "HanChenyue/Statistical_Regression_Modeling_with_R (0 stars)",
+      "url": "https://github.com/HanChenyue/Statistical_Regression_Modeling_with_R",
+      "summary": "A collection of worked solutions for Statistical Regression Modeling with R: Longitudinal and Multi-level Modeling by Ding-Geng (Din) Chen, Jenny K. Chen. Organised by chapter, the repository conta...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-05-30",
+      "tags": [
+        "general"
+      ],
+      "score": 14,
+      "read": false,
+      "id": "item_1780179151"
+    },
+    {
+      "title": "Is logistic regression regression?",
+      "url": "https://www.r-bloggers.com/2026/05/is-logistic-regression-regression/",
+      "summary": "I came across a post recently by a machine learning engineer who made the bold claim that logistic regression is the worst name for an algorithm ever, or something along those lines1. Many statisti...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-05-30",
+      "tags": [
+        "ai",
+        "machine learning"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1780179152"
+    },
+    {
+      "title": "lizhipay/claude-mcp-server (14 stars)",
+      "url": "https://github.com/lizhipay/claude-mcp-server",
+      "summary": "赋能 Codex，使其像子 Agent 一样直接调用 Claude 原生 MCP 协议，支持中转站与原生 API",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-05-30",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 21,
+      "read": false,
+      "id": "item_1780179153"
+    },
+    {
+      "title": "testerlingcodo/gemini-antigravity-cli (171 stars)",
+      "url": "https://github.com/testerlingcodo/gemini-antigravity-cli",
+      "summary": "gemini antigravity 2.0 cli google terminal ai agent tool agy migration guide mcp server plugin slash commands gemini 3.5 flash coding agent tool free",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-05-30",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "ai"
+      ],
+      "score": 20,
+      "read": false,
+      "id": "item_1780179154"
+    },
+    {
+      "title": "R Weekly 2025-W52 Festive ML, next gen R contributors, The Economist style ggplot2",
+      "url": "https://rweekly.org/2025-W52.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributor...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-05-31",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1780270268"
+    },
+    {
+      "title": "R Weekly 2025-W46 Custom ggplot2 geoms, data.table, NYC election",
+      "url": "https://rweekly.org/2025-W46.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-05-31",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1780270269"
+    },
+    {
+      "title": "Techtonique dot net, the Machine Learning web API, is back online (but more like a passion project for now)",
+      "url": "https://www.r-bloggers.com/2026/05/techtonique-dot-net-the-machine-learning-web-api-is-back-online-but-more-like-a-passion-project-for-now/",
+      "summary": "Techtonique dot net is back, but more like a passion project, with an API for machine learning tasks (classification, regression, survival analysis, reserving, forecasting etc.). Examples in R, Pyt...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-05-31",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1780270270"
+    },
+    {
+      "title": "EuroBioC2026 Tidyomics Hackathon",
+      "url": "https://www.r-bloggers.com/2026/05/eurobioc2026-tidyomics-hackathon/",
+      "summary": "Join us in Turku\nThe Tidyomics community is organising a hackathon during the pre-conference programme of EuroBioC2026 in Turku, Finland. The hackathon will take place on June 1-2, 2026, ahead of t...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-05-31",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1780270271"
+    },
+    {
+      "title": "Harkirat1462/claude-code-cli (320 stars)",
+      "url": "https://github.com/Harkirat1462/claude-code-cli",
+      "summary": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd inte...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-05-31",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents"
+      ],
+      "score": 16.0,
+      "read": false,
+      "id": "item_1780270272"
+    },
+    {
+      "title": "weverkley/qdrant-mcp-server (6 stars)",
+      "url": "https://github.com/weverkley/qdrant-mcp-server",
+      "summary": "A high-performance Model Context Protocol (MCP) server written in Go that acts as a real-time Retrieval-Augmented Generation (RAG) agent for your codebases.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-05-31",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1780270273"
+    },
+    {
+      "title": "R Weekly 2025-W38 R6 Interfaces, ggplot2",
+      "url": "https://rweekly.org/2025-W38.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-03",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1780524009"
+    },
+    {
+      "title": "[R] How to use ggpattern to add patterns to ggplot2 plots",
+      "url": "https://www.r-bloggers.com/2026/05/r-how-to-use-ggpattern-to-add-patterns-to-ggplot2-plots/",
+      "summary": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/05/22/r-how-to-use-ggpattern/ -\nAdding patterns to plots is a great way to improve accessibility (making plots colorblind-friendly) and to add...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-03",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1780524010"
+    },
+    {
+      "title": "monambike/aerodynamic-analysis (2 stars)",
+      "url": "https://github.com/monambike/aerodynamic-analysis",
+      "summary": "A aerodynamic analysis dashboard and presentation with comparisons about different aircrafts profiles. Made for Data Analytics Course in UFV.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-03",
+      "tags": [
+        "ai",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1780524011"
+    },
+    {
+      "title": "Football meets machine learning: Forecasting the 2026 FIFA World Cup",
+      "url": "https://www.r-bloggers.com/2026/06/football-meets-machine-learning-forecasting-the-2026-fifa-world-cup/",
+      "summary": "Probabilistic forecasts for the 2026 FIFA World Cup are obtained by using a hybrid model that combines data, expert insights, and advanced statistical models. The favorite is Spain, closely followe...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-03",
+      "tags": [
+        "ai",
+        "machine learning"
+      ],
+      "score": 9.0,
+      "read": false,
+      "id": "item_1780524012"
+    },
+    {
+      "title": "Monzphere/zbxmcp (3 stars)",
+      "url": "https://github.com/Monzphere/zbxmcp",
+      "summary": "Native Model Context Protocol (MCP) server for Zabbix with an embedded AI assistant. Auto-generates API tools from the installed Zabbix version, enforces RBAC, supports OpenAI/Anthropic/Gemini/Ollama.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-03",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 18.0,
+      "read": false,
+      "id": "item_1780524013"
+    },
+    {
+      "title": "xxxxchaos/cnki-mcp-server (4 stars)",
+      "url": "https://github.com/xxxxchaos/cnki-mcp-server",
+      "summary": "CNKI (中国知网) MCP Server — 通过 Model Context Protocol 为 AI Agent 提供中文学术论文检索能力。6个工具、MIT许可、Playwright引擎。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-03",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1780524014"
+    },
+    {
+      "title": "April 2026 Top 40 New CRAN Packages",
+      "url": "https://www.r-bloggers.com/2026/05/april-2026-top-40-new-cran-packages/",
+      "summary": "Three hundred seventy-six of the new packages submitted to CRAN in April were still there in mid-May. Here are my Top 40 picks in twenty-three categories: Actuarial Analysis, Archaeology, Biology, ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-04",
+      "tags": [
+        "cran"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1780610409"
+    },
+    {
+      "title": "R Weekly 2026-W22 Deploying Quarto, rfuns, muttest",
+      "url": "https://rweekly.org/2026-W22.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contribut...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-04",
+      "tags": [
+        "quarto"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1780610410"
+    },
+    {
+      "title": "delwincarter/reproducible-reporting-pipeline (1 stars)",
+      "url": "https://github.com/delwincarter/reproducible-reporting-pipeline",
+      "summary": "Automated data pipeline and reproducible reporting suite built in R and Quarto, featuring parallelized ingestion, longitudinal variance analytics, and HPC cluster stability diagnostics.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-04",
+      "tags": [
+        "quarto",
+        "analytics"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1780610411"
+    },
+    {
+      "title": "TheDataFlowCompany/the-science-repository (1 stars)",
+      "url": "https://github.com/TheDataFlowCompany/the-science-repository",
+      "summary": "A template for reproducible science in R: one repo for your data, analysis, interactive render, and manuscript.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-04",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1780610412"
+    },
+    {
+      "title": "unifapi-agent/unifapi-mcp-server (3 stars)",
+      "url": "https://github.com/unifapi-agent/unifapi-mcp-server",
+      "summary": "UnifAPI MCP server: public-data APIs and Skills for AI agents via Model Context Protocol",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-04",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 16.5,
+      "read": false,
+      "id": "item_1780610413"
+    },
+    {
+      "title": "R Weekly 2025-W36 {truffle} messy datasets, 25 things with R, OpenAI Codex in Positron",
+      "url": "https://rweekly.org/2025-W36.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributor...",
+      "source": "R Weekly",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-04",
+      "tags": [
+        "codex",
+        "ai"
+      ],
+      "score": 14.0,
+      "read": false,
+      "id": "item_1780610414"
+    },
+    {
+      "title": "R Weekly 2026-W13 What's new in dplyr, Atmospheric simulation",
+      "url": "https://rweekly.org/2026-W13.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Kitt , with help from the R Weekly team members and contributor...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-05",
+      "tags": [
+        "dplyr"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1780696808"
+    },
+    {
+      "title": "R Weekly 2025-W10 tidymodels, tidyplots, ggvariant package",
+      "url": "https://rweekly.org/2026-W10.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributor...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-05",
+      "tags": [
+        "tidymodels"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1780696809"
+    },
+    {
+      "title": "CarlitosCarreras/digital-capital-gap-andalusia-logistic-regression (1 stars)",
+      "url": "https://github.com/CarlitosCarreras/digital-capital-gap-andalusia-logistic-regression",
+      "summary": "Logistic regression analysis of the digital capital gap in Andalusia using official microdata from Spain's ICT Household Survey (INE 2025).",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-05",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1780696810"
+    },
+    {
+      "title": "zoe-ng-135/us-apartment-market-analysis (0 stars)",
+      "url": "https://github.com/zoe-ng-135/us-apartment-market-analysis",
+      "summary": "R-based analysis of U.S. apartment listings focusing on affordability, pet policies, and data completeness",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-05",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1780696811"
+    },
+    {
+      "title": "chapmanjw/rutherford-mcp-server (2 stars)",
+      "url": "https://github.com/chapmanjw/rutherford-mcp-server",
+      "summary": "Model Context Protocol (MCP) tool to delegate, consensus build, debate, and review across Claude Code CLI, Codex CLI, Kiro CLI, and others.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-05",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 19.0,
+      "read": false,
+      "id": "item_1780696812"
+    },
+    {
+      "title": "Poyraxx/fusion-advanced-mcp-server (2 stars)",
+      "url": "https://github.com/Poyraxx/fusion-advanced-mcp-server",
+      "summary": "A advanced model context protocol (MCP) server for Autodesk Fusion that provides resources and tools from ADSK to an AI client such as Claude or Cursor.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-05",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 19.0,
+      "read": false,
+      "id": "item_1780696813"
+    },
+    {
+      "title": "R Weekly 2025-W45 Pledging my time, neon ghosts, bioconductor release",
+      "url": "https://rweekly.org/2025-W45.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-06",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1780786343"
+    },
+    {
+      "title": "R Weekly 2025-W39 Parse RMarkdown, Vibe Code, Quality Control",
+      "url": "https://rweekly.org/2025-W39.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributo...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-06",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1780786344"
+    },
+    {
+      "title": "eco-sky/dewberry-correlation-analysis (2 stars)",
+      "url": "https://github.com/eco-sky/dewberry-correlation-analysis",
+      "summary": "Statistical analysis in R examining correlations between plant growth traits and environmental variables in European dewberry (Rubus caesius), using field-collected ecological data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-06",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1780786345"
+    },
+    {
+      "title": "hainuo1/China-Population-Data-Analysis (1 stars)",
+      "url": "https://github.com/hainuo1/China-Population-Data-Analysis",
+      "summary": "Apply R and numerical analysis theories on historical Chinese population data, finish demographic prediction and provide relevant population planning suggestions.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-06",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1780786346"
+    },
+    {
+      "title": "Moh4696/50-essential-mcp-servers (48 stars)",
+      "url": "https://github.com/Moh4696/50-essential-mcp-servers",
+      "summary": "a curated, browsable reference of 50 essential MCP servers for claude, gemini & codex — install commands, official links, and the gotchas that matter",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-06",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1780786347"
+    },
+    {
+      "title": "zainf2327/mcp-classroom (4 stars)",
+      "url": "https://github.com/zainf2327/mcp-classroom",
+      "summary": "A stateless Model Context Protocol (MCP) server for Google Classroom. Connect AI assistants (Claude, Cursor, Windsurf) to your classroom to auto-grade submissions, manage rosters, and generate AI-e...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-06",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1780786348"
+    },
+    {
+      "title": "R Weekly 2026-W12 Sharing across shiny modules, F1 data",
+      "url": "https://rweekly.org/2026-W12.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-07",
+      "tags": [
+        "shiny"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780878505"
+    },
+    {
+      "title": "R Weekly 2026-W03 R & Python Pluralism, RAG Setup, tinyshinyserver",
+      "url": "https://rweekly.org/2026-W03.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-07",
+      "tags": [
+        "shiny"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780878506"
+    },
+    {
+      "title": "R Weekly 2025-W50 New AI Newsletter, Test Set on Youtube, Haskell for Data Science",
+      "url": "https://rweekly.org/2025-W50.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-07",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780878507"
+    },
+    {
+      "title": "nev-awaken/WebR_Football_Analytics (2 stars)",
+      "url": "https://github.com/nev-awaken/WebR_Football_Analytics",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-07",
+      "tags": [
+        "analytics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780878508"
+    },
+    {
+      "title": "bytemineur/tqsdk-mcp-server (2 stars)",
+      "url": "https://github.com/bytemineur/tqsdk-mcp-server",
+      "summary": "MCP Server for TqSDK (天勤量化) - AI-powered futures trading via Model Context Protocol",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1780878509"
+    },
+    {
+      "title": "pguso/mcp-from-scratch (16 stars)",
+      "url": "https://github.com/pguso/mcp-from-scratch",
+      "summary": "Learn Model Context Protocol (MCP) from scratch in plain Node.js. Build a working MCP server step by step with zero black boxes, from JSON-RPC and stdio transport to tools, prompts, resources, samp...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 14.0,
+      "read": false,
+      "id": "item_1780878510"
+    },
+    {
+      "title": "R Weekly 2025-W41 Ducklake, Slidecrafting, Shiny & LLMs",
+      "url": "https://rweekly.org/2025-W41.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\n\nH...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-08",
+      "tags": [
+        "shiny",
+        "llm"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780971428"
+    },
+    {
+      "title": "R Weekly 2025-W40 Ducklake, Slidecrafting, Shiny & LLMs",
+      "url": "https://rweekly.org/2025-W40.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-08",
+      "tags": [
+        "shiny",
+        "llm"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780971429"
+    },
+    {
+      "title": "pandeyravi15/sea-ad-microglia-analysis (1 stars)",
+      "url": "https://github.com/pandeyravi15/sea-ad-microglia-analysis",
+      "summary": "Cross-species validation of AD microglial signatures using SEA-AD human brain single-cell data",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-08",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780971430"
+    },
+    {
+      "title": "mtelek/threshold_regression_model (0 stars)",
+      "url": "https://github.com/mtelek/threshold_regression_model",
+      "summary": "Panel data project in R analyzing how housing prices influence household consumption in Spain, with results benchmarked against a leading published framework (Dong, Hui, and Jia, 2017).",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-08",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1780971431"
+    },
+    {
+      "title": "achuthprince004/deepresearch-mcp (2 stars)",
+      "url": "https://github.com/achuthprince004/deepresearch-mcp",
+      "summary": "Deep Research MCP: Powerful Model Context Protocol server for AI agents. Multi-step web research, Tavily/SerpAPI search, Groq LLM analysis, and automated Markdown reports. Connect to Claude instantly.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-08",
+      "tags": [
+        "mcp",
+        "llm",
+        "agents",
+        "ai"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1780971432"
+    },
+    {
+      "title": "anilcancakir/laravel-agent-mcp (5 stars)",
+      "url": "https://github.com/anilcancakir/laravel-agent-mcp",
+      "summary": "Read-only MCP (Model Context Protocol) server for Laravel. Give Claude Code, Cursor, and AI coding agents safe live access to your database, logs, queue, cache, routes, and config. No Sanctum, no u...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-08",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1780971433"
+    }
+  ],
+  "reports": [
+    {
+      "date": "2026-06-08",
+      "editorial_summary": "Briefing compiled on June 08, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W41 Ducklake, Slidecrafting, Shiny & LLMs, R Weekly 2025-W40 Ducklake, Slidecrafting, Shiny & LLMs and explores cutting-edge AI integrations including achuthprince004/deepresearch-mcp (2 stars), anilcancakir/laravel-agent-mcp (5 stars).",
+      "items": [
+        "item_1780971428",
+        "item_1780971429",
+        "item_1780971430",
+        "item_1780971431",
+        "item_1780971432",
+        "item_1780971433"
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "editorial_summary": "Briefing compiled on June 07, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W12 Sharing across shiny modules, F1 data, R Weekly 2026-W03 R & Python Pluralism, RAG Setup, tinyshinyserver and explores cutting-edge AI integrations including bytemineur/tqsdk-mcp-server (2 stars), pguso/mcp-from-scratch (16 stars).",
+      "items": [
+        "item_1780878505",
+        "item_1780878506",
+        "item_1780878507",
+        "item_1780878508",
+        "item_1780878509",
+        "item_1780878510"
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "editorial_summary": "Briefing compiled on June 06, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W45 Pledging my time, neon ghosts, bioconductor release, R Weekly 2025-W39 Parse RMarkdown, Vibe Code, Quality Control and explores cutting-edge AI integrations including Moh4696/50-essential-mcp-servers (48 stars), zainf2327/mcp-classroom (4 stars).",
+      "items": [
+        "item_1780786343",
+        "item_1780786344",
+        "item_1780786345",
+        "item_1780786346",
+        "item_1780786347",
+        "item_1780786348"
+      ]
+    },
+    {
+      "date": "2026-06-05",
+      "editorial_summary": "Briefing compiled on June 05, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W13 What's new in dplyr, Atmospheric simulation, R Weekly 2025-W10 tidymodels, tidyplots, ggvariant package and explores cutting-edge AI integrations including chapmanjw/rutherford-mcp-server (2 stars), Poyraxx/fusion-advanced-mcp-server (2 stars).",
+      "items": [
+        "item_1780696808",
+        "item_1780696809",
+        "item_1780696810",
+        "item_1780696811",
+        "item_1780696812",
+        "item_1780696813"
+      ]
+    },
+    {
+      "date": "2026-06-04",
+      "editorial_summary": "Briefing compiled on June 04, 2026. Today's selection highlights new R packages and features like April 2026 Top 40 New CRAN Packages, R Weekly 2026-W22 Deploying Quarto, rfuns, muttest and explores cutting-edge AI integrations including unifapi-agent/unifapi-mcp-server (3 stars), R Weekly 2025-W36 {truffle} messy datasets, 25 things with R, OpenAI Codex in Positron.",
+      "items": [
+        "item_1780610409",
+        "item_1780610410",
+        "item_1780610411",
+        "item_1780610412",
+        "item_1780610413",
+        "item_1780610414"
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "editorial_summary": "Briefing compiled on June 03, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W38 R6 Interfaces, ggplot2, [R] How to use ggpattern to add patterns to ggplot2 plots and explores cutting-edge AI integrations including Monzphere/zbxmcp (3 stars), xxxxchaos/cnki-mcp-server (4 stars).",
+      "items": [
+        "item_1780524009",
+        "item_1780524010",
+        "item_1780524011",
+        "item_1780524012",
+        "item_1780524013",
+        "item_1780524014"
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "editorial_summary": "Briefing compiled on May 31, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W52 Festive ML, next gen R contributors, The Economist style ggplot2, R Weekly 2025-W46 Custom ggplot2 geoms, data.table, NYC election and explores cutting-edge AI integrations including Harkirat1462/claude-code-cli (320 stars), weverkley/qdrant-mcp-server (6 stars).",
+      "items": [
+        "item_1780270268",
+        "item_1780270269",
+        "item_1780270270",
+        "item_1780270271",
+        "item_1780270272",
+        "item_1780270273"
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "editorial_summary": "Briefing compiled on May 30, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W19 Shiny webAwesome, ggplot2 tricks, knitr, [R] How to Position the Legend Inside a Plot in ggplot2 and explores cutting-edge AI integrations including lizhipay/claude-mcp-server (14 stars), testerlingcodo/gemini-antigravity-cli (171 stars).",
+      "items": [
+        "item_1780179149",
+        "item_1780179150",
+        "item_1780179151",
+        "item_1780179152",
+        "item_1780179153",
+        "item_1780179154"
+      ]
+    }
+  ]
+}

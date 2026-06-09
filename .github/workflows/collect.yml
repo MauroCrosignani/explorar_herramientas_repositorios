@@ -1,0 +1,29 @@
+name: Daily Curation Collector
+
+on:
+  schedule:
+    # Runs daily at 22:00 UTC (approx. 7:00 PM local time)
+    - cron: '0 22 * * *'
+  workflow_dispatch: # Enables manual run trigger via the GitHub Actions tab on Github.com
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run collector
+        run: python scripts/collector.py --force
+
+      - name: Commit and push updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/db.json
+          git diff-index --quiet HEAD || (git commit -m "auto: Daily Curation Briefing [skip ci]" && git push)

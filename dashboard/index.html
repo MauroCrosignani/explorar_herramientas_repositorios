@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Briefing.DS - Daily Data Science & AI Curation</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Lucide Icons -->
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <!-- Styling -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Layout Container -->
+  <div class="app-container">
+    
+    <!-- Sidebar Panel (Glassmorphic) -->
+    <aside class="sidebar">
+      <div class="sidebar-header">
+        <div class="logo">
+          <i data-lucide="terminal" class="logo-icon animate-pulse"></i>
+          <h1>Briefing<span>.DS</span></h1>
+        </div>
+        <p class="logo-subtitle">Daily Data Science & AI</p>
+      </div>
+
+      <nav class="sidebar-nav">
+        <button id="btn-latest" class="nav-btn active">
+          <i data-lucide="calendar-check"></i>
+          <span>Today's Briefing</span>
+        </button>
+        <button id="btn-history" class="nav-btn">
+          <i data-lucide="archive"></i>
+          <span>All History</span>
+        </button>
+      </nav>
+
+      <!-- Sidebar Section: Timeline -->
+      <div class="sidebar-section">
+        <h3 class="section-title">
+          <i data-lucide="clock"></i> Past Briefings
+        </h3>
+        <div id="timeline-list" class="timeline-list">
+          <!-- Timelines will be injected dynamically -->
+          <div class="loading-shimmer" style="height: 40px; margin-bottom: 8px;"></div>
+          <div class="loading-shimmer" style="height: 40px; margin-bottom: 8px;"></div>
+          <div class="loading-shimmer" style="height: 40px;"></div>
+        </div>
+      </div>
+
+      <!-- Sidebar Section: Topic Cloud -->
+      <div class="sidebar-section">
+        <h3 class="section-title">
+          <i data-lucide="tag"></i> Logged Topics
+        </h3>
+        <p class="section-desc">Currently tracking to prevent duplication:</p>
+        <div id="topic-cloud" class="topic-cloud">
+          <!-- Topics will be injected dynamically -->
+          <div class="loading-shimmer" style="height: 80px;"></div>
+        </div>
+      </div>
+
+      <div class="sidebar-footer">
+        <p>Powered by <span class="accent-text">Antigravity</span></p>
+        <p class="server-status"><span class="status-dot online"></span> Sync Active</p>
+      </div>
+    </aside>
+
+    <!-- Main Viewport -->
+    <main class="main-content">
+      
+      <!-- Top Action Bar -->
+      <header class="top-bar">
+        <div class="search-container">
+          <i data-lucide="search" class="search-icon"></i>
+          <input type="text" id="search-input" placeholder="Search packages, articles, MCP servers, or tags..." autocomplete="off">
+          <button id="search-clear-btn" class="search-clear-btn" style="display: none;">
+            <i data-lucide="x"></i>
+          </button>
+        </div>
+        <div class="theme-badge">
+          <i data-lucide="sparkles" class="text-indigo animate-spin-slow"></i>
+          <span>Local Engine</span>
+        </div>
+      </header>
+
+      <!-- View Wrapper: Report View -->
+      <section id="view-report" class="content-view active">
+        <!-- Date Header -->
+        <div class="view-header">
+          <h2 id="report-date" class="date-title">May 30, 2026</h2>
+          <div class="tag-pill category-pill" id="report-latest-badge">
+            <span class="pulse-dot"></span> Latest Report
+          </div>
+        </div>
+
+        <!-- Editorial Callout Card -->
+        <div class="editorial-card glass-panel">
+          <div class="editorial-icon-box">
+            <i data-lucide="sparkles"></i>
+          </div>
+          <div class="editorial-body">
+            <h3>Executive Curation Summary</h3>
+            <p id="report-summary">Today's report highlights new R packages for ggplot styling, updates in regression modeling, and a fresh Model Context Protocol (MCP) server for local R execution in Codex.</p>
+          </div>
+        </div>
+
+        <!-- Category Section Wrapper -->
+        <div class="categories-grid">
+          
+          <!-- Category 1: R Packages & Tools -->
+          <div class="category-column" data-cat="R Packages & Tools">
+            <div class="category-header category-r">
+              <div class="cat-icon-wrapper">
+                <i data-lucide="package"></i>
+              </div>
+              <div class="cat-title-block">
+                <h3>R Packages &amp; Tools</h3>
+                <span class="cat-count" id="count-r">0 new</span>
+              </div>
+            </div>
+            <div class="cards-stack" id="stack-r">
+              <!-- Cards will be injected dynamically -->
+            </div>
+          </div>
+
+          <!-- Category 2: Data Science & Reporting -->
+          <div class="category-column" data-cat="Data Science & Reporting">
+            <div class="category-header category-ds">
+              <div class="cat-icon-wrapper">
+                <i data-lucide="bar-chart-3"></i>
+              </div>
+              <div class="cat-title-block">
+                <h3>Data Science &amp; Insights</h3>
+                <span class="cat-count" id="count-ds">0 new</span>
+              </div>
+            </div>
+            <div class="cards-stack" id="stack-ds">
+              <!-- Cards will be injected dynamically -->
+            </div>
+          </div>
+
+          <!-- Category 3: AI & Agentic Developer Tools -->
+          <div class="category-column" data-cat="AI & Agentic Developer Tools">
+            <div class="category-header category-ai">
+              <div class="cat-icon-wrapper">
+                <i data-lucide="cpu"></i>
+              </div>
+              <div class="cat-title-block">
+                <h3>AI &amp; Agentic Tools</h3>
+                <span class="cat-count" id="count-ai">0 new</span>
+              </div>
+            </div>
+            <div class="cards-stack" id="stack-ai">
+              <!-- Cards will be injected dynamically -->
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- View Wrapper: History / Search View -->
+      <section id="view-history" class="content-view">
+        <div class="view-header">
+          <h2 class="date-title">Historical Database</h2>
+          <span class="history-count" id="history-total-count">0 items total</span>
+        </div>
+        
+        <div class="history-filters glass-panel">
+          <div class="filter-group">
+            <label>Category Filter:</label>
+            <select id="filter-category">
+              <option value="all">All Categories</option>
+              <option value="R Packages & Tools">R Packages & Tools</option>
+              <option value="Data Science & Reporting">Data Science & Insights</option>
+              <option value="AI & Agentic Developer Tools">AI & Agentic Tools</option>
+            </select>
+          </div>
+          <div class="filter-group">
+            <label>Status:</label>
+            <select id="filter-read-status">
+              <option value="all">All Statuses</option>
+              <option value="unread">Unread Only</option>
+              <option value="read">Read Only</option>
+            </select>
+          </div>
+          <button id="btn-mark-all-read" class="action-btn-secondary">
+            <i data-lucide="check-check"></i> Mark All as Read
+          </button>
+        </div>
+
+        <div id="history-cards-grid" class="history-grid">
+          <!-- Historical cards injected dynamically -->
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

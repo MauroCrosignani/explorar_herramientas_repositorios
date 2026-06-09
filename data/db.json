@@ -14,7 +14,9 @@
     "quarto",
     "dplyr",
     "tidymodels",
-    "llm"
+    "llm",
+    "visualization",
+    "statistics"
   ],
   "historical_items": [
     {
@@ -717,9 +719,110 @@
       "score": 13.5,
       "read": false,
       "id": "item_1780971433"
+    },
+    {
+      "title": "Behavior-Driven Development in R Shiny: Asserting Outcomes with Then Steps",
+      "url": "https://www.r-bloggers.com/2026/05/behavior-driven-development-in-r-shiny-asserting-outcomes-with-then-steps/",
+      "summary": "Learn how to write Then steps that assert outcomes without coupling to implementation. Build custom testthat expectations and keep your BDD assertions at the right level.\nContinue reading: Behavior...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-09",
+      "tags": [
+        "shiny"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1781046477"
+    },
+    {
+      "title": "R Weekly 2025-W33 Wrote this talk with an LLM, What’s R vector, quarto R package v1.5.0",
+      "url": "https://rweekly.org/2025-W33.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-09",
+      "tags": [
+        "quarto",
+        "llm"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1781046478"
+    },
+    {
+      "title": "franng95/r-statistics (0 stars)",
+      "url": "https://github.com/franng95/r-statistics",
+      "summary": "R statistics coursework analysing maternal smoking and infant birth weight with hypothesis testing and visualizations.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-09",
+      "tags": [
+        "visualization",
+        "statistics"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1781046479"
+    },
+    {
+      "title": "arthurpmotta02/flc-survival-analysis (0 stars)",
+      "url": "https://github.com/arthurpmotta02/flc-survival-analysis",
+      "summary": "Survival analysis of serum free light chain (FLC) and all-cause mortality in adults 50+ | Kaplan-Meier · Nelson-Aalen · Cox model · Parametric AFT (generalized gamma) | R + Quarto",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-09",
+      "tags": [
+        "quarto",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1781046480"
+    },
+    {
+      "title": "zhouguoqing/QianYuan.AIAgenticFramework (17 stars)",
+      "url": "https://github.com/zhouguoqing/QianYuan.AIAgenticFramework",
+      "summary": "一个用 C# .NET 10 写的 Agentic 框架，采用 ReAct 范式，支持渐进式技能 (Skill) 加载、 多个大模型 Provider、MCP Server、图像识别、流式 WebAPI、React WebUI、钉钉集成。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-09",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1781046481"
+    },
+    {
+      "title": "terraincognita07/pcloud-mcp (4 stars)",
+      "url": "https://github.com/terraincognita07/pcloud-mcp",
+      "summary": "Hardened Model Context Protocol (MCP) server for pCloud, in Go. Path-traversal-proof downloads, OAuth-only auth, single static binary.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-09",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1781046482"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-09",
+      "editorial_summary": "Briefing compiled on June 09, 2026. Today's selection highlights new R packages and features like Behavior-Driven Development in R Shiny: Asserting Outcomes with Then Steps, R Weekly 2025-W33 Wrote this talk with an LLM, What’s R vector, quarto R package v1.5.0 and explores cutting-edge AI integrations including zhouguoqing/QianYuan.AIAgenticFramework (17 stars), terraincognita07/pcloud-mcp (4 stars).",
+      "items": [
+        "item_1781046477",
+        "item_1781046478",
+        "item_1781046479",
+        "item_1781046480",
+        "item_1781046481",
+        "item_1781046482"
+      ]
+    },
     {
       "date": "2026-06-08",
       "editorial_summary": "Briefing compiled on June 08, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W41 Ducklake, Slidecrafting, Shiny & LLMs, R Weekly 2025-W40 Ducklake, Slidecrafting, Shiny & LLMs and explores cutting-edge AI integrations including achuthprince004/deepresearch-mcp (2 stars), anilcancakir/laravel-agent-mcp (5 stars).",

@@ -16,7 +16,8 @@
     "tidymodels",
     "llm",
     "visualization",
-    "statistics"
+    "statistics",
+    "sf"
   ],
   "historical_items": [
     {
@@ -808,9 +809,109 @@
       "score": 13.0,
       "read": false,
       "id": "item_1781046482"
+    },
+    {
+      "title": "Behavior-Driven Development in R Shiny: Modeling User Behavior with When Steps",
+      "url": "https://www.r-bloggers.com/2026/05/behavior-driven-development-in-r-shiny-modeling-user-behavior-with-when-steps/",
+      "summary": "Learn how to write When steps that describe user actions without leaking implementation details. Build a clean DSL that survives UI refactors and keeps specifications readable.\nContinue reading: Be...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-10",
+      "tags": [
+        "shiny",
+        "ai"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1781133467"
+    },
+    {
+      "title": "arthurpmotta02/co2-mauna-loa-sarima (0 stars)",
+      "url": "https://github.com/arthurpmotta02/co2-mauna-loa-sarima",
+      "summary": "Análise SARIMA da série de CO₂ atmosférico de Mauna Loa (1959–1997): identificação, ajuste, diagnóstico de resíduos e previsão para 1998–1999.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-10",
+      "tags": [
+        "sf"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1781133468"
+    },
+    {
+      "title": "ValentineDube/nike-brand-intelligence (0 stars)",
+      "url": "https://github.com/ValentineDube/nike-brand-intelligence",
+      "summary": "End-to-end NLP & sentiment analysis of Nike customer voice data (R / tidytext). Topic modeling, TF-IDF, competitive analysis, and strategic recommendations.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-10",
+      "tags": [
+        "general"
+      ],
+      "score": 6,
+      "read": false,
+      "id": "item_1781133469"
+    },
+    {
+      "title": "EKOURAOGO/Regression-pls-nipals (1 stars)",
+      "url": "https://github.com/EKOURAOGO/Regression-pls-nipals",
+      "summary": "Régression PLS-NIPALS en R - élection présidentielle 2022, réduction de dimensionnalité, validation croisée",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-10",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1781133470"
+    },
+    {
+      "title": "4dhxm/codex-mcp-server (4 stars)",
+      "url": "https://github.com/4dhxm/codex-mcp-server",
+      "summary": "Model Context Protocol (MCP) server for programmatic integration with OpenAI Codex agent threads, tasks, and history.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-10",
+      "tags": [
+        "mcp",
+        "codex",
+        "ai"
+      ],
+      "score": 23.5,
+      "read": false,
+      "id": "item_1781133471"
+    },
+    {
+      "title": "herr-schulz/antigravity-clickup-mcp (2 stars)",
+      "url": "https://github.com/herr-schulz/antigravity-clickup-mcp",
+      "summary": "ClickUp MCP Bridge for Google Antigravity & Gemini Code Assist - A platform-independent Model Context Protocol (MCP) bridge connecting Google Antigravity IDE & Gemini Code Assist to ClickUp tasks, ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-10",
+      "tags": [
+        "mcp",
+        "antigravity"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1781133472"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-10",
+      "editorial_summary": "Briefing compiled on June 10, 2026. Today's selection highlights new R packages and features like Behavior-Driven Development in R Shiny: Modeling User Behavior with When Steps, arthurpmotta02/co2-mauna-loa-sarima (0 stars) and explores cutting-edge AI integrations including 4dhxm/codex-mcp-server (4 stars), herr-schulz/antigravity-clickup-mcp (2 stars).",
+      "items": [
+        "item_1781133467",
+        "item_1781133468",
+        "item_1781133469",
+        "item_1781133470",
+        "item_1781133471",
+        "item_1781133472"
+      ]
+    },
     {
       "date": "2026-06-09",
       "editorial_summary": "Briefing compiled on June 09, 2026. Today's selection highlights new R packages and features like Behavior-Driven Development in R Shiny: Asserting Outcomes with Then Steps, R Weekly 2025-W33 Wrote this talk with an LLM, What’s R vector, quarto R package v1.5.0 and explores cutting-edge AI integrations including zhouguoqing/QianYuan.AIAgenticFramework (17 stars), terraincognita07/pcloud-mcp (4 stars).",

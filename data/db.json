@@ -17,7 +17,9 @@
     "llm",
     "visualization",
     "statistics",
-    "sf"
+    "sf",
+    "tidyverse",
+    "tutorial"
   ],
   "historical_items": [
     {
@@ -897,9 +899,107 @@
       "score": 17.0,
       "read": false,
       "id": "item_1781133472"
+    },
+    {
+      "title": "gaurigupta23/olist-customer-experience-prediction (0 stars)",
+      "url": "https://github.com/gaurigupta23/olist-customer-experience-prediction",
+      "summary": "Logistic regression + unsupervised clustering on 112K e-commerce orders to predict bad reviews. R · tidyverse · pROC · ggplot2",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-11",
+      "tags": [
+        "ggplot",
+        "tidyverse"
+      ],
+      "score": 5.5,
+      "read": false,
+      "id": "item_1781219572"
+    },
+    {
+      "title": "JaydenZhou0/Correlation-Coefficient-Visualizer (0 stars)",
+      "url": "https://github.com/JaydenZhou0/Correlation-Coefficient-Visualizer",
+      "summary": "Interactive Shiny app for visualizing Pearson correlation coefficient transformations",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-11",
+      "tags": [
+        "shiny",
+        "sf"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1781219573"
+    },
+    {
+      "title": "tavakohr/ars-learnr-tutorial (1 stars)",
+      "url": "https://github.com/tavakohr/ars-learnr-tutorial",
+      "summary": "Hands-on learnr tutorial covering CDISC Analysis Results Standard v1.0 — from annotated shells to ARM-TS JSON, with live exercises on real pharmaverse datasets.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-11",
+      "tags": [
+        "tutorial"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1781219574"
+    },
+    {
+      "title": "gosia-szkatula/MSc-Data-Analytics-coursework (0 stars)",
+      "url": "https://github.com/gosia-szkatula/MSc-Data-Analytics-coursework",
+      "summary": "A collection of coursework and assignments from my MSc in Data Analytics at the University of Brighton (2025/26). All work is my own, produced for academic purposes.  ",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-11",
+      "tags": [
+        "analytics"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1781219575"
+    },
+    {
+      "title": "zxc3334/mcp-cpp (7 stars)",
+      "url": "https://github.com/zxc3334/mcp-cpp",
+      "summary": " High-performance C++ implementation of Model Context Protocol (MCP),with multi-client session management, Streamable HTTP, and RAG tool routing",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-11",
+      "tags": [
+        "mcp"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1781219576"
+    },
+    {
+      "title": "diomonogatari/mcp-guard (2 stars)",
+      "url": "https://github.com/diomonogatari/mcp-guard",
+      "summary": "A Roslyn analyzer that catches prompt-injection and tool-poisoning in C# Model Context Protocol (MCP) server tool descriptions at build time. MCPGxxx diagnostics, code fixes, and a CI gate.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-11",
+      "tags": [
+        "mcp"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1781219577"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-11",
+      "editorial_summary": "Briefing compiled on June 11, 2026. Today's selection highlights new R packages and features like gaurigupta23/olist-customer-experience-prediction (0 stars), JaydenZhou0/Correlation-Coefficient-Visualizer (0 stars) and explores cutting-edge AI integrations including zxc3334/mcp-cpp (7 stars), diomonogatari/mcp-guard (2 stars).",
+      "items": [
+        "item_1781219572",
+        "item_1781219573",
+        "item_1781219574",
+        "item_1781219575",
+        "item_1781219576",
+        "item_1781219577"
+      ]
+    },
     {
       "date": "2026-06-10",
       "editorial_summary": "Briefing compiled on June 10, 2026. Today's selection highlights new R packages and features like Behavior-Driven Development in R Shiny: Modeling User Behavior with When Steps, arthurpmotta02/co2-mauna-loa-sarima (0 stars) and explores cutting-edge AI integrations including 4dhxm/codex-mcp-server (4 stars), herr-schulz/antigravity-clickup-mcp (2 stars).",

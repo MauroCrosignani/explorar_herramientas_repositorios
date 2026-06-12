@@ -985,9 +985,109 @@
       "score": 12.5,
       "read": false,
       "id": "item_1781219577"
+    },
+    {
+      "title": "New CRAN Packages: signal or noise?",
+      "url": "https://www.r-bloggers.com/2026/06/new-cran-packages-signal-or-noise/",
+      "summary": "If you are reading this post on R-bloggers, you will probably know that I have been publishing my selection of the “Top 40” new R packages on CRAN for quite some time. I did this first as part of m...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-12",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1781305547"
+    },
+    {
+      "title": "Kayterthesly/crypto-price-pipeline (0 stars)",
+      "url": "https://github.com/Kayterthesly/crypto-price-pipeline",
+      "summary": "Production-grade crypto price forecasting pipeline in R — DuckDB · ARIMA · Plumber REST API · Shiny Dashboard · Railway · GitHub Actions CI",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-12",
+      "tags": [
+        "shiny",
+        "ai",
+        "dashboard"
+      ],
+      "score": 2.5,
+      "read": false,
+      "id": "item_1781305548"
+    },
+    {
+      "title": "Rohith7022/dupont-analysis-r (0 stars)",
+      "url": "https://github.com/Rohith7022/dupont-analysis-r",
+      "summary": "Three-part DuPont Analysis project in R: asking the right questions, ETL pipeline, and full data analytic techniques applied to company financial statements. VCU FIRE 540.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-12",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1781305549"
+    },
+    {
+      "title": "ThePrince949/chicago-violent-crimes-analysis (0 stars)",
+      "url": "https://github.com/ThePrince949/chicago-violent-crimes-analysis",
+      "summary": "SQL, R, and Power BI analysis of Chicago violent crime trends",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-12",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1781305550"
+    },
+    {
+      "title": "claude-code-ai-anthropic/free-claude-code-ai-desktop-app (20 stars)",
+      "url": "https://github.com/claude-code-ai-anthropic/free-claude-code-ai-desktop-app",
+      "summary": "Free Claude Code Api desktop — claude ai free cli anthropic ai claude pro coding claude fable free agent terminal claude fable 5 assistant open source git integration mcp server free api key setup ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-12",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1781305551"
+    },
+    {
+      "title": "IvanMurzak/Godot-MCP (8 stars)",
+      "url": "https://github.com/IvanMurzak/Godot-MCP",
+      "summary": "Godot-MCP — Model Context Protocol (MCP) integration for the Godot Engine. AI tools for the Godot Editor in C#, with cloud connection to ai-game.dev. Apache-2.0.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-12",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1781305552"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-12",
+      "editorial_summary": "Briefing compiled on June 12, 2026. Today's selection highlights new R packages and features like New CRAN Packages: signal or noise?, Kayterthesly/crypto-price-pipeline (0 stars) and explores cutting-edge AI integrations including claude-code-ai-anthropic/free-claude-code-ai-desktop-app (20 stars), IvanMurzak/Godot-MCP (8 stars).",
+      "items": [
+        "item_1781305547",
+        "item_1781305548",
+        "item_1781305549",
+        "item_1781305550",
+        "item_1781305551",
+        "item_1781305552"
+      ]
+    },
     {
       "date": "2026-06-11",
       "editorial_summary": "Briefing compiled on June 11, 2026. Today's selection highlights new R packages and features like gaurigupta23/olist-customer-experience-prediction (0 stars), JaydenZhou0/Correlation-Coefficient-Visualizer (0 stars) and explores cutting-edge AI integrations including zxc3334/mcp-cpp (7 stars), diomonogatari/mcp-guard (2 stars).",

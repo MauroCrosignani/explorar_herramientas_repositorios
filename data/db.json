@@ -1073,9 +1073,107 @@
       "score": 12.0,
       "read": false,
       "id": "item_1781305552"
+    },
+    {
+      "title": "Repost: ctrlvee: Extract external R code and insert inline",
+      "url": "https://www.r-bloggers.com/2026/05/repost-ctrlvee-extract-external-r-code-and-insert-inline/",
+      "summary": "Reposted from the original at https://blog.stephenturner.us/p/ctrlvee-extract-external-r-code-insert-inline-positron-rstudio-addin. Ever find yourself looking through a pkgdown page or a Quarto\nboo...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-13",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1781391125"
+    },
+    {
+      "title": "R Weekly 2026-W21 15 Years of rOpenSci, Durations of wars, and R-squared",
+      "url": "https://rweekly.org/2026-W21.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by , with help from the R Weekly team members and contributors.\n\nHighlight\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-13",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1781391126"
+    },
+    {
+      "title": "Rohith7022/forensic-financial-analysis (0 stars)",
+      "url": "https://github.com/Rohith7022/forensic-financial-analysis",
+      "summary": "Forensic financial analytics on the Deloitte Bags Medical Devices commission fraud case. Pattern detection and data-driven fraud investigation in R. VCU FIRE 540.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-13",
+      "tags": [
+        "analytics"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1781391127"
+    },
+    {
+      "title": "syeedsyedasif-maker/hgsoc-pipeline-public (1 stars)",
+      "url": "https://github.com/syeedsyedasif-maker/hgsoc-pipeline-public",
+      "summary": "Reproducible, simulation-validated bioinformatics pipeline for studying cisplatin resistance in high-grade serous ovarian cancer (scRNA-seq, deconvolution, spatial).",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-13",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1781391128"
+    },
+    {
+      "title": "CatbirdBulwark/claude-mcp-gateway-server (2 stars)",
+      "url": "https://github.com/CatbirdBulwark/claude-mcp-gateway-server",
+      "summary": "High-performance Model Context Protocol (MCP) server gateway for Claude Pro. Seamlessly bridges Claude Web UI with local environments, file systems, and secure execution layers.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-13",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1781391129"
+    },
+    {
+      "title": "runapi-ai/mcp (12 stars)",
+      "url": "https://github.com/runapi-ai/mcp",
+      "summary": "RunAPI MCP server for model discovery, pricing lookup, task creation, and LLM chat.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-13",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1781391130"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-13",
+      "editorial_summary": "Briefing compiled on June 13, 2026. Today's selection highlights new R packages and features like Repost: ctrlvee: Extract external R code and insert inline, R Weekly 2026-W21 15 Years of rOpenSci, Durations of wars, and R-squared and explores cutting-edge AI integrations including CatbirdBulwark/claude-mcp-gateway-server (2 stars), runapi-ai/mcp (12 stars).",
+      "items": [
+        "item_1781391125",
+        "item_1781391126",
+        "item_1781391127",
+        "item_1781391128",
+        "item_1781391129",
+        "item_1781391130"
+      ]
+    },
     {
       "date": "2026-06-12",
       "editorial_summary": "Briefing compiled on June 12, 2026. Today's selection highlights new R packages and features like New CRAN Packages: signal or noise?, Kayterthesly/crypto-price-pipeline (0 stars) and explores cutting-edge AI integrations including claude-code-ai-anthropic/free-claude-code-ai-desktop-app (20 stars), IvanMurzak/Godot-MCP (8 stars).",

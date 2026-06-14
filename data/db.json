@@ -1159,9 +1159,109 @@
       "score": 12.5,
       "read": false,
       "id": "item_1781391130"
+    },
+    {
+      "title": "R Weekly 2026-W20 S at 50, targets vs dbt",
+      "url": "https://rweekly.org/2026-W20.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-14",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1781477870"
+    },
+    {
+      "title": "R Weekly 2026-W18 logrittr, Working smarter, Generating universes",
+      "url": "https://rweekly.org/2026-W18.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-14",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1781477871"
+    },
+    {
+      "title": "FilippoMariaIncecchi/EuroRegions_Spatial_Dashboard (0 stars)",
+      "url": "https://github.com/FilippoMariaIncecchi/EuroRegions_Spatial_Dashboard",
+      "summary": "Interactive R Shiny dashboard for exploratory spatial data analysis of 234 EU-27 NUTS-2 regions with Eurostat data. Switchable spatial weights (queen, KNN, distance band), LISA clusters, Getis-Ord ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-14",
+      "tags": [
+        "shiny",
+        "ai",
+        "dashboard"
+      ],
+      "score": 7.5,
+      "read": false,
+      "id": "item_1781477872"
+    },
+    {
+      "title": "uyoz/healthcare-ai-acceptance-meta-analysis (0 stars)",
+      "url": "https://github.com/uyoz/healthcare-ai-acceptance-meta-analysis",
+      "summary": "R code for a multilevel random-effects meta-analysis of standardised beta/path coefficients (UTAUT/TAM determinants of healthcare AI acceptance), with cluster-robust (CR2) inference and automated w...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-14",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1781477873"
+    },
+    {
+      "title": "pueraeternis/agentic-banking-mcp-demo (2 stars)",
+      "url": "https://github.com/pueraeternis/agentic-banking-mcp-demo",
+      "summary": "Демонстрационный проект для вебинара «Архитектура AI-агентов и паттерны интеграции». Практическая реализация ReAct-агента в банковском домене с использованием протокола MCP (Model Context Protocol)...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-14",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1781477874"
+    },
+    {
+      "title": "GBHBY/prompt-cache-deapseak (2 stars)",
+      "url": "https://github.com/GBHBY/prompt-cache-deapseak",
+      "summary": "An MCP (Model Context Protocol) server that helps you save money on LLM API calls by optimizing prompt cache hit rates. It works with any LLM provider that supports prompt caching — DeepSeek, Anthr...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-14",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 14.0,
+      "read": false,
+      "id": "item_1781477875"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-14",
+      "editorial_summary": "Briefing compiled on June 14, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W20 S at 50, targets vs dbt, R Weekly 2026-W18 logrittr, Working smarter, Generating universes and explores cutting-edge AI integrations including pueraeternis/agentic-banking-mcp-demo (2 stars), GBHBY/prompt-cache-deapseak (2 stars).",
+      "items": [
+        "item_1781477870",
+        "item_1781477871",
+        "item_1781477872",
+        "item_1781477873",
+        "item_1781477874",
+        "item_1781477875"
+      ]
+    },
     {
       "date": "2026-06-13",
       "editorial_summary": "Briefing compiled on June 13, 2026. Today's selection highlights new R packages and features like Repost: ctrlvee: Extract external R code and insert inline, R Weekly 2026-W21 15 Years of rOpenSci, Durations of wars, and R-squared and explores cutting-edge AI integrations including CatbirdBulwark/claude-mcp-gateway-server (2 stars), runapi-ai/mcp (12 stars).",

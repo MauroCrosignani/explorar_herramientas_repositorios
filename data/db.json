@@ -1247,9 +1247,107 @@
       "score": 14.0,
       "read": false,
       "id": "item_1781477875"
+    },
+    {
+      "title": "armadillo4r 1.0.0 is on CRAN",
+      "url": "https://www.r-bloggers.com/2026/06/armadillo4r-1-0-0-is-on-cran/",
+      "summary": "armadillo 1.0.0 brings enhanced sparse matrix support, reduced dependencies, and comprehensive cross-platform testing.\nContinue reading: armadillo4r 1.0.0 is on CRAN",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-15",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1781566088"
+    },
+    {
+      "title": "New Package Submission Process",
+      "url": "https://www.r-bloggers.com/2026/06/new-package-submission-process/",
+      "summary": "Introduction\nBioconductor is moving towards using R-universe for its daily build system. See our previous blog post Collaborating between Bioconductor and R-universe on Development of Common Infras...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-15",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1781566089"
+    },
+    {
+      "title": "dulfanechikkattil/Supermarket-Sales-Analysis-R (0 stars)",
+      "url": "https://github.com/dulfanechikkattil/Supermarket-Sales-Analysis-R",
+      "summary": "Supermarket Sales Analysis using R with Data Cleaning, EDA, Visualization and Regression Modeling",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-15",
+      "tags": [
+        "visualization"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1781566090"
+    },
+    {
+      "title": "Adem-jlassi/world_happiness_analysis (1 stars)",
+      "url": "https://github.com/Adem-jlassi/world_happiness_analysis",
+      "summary": "Statistical analysis of the World Happiness Report using regression, PCA, ANOVA, clustering, and data visualization in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-15",
+      "tags": [
+        "visualization"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1781566091"
+    },
+    {
+      "title": "vmikhailov/code-explorer (2 stars)",
+      "url": "https://github.com/vmikhailov/code-explorer",
+      "summary": "Ontology-driven codebase indexer and query service. Parses C#, TypeScript/JS, Go, Python, and SQL into a Memgraph graph database. Exposes Model Context Protocol (MCP) tools for AI agents to perform...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-15",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1781566092"
+    },
+    {
+      "title": "MenokoOG/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/MenokoOG/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-15",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1781566093"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-15",
+      "editorial_summary": "Briefing compiled on June 15, 2026. Today's selection highlights new R packages and features like armadillo4r 1.0.0 is on CRAN, New Package Submission Process and explores cutting-edge AI integrations including vmikhailov/code-explorer (2 stars), MenokoOG/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1781566088",
+        "item_1781566089",
+        "item_1781566090",
+        "item_1781566091",
+        "item_1781566092",
+        "item_1781566093"
+      ]
+    },
     {
       "date": "2026-06-14",
       "editorial_summary": "Briefing compiled on June 14, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W20 S at 50, targets vs dbt, R Weekly 2026-W18 logrittr, Working smarter, Generating universes and explores cutting-edge AI integrations including pueraeternis/agentic-banking-mcp-demo (2 stars), GBHBY/prompt-cache-deapseak (2 stars).",

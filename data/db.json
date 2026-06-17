@@ -1418,9 +1418,107 @@
       "score": 13.0,
       "read": false,
       "id": "item_1781651796"
+    },
+    {
+      "title": "Bioconductor-centric hackathon on spatial omics and image-derived data",
+      "url": "https://www.r-bloggers.com/2026/06/bioconductor-centric-hackathon-on-spatial-omics-and-image-derived-data/",
+      "summary": "A Bioconductor-centric hackathon dedicated to spatial omics was organized by members of the Bioconductor community – Davide Risso (University of Padua, Italy), Helena Crowell (CNAG Barcelona, Spain...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-17",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1781738069"
+    },
+    {
+      "title": "R Weekly 2026-W15 dataviewR difftastic R-universe",
+      "url": "https://rweekly.org/2026-W15.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\n\nH...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-17",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1781738070"
+    },
+    {
+      "title": "armanesh/diabetes-risk-r-analysis (0 stars)",
+      "url": "https://github.com/armanesh/diabetes-risk-r-analysis",
+      "summary": "Statistical analysis in R: ANOVA and chi-squared hypothesis tests plus multinomial logistic regression on CDC BRFSS diabetes survey data, with R Markdown reporting",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-17",
+      "tags": [
+        "general"
+      ],
+      "score": 11,
+      "read": false,
+      "id": "item_1781738071"
+    },
+    {
+      "title": "PatrickB-cpu/bayesian-used-car-price-modeling (0 stars)",
+      "url": "https://github.com/PatrickB-cpu/bayesian-used-car-price-modeling",
+      "summary": "Bayesian regression analysis of used-car prices using Gibbs sampling, posterior inference, credible intervals, and predictive uncertainty quantification in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-17",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1781738072"
+    },
+    {
+      "title": "SheikhSheave/Claude-Code-CLI-Reference (211 stars)",
+      "url": "https://github.com/SheikhSheave/Claude-Code-CLI-Reference",
+      "summary": "claude code cli install codex github anthropic agentic coding system terminal assistant codebase git workflows multi file editing mcp protocol model context protocol subagents automation ci cd inte...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-17",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1781738073"
+    },
+    {
+      "title": "AVGMACANN/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/AVGMACANN/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-17",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1781738074"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-17",
+      "editorial_summary": "Briefing compiled on June 17, 2026. Today's selection highlights new R packages and features like Bioconductor-centric hackathon on spatial omics and image-derived data, R Weekly 2026-W15 dataviewR difftastic R-universe and explores cutting-edge AI integrations including SheikhSheave/Claude-Code-CLI-Reference (211 stars), AVGMACANN/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1781738069",
+        "item_1781738070",
+        "item_1781738071",
+        "item_1781738072",
+        "item_1781738073",
+        "item_1781738074"
+      ]
+    },
     {
       "date": "2026-06-16",
       "editorial_summary": "Briefing compiled on June 16, 2026. Today's selection highlights new R packages and features like Bioconductor Maintainer Validation, hydrostat/hydrostat-data-explorer (1 stars) and explores cutting-edge AI integrations including madebyearth/teamstorm-mcp-server (2 stars), memyselfandaiandai/mcp-scanner (1 stars).",

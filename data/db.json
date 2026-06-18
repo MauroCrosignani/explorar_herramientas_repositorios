@@ -1504,9 +1504,110 @@
       "score": 13.5,
       "read": false,
       "id": "item_1781738074"
+    },
+    {
+      "title": "Announcing shiny.webawesome: a web UI package for R/Shiny",
+      "url": "https://www.r-bloggers.com/2026/06/announcing-shiny-webawesome-a-web-ui-package-for-r-shiny/",
+      "summary": "shiny.webawesome brings Web Awesome to R Shiny through generated wrappers, reactive bindings, and a bundled runtime. It aims for complete component support while staying close enough to upstream th...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-18",
+      "tags": [
+        "shiny",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1781825243"
+    },
+    {
+      "title": "New CRAN Package for sparse PCA – msPCA",
+      "url": "https://www.r-bloggers.com/2026/06/new-cran-package-for-sparse-pca-mspca/",
+      "summary": "The package msPCA is now available on CRAN! \nIt implements a new method for computing multiple sparse principal components of a dataset. Unlike other available packages, it generates PCs that are s...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-18",
+      "tags": [
+        "cran",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1781825244"
+    },
+    {
+      "title": "EKOURAOGO/structural-equation-modeling (1 stars)",
+      "url": "https://github.com/EKOURAOGO/structural-equation-modeling",
+      "summary": "Modèles à équations structurelles en R - PLS-PM, LISREL, lavaan, RFPC sur données ECSI téléphonie mobile",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-18",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1781825245"
+    },
+    {
+      "title": "Supermarauder/distribution-demand-forecasting (0 stars)",
+      "url": "https://github.com/Supermarauder/distribution-demand-forecasting",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-18",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1781825246"
+    },
+    {
+      "title": "aethexai/aethexai-mcp (2 stars)",
+      "url": "https://github.com/aethexai/aethexai-mcp",
+      "summary": "Model Context Protocol (MCP) server for the Aethex voice-AI platform",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-18",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1781825247"
+    },
+    {
+      "title": "sandbanks/agentic_ssh (2 stars)",
+      "url": "https://github.com/sandbanks/agentic_ssh",
+      "summary": "`agentic_ssh` is a Model Context Protocol (MCP) server written in Rust that simplifies SSH access for AI agents.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-18",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1781825248"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-18",
+      "editorial_summary": "Briefing compiled on June 18, 2026. Today's selection highlights new R packages and features like Announcing shiny.webawesome: a web UI package for R/Shiny, New CRAN Package for sparse PCA – msPCA and explores cutting-edge AI integrations including aethexai/aethexai-mcp (2 stars), sandbanks/agentic_ssh (2 stars).",
+      "items": [
+        "item_1781825243",
+        "item_1781825244",
+        "item_1781825245",
+        "item_1781825246",
+        "item_1781825247",
+        "item_1781825248"
+      ]
+    },
     {
       "date": "2026-06-17",
       "editorial_summary": "Briefing compiled on June 17, 2026. Today's selection highlights new R packages and features like Bioconductor-centric hackathon on spatial omics and image-derived data, R Weekly 2026-W15 dataviewR difftastic R-universe and explores cutting-edge AI integrations including SheikhSheave/Claude-Code-CLI-Reference (211 stars), AVGMACANN/skills-integrate-mcp-with-copilot (1 stars).",

@@ -1593,9 +1593,108 @@
       "score": 13.5,
       "read": false,
       "id": "item_1781825248"
+    },
+    {
+      "title": "2026 Rousseeuw Prize for Statistics Awarded to R Core Team for Transforming Statistics Computing Worldwide",
+      "url": "https://www.r-bloggers.com/2026/06/2026-rousseeuw-prize-for-statistics-awarded-to-r-core-team-for-transforming-statistics-computing-worldwide/",
+      "summary": "The Rousseeuw Prize honors five pioneering developers for nearly three decades of unpaid work building R, the foundational open-source computing language behind artificial intelligence, healthcare,...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-19",
+      "tags": [
+        "sf",
+        "ai",
+        "statistics"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1781908920"
+    },
+    {
+      "title": "{talib}: Interactive financial charts",
+      "url": "https://www.r-bloggers.com/2026/06/talib-interactive-financial-charts/",
+      "summary": "{talib} is a new R package built on TA-Lib, which is now available on CRAN. The R-package is targeted at individuals and, perhaps, institutions who, in some form or the other, interacts with the fi...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-19",
+      "tags": [
+        "cran",
+        "ai"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1781908921"
+    },
+    {
+      "title": "cortesju/geography-of-noise-la (0 stars)",
+      "url": "https://github.com/cortesju/geography-of-noise-la",
+      "summary": "Spatial econometrics analysis of 311 noise complaints in Los Angeles - Global Morans I, LISA clusters, and OLS/SLM/SEM regression models using ACS and CDC SVI data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-19",
+      "tags": [
+        "ai"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1781908922"
+    },
+    {
+      "title": "jiweichen28-web/01_GEO-CRC-GSE50760 (1 stars)",
+      "url": "https://github.com/jiweichen28-web/01_GEO-CRC-GSE50760",
+      "summary": "Bulk RNA-seq analysis of colorectal cancer (GSE50760): QC, differential expression (limma), and GO/KEGG/GSEA enrichment in R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-19",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1781908923"
+    },
+    {
+      "title": "SKrger/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/SKrger/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-19",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1781908924"
+    },
+    {
+      "title": "firas-mcp-servers/gitlab-mcp (1 stars)",
+      "url": "https://github.com/firas-mcp-servers/gitlab-mcp",
+      "summary": "Full-featured Model Context Protocol (MCP) server for the GitLab API",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-19",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1781908925"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-19",
+      "editorial_summary": "Briefing compiled on June 19, 2026. Today's selection highlights new R packages and features like 2026 Rousseeuw Prize for Statistics Awarded to R Core Team for Transforming Statistics Computing Worldwide, {talib}: Interactive financial charts and explores cutting-edge AI integrations including SKrger/skills-integrate-mcp-with-copilot (1 stars), firas-mcp-servers/gitlab-mcp (1 stars).",
+      "items": [
+        "item_1781908920",
+        "item_1781908921",
+        "item_1781908922",
+        "item_1781908923",
+        "item_1781908924",
+        "item_1781908925"
+      ]
+    },
     {
       "date": "2026-06-18",
       "editorial_summary": "Briefing compiled on June 18, 2026. Today's selection highlights new R packages and features like Announcing shiny.webawesome: a web UI package for R/Shiny, New CRAN Package for sparse PCA – msPCA and explores cutting-edge AI integrations including aethexai/aethexai-mcp (2 stars), sandbanks/agentic_ssh (2 stars).",

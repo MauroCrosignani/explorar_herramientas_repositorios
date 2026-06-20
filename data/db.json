@@ -1680,9 +1680,108 @@
       "score": 13.5,
       "read": false,
       "id": "item_1781908925"
+    },
+    {
+      "title": "PCA in R: Principal Component Analysis Step-by-Step (prcomp + ggplot2)",
+      "url": "https://www.r-bloggers.com/2026/06/pca-in-r-principal-component-analysis-step-by-step-prcomp-ggplot2/",
+      "summary": "How to Perform PCA in R: A Step-by-Step Tutorial Using prcomp()\nTo perform PCA in R, use the built-in prcomp() function: pca  1), or a cumulative variance threshold — this tutorial shows all three ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-20",
+      "tags": [
+        "ggplot",
+        "tutorial"
+      ],
+      "score": 9.0,
+      "read": false,
+      "id": "item_1781996165"
+    },
+    {
+      "title": "EuroBioC2026 conference recap",
+      "url": "https://www.r-bloggers.com/2026/06/eurobioc2026-conference-recap/",
+      "summary": "The European Bioconductor Conference 2026 (EuroBioC2026) took place from June 3-5, 2026, in Turku, Finland. Hosted by the University of Turku and the Finnish Society for Bioinformatics at BioCity, ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-20",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1781996166"
+    },
+    {
+      "title": "Binta123-prog/Predictive-Performance-Count-Regression-ML (0 stars)",
+      "url": "https://github.com/Binta123-prog/Predictive-Performance-Count-Regression-ML",
+      "summary": "M.Sc. Statistics Dissertation: A Comparative Study on Predictive Performance of Some Advanced Count Regression Models and Machine Learning Models",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-20",
+      "tags": [
+        "machine learning",
+        "statistics"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1781996167"
+    },
+    {
+      "title": "mkhdermani/iran-labor-market-analysis (0 stars)",
+      "url": "https://github.com/mkhdermani/iran-labor-market-analysis",
+      "summary": "Reproducible analysis of Iran's labor market from SCI Labour Force Survey micro-data (1384-1402 / ~2005-2024): participation, employment, and unemployment by gender and education.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-20",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1781996168"
+    },
+    {
+      "title": "vinkius-labs/regex-toolkit-mcp (3 stars)",
+      "url": "https://github.com/vinkius-labs/regex-toolkit-mcp",
+      "summary": "Vinkius Edge high-performance Model Context Protocol (MCP) server for evaluating and testing regular expressions.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-20",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1781996169"
+    },
+    {
+      "title": "aresyn/codex-control-plane-mcp (216 stars)",
+      "url": "https://github.com/aresyn/codex-control-plane-mcp",
+      "summary": "Durable MCP control plane for long-running Codex Desktop tasks",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-20",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1781996170"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-20",
+      "editorial_summary": "Briefing compiled on June 20, 2026. Today's selection highlights new R packages and features like PCA in R: Principal Component Analysis Step-by-Step (prcomp + ggplot2), EuroBioC2026 conference recap and explores cutting-edge AI integrations including vinkius-labs/regex-toolkit-mcp (3 stars), aresyn/codex-control-plane-mcp (216 stars).",
+      "items": [
+        "item_1781996165",
+        "item_1781996166",
+        "item_1781996167",
+        "item_1781996168",
+        "item_1781996169",
+        "item_1781996170"
+      ]
+    },
     {
       "date": "2026-06-19",
       "editorial_summary": "Briefing compiled on June 19, 2026. Today's selection highlights new R packages and features like 2026 Rousseeuw Prize for Statistics Awarded to R Core Team for Transforming Statistics Computing Worldwide, {talib}: Interactive financial charts and explores cutting-edge AI integrations including SKrger/skills-integrate-mcp-with-copilot (1 stars), firas-mcp-servers/gitlab-mcp (1 stars).",

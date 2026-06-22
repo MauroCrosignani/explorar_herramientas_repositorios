@@ -1855,9 +1855,110 @@
       "score": 13.5,
       "read": false,
       "id": "item_1782082675"
+    },
+    {
+      "title": "R Weekly 2026-W07 sitrep, webRios, Jarl linter",
+      "url": "https://rweekly.org/2026-W07.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782169820"
+    },
+    {
+      "title": "R Weekly 2026-W06 Interview, Practical git, duckdb",
+      "url": "https://rweekly.org/2026-W06.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contribut...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782169821"
+    },
+    {
+      "title": "MaimoonaHanan01/Probability-and-Statistics-Impact-of-various-factors-on-cgpa (0 stars)",
+      "url": "https://github.com/MaimoonaHanan01/Probability-and-Statistics-Impact-of-various-factors-on-cgpa",
+      "summary": "An R-based Multiple Linear Regression (MLR) analysis exploring the impact of behavioral, cognitive, and environmental factors (procrastination, focus span, and class attendance) on student CGPA at ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-22",
+      "tags": [
+        "ai",
+        "statistics"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1782169822"
+    },
+    {
+      "title": "kvenkita/mixqrgate (0 stars)",
+      "url": "https://github.com/kvenkita/mixqrgate",
+      "summary": "Location-varying gating for finite mixtures of quantile regressions in R: a concomitant, quantile-indexed multinomial-logit gate with classification-aware (Louis) standard errors. Companion to mixqr.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-22",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1782169823"
+    },
+    {
+      "title": "gregoire-costory/awesome-agentic-finops (19 stars)",
+      "url": "https://github.com/gregoire-costory/awesome-agentic-finops",
+      "summary": "A curated list of open-source and AI-native (MCP servers, assistant skills, AI cost agents) tooling for cloud cost management and FinOps.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-22",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1782169824"
+    },
+    {
+      "title": "sshahzaiib/agy-bridge (19 stars)",
+      "url": "https://github.com/sshahzaiib/agy-bridge",
+      "summary": "MCP bridge that lets Claude Code delegate heavy tasks to the Antigravity CLI (agy) — purpose-built tools, model routing with fallback, session continuity, and output truncation to save Claude's con...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-22",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1782169825"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-22",
+      "editorial_summary": "Briefing compiled on June 22, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W07 sitrep, webRios, Jarl linter, R Weekly 2026-W06 Interview, Practical git, duckdb and explores cutting-edge AI integrations including gregoire-costory/awesome-agentic-finops (19 stars), sshahzaiib/agy-bridge (19 stars).",
+      "items": [
+        "item_1782169820",
+        "item_1782169821",
+        "item_1782169822",
+        "item_1782169823",
+        "item_1782169824",
+        "item_1782169825"
+      ]
+    },
     {
       "date": "2026-06-21",
       "editorial_summary": "Briefing compiled on June 21, 2026. Today's selection highlights new R packages and features like lfmen/AEDFormula1 (1 stars), R Weekly 2026-W14 ggauto, alt text, scientific coffee and explores cutting-edge AI integrations including timo-reymann/mealie-mcp-server (3 stars), wakbijok/daimon-memory (13 stars).",

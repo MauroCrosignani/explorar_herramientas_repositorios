@@ -1944,9 +1944,106 @@
       "score": 11.5,
       "read": false,
       "id": "item_1782169825"
+    },
+    {
+      "title": "R Weekly 2025-W49 Custom GPS, testing, Tribal Councils",
+      "url": "https://rweekly.org/2025-W49.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\n\nH...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-23",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782255438"
+    },
+    {
+      "title": "R Weekly 2025-W47 Plots, Tables, Pipes",
+      "url": "https://rweekly.org/2025-W47.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Carroll, with help from the RWeekly team members and contributo...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-23",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782255439"
+    },
+    {
+      "title": "vladimirskirmant/california-1992-election-regression (0 stars)",
+      "url": "https://github.com/vladimirskirmant/california-1992-election-regression",
+      "summary": "Regression analysis of socioeconomic predictors of county-level voting behavior — model selection, cross-validation, and logistic regression in R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-23",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1782255440"
+    },
+    {
+      "title": "Mollykaa/Apple-Samsung-Product-Launch-Analysis (0 stars)",
+      "url": "https://github.com/Mollykaa/Apple-Samsung-Product-Launch-Analysis",
+      "summary": "Comparative analysis of Apple vs Samsung product launches and their impact on stock market performance | Event Study, Monte Carlo Simulation, R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-23",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1782255441"
+    },
+    {
+      "title": "HairdresserKnife/quickbooks-online-mcp-server-integration (4 stars)",
+      "url": "https://github.com/HairdresserKnife/quickbooks-online-mcp-server-integration",
+      "summary": "A Model Context Protocol server for QuickBooks Online that exposes QBO entities, reports, and CRUD operations as callable tools for MCP-compatible AI assistants. It supports OAuth 2.0 authenticatio...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-23",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 22.0,
+      "read": false,
+      "id": "item_1782255442"
+    },
+    {
+      "title": "Mistral AI : Le Mirage du SaaS et le Grand Pivot vers le Réel",
+      "url": "https://www.r-bloggers.com/2026/06/mistral-ai-le-mirage-du-saas-et-le-grand-pivot-vers-le-reel/",
+      "summary": "Le 16 juin 2026, Arthur Mensch, le patron emblématique de Mistral AI, a publié sur LinkedIn un message d’une rare solennité. Le discours officiel y célèbre, comme toujours, l’indépendance technolog...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-23",
+      "tags": [
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1782255443"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-23",
+      "editorial_summary": "Briefing compiled on June 23, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W49 Custom GPS, testing, Tribal Councils, R Weekly 2025-W47 Plots, Tables, Pipes and explores cutting-edge AI integrations including HairdresserKnife/quickbooks-online-mcp-server-integration (4 stars), Mistral AI : Le Mirage du SaaS et le Grand Pivot vers le Réel.",
+      "items": [
+        "item_1782255438",
+        "item_1782255439",
+        "item_1782255440",
+        "item_1782255441",
+        "item_1782255442",
+        "item_1782255443"
+      ]
+    },
     {
       "date": "2026-06-22",
       "editorial_summary": "Briefing compiled on June 22, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W07 sitrep, webRios, Jarl linter, R Weekly 2026-W06 Interview, Practical git, duckdb and explores cutting-edge AI integrations including gregoire-costory/awesome-agentic-finops (19 stars), sshahzaiib/agy-bridge (19 stars).",

@@ -2029,9 +2029,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1782255443"
+    },
+    {
+      "title": "Data for fitting models versus data for predicting from models",
+      "url": "https://www.r-bloggers.com/2026/06/data-for-fitting-models-versus-data-for-predicting-from-models/",
+      "summary": "Answering a question that came up from a student recently.\nSay you have 20 surveys of reef fish biomass at different locations. Then you also have gridded data with environmental covariates. The gr...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782341877"
+    },
+    {
+      "title": "Set Working Directory in R: setwd() & RStudio GUI Guide",
+      "url": "https://www.r-bloggers.com/2026/06/set-working-directory-in-r-setwd-rstudio-gui-guide/",
+      "summary": "Learn how to set your working directory in R using setwd() or the RStudio Session menu. Covers getwd(), Windows path errors, and the here() package for dissertation projects.\nRead More »\nContinue r...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782341878"
+    },
+    {
+      "title": "Sherry-Ali/TN-Breast-Cancer-scRNAseq-data-analysis (0 stars)",
+      "url": "https://github.com/Sherry-Ali/TN-Breast-Cancer-scRNAseq-data-analysis",
+      "summary": "Single‑cell RNA‑seq analysis of invasive ductal carcinoma using Galaxy and Seurat - a comparison of low‑ vs high‑throughput datasets from the same patient.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-24",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1782341879"
+    },
+    {
+      "title": "Flowcharts that belong in the analysis pipeline",
+      "url": "https://www.r-bloggers.com/2026/06/flowcharts-that-belong-in-the-analysis-pipeline/",
+      "summary": "Thanks to Alan Haynes and his excellent suggestions, I have spent some time improving the flowchart component of the Gmisc package. The result is not meant to be another decorative diagram tool. It...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-24",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1782341880"
+    },
+    {
+      "title": "badchars/darknet-mcp-server (33 stars)",
+      "url": "https://github.com/badchars/darknet-mcp-server",
+      "summary": "66-tool MCP server for dark web intelligence — breach data, ransomware tracking, Tor .onion access, malware analysis, blockchain intel, exploit search, stealer logs",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1782341881"
+    },
+    {
+      "title": "AI-XiaoDao/ai-browser-mcp (20 stars)",
+      "url": "https://github.com/AI-XiaoDao/ai-browser-mcp",
+      "summary": "AI浏览器 MCP Server — Windows 本地浏览器自动化 | 243 工具 | Cursor/Claude/Cline | Web Scraping · JS逆向 · CDP断点 · 指纹伪装 · 填表RPA | FBrowser CEF 内核 | MIT 开源",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1782341882"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-24",
+      "editorial_summary": "Briefing compiled on June 24, 2026. Today's selection highlights new R packages and features like Data for fitting models versus data for predicting from models, Set Working Directory in R: setwd() & RStudio GUI Guide and explores cutting-edge AI integrations including badchars/darknet-mcp-server (33 stars), AI-XiaoDao/ai-browser-mcp (20 stars).",
+      "items": [
+        "item_1782341877",
+        "item_1782341878",
+        "item_1782341879",
+        "item_1782341880",
+        "item_1782341881",
+        "item_1782341882"
+      ]
+    },
     {
       "date": "2026-06-23",
       "editorial_summary": "Briefing compiled on June 23, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W49 Custom GPS, testing, Tribal Councils, R Weekly 2025-W47 Plots, Tables, Pipes and explores cutting-edge AI integrations including HairdresserKnife/quickbooks-online-mcp-server-integration (4 stars), Mistral AI : Le Mirage du SaaS et le Grand Pivot vers le Réel.",

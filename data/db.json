@@ -2115,9 +2115,109 @@
       "score": 15.0,
       "read": false,
       "id": "item_1782341882"
+    },
+    {
+      "title": "jsf3467v/causal-inference-nhanes (0 stars)",
+      "url": "https://github.com/jsf3467v/causal-inference-nhanes",
+      "summary": "A causal inference study in NHANES estimating whether meeting the aerobic activity guideline lowers five-year mortality, with the effect stress-tested by falsification checks and an E-value.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-25",
+      "tags": [
+        "sf"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1782428740"
+    },
+    {
+      "title": "United Kingdom prime ministers by @ellis2013nz",
+      "url": "https://www.r-bloggers.com/2026/06/united-kingdom-prime-ministers-by-ellis2013nz/",
+      "summary": "With the recent resignation announcement from United Kingdom (UK) Prime Minister Keir Starmer, there have been a flurry of people talking about how many UK prime ministers there have been in the pa...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-25",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782428741"
+    },
+    {
+      "title": "malozano1-ux/gdp-macro-analysis (0 stars)",
+      "url": "https://github.com/malozano1-ux/gdp-macro-analysis",
+      "summary": "Multiple linear regression on macroeconomic drivers of U.S. nominal GDP — 241 monthly observations (2004–2024)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-25",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1782428742"
+    },
+    {
+      "title": "EFA vs CFA: Key Differences Between Exploratory & Confirmatory Factor Analysis (R)",
+      "url": "https://www.r-bloggers.com/2026/06/efa-vs-cfa-key-differences-between-exploratory-confirmatory-factor-analysis-r/",
+      "summary": "EFA explores unknown factor structures while CFA tests a predefined model. Compare both methods side by side with R code using psych and lavaan — know which to use in your dissertation.\nEFAEFA expl...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-25",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1782428743"
+    },
+    {
+      "title": "Scormave/gramps-web-mcp (4 stars)",
+      "url": "https://github.com/Scormave/gramps-web-mcp",
+      "summary": "MCP server for Gramps Web. Gives AI agents structured, tool-based access to family trees through the Model Context Protocol. Built with .NET 8.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-25",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1782428744"
+    },
+    {
+      "title": "ByteAsk/ByteAsk-Embedded-MCP (20 stars)",
+      "url": "https://github.com/ByteAsk/ByteAsk-Embedded-MCP",
+      "summary": "The open-source MCP server behind ByteAsk Embedded Docs: a source-grounded, page-cited evidence-retrieval server for coding agents (Claude Code, Codex, Cursor) that write firmware / driver / protoc...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-25",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1782428745"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-25",
+      "editorial_summary": "Briefing compiled on June 25, 2026. Today's selection highlights new R packages and features like jsf3467v/causal-inference-nhanes (0 stars), United Kingdom prime ministers by @ellis2013nz and explores cutting-edge AI integrations including Scormave/gramps-web-mcp (4 stars), ByteAsk/ByteAsk-Embedded-MCP (20 stars).",
+      "items": [
+        "item_1782428740",
+        "item_1782428741",
+        "item_1782428742",
+        "item_1782428743",
+        "item_1782428744",
+        "item_1782428745"
+      ]
+    },
     {
       "date": "2026-06-24",
       "editorial_summary": "Briefing compiled on June 24, 2026. Today's selection highlights new R packages and features like Data for fitting models versus data for predicting from models, Set Working Directory in R: setwd() & RStudio GUI Guide and explores cutting-edge AI integrations including badchars/darknet-mcp-server (33 stars), AI-XiaoDao/ai-browser-mcp (20 stars).",

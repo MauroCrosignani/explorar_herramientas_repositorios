@@ -2203,9 +2203,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1782428745"
+    },
+    {
+      "title": "Snapshot Testing in R: Beyond Screenshots",
+      "url": "https://www.r-bloggers.com/2026/06/snapshot-testing-in-r-beyond-screenshots/",
+      "summary": "Snapshot testing is not just for screenshots. Capture console output, logs, data frames, errors, and whole data structures. Practices that keep snapshot tests trustworthy instead of brittle.\n\n\nCont...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-26",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782514650"
+    },
+    {
+      "title": "TheseusPlot 0.3.0: Visualizing the Decomposition of Differences in Rate Metrics",
+      "url": "https://www.r-bloggers.com/2026/06/theseusplot-0-3-0-visualizing-the-decomposition-of-differences-in-rate-metrics/",
+      "summary": "TheseusPlot is an R package that decomposes differences in a rate metric between two groups into subgroup-level contributions and visualizes the results as a “Theseus Plot”.\nFor example, when a cli...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-26",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782514651"
+    },
+    {
+      "title": "stick function for the EDA in time series",
+      "url": "https://www.r-bloggers.com/2026/06/stick-function-for-the-eda-in-time-series/",
+      "summary": "You have probably seen my post about the STI classification of Hans Levenbach (this one). Well, I’ve decided to implement it, and it has landed in the greybox package for R/Python. What’s greybox? ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-26",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1782514652"
+    },
+    {
+      "title": "Meghanaguvvala53/Portfolio-Risk-Analyzer (0 stars)",
+      "url": "https://github.com/Meghanaguvvala53/Portfolio-Risk-Analyzer",
+      "summary": "Portfolio risk analysis: Sharpe ratio, VaR, CVaR, Monte Carlo simulation, correlation heatmap. Python + SQL (DuckDB) + R for statistical testing.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-26",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1782514653"
+    },
+    {
+      "title": "EASYHOME-DOORVERSE/dw-mcp-ai-permission-center (7 stars)",
+      "url": "https://github.com/EASYHOME-DOORVERSE/dw-mcp-ai-permission-center",
+      "summary": "基于 RBAC 的 MCP（Model Context Protocol）权限管理中心，为 AI 客户端提供动态工具列表与数据访问控制。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-26",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1782514654"
+    },
+    {
+      "title": "lexcodee/huaweicloud-mcp-server (4 stars)",
+      "url": "https://github.com/lexcodee/huaweicloud-mcp-server",
+      "summary": "A monorepo containing three Huawei Cloud MCP (Model Context Protocol) servers and a unified ASGI gateway that mounts them on a single port with JWT authentication.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-26",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1782514655"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-26",
+      "editorial_summary": "Briefing compiled on June 26, 2026. Today's selection highlights new R packages and features like Snapshot Testing in R: Beyond Screenshots, TheseusPlot 0.3.0: Visualizing the Decomposition of Differences in Rate Metrics and explores cutting-edge AI integrations including EASYHOME-DOORVERSE/dw-mcp-ai-permission-center (7 stars), lexcodee/huaweicloud-mcp-server (4 stars).",
+      "items": [
+        "item_1782514650",
+        "item_1782514651",
+        "item_1782514652",
+        "item_1782514653",
+        "item_1782514654",
+        "item_1782514655"
+      ]
+    },
     {
       "date": "2026-06-25",
       "editorial_summary": "Briefing compiled on June 25, 2026. Today's selection highlights new R packages and features like jsf3467v/causal-inference-nhanes (0 stars), United Kingdom prime ministers by @ellis2013nz and explores cutting-edge AI integrations including Scormave/gramps-web-mcp (4 stars), ByteAsk/ByteAsk-Embedded-MCP (20 stars).",

@@ -2289,9 +2289,77 @@
       "score": 15.0,
       "read": false,
       "id": "item_1782514655"
+    },
+    {
+      "title": "drenbuqa/credit-default-risk (0 stars)",
+      "url": "https://github.com/drenbuqa/credit-default-risk",
+      "summary": "End-to-end credit default risk analysis using R, Python, XGBoost, Databricks, and Tableau",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-27",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1782600676"
+    },
+    {
+      "title": "kadyb/user2026 (0 stars)",
+      "url": "https://github.com/kadyb/user2026",
+      "summary": "useR! 2026 Workshop: \"Introduction to spatial data science\"",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-27",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1782600677"
+    },
+    {
+      "title": "jemsbhai/mcp-edge (3 stars)",
+      "url": "https://github.com/jemsbhai/mcp-edge",
+      "summary": "Extend the Model Context Protocol (MCP) to edge and IoT devices: bridging gateway, MCP-Lite server, and a four-tier device taxonomy.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-27",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1782600678"
+    },
+    {
+      "title": "openfate-ai/bazi-mcp (61 stars)",
+      "url": "https://github.com/openfate-ai/bazi-mcp",
+      "summary": "OpenFate Bazi MCP server with deterministic Four Pillars calculation, True Solar Time, branch interactions, and reverse Bazi lookup.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-27",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 11.0,
+      "read": false,
+      "id": "item_1782600679"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-27",
+      "editorial_summary": "Briefing compiled on June 27, 2026. Today's selection explores cutting-edge AI integrations including jemsbhai/mcp-edge (3 stars), openfate-ai/bazi-mcp (61 stars).",
+      "items": [
+        "item_1782600676",
+        "item_1782600677",
+        "item_1782600678",
+        "item_1782600679"
+      ]
+    },
     {
       "date": "2026-06-26",
       "editorial_summary": "Briefing compiled on June 26, 2026. Today's selection highlights new R packages and features like Snapshot Testing in R: Beyond Screenshots, TheseusPlot 0.3.0: Visualizing the Decomposition of Differences in Rate Metrics and explores cutting-edge AI integrations including EASYHOME-DOORVERSE/dw-mcp-ai-permission-center (7 stars), lexcodee/huaweicloud-mcp-server (4 stars).",

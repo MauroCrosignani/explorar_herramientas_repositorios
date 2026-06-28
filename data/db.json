@@ -2347,9 +2347,92 @@
       "score": 11.0,
       "read": false,
       "id": "item_1782600679"
+    },
+    {
+      "title": "Long term economic growth rates by @ellis2013nz",
+      "url": "https://www.r-bloggers.com/2026/06/long-term-economic-growth-rates-by-ellis2013nz/",
+      "summary": "I came across a chart of long term real gross domestic product per capita for Australia (1900 to about 2020) that had a couple of mistakes in its y axis scale and labelling. I wanted to see for mys...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-28",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782687088"
+    },
+    {
+      "title": "hamdanali998/health-sem-analysis (0 stars)",
+      "url": "https://github.com/hamdanali998/health-sem-analysis",
+      "summary": "This repository include work on multiple datasets related to psychological effects on physical health, as well as secondary work of psychological effects on COVID protective behaviors",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-28",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1782687089"
+    },
+    {
+      "title": "DIVINE: a new R package for working with a real-world COVID-19 clinical cohort",
+      "url": "https://www.r-bloggers.com/2026/06/divine-a-new-r-package-for-working-with-a-real-world-covid-19-clinical-cohort/",
+      "summary": "Clinical data are rarely as clean, compact or convenient as the examples we often use when teaching statistics or R. Real hospital datasets are usually distributed across several tables, include mi...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-28",
+      "tags": [
+        "statistics"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1782687090"
+    },
+    {
+      "title": "Harzva/chatgpt2localbridge (60 stars)",
+      "url": "https://github.com/Harzva/chatgpt2localbridge",
+      "summary": "Codex/ChatGPT plugin app and OAuth MCP connector for approved local workspaces.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-28",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1782687091"
+    },
+    {
+      "title": "pranjalbhatia710/descartes-mcp (23 stars)",
+      "url": "https://github.com/pranjalbhatia710/descartes-mcp",
+      "summary": "Doubt, until what remains is certain. An MCP server that recursively doubts every plan decision — grounding each in real evidence or asking you — until it converges. Runs on Claude alone, no keys. ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-28",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1782687092"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-28",
+      "editorial_summary": "Briefing compiled on June 28, 2026. Today's selection highlights new R packages and features like Long term economic growth rates by @ellis2013nz and explores cutting-edge AI integrations including Harzva/chatgpt2localbridge (60 stars), pranjalbhatia710/descartes-mcp (23 stars).",
+      "items": [
+        "item_1782687088",
+        "item_1782687089",
+        "item_1782687090",
+        "item_1782687091",
+        "item_1782687092"
+      ]
+    },
     {
       "date": "2026-06-27",
       "editorial_summary": "Briefing compiled on June 27, 2026. Today's selection explores cutting-edge AI integrations including jemsbhai/mcp-edge (3 stars), openfate-ai/bazi-mcp (61 stars).",

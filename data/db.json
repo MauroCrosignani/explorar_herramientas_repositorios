@@ -2419,9 +2419,110 @@
       "score": 10.0,
       "read": false,
       "id": "item_1782687092"
+    },
+    {
+      "title": "Unlearning the Tidyverse",
+      "url": "https://www.r-bloggers.com/2026/06/unlearning-the-tidyverse/",
+      "summary": "Unlearning the Tidyverse R My motivation to unlearn the Tidyverse after eight years using it. Author Mauricio “Pachá” Vargas S. Published June 29, 2026 Why I have been working in a project with the...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-29",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1782773074"
+    },
+    {
+      "title": "YaoxiangLi/ggpower (0 stars)",
+      "url": "https://github.com/YaoxiangLi/ggpower",
+      "summary": "Publication-ready statistical power analysis, Shiny app, and ggplot2 visualizations",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-29",
+      "tags": [
+        "ggplot",
+        "shiny",
+        "visualization"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1782773075"
+    },
+    {
+      "title": "Machine learning meets reality: Forecast evaluation for the 2026 FIFA World Cup",
+      "url": "https://www.r-bloggers.com/2026/06/machine-learning-meets-reality-forecast-evaluation-for-the-2026-fifa-world-cup/",
+      "summary": "After all 72 matches of the group stage in the 2026 FIFA World Cup our probabilistic forecasts are evaluated, revealing what the machine learning algorithm predicted well and where it struggled.\n  ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-29",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1782773076"
+    },
+    {
+      "title": "NathanielLee-Blues/alpharing-sarscov2-validation (0 stars)",
+      "url": "https://github.com/NathanielLee-Blues/alpharing-sarscov2-validation",
+      "summary": "Reproducible MSc Genomics project evaluating AlphaRING v2 for SARS-CoV-2 spike missense variant classification using ROC/AUC analysis and SHAP interpretation.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-29",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1782773077"
+    },
+    {
+      "title": "YeamimHossainSajid/Mcp-Server-Java (3 stars)",
+      "url": "https://github.com/YeamimHossainSajid/Mcp-Server-Java",
+      "summary": "A high performance Model Context Protocol (MCP) server written in Java, enabling LLMs to securely query, parse, and interface with local markdown and text notes.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-29",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 19.5,
+      "read": false,
+      "id": "item_1782773078"
+    },
+    {
+      "title": "arslanmanzoorr/AISEOS (5 stars)",
+      "url": "https://github.com/arslanmanzoorr/AISEOS",
+      "summary": "Engineering OS — a suite of Model Context Protocol (MCP) servers that bring engineering discipline to AI coding assistants: dependency & version governance, hallucination detection, security/archit...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-29",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1782773079"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-29",
+      "editorial_summary": "Briefing compiled on June 29, 2026. Today's selection highlights new R packages and features like Unlearning the Tidyverse, YaoxiangLi/ggpower (0 stars) and explores cutting-edge AI integrations including YeamimHossainSajid/Mcp-Server-Java (3 stars), arslanmanzoorr/AISEOS (5 stars).",
+      "items": [
+        "item_1782773074",
+        "item_1782773075",
+        "item_1782773076",
+        "item_1782773077",
+        "item_1782773078",
+        "item_1782773079"
+      ]
+    },
     {
       "date": "2026-06-28",
       "editorial_summary": "Briefing compiled on June 28, 2026. Today's selection highlights new R packages and features like Long term economic growth rates by @ellis2013nz and explores cutting-edge AI integrations including Harzva/chatgpt2localbridge (60 stars), pranjalbhatia710/descartes-mcp (23 stars).",

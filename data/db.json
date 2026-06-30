@@ -2508,9 +2508,107 @@
       "score": 10.0,
       "read": false,
       "id": "item_1782773079"
+    },
+    {
+      "title": "May 2026 Top 40 New CRAN Packages",
+      "url": "https://www.r-bloggers.com/2026/06/may-2026-top-40-new-cran-packages/",
+      "summary": "Three hundred twenty-three of the new packages were submitted to CRAN in May. Here are my Top 40 picks in eighteen categories: Artificial Intelligence, Computational Methods, Ecology, Education, Fi...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-30",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1782860498"
+    },
+    {
+      "title": "cp1919 is on CRAN",
+      "url": "https://www.r-bloggers.com/2026/06/cp1919-is-on-cran/",
+      "summary": "Or how to plot a very famous album cover.\n\n\nContinue reading: cp1919 is on CRAN",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-06-30",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1782860499"
+    },
+    {
+      "title": "dhapat3927/mcp-edd-analytics-vantage (152 stars)",
+      "url": "https://github.com/dhapat3927/mcp-edd-analytics-vantage",
+      "summary": "EDD MCP Server: Easy Digital Downloads API for Sales, Analytics & Products 2026",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-30",
+      "tags": [
+        "mcp",
+        "analytics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1782860500"
+    },
+    {
+      "title": "R Weekly 2026-W27 Prime Ministers, No Code Dashboards, Reproducible Research",
+      "url": "https://rweekly.org/2026-W27.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contribut...",
+      "source": "R Weekly",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-06-30",
+      "tags": [
+        "dashboard"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1782860501"
+    },
+    {
+      "title": "Sophomoresty/gemini-search-mcp (92 stars)",
+      "url": "https://github.com/Sophomoresty/gemini-search-mcp",
+      "summary": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-30",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1782860502"
+    },
+    {
+      "title": "gvbytes/mcp-security-auditor (4 stars)",
+      "url": "https://github.com/gvbytes/mcp-security-auditor",
+      "summary": "Static analysis scanner for Model Context Protocol (MCP) tool schemas.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-06-30",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1782860503"
     }
   ],
   "reports": [
+    {
+      "date": "2026-06-30",
+      "editorial_summary": "Briefing compiled on June 30, 2026. Today's selection highlights new R packages and features like May 2026 Top 40 New CRAN Packages, cp1919 is on CRAN and explores cutting-edge AI integrations including Sophomoresty/gemini-search-mcp (92 stars), gvbytes/mcp-security-auditor (4 stars).",
+      "items": [
+        "item_1782860498",
+        "item_1782860499",
+        "item_1782860500",
+        "item_1782860501",
+        "item_1782860502",
+        "item_1782860503"
+      ]
+    },
     {
       "date": "2026-06-29",
       "editorial_summary": "Briefing compiled on June 29, 2026. Today's selection highlights new R packages and features like Unlearning the Tidyverse, YaoxiangLi/ggpower (0 stars) and explores cutting-edge AI integrations including YeamimHossainSajid/Mcp-Server-Java (3 stars), arslanmanzoorr/AISEOS (5 stars).",

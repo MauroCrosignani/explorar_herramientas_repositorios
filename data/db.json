@@ -2594,9 +2594,111 @@
       "score": 10.5,
       "read": false,
       "id": "item_1782860503"
+    },
+    {
+      "title": "mcanouil/demo-r-package-shiny-quarto (1 stars)",
+      "url": "https://github.com/mcanouil/demo-r-package-shiny-quarto",
+      "summary": "This is the companion repository for the blog post 'R Package Architecture: Shiny, Quarto, targets, and S7' on mickael.canouil.fr.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-01",
+      "tags": [
+        "quarto",
+        "shiny"
+      ],
+      "score": 18.0,
+      "read": false,
+      "id": "item_1782946762"
+    },
+    {
+      "title": "rOpenSci News Digest, June 2026",
+      "url": "https://www.r-bloggers.com/2026/06/ropensci-news-digest-june-2026/",
+      "summary": "Dear rOpenSci friends, it’s time for our monthly news roundup!  You can read this post on our blog. Now let’s dive into the activity at and around rOpenSci!\nrOpenSci HQ\nChampions Program update\nWe ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-01",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1782946763"
+    },
+    {
+      "title": "FrankCao000/airbnb-hawaii-pricing-analysis (2 stars)",
+      "url": "https://github.com/FrankCao000/airbnb-hawaii-pricing-analysis",
+      "summary": "Airbnb pricing analysis in Hawaii using regression modelling and machine learning benchmarks.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-01",
+      "tags": [
+        "ai",
+        "machine learning"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1782946764"
+    },
+    {
+      "title": "unnnattiiii/cancer-driver-explorer (2 stars)",
+      "url": "https://github.com/unnnattiiii/cancer-driver-explorer",
+      "summary": "Somatic mutation landscape analysis of TCGA-LUAD using Python and R, inspired by Dietlein et al. 2020",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-01",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1782946765"
+    },
+    {
+      "title": "medoxisto/toolbox-mcp (13 stars)",
+      "url": "https://github.com/medoxisto/toolbox-mcp",
+      "summary": "MCP server with 35 local tools for AI agents: read PDFs, exact math, image convert & resize, QR codes, crypto, timezone, regex, JSON/CSV. Works in Claude, Cursor, VS Code and Antigravity. No networ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-01",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "agents",
+        "ai"
+      ],
+      "score": 20.0,
+      "read": false,
+      "id": "item_1782946766"
+    },
+    {
+      "title": "reqable/reqable-mcp-server (15 stars)",
+      "url": "https://github.com/reqable/reqable-mcp-server",
+      "summary": "Reqable MCP server is a command-line tool for connecting your AI to Reqable",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-01",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1782946767"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-01",
+      "editorial_summary": "Briefing compiled on July 01, 2026. Today's selection highlights new R packages and features like mcanouil/demo-r-package-shiny-quarto (1 stars), rOpenSci News Digest, June 2026 and explores cutting-edge AI integrations including medoxisto/toolbox-mcp (13 stars), reqable/reqable-mcp-server (15 stars).",
+      "items": [
+        "item_1782946762",
+        "item_1782946763",
+        "item_1782946764",
+        "item_1782946765",
+        "item_1782946766",
+        "item_1782946767"
+      ]
+    },
     {
       "date": "2026-06-30",
       "editorial_summary": "Briefing compiled on June 30, 2026. Today's selection highlights new R packages and features like May 2026 Top 40 New CRAN Packages, cp1919 is on CRAN and explores cutting-edge AI integrations including Sophomoresty/gemini-search-mcp (92 stars), gvbytes/mcp-security-auditor (4 stars).",

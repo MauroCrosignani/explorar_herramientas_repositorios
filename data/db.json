@@ -2684,9 +2684,109 @@
       "score": 15.0,
       "read": false,
       "id": "item_1782946767"
+    },
+    {
+      "title": "ebenogoe/ggwizard (0 stars)",
+      "url": "https://github.com/ebenogoe/ggwizard",
+      "summary": "Five-step Shiny wizard for creating ggplot2 charts without writing R code",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-02",
+      "tags": [
+        "ggplot",
+        "shiny"
+      ],
+      "score": 5.0,
+      "read": false,
+      "id": "item_1783032849"
+    },
+    {
+      "title": "A New Guide: Organizing Events for First-time Contributors",
+      "url": "https://www.r-bloggers.com/2026/07/a-new-guide-organizing-events-for-first-time-contributors/",
+      "summary": "Making your first contribution to open source can be both empowering and yet very intimidating.\n– rOpenSci FTC Guide\nLast year we were grateful to receive funding from NumFOCUS1 to organize a serie...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-02",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1783032850"
+    },
+    {
+      "title": "yuvrajsinghdeora/Global-Air-Quality-Analysis-R (0 stars)",
+      "url": "https://github.com/yuvrajsinghdeora/Global-Air-Quality-Analysis-R",
+      "summary": "Exploratory Data Analysis (EDA) and Regression Modeling on a Global Air Quality dataset using R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-02",
+      "tags": [
+        "ai"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1783032851"
+    },
+    {
+      "title": "Jacobtelander/Modeling-Yearly-Maximums-and-Future-Cyber-Risk (0 stars)",
+      "url": "https://github.com/Jacobtelander/Modeling-Yearly-Maximums-and-Future-Cyber-Risk",
+      "summary": "Extreme value analysis of cyber security breaches around the world",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-02",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1783032852"
+    },
+    {
+      "title": "rakus-lc/blastengine-mcp (3 stars)",
+      "url": "https://github.com/rakus-lc/blastengine-mcp",
+      "summary": "Model Context Protocol (MCP) server for blastengine — send and analyze emails with AI agents",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-02",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1783032853"
+    },
+    {
+      "title": "tsouth89/toolport (51 stars)",
+      "url": "https://github.com/tsouth89/toolport",
+      "summary": "Local-first MCP gateway. One port for every tool and every AI client: lazy discovery (~90% token savings), tool integrity + quarantine, secrets in the OS keychain.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-02",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1783032854"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-02",
+      "editorial_summary": "Briefing compiled on July 02, 2026. Today's selection highlights new R packages and features like ebenogoe/ggwizard (0 stars), A New Guide: Organizing Events for First-time Contributors and explores cutting-edge AI integrations including rakus-lc/blastengine-mcp (3 stars), tsouth89/toolport (51 stars).",
+      "items": [
+        "item_1783032849",
+        "item_1783032850",
+        "item_1783032851",
+        "item_1783032852",
+        "item_1783032853",
+        "item_1783032854"
+      ]
+    },
     {
       "date": "2026-07-01",
       "editorial_summary": "Briefing compiled on July 01, 2026. Today's selection highlights new R packages and features like mcanouil/demo-r-package-shiny-quarto (1 stars), rOpenSci News Digest, June 2026 and explores cutting-edge AI integrations including medoxisto/toolbox-mcp (13 stars), reqable/reqable-mcp-server (15 stars).",

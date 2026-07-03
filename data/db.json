@@ -2772,9 +2772,91 @@
       "score": 10.0,
       "read": false,
       "id": "item_1783032854"
+    },
+    {
+      "title": "Let’s create a minimal R GUI (R GUI 2, previously Q)",
+      "url": "https://www.r-bloggers.com/2026/06/lets-create-a-minimal-r-gui-r-gui-2-previously-q/",
+      "summary": "I realised that people that come from Stata struggle with R's current UI approach.\nContinue reading: Let’s create a minimal R GUI (R GUI 2, previously Q)",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-03",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1783119116"
+    },
+    {
+      "title": "Rethinking Validation for Spatial Machine Learning: Takeaways from the Talk",
+      "url": "https://www.r-bloggers.com/2026/07/rethinking-validation-for-spatial-machine-learning-takeaways-from-the-talk/",
+      "summary": "Title slide of the talk\nKeynote slides: https://jakubnowosad.com/ml4eo2026/\nWorkshop materials: https://jakubnowosad.com/ml4eo2026workshop/\nMachine learning is now deeply embedded1 in Earth observa...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-03",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1783119117"
+    },
+    {
+      "title": "Varun-U-Gowda/ad-microglia-multiome (0 stars)",
+      "url": "https://github.com/Varun-U-Gowda/ad-microglia-multiome",
+      "summary": "snRNA+snATAC multiome of AD DLPFC microglia — chromVAR  motif analysis, WNN integration, peak-to-gene linkage,  Monocle3 trajectory | Signac · Seurat · R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-03",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1783119118"
+    },
+    {
+      "title": "batuhanndgnn/mcp_personal_devLogger (3 stars)",
+      "url": "https://github.com/batuhanndgnn/mcp_personal_devLogger",
+      "summary": "Claude Desktop için geliştirilmiş, Model Context Protocol (MCP) tabanlı yerel geliştirici günlüğü ve hata takip aracı.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-03",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1783119119"
+    },
+    {
+      "title": "kerlenton/mcpsnoop (118 stars)",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "summary": "Wireshark for MCP. A transparent proxy that shows every real tool call between your AI client and your MCP servers, live in your terminal.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-03",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1783119120"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-03",
+      "editorial_summary": "Briefing compiled on July 03, 2026. Today's selection highlights new R packages and features like Let’s create a minimal R GUI (R GUI 2, previously Q) and explores cutting-edge AI integrations including batuhanndgnn/mcp_personal_devLogger (3 stars), kerlenton/mcpsnoop (118 stars).",
+      "items": [
+        "item_1783119116",
+        "item_1783119117",
+        "item_1783119118",
+        "item_1783119119",
+        "item_1783119120"
+      ]
+    },
     {
       "date": "2026-07-02",
       "editorial_summary": "Briefing compiled on July 02, 2026. Today's selection highlights new R packages and features like ebenogoe/ggwizard (0 stars), A New Guide: Organizing Events for First-time Contributors and explores cutting-edge AI integrations including rakus-lc/blastengine-mcp (3 stars), tsouth89/toolport (51 stars).",

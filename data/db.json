@@ -2843,9 +2843,95 @@
       "score": 10.0,
       "read": false,
       "id": "item_1783119120"
+    },
+    {
+      "title": "josh45-source/brapiR2 (1 stars)",
+      "url": "https://github.com/josh45-source/brapiR2",
+      "summary": "A Tidyverse-Native Client for the BrAPI v2 (Breeding API) Specification",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-04",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1783205061"
+    },
+    {
+      "title": "Jorgelina-Etchevest/student-performance-analytics-r (0 stars)",
+      "url": "https://github.com/Jorgelina-Etchevest/student-performance-analytics-r",
+      "summary": "Statistical analysis of university student data using R, including exploratory data analysis, probability distributions, sampling techniques, and data visualization to support evidence-based decisi...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-04",
+      "tags": [
+        "visualization",
+        "analytics"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1783205062"
+    },
+    {
+      "title": "R’ousseeuw²⁶ prize!",
+      "url": "https://www.r-bloggers.com/2026/06/rousseeuw%c2%b2%e2%81%b6-prize/",
+      "summary": "Great news that a major Statistics prize like the Rousseeuw Prize goes to the R Core Team, esp. Brian Ripley (University of Oxford), Martin Mächler (ETH Zürich), Kurt Hornik (WU Wien), Peter Dalgaa...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-04",
+      "tags": [
+        "statistics"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1783205063"
+    },
+    {
+      "title": "Mowen559/mcp-forge (2 stars)",
+      "url": "https://github.com/Mowen559/mcp-forge",
+      "summary": "A unified, cross-platform hub to discover, deploy, and manage Model Context Protocol (MCP) tools for your local AI agents (Claude, Cursor, Codex, Gemini, etc.).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-04",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents",
+        "ai"
+      ],
+      "score": 19.0,
+      "read": false,
+      "id": "item_1783205064"
+    },
+    {
+      "title": "akemi1tr/ai-security-mcp (2 stars)",
+      "url": "https://github.com/akemi1tr/ai-security-mcp",
+      "summary": "🛡️ A Model Context Protocol (MCP) server for AI security: detects prompt injection, masks sensitive data (PII), and audits insecure MCP configs.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-04",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1783205065"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-04",
+      "editorial_summary": "Briefing compiled on July 04, 2026. Today's selection highlights new R packages and features like josh45-source/brapiR2 (1 stars) and explores cutting-edge AI integrations including Mowen559/mcp-forge (2 stars), akemi1tr/ai-security-mcp (2 stars).",
+      "items": [
+        "item_1783205061",
+        "item_1783205062",
+        "item_1783205063",
+        "item_1783205064",
+        "item_1783205065"
+      ]
+    },
     {
       "date": "2026-07-03",
       "editorial_summary": "Briefing compiled on July 03, 2026. Today's selection highlights new R packages and features like Let’s create a minimal R GUI (R GUI 2, previously Q) and explores cutting-edge AI integrations including batuhanndgnn/mcp_personal_devLogger (3 stars), kerlenton/mcpsnoop (118 stars).",

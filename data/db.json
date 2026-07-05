@@ -2918,9 +2918,97 @@
       "score": 17.0,
       "read": false,
       "id": "item_1783205065"
+    },
+    {
+      "title": "shehryarsaroya/agenttransfer (16 stars)",
+      "url": "https://github.com/shehryarsaroya/agenttransfer",
+      "summary": "Open-source file transfer for AI agents — every agent gets an email address, a folder, and an inbox. Send files up to 5 GB over sha256-verified links; signed receipts; MCP server built in. One Go b...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-05",
+      "tags": [
+        "sf",
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 5.0,
+      "read": false,
+      "id": "item_1783291620"
+    },
+    {
+      "title": "darrenchenhw0212/market-potential-analytics-dashboard (1 stars)",
+      "url": "https://github.com/darrenchenhw0212/market-potential-analytics-dashboard",
+      "summary": "Interactive R Shiny dashboard for analyzing market potential using sales performance and external economic indicators.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-05",
+      "tags": [
+        "shiny",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1783291621"
+    },
+    {
+      "title": "Nathaniel-Gate/marketing-mix-modeling (0 stars)",
+      "url": "https://github.com/Nathaniel-Gate/marketing-mix-modeling",
+      "summary": "Marketing Mix Modeling in R — adstock, saturation curves, channel ROI decomposition and budget optimisation, scored against simulated ground truth",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-05",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1783291622"
+    },
+    {
+      "title": "lzm04521/MCP-DB-Tools (3 stars)",
+      "url": "https://github.com/lzm04521/MCP-DB-Tools",
+      "summary": "为 [Claude Code] 等Agent 提供数据库只读访问能力的 MCP (Model Context Protocol) 工具。基于 .NET 8 + 官方 `ModelContextProtocol` SDK，支持 SQL Server、MySQL、Oracle，内置 SQL 安全守卫、多环境配置、配置热重载、审计日志，以及本机 Admin UI 配置维护页面。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-05",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1783291623"
+    },
+    {
+      "title": "pmady/gpu-mcp-server (10 stars)",
+      "url": "https://github.com/pmady/gpu-mcp-server",
+      "summary": "MCP server for NVIDIA GPU metrics give AI agents real-time access to GPU utilization, memory, temperature, and power",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-05",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1783291624"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-05",
+      "editorial_summary": "Briefing compiled on July 05, 2026. Today's selection highlights new R packages and features like shehryarsaroya/agenttransfer (16 stars) and explores cutting-edge AI integrations including lzm04521/MCP-DB-Tools (3 stars), pmady/gpu-mcp-server (10 stars).",
+      "items": [
+        "item_1783291620",
+        "item_1783291621",
+        "item_1783291622",
+        "item_1783291623",
+        "item_1783291624"
+      ]
+    },
     {
       "date": "2026-07-04",
       "editorial_summary": "Briefing compiled on July 04, 2026. Today's selection highlights new R packages and features like josh45-source/brapiR2 (1 stars) and explores cutting-edge AI integrations including Mowen559/mcp-forge (2 stars), akemi1tr/ai-security-mcp (2 stars).",

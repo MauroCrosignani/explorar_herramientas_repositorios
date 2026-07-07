@@ -3066,9 +3066,108 @@
       "score": 13.5,
       "read": false,
       "id": "item_1783378463"
+    },
+    {
+      "title": "bioconductor-source/humanHippocampus2024 (0 stars)",
+      "url": "https://github.com/bioconductor-source/humanHippocampus2024",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-07",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783464559"
+    },
+    {
+      "title": "gbevin/RouteMIDI (13 stars)",
+      "url": "https://github.com/gbevin/RouteMIDI",
+      "summary": "Multi-platform command-line tool to connect MIDI ports together, optionally filtering, transforming and converting MIDI messages along the way.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-07",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1783464560"
+    },
+    {
+      "title": "alimolla24777-rgb/Meta-Analysis-app (0 stars)",
+      "url": "https://github.com/alimolla24777-rgb/Meta-Analysis-app",
+      "summary": "R -based meta-analysis software with pairwise meta-analysis, dose-response meta-analysis, meta-regression, and publication bias diagnostics — packaged as a standalone Windows desktop app (Electron ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-07",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1783464561"
+    },
+    {
+      "title": "Close Enough? Using the WGI as a Proxy for the WJP Rule of Law Index",
+      "url": "https://www.r-bloggers.com/2026/07/close-enough-using-the-wgi-as-a-proxy-for-the-wjp-rule-of-law-index/",
+      "summary": "This post examines whether the Worldwide Governance Indicators' (WGI) rule of law measure provides a reasonable proxy for the World Justice Project's (WJP) Rule of Law Index, such as when analysis ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-07",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1783464562"
+    },
+    {
+      "title": "OOBE-PROTOCOL/sap-mcp (3 stars)",
+      "url": "https://github.com/OOBE-PROTOCOL/sap-mcp",
+      "summary": "SAP MCP is an on-chain agentic commerce layer for Solana that lets AI agents register identities, publish tools, discover services, and transact with each other, all exposed through the Model Conte...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-07",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1783464563"
+    },
+    {
+      "title": "nirholas/ai-tutor-mcp (3 stars)",
+      "url": "https://github.com/nirholas/ai-tutor-mcp",
+      "summary": "Turn any AI agent into an interactive tutor over Model Context Protocol — lessons, quizzes, feedback.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1783464564"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-07",
+      "editorial_summary": "Briefing compiled on July 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/humanHippocampus2024 (0 stars), gbevin/RouteMIDI (13 stars) and explores cutting-edge AI integrations including OOBE-PROTOCOL/sap-mcp (3 stars), nirholas/ai-tutor-mcp (3 stars).",
+      "items": [
+        "item_1783464559",
+        "item_1783464560",
+        "item_1783464561",
+        "item_1783464562",
+        "item_1783464563",
+        "item_1783464564"
+      ]
+    },
     {
       "date": "2026-07-06",
       "editorial_summary": "Briefing compiled on July 06, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W28 Testing plumber APIs, watcher and explores cutting-edge AI integrations including imshota1009/claude-memory-mcp (2 stars), pIat0n/telegram-mcp-server (5 stars).",

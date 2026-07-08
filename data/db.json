@@ -3153,9 +3153,107 @@
       "score": 13.0,
       "read": false,
       "id": "item_1783464564"
+    },
+    {
+      "title": "bioconductor-source/VISTA (0 stars)",
+      "url": "https://github.com/bioconductor-source/VISTA",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-08",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783551203"
+    },
+    {
+      "title": "bioconductor-source/spacexr (0 stars)",
+      "url": "https://github.com/bioconductor-source/spacexr",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-08",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783551204"
+    },
+    {
+      "title": "pierrickvernet/time-series-electricity-demand-forecasting-Switzerland (1 stars)",
+      "url": "https://github.com/pierrickvernet/time-series-electricity-demand-forecasting-Switzerland",
+      "summary": "Time series analysis and forecasting with R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-08",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1783551205"
+    },
+    {
+      "title": "kikijuki/qperm (1 stars)",
+      "url": "https://github.com/kikijuki/qperm",
+      "summary": "R package for sign-flip permutation inference on group fMRI, reporting FWER-corrected p-values. Offers a quantum amplitude-estimation estimator (emulated in R, with an optional real Qiskit backend)...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-08",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1783551206"
+    },
+    {
+      "title": "MentionNetwork/awesome-agentic-commerce (11 stars)",
+      "url": "https://github.com/MentionNetwork/awesome-agentic-commerce",
+      "summary": "A curated list of awesome agentic commerce resources — protocols, MCP servers, tools, apps, APIs and services for AI agents that shop, sell and transact. For store owners, developers, agencies and ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-08",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1783551207"
+    },
+    {
+      "title": "kayndrigs/Kaynes-Claude-Agent-API-Portfolio (3 stars)",
+      "url": "https://github.com/kayndrigs/Kaynes-Claude-Agent-API-Portfolio",
+      "summary": "Hands-on explorations of the Claude ecosystem — API fundamentals, prompting & tool use, Claude Code workflows, and Model Context Protocol basics.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-08",
+      "tags": [
+        "general"
+      ],
+      "score": 13,
+      "read": false,
+      "id": "item_1783551208"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-08",
+      "editorial_summary": "Briefing compiled on July 08, 2026. Today's selection highlights new R packages and features like bioconductor-source/VISTA (0 stars), bioconductor-source/spacexr (0 stars) and explores cutting-edge AI integrations including MentionNetwork/awesome-agentic-commerce (11 stars), kayndrigs/Kaynes-Claude-Agent-API-Portfolio (3 stars).",
+      "items": [
+        "item_1783551203",
+        "item_1783551204",
+        "item_1783551205",
+        "item_1783551206",
+        "item_1783551207",
+        "item_1783551208"
+      ]
+    },
     {
       "date": "2026-07-07",
       "editorial_summary": "Briefing compiled on July 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/humanHippocampus2024 (0 stars), gbevin/RouteMIDI (13 stars) and explores cutting-edge AI integrations including OOBE-PROTOCOL/sap-mcp (3 stars), nirholas/ai-tutor-mcp (3 stars).",

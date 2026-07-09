@@ -3239,9 +3239,108 @@
       "score": 13,
       "read": false,
       "id": "item_1783551208"
+    },
+    {
+      "title": "bioconductor-source/shinyDSP (0 stars)",
+      "url": "https://github.com/bioconductor-source/shinyDSP",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-09",
+      "tags": [
+        "shiny"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1783638012"
+    },
+    {
+      "title": "bioconductor-source/EpipwR.data (0 stars)",
+      "url": "https://github.com/bioconductor-source/EpipwR.data",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-09",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783638013"
+    },
+    {
+      "title": "KTH-0318/delivery_app_regression (0 stars)",
+      "url": "https://github.com/KTH-0318/delivery_app_regression",
+      "summary": "1인 가구의 배달앱 소비 패턴 상관관계 분석 ",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-09",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783638014"
+    },
+    {
+      "title": "heidihelena/recoverlite (1 stars)",
+      "url": "https://github.com/heidihelena/recoverlite",
+      "summary": "Pre-data recovery tests for planned study designs: simulate whether a planned design-analysis pair can recover its target estimand, with PASS/RISK/FAIL verdicts under versioned threshold profiles. ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-09",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1783638015"
+    },
+    {
+      "title": "roicai/mcp-server (2 stars)",
+      "url": "https://github.com/roicai/mcp-server",
+      "summary": "Financial data MCP server and stock market MCP server: stock prices, financial statements, earnings call transcripts, fundamentals, and ratios for 60,000+ public companies via the Model Context Pro...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-09",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 16.0,
+      "read": false,
+      "id": "item_1783638016"
+    },
+    {
+      "title": "DevOpsAIguru123/awesome-agentic-devops (12 stars)",
+      "url": "https://github.com/DevOpsAIguru123/awesome-agentic-devops",
+      "summary": "Curated + scored map of official MCP servers and agents for DevOps, Cloud, SRE, and Platform Engineering — every entry rated on production access, approval gates, and audit evidence.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-09",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1783638017"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-09",
+      "editorial_summary": "Briefing compiled on July 09, 2026. Today's selection highlights new R packages and features like bioconductor-source/shinyDSP (0 stars), bioconductor-source/EpipwR.data (0 stars) and explores cutting-edge AI integrations including roicai/mcp-server (2 stars), DevOpsAIguru123/awesome-agentic-devops (12 stars).",
+      "items": [
+        "item_1783638012",
+        "item_1783638013",
+        "item_1783638014",
+        "item_1783638015",
+        "item_1783638016",
+        "item_1783638017"
+      ]
+    },
     {
       "date": "2026-07-08",
       "editorial_summary": "Briefing compiled on July 08, 2026. Today's selection highlights new R packages and features like bioconductor-source/VISTA (0 stars), bioconductor-source/spacexr (0 stars) and explores cutting-edge AI integrations including MentionNetwork/awesome-agentic-commerce (11 stars), kayndrigs/Kaynes-Claude-Agent-API-Portfolio (3 stars).",

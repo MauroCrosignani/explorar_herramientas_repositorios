@@ -3326,9 +3326,106 @@
       "score": 12.5,
       "read": false,
       "id": "item_1783638017"
+    },
+    {
+      "title": "bioconductor-source/HuBMAPR (0 stars)",
+      "url": "https://github.com/bioconductor-source/HuBMAPR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-10",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783723628"
+    },
+    {
+      "title": "bioconductor-source/ReducedExperiment (0 stars)",
+      "url": "https://github.com/bioconductor-source/ReducedExperiment",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-10",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783723629"
+    },
+    {
+      "title": "slickz119/StatRidge (2 stars)",
+      "url": "https://github.com/slickz119/StatRidge",
+      "summary": "An R package implementing peer-reviewed ridge regression methodologies developed through simulation studies. The package translates published statistical research into reusable software for researc...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-10",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1783723630"
+    },
+    {
+      "title": "r-vellum/vellumplot (5 stars)",
+      "url": "https://github.com/r-vellum/vellumplot",
+      "summary": "A declarative, pipe-first grammar of graphics for R that compiles an inspectable spec into a vellum scene.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-10",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1783723631"
+    },
+    {
+      "title": "Gowthaman90/mcp-bastion (5 stars)",
+      "url": "https://github.com/Gowthaman90/mcp-bastion",
+      "summary": "Reliability + security proxy for the Model Context Protocol (MCP): self-healing connections, runtime tool-security (rug-pull/poisoning detection), and a compliance-mapped audit trail.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-10",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1783723632"
+    },
+    {
+      "title": "Chester-2026/Gov-Stat-MCP-Server (21 stars)",
+      "url": "https://github.com/Chester-2026/Gov-Stat-MCP-Server",
+      "summary": "A Centralized MCP Server for Fetching Data from Many Countries' Govs",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-10",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1783723633"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-10",
+      "editorial_summary": "Briefing compiled on July 10, 2026. Today's selection highlights new R packages and features like bioconductor-source/HuBMAPR (0 stars), bioconductor-source/ReducedExperiment (0 stars) and explores cutting-edge AI integrations including Gowthaman90/mcp-bastion (5 stars), Chester-2026/Gov-Stat-MCP-Server (21 stars).",
+      "items": [
+        "item_1783723628",
+        "item_1783723629",
+        "item_1783723630",
+        "item_1783723631",
+        "item_1783723632",
+        "item_1783723633"
+      ]
+    },
     {
       "date": "2026-07-09",
       "editorial_summary": "Briefing compiled on July 09, 2026. Today's selection highlights new R packages and features like bioconductor-source/shinyDSP (0 stars), bioconductor-source/EpipwR.data (0 stars) and explores cutting-edge AI integrations including roicai/mcp-server (2 stars), DevOpsAIguru123/awesome-agentic-devops (12 stars).",

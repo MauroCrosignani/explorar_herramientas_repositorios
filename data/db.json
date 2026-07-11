@@ -3411,9 +3411,108 @@
       "score": 11.5,
       "read": false,
       "id": "item_1783723633"
+    },
+    {
+      "title": "bioconductor-source/omicsGMF (0 stars)",
+      "url": "https://github.com/bioconductor-source/omicsGMF",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-11",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783809275"
+    },
+    {
+      "title": "bioconductor-source/scECODA (0 stars)",
+      "url": "https://github.com/bioconductor-source/scECODA",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-11",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783809276"
+    },
+    {
+      "title": "moses-okunlola/Olist-ecommerce-delivery-retention-analysis (1 stars)",
+      "url": "https://github.com/moses-okunlola/Olist-ecommerce-delivery-retention-analysis",
+      "summary": "R analysis of 96K+ Olist e-commerce orders testing whether late deliveries hurt customer satisfaction and retention, using Wilcoxon and Chi-square tests plus cohort-based revenue retention analysis.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-11",
+      "tags": [
+        "sf"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1783809277"
+    },
+    {
+      "title": "Instacart is running fixed effect regressions with PyFixest!",
+      "url": "https://www.r-bloggers.com/2026/07/instacart-is-running-fixed-effect-regressions-with-pyfixest/",
+      "summary": "Instacart logo\nBen Knight from Instacart has published a great write-up on how they use pyfixest “in production” for measuring the effects of marketplace experiments.\nFor an open source developer, ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-11",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783809278"
+    },
+    {
+      "title": "nirholas/brain-mcp (2 stars)",
+      "url": "https://github.com/nirholas/brain-mcp",
+      "summary": "A Model Context Protocol server that gives any AI assistant the three.ws multi-provider LLM router over stdio. Discover which models are available — Claude, GPT-4o, o3, Qwen, DeepSeek, NVIDIA Nemot...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-11",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 18.5,
+      "read": false,
+      "id": "item_1783809279"
+    },
+    {
+      "title": "iamdenzen/WP-MCP-Plugin (2 stars)",
+      "url": "https://github.com/iamdenzen/WP-MCP-Plugin",
+      "summary": "Expose your WordPress site to AI assistants like Claude, ChatGPT, and other MCP clients through a secure, extensible, OAuth-powered Model Context Protocol (MCP) server.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-11",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 14.0,
+      "read": false,
+      "id": "item_1783809280"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-11",
+      "editorial_summary": "Briefing compiled on July 11, 2026. Today's selection highlights new R packages and features like bioconductor-source/omicsGMF (0 stars), bioconductor-source/scECODA (0 stars) and explores cutting-edge AI integrations including nirholas/brain-mcp (2 stars), iamdenzen/WP-MCP-Plugin (2 stars).",
+      "items": [
+        "item_1783809275",
+        "item_1783809276",
+        "item_1783809277",
+        "item_1783809278",
+        "item_1783809279",
+        "item_1783809280"
+      ]
+    },
     {
       "date": "2026-07-10",
       "editorial_summary": "Briefing compiled on July 10, 2026. Today's selection highlights new R packages and features like bioconductor-source/HuBMAPR (0 stars), bioconductor-source/ReducedExperiment (0 stars) and explores cutting-edge AI integrations including Gowthaman90/mcp-bastion (5 stars), Chester-2026/Gov-Stat-MCP-Server (21 stars).",

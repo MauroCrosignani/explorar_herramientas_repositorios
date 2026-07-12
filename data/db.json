@@ -3498,9 +3498,106 @@
       "score": 14.0,
       "read": false,
       "id": "item_1783809280"
+    },
+    {
+      "title": "bioconductor-source/dandelionR (0 stars)",
+      "url": "https://github.com/bioconductor-source/dandelionR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-12",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783895732"
+    },
+    {
+      "title": "bioconductor-source/scConform (0 stars)",
+      "url": "https://github.com/bioconductor-source/scConform",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-12",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1783895733"
+    },
+    {
+      "title": "BenYahMin/30-Days-Of-R (1 stars)",
+      "url": "https://github.com/BenYahMin/30-Days-Of-R",
+      "summary": "A structured 30-day coding roadmap mastering R programming, covering core primitives, multi-dimensional data architectures, Tidyverse workflows, and data science fundamentals.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-12",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1783895734"
+    },
+    {
+      "title": "gowusu/floodflow (1 stars)",
+      "url": "https://github.com/gowusu/floodflow",
+      "summary": "Map-first, climate-informed flood hazard assessment for data-scarce basins in R: rainfall extreme value analysis (GEV), rainfall-runoff simulation, terrain-based flow routing and water-depth mappin...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-12",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1783895735"
+    },
+    {
+      "title": "ArtemBaranov/rkmatrix-mcp-server (2 stars)",
+      "url": "https://github.com/ArtemBaranov/rkmatrix-mcp-server",
+      "summary": "A Model Context Protocol (MCP) server built with FastMCP to provide AI models with structured technical data about rootkit techniques and families.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-12",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1783895736"
+    },
+    {
+      "title": "aws-samples/sample-aws-network-architecture-review-mcp-server (10 stars)",
+      "url": "https://github.com/aws-samples/sample-aws-network-architecture-review-mcp-server",
+      "summary": "MCP server for automated AWS network architecture reviews - DX resiliency scoring, TGW topology, Cloud WAN discovery. 13 tools, boto3 only",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-12",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1783895737"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-12",
+      "editorial_summary": "Briefing compiled on July 12, 2026. Today's selection highlights new R packages and features like bioconductor-source/dandelionR (0 stars), bioconductor-source/scConform (0 stars) and explores cutting-edge AI integrations including ArtemBaranov/rkmatrix-mcp-server (2 stars), aws-samples/sample-aws-network-architecture-review-mcp-server (10 stars).",
+      "items": [
+        "item_1783895732",
+        "item_1783895733",
+        "item_1783895734",
+        "item_1783895735",
+        "item_1783895736",
+        "item_1783895737"
+      ]
+    },
     {
       "date": "2026-07-11",
       "editorial_summary": "Briefing compiled on July 11, 2026. Today's selection highlights new R packages and features like bioconductor-source/omicsGMF (0 stars), bioconductor-source/scECODA (0 stars) and explores cutting-edge AI integrations including nirholas/brain-mcp (2 stars), iamdenzen/WP-MCP-Plugin (2 stars).",

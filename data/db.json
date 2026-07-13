@@ -3583,9 +3583,109 @@
       "score": 13.5,
       "read": false,
       "id": "item_1783895737"
+    },
+    {
+      "title": "R Weekly 2026-W29 Doom on R, search by function, checks for CRAN",
+      "url": "https://rweekly.org/2026-W29.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by , with help from the R Weekly team members and contributors.\n\nHighlight\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-13",
+      "tags": [
+        "cran"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1783982533"
+    },
+    {
+      "title": "Nr5D/multi-service-attribution (2 stars)",
+      "url": "https://github.com/Nr5D/multi-service-attribution",
+      "summary": "R/tidyverse pipeline for attributing single, holistic satisfaction ratings across multiple public services — solving the 100-service survey dilemma while staying compliant with Indonesia's Permenpa...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-13",
+      "tags": [
+        "tidyverse",
+        "sf"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1783982534"
+    },
+    {
+      "title": "muhammadumarshinwari/bayesian-var-macrofinancial-forecasting-scenario-design (1 stars)",
+      "url": "https://github.com/muhammadumarshinwari/bayesian-var-macrofinancial-forecasting-scenario-design",
+      "summary": "A Bayesian VAR Framework for US Macro-Financial Forecasting and Stress-Test Scenario Design. Forecasts eleven US variables and generates DFAST-style stress scenarios, with a live interactive dashbo...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-13",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1783982535"
+    },
+    {
+      "title": "Tabler Server A minimal framework to create web dashboards in R",
+      "url": "https://www.r-bloggers.com/2026/07/tabler-server-a-minimal-framework-to-create-web-dashboards-in-r/",
+      "summary": "I started working on a deliberately tiny alternative to Shiny\nContinue reading: Tabler Server A minimal framework to create web dashboards in R",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-13",
+      "tags": [
+        "shiny",
+        "dashboard"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1783982536"
+    },
+    {
+      "title": "leeskywalker060726-star/MCP-OR-Toolkit (2 stars)",
+      "url": "https://github.com/leeskywalker060726-star/MCP-OR-Toolkit",
+      "summary": "Lightweight Operations Research tools for LLMs via Model Context Protocol. Starts with a pure C++ Simplex engine.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-13",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1783982537"
+    },
+    {
+      "title": "alchaincyf/doubao-search-mcp (17 stars)",
+      "url": "https://github.com/alchaincyf/doubao-search-mcp",
+      "summary": "豆包搜索 MCP server — 给换了国产模型的 Claude Code 补上联网能力。字节系信源、千字正文、每月500次免费 | Agent-first web search MCP",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-13",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1783982538"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-13",
+      "editorial_summary": "Briefing compiled on July 13, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W29 Doom on R, search by function, checks for CRAN, Nr5D/multi-service-attribution (2 stars) and explores cutting-edge AI integrations including leeskywalker060726-star/MCP-OR-Toolkit (2 stars), alchaincyf/doubao-search-mcp (17 stars).",
+      "items": [
+        "item_1783982533",
+        "item_1783982534",
+        "item_1783982535",
+        "item_1783982536",
+        "item_1783982537",
+        "item_1783982538"
+      ]
+    },
     {
       "date": "2026-07-12",
       "editorial_summary": "Briefing compiled on July 12, 2026. Today's selection highlights new R packages and features like bioconductor-source/dandelionR (0 stars), bioconductor-source/scConform (0 stars) and explores cutting-edge AI integrations including ArtemBaranov/rkmatrix-mcp-server (2 stars), aws-samples/sample-aws-network-architecture-review-mcp-server (10 stars).",

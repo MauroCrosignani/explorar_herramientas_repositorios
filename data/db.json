@@ -3671,9 +3671,107 @@
       "score": 13.0,
       "read": false,
       "id": "item_1783982538"
+    },
+    {
+      "title": "bioconductor-source/augere.gsea (1 stars)",
+      "url": "https://github.com/bioconductor-source/augere.gsea",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-14",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784069032"
+    },
+    {
+      "title": "{golem} 1.0.0 is here",
+      "url": "https://www.r-bloggers.com/2026/07/golem-1-0-0-is-here/",
+      "summary": "You can read the original post in its original format on Rtask website by ThinkR here: {golem} 1.0.0 is here\nAfter years of powering Shiny applications in production, {golem} — our opinionated fram...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-14",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1784069033"
+    },
+    {
+      "title": "AnaMenkshi/microbiome-ml-benchmark-ihd (1 stars)",
+      "url": "https://github.com/AnaMenkshi/microbiome-ml-benchmark-ihd",
+      "summary": "Machine learning and statistical analysis of gut microbiome signatures distinguishing Ischemic Heart Disease patients from healthy controls (MetaCardis cohort).",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-14",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1784069034"
+    },
+    {
+      "title": "gonzalez-moreno/crinum-effect-on-crabs (2 stars)",
+      "url": "https://github.com/gonzalez-moreno/crinum-effect-on-crabs",
+      "summary": "Data and R code for Gonzalez-Moreno et al. (2026): effects of Crinum americanum dominance on brachyuran crab communities in a Neotropical estuary",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-14",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1784069035"
+    },
+    {
+      "title": "illiahaidar/mcptrustchecker (21 stars)",
+      "url": "https://github.com/illiahaidar/mcptrustchecker",
+      "summary": "MCP security scanner — offline, deterministic A–F Trust Score for Model Context Protocol servers. Detects tool poisoning, prompt injection & toxic flows.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-14",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1784069036"
+    },
+    {
+      "title": "Thirumalaiboobathi/opentel-mcp (2 stars)",
+      "url": "https://github.com/Thirumalaiboobathi/opentel-mcp",
+      "summary": "OpenTelemetry instrumentation for Model Context Protocol (MCP) servers",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-14",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1784069037"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-14",
+      "editorial_summary": "Briefing compiled on July 14, 2026. Today's selection highlights new R packages and features like bioconductor-source/augere.gsea (1 stars), {golem} 1.0.0 is here and explores cutting-edge AI integrations including illiahaidar/mcptrustchecker (21 stars), Thirumalaiboobathi/opentel-mcp (2 stars).",
+      "items": [
+        "item_1784069032",
+        "item_1784069033",
+        "item_1784069034",
+        "item_1784069035",
+        "item_1784069036",
+        "item_1784069037"
+      ]
+    },
     {
       "date": "2026-07-13",
       "editorial_summary": "Briefing compiled on July 13, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W29 Doom on R, search by function, checks for CRAN, Nr5D/multi-service-attribution (2 stars) and explores cutting-edge AI integrations including leeskywalker060726-star/MCP-OR-Toolkit (2 stars), alchaincyf/doubao-search-mcp (17 stars).",

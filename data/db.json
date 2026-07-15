@@ -19,7 +19,8 @@
     "statistics",
     "sf",
     "tidyverse",
-    "tutorial"
+    "tutorial",
+    "quarto-report"
   ],
   "historical_items": [
     {
@@ -3757,9 +3758,109 @@
       "score": 13.0,
       "read": false,
       "id": "item_1784069037"
+    },
+    {
+      "title": "Repost: Automatically compile Quarto reports when new data lands",
+      "url": "https://www.r-bloggers.com/2026/07/repost-automatically-compile-quarto-reports-when-new-data-lands/",
+      "summary": "Reposted from the original at https://blog.stephenturner.us/p/turn-new-data-into-quarto-reports-automaticallyThe {watcher} R package monitors your filesystem and run arbitrary code when files chang...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-15",
+      "tags": [
+        "quarto",
+        "quarto-report"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1784155519"
+    },
+    {
+      "title": "bioconductor-source/bedbaser (0 stars)",
+      "url": "https://github.com/bioconductor-source/bedbaser",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-15",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784155520"
+    },
+    {
+      "title": "MaxErmler/electricity-demand-forecasting (1 stars)",
+      "url": "https://github.com/MaxErmler/electricity-demand-forecasting",
+      "summary": "Benchmarked 10+ models — OLS, Ridge, LASSO, PCR, WLS, Huber, LAD, LTS, SARIMA, SARIMAX, and a PyTorch LSTM — against 50,000+ hours of Toledo Edison utility data. LSTM achieved 78,432 KW RMSE, 77% b...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-15",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1784155521"
+    },
+    {
+      "title": "pierrickvernet/r-clustering-cheat-sheet (1 stars)",
+      "url": "https://github.com/pierrickvernet/r-clustering-cheat-sheet",
+      "summary": "Guide technique et méthodologique du clustering géométrique sous R. Code autonome et astuces de normalisation (Z-score vs Min-Max) pour éviter les pièges algorithmiques de base.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-15",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1784155522"
+    },
+    {
+      "title": "gokhan-ciftci/cisco-aci-mcp-server (2 stars)",
+      "url": "https://github.com/gokhan-ciftci/cisco-aci-mcp-server",
+      "summary": "An AI-powered Model Context Protocol (MCP) server that lets any AI assistant (Claude, Cursor, VS Code, etc.) query and explore Cisco ACI fabrics in natural language.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-15",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1784155523"
+    },
+    {
+      "title": "djtelicloud/grok-mcp-server (11 stars)",
+      "url": "https://github.com/djtelicloud/grok-mcp-server",
+      "summary": "Local-first Grok MCP server & gateway. One shared Grok agent for Cursor, Claude Code, VS Code, Codex & Desktop. xAI API + CLI planes, Control Center.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-15",
+      "tags": [
+        "mcp",
+        "codex",
+        "ai"
+      ],
+      "score": 16.5,
+      "read": false,
+      "id": "item_1784155524"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-15",
+      "editorial_summary": "Briefing compiled on July 15, 2026. Today's selection highlights new R packages and features like Repost: Automatically compile Quarto reports when new data lands, bioconductor-source/bedbaser (0 stars) and explores cutting-edge AI integrations including gokhan-ciftci/cisco-aci-mcp-server (2 stars), djtelicloud/grok-mcp-server (11 stars).",
+      "items": [
+        "item_1784155519",
+        "item_1784155520",
+        "item_1784155521",
+        "item_1784155522",
+        "item_1784155523",
+        "item_1784155524"
+      ]
+    },
     {
       "date": "2026-07-14",
       "editorial_summary": "Briefing compiled on July 14, 2026. Today's selection highlights new R packages and features like bioconductor-source/augere.gsea (1 stars), {golem} 1.0.0 is here and explores cutting-edge AI integrations including illiahaidar/mcptrustchecker (21 stars), Thirumalaiboobathi/opentel-mcp (2 stars).",

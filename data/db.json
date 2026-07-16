@@ -3846,9 +3846,107 @@
       "score": 16.5,
       "read": false,
       "id": "item_1784155524"
+    },
+    {
+      "title": "bioconductor-source/StatescopeR (0 stars)",
+      "url": "https://github.com/bioconductor-source/StatescopeR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-16",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784241905"
+    },
+    {
+      "title": "bioconductor-source/EpipwR (0 stars)",
+      "url": "https://github.com/bioconductor-source/EpipwR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-16",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784241906"
+    },
+    {
+      "title": "Yang-Shuangxi/clinical-prediction-modeling-r-skill (2 stars)",
+      "url": "https://github.com/Yang-Shuangxi/clinical-prediction-modeling-r-skill",
+      "summary": "A bilingual Codex skill for reproducible clinical prediction modeling and validation in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-16",
+      "tags": [
+        "codex"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1784241907"
+    },
+    {
+      "title": "chrisobeser/windkanal (1 stars)",
+      "url": "https://github.com/chrisobeser/windkanal",
+      "summary": "Simulated psychotherapy clinics in which the true effects are known: test estimators, analysis protocols, and questionnaires under therapist nesting before they meet real data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-16",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1784241908"
+    },
+    {
+      "title": "limmaDeseq2/codex-agents-windows-wsl-bioinformatics (1 stars)",
+      "url": "https://github.com/limmaDeseq2/codex-agents-windows-wsl-bioinformatics",
+      "summary": "适用于 Windows + WSL 生物信息学工作流的 Codex AGENTS.md",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-16",
+      "tags": [
+        "codex",
+        "agents"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1784241909"
+    },
+    {
+      "title": "nirholas/robinhood-chain-mcp (2 stars)",
+      "url": "https://github.com/nirholas/robinhood-chain-mcp",
+      "summary": "Model Context Protocol servers for Robinhood Chain — zero-config read-only data server plus an opt-in trading server with hard spend caps and confirm gates. ",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-16",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1784241910"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-16",
+      "editorial_summary": "Briefing compiled on July 16, 2026. Today's selection highlights new R packages and features like bioconductor-source/StatescopeR (0 stars), bioconductor-source/EpipwR (0 stars) and explores cutting-edge AI integrations including limmaDeseq2/codex-agents-windows-wsl-bioinformatics (1 stars), nirholas/robinhood-chain-mcp (2 stars).",
+      "items": [
+        "item_1784241905",
+        "item_1784241906",
+        "item_1784241907",
+        "item_1784241908",
+        "item_1784241909",
+        "item_1784241910"
+      ]
+    },
     {
       "date": "2026-07-15",
       "editorial_summary": "Briefing compiled on July 15, 2026. Today's selection highlights new R packages and features like Repost: Automatically compile Quarto reports when new data lands, bioconductor-source/bedbaser (0 stars) and explores cutting-edge AI integrations including gokhan-ciftci/cisco-aci-mcp-server (2 stars), djtelicloud/grok-mcp-server (11 stars).",

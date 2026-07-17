@@ -3932,9 +3932,107 @@
       "score": 13.0,
       "read": false,
       "id": "item_1784241910"
+    },
+    {
+      "title": "bioconductor-source/SuperCellCyto (1 stars)",
+      "url": "https://github.com/bioconductor-source/SuperCellCyto",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-17",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784327778"
+    },
+    {
+      "title": "bioconductor-source/FinfoMDS (0 stars)",
+      "url": "https://github.com/bioconductor-source/FinfoMDS",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-17",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784327779"
+    },
+    {
+      "title": "felipeandrade91/Data-Analytics-Portfolio (1 stars)",
+      "url": "https://github.com/felipeandrade91/Data-Analytics-Portfolio",
+      "summary": "Curated portfolio of Data Analytics, Business Intelligence, SQL, Power BI, Python and Machine Learning projects built from real-world datasets.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-17",
+      "tags": [
+        "machine learning",
+        "analytics"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1784327780"
+    },
+    {
+      "title": "Five pre-flight checks for your dashboard",
+      "url": "https://www.r-bloggers.com/2026/07/five-pre-flight-checks-for-your-dashboard/",
+      "summary": "So you’ve built your data pipeline, you’ve designed your dashboard and you’ve connected the two through a real app. The screenshots match the designs and you can show it off and wow the stakeholder...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-17",
+      "tags": [
+        "dashboard"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1784327781"
+    },
+    {
+      "title": "kotyzap/AXIS-Camera-MCP-Server (3 stars)",
+      "url": "https://github.com/kotyzap/AXIS-Camera-MCP-Server",
+      "summary": "📷 The first on-camera Model Context Protocol server for AXIS cameras. One .eap opens the camera to Claude, Gemini, ChatGPT and Perplexity 🤖 — no cloud ☁️, no middleware. Zero hops. Zero cloud. ⚡",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-17",
+      "tags": [
+        "mcp"
+      ],
+      "score": 17.5,
+      "read": false,
+      "id": "item_1784327782"
+    },
+    {
+      "title": "kakunin-ai/kakunin-mcp (1 stars)",
+      "url": "https://github.com/kakunin-ai/kakunin-mcp",
+      "summary": "MCP server for AI agent compliance — verify a certificate, check scope, and log audit events over the Model Context Protocol. Works with Claude & Cursor.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-17",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1784327783"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-17",
+      "editorial_summary": "Briefing compiled on July 17, 2026. Today's selection highlights new R packages and features like bioconductor-source/SuperCellCyto (1 stars), bioconductor-source/FinfoMDS (0 stars) and explores cutting-edge AI integrations including kotyzap/AXIS-Camera-MCP-Server (3 stars), kakunin-ai/kakunin-mcp (1 stars).",
+      "items": [
+        "item_1784327778",
+        "item_1784327779",
+        "item_1784327780",
+        "item_1784327781",
+        "item_1784327782",
+        "item_1784327783"
+      ]
+    },
     {
       "date": "2026-07-16",
       "editorial_summary": "Briefing compiled on July 16, 2026. Today's selection highlights new R packages and features like bioconductor-source/StatescopeR (0 stars), bioconductor-source/EpipwR (0 stars) and explores cutting-edge AI integrations including limmaDeseq2/codex-agents-windows-wsl-bioinformatics (1 stars), nirholas/robinhood-chain-mcp (2 stars).",

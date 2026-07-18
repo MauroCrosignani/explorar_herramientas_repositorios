@@ -4018,9 +4018,107 @@
       "score": 17.0,
       "read": false,
       "id": "item_1784327783"
+    },
+    {
+      "title": "Mapping U.S. Rents by County in R with tidycensus, sf and ggplot2",
+      "url": "https://www.r-bloggers.com/2026/07/mapping-u-s-rents-by-county-in-r-with-tidycensus-sf-and-ggplot2/",
+      "summary": "The U.S. Census Bureau publishes the rent that a typical household pays in every county in the country, updated every year, and gives it…\n\n\nContinue reading: Mapping U.S. Rents by County in R with ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-18",
+      "tags": [
+        "ggplot",
+        "sf"
+      ],
+      "score": 14.0,
+      "read": false,
+      "id": "item_1784414153"
+    },
+    {
+      "title": "How to Put your Course Book Online",
+      "url": "https://www.r-bloggers.com/2026/07/how-to-put-your-course-book-online-2/",
+      "summary": "Credibly\n    Curious\n    Nick Tierney's (mostly) rstats blog\nI recently gave a talk, The value in teaching is not the content it’s the teacher\nMy main point in this is:\nYour course materials should...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-18",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1784414154"
+    },
+    {
+      "title": "feng0214666/masld-hcc-transcriptomics (1 stars)",
+      "url": "https://github.com/feng0214666/masld-hcc-transcriptomics",
+      "summary": "跨队列分析MASLD不同严重阶段及MASLD相关肝细胞癌中的脂质代谢和Hippo–YAP转录程序。Cross-cohort transcriptomic analysis of lipid metabolism and Hippo–YAP programs across MASLD severity and MASLD-associated hepatocellular carcinoma.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-18",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1784414155"
+    },
+    {
+      "title": "DAVIDML2005/Estimator-Properties-Simulation (0 stars)",
+      "url": "https://github.com/DAVIDML2005/Estimator-Properties-Simulation",
+      "summary": "R simulations illustrating the fundamental properties of statistical estimators, including unbiasedness, consistency, and efficiency through Monte Carlo experiments and inferential statistics",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-18",
+      "tags": [
+        "statistics"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1784414156"
+    },
+    {
+      "title": "myou260312-eng/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/myou260312-eng/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-18",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1784414157"
+    },
+    {
+      "title": "liumingxin2004/codex-agents-windows-wsl-bioinformatics (2 stars)",
+      "url": "https://github.com/liumingxin2004/codex-agents-windows-wsl-bioinformatics",
+      "summary": "适用于 Windows + WSL 生物信息学工作流的 Codex AGENTS.md",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-18",
+      "tags": [
+        "codex",
+        "agents"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1784414158"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-18",
+      "editorial_summary": "Briefing compiled on July 18, 2026. Today's selection highlights new R packages and features like Mapping U.S. Rents by County in R with tidycensus, sf and ggplot2, How to Put your Course Book Online and explores cutting-edge AI integrations including myou260312-eng/skills-integrate-mcp-with-copilot (1 stars), liumingxin2004/codex-agents-windows-wsl-bioinformatics (2 stars).",
+      "items": [
+        "item_1784414153",
+        "item_1784414154",
+        "item_1784414155",
+        "item_1784414156",
+        "item_1784414157",
+        "item_1784414158"
+      ]
+    },
     {
       "date": "2026-07-17",
       "editorial_summary": "Briefing compiled on July 17, 2026. Today's selection highlights new R packages and features like bioconductor-source/SuperCellCyto (1 stars), bioconductor-source/FinfoMDS (0 stars) and explores cutting-edge AI integrations including kotyzap/AXIS-Camera-MCP-Server (3 stars), kakunin-ai/kakunin-mcp (1 stars).",

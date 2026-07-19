@@ -4104,9 +4104,107 @@
       "score": 13.0,
       "read": false,
       "id": "item_1784414158"
+    },
+    {
+      "title": "bioconductor-source/GExPipe (0 stars)",
+      "url": "https://github.com/bioconductor-source/GExPipe",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-19",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784500717"
+    },
+    {
+      "title": "bioconductor-source/MsStash (0 stars)",
+      "url": "https://github.com/bioconductor-source/MsStash",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-19",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784500718"
+    },
+    {
+      "title": "neerugantibhavana-lab2code/ngs-analysis (0 stars)",
+      "url": "https://github.com/neerugantibhavana-lab2code/ngs-analysis",
+      "summary": "Collection of NGS analysis pipelines, transcriptomics, genomics, and bioinformatics workflows developed during my M.Sc. Biotechnology & Bioinformatics.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-19",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1784500719"
+    },
+    {
+      "title": "udaya-ds/clinical-trial-adverse-event-prediction-r (0 stars)",
+      "url": "https://github.com/udaya-ds/clinical-trial-adverse-event-prediction-r",
+      "summary": "Reproducible R pipeline predicting clinical trial adverse events from CDISC Pilot Study (ADaM) data — feature selection (LASSO, VIF, random forest), logistic regression, and a tidymodels model comp...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-19",
+      "tags": [
+        "tidymodels"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1784500720"
+    },
+    {
+      "title": "DIDA-AI/Dida-Hotel-MCP-Global (14 stars)",
+      "url": "https://github.com/DIDA-AI/Dida-Hotel-MCP-Global",
+      "summary": "Official DIDA Hotel Booking MCP Server. World #3 B2B travel corp, 14y supply chain, 2M hotels at B2B rates, 40+ LLM compatible. Free access for businesses & solo developers with unlimited calls. Fi...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-19",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1784500721"
+    },
+    {
+      "title": "yourlastnamesoundslikeatypeofpasta/acumatica-mcp-server (1 stars)",
+      "url": "https://github.com/yourlastnamesoundslikeatypeofpasta/acumatica-mcp-server",
+      "summary": "A Model Context Protocol (MCP) server for Acumatica ERP",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-19",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1784500722"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-19",
+      "editorial_summary": "Briefing compiled on July 19, 2026. Today's selection highlights new R packages and features like bioconductor-source/GExPipe (0 stars), bioconductor-source/MsStash (0 stars) and explores cutting-edge AI integrations including DIDA-AI/Dida-Hotel-MCP-Global (14 stars), yourlastnamesoundslikeatypeofpasta/acumatica-mcp-server (1 stars).",
+      "items": [
+        "item_1784500717",
+        "item_1784500718",
+        "item_1784500719",
+        "item_1784500720",
+        "item_1784500721",
+        "item_1784500722"
+      ]
+    },
     {
       "date": "2026-07-18",
       "editorial_summary": "Briefing compiled on July 18, 2026. Today's selection highlights new R packages and features like Mapping U.S. Rents by County in R with tidycensus, sf and ggplot2, How to Put your Course Book Online and explores cutting-edge AI integrations including myou260312-eng/skills-integrate-mcp-with-copilot (1 stars), liumingxin2004/codex-agents-windows-wsl-bioinformatics (2 stars).",

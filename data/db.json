@@ -4190,9 +4190,108 @@
       "score": 13.5,
       "read": false,
       "id": "item_1784500722"
+    },
+    {
+      "title": "bioconductor-source/wSIR (0 stars)",
+      "url": "https://github.com/bioconductor-source/wSIR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-20",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784587429"
+    },
+    {
+      "title": "AlejoMonsalvec11/data-visualization-transformation-project-taxi (0 stars)",
+      "url": "https://github.com/AlejoMonsalvec11/data-visualization-transformation-project-taxi",
+      "summary": "R Project (Duke University, EE.UU)",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-20",
+      "tags": [
+        "sf",
+        "visualization"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1784587430"
+    },
+    {
+      "title": "natebuckholdt/NBA-Team-Success-Analysis (0 stars)",
+      "url": "https://github.com/natebuckholdt/NBA-Team-Success-Analysis",
+      "summary": "R analysis of 2025-26 NBA team performance using regression, PCA, k-means clustering, and data visualization.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-20",
+      "tags": [
+        "visualization"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1784587431"
+    },
+    {
+      "title": "Nasunaj/portfolio (0 stars)",
+      "url": "https://github.com/Nasunaj/portfolio",
+      "summary": "🚀 Portfolio of Janushan CHRISTY - Data Scientist & Full-Stack Dev (SAS/R/Python/Django/JS/HTML/CSS). 8+ years Actalia in statistical modeling & data analysis. Founder Numédata. OpenClassrooms student.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-20",
+      "tags": [
+        "general"
+      ],
+      "score": 4,
+      "read": false,
+      "id": "item_1784587432"
+    },
+    {
+      "title": "eliestroun14/unreal-engine-mcp-toolkit (2 stars)",
+      "url": "https://github.com/eliestroun14/unreal-engine-mcp-toolkit",
+      "summary": "Control Unreal Engine from an AI assistant via the Model Context Protocol - C++ editor plugin + Python MCP server with extended Blueprint graph manipulation.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-20",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1784587433"
+    },
+    {
+      "title": "Kuhakucai/douyin-mcp (19 stars)",
+      "url": "https://github.com/Kuhakucai/douyin-mcp",
+      "summary": "⚡ 本地运行的抖音创作者数据 MCP Server：让 AI 读懂你的抖音创作数据，能够进行查询、对比并复盘作品表现。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-20",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1784587434"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-20",
+      "editorial_summary": "Briefing compiled on July 20, 2026. Today's selection highlights new R packages and features like bioconductor-source/wSIR (0 stars), AlejoMonsalvec11/data-visualization-transformation-project-taxi (0 stars) and explores cutting-edge AI integrations including eliestroun14/unreal-engine-mcp-toolkit (2 stars), Kuhakucai/douyin-mcp (19 stars).",
+      "items": [
+        "item_1784587429",
+        "item_1784587430",
+        "item_1784587431",
+        "item_1784587432",
+        "item_1784587433",
+        "item_1784587434"
+      ]
+    },
     {
       "date": "2026-07-19",
       "editorial_summary": "Briefing compiled on July 19, 2026. Today's selection highlights new R packages and features like bioconductor-source/GExPipe (0 stars), bioconductor-source/MsStash (0 stars) and explores cutting-edge AI integrations including DIDA-AI/Dida-Hotel-MCP-Global (14 stars), yourlastnamesoundslikeatypeofpasta/acumatica-mcp-server (1 stars).",

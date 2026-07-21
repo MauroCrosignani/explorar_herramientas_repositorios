@@ -4277,9 +4277,108 @@
       "score": 13.0,
       "read": false,
       "id": "item_1784587434"
+    },
+    {
+      "title": "bioconductor-source/barmixR (0 stars)",
+      "url": "https://github.com/bioconductor-source/barmixR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-21",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784673755"
+    },
+    {
+      "title": "Little useless-useful R functions – Jug solver with Bezout’s Identity",
+      "url": "https://www.r-bloggers.com/2026/07/little-useless-useful-r-functions-jug-solver-with-bezouts-identity/",
+      "summary": "We all were presented with this problem – water jug problem, which – in the time of Football world cup 2026 – can be translated to any liquid. *hint hint* But the riddle is as logical as mathematic...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-21",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1784673756"
+    },
+    {
+      "title": "ValDevelopment/league-of-legends-modeling (0 stars)",
+      "url": "https://github.com/ValDevelopment/league-of-legends-modeling",
+      "summary": "Four-part statistical analysis of professional League of Legends esports data (R): win prediction, meta-trend forecasting, Elo-based team ratings, and patch-impact hypothesis testing",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-21",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1784673757"
+    },
+    {
+      "title": "hrishikeshtavar/underground-temperature-analysis (0 stars)",
+      "url": "https://github.com/hrishikeshtavar/underground-temperature-analysis",
+      "summary": "R analysis of London Underground line temperatures — physically-informed outlier detection, Welch's t-test, and Cohen's d effect sizes.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-21",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1784673758"
+    },
+    {
+      "title": "ProfessionalQwerty/OptiMCP (7 stars)",
+      "url": "https://github.com/ProfessionalQwerty/OptiMCP",
+      "summary": "Deterministic decision engine for AI Agents. A Model Context Protocol (MCP) server & function-calling tool that turns natural language budget, scheduling, and resource allocation tasks into verifie...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-21",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1784673759"
+    },
+    {
+      "title": "ptai-eng/synapse-mcp (2 stars)",
+      "url": "https://github.com/ptai-eng/synapse-mcp",
+      "summary": "A modern, lightweight C++23 SDK for the Model Context Protocol (MCP)",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-21",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1784673760"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-21",
+      "editorial_summary": "Briefing compiled on July 21, 2026. Today's selection highlights new R packages and features like bioconductor-source/barmixR (0 stars), Little useless-useful R functions – Jug solver with Bezout’s Identity and explores cutting-edge AI integrations including ProfessionalQwerty/OptiMCP (7 stars), ptai-eng/synapse-mcp (2 stars).",
+      "items": [
+        "item_1784673755",
+        "item_1784673756",
+        "item_1784673757",
+        "item_1784673758",
+        "item_1784673759",
+        "item_1784673760"
+      ]
+    },
     {
       "date": "2026-07-20",
       "editorial_summary": "Briefing compiled on July 20, 2026. Today's selection highlights new R packages and features like bioconductor-source/wSIR (0 stars), AlejoMonsalvec11/data-visualization-transformation-project-taxi (0 stars) and explores cutting-edge AI integrations including eliestroun14/unreal-engine-mcp-toolkit (2 stars), Kuhakucai/douyin-mcp (19 stars).",

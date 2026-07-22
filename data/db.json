@@ -4364,9 +4364,110 @@
       "score": 13.0,
       "read": false,
       "id": "item_1784673760"
+    },
+    {
+      "title": "Mapping Live U.S. Wildfire Smoke in R with sf and ggplot2",
+      "url": "https://www.r-bloggers.com/2026/07/mapping-live-u-s-wildfire-smoke-in-r-with-sf-and-ggplot2/",
+      "summary": "NOAA analysts trace wildfire smoke plumes from satellite imagery every day and publish them as open GIS shapefiles. The files live at a predictable,…\n\n\nContinue reading: Mapping Live U.S. Wildfire ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-22",
+      "tags": [
+        "ggplot",
+        "sf"
+      ],
+      "score": 14.0,
+      "read": false,
+      "id": "item_1784760624"
+    },
+    {
+      "title": "mmanaylopez/rdsframe (0 stars)",
+      "url": "https://github.com/mmanaylopez/rdsframe",
+      "summary": "rdsframe reads common R data.frame and data.table objects from binary RDS files directly into pandas. Numeric vectors are filled in their final NumPy allocation, which avoids the large intermediate...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-22",
+      "tags": [
+        "sf"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1784760625"
+    },
+    {
+      "title": "alimkarayc/seismicity-analysis (0 stars)",
+      "url": "https://github.com/alimkarayc/seismicity-analysis",
+      "summary": "Comparación estadística de la sismicidad entre Chile Central y México–Centroamérica utilizando datos del USGS y R. (2000-2025)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-22",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1784760626"
+    },
+    {
+      "title": "Gratia2533/pipe-stock-analysis (19 stars)",
+      "url": "https://github.com/Gratia2533/pipe-stock-analysis",
+      "summary": "Self-hostable read-only finance MCP server for Taiwan and global stocks. Bring your own FinMind and Finnhub credentials.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-22",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1784760627"
+    },
+    {
+      "title": "shrishailrana-maker/Vikunja-fastmcp (2 stars)",
+      "url": "https://github.com/shrishailrana-maker/Vikunja-fastmcp",
+      "summary": "Model Context Protocol server for Vikunja task management. Enables AI assistants to interact with Vikunja instances via MCP.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-22",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1784760628"
+    },
+    {
+      "title": "Smallcubed/MailMavenMCP (2 stars)",
+      "url": "https://github.com/Smallcubed/MailMavenMCP",
+      "summary": "Model Context Protocol server for LLM to communicate with MailMaven",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-22",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1784760629"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-22",
+      "editorial_summary": "Briefing compiled on July 22, 2026. Today's selection highlights new R packages and features like Mapping Live U.S. Wildfire Smoke in R with sf and ggplot2, mmanaylopez/rdsframe (0 stars) and explores cutting-edge AI integrations including shrishailrana-maker/Vikunja-fastmcp (2 stars), Smallcubed/MailMavenMCP (2 stars).",
+      "items": [
+        "item_1784760624",
+        "item_1784760625",
+        "item_1784760626",
+        "item_1784760627",
+        "item_1784760628",
+        "item_1784760629"
+      ]
+    },
     {
       "date": "2026-07-21",
       "editorial_summary": "Briefing compiled on July 21, 2026. Today's selection highlights new R packages and features like bioconductor-source/barmixR (0 stars), Little useless-useful R functions – Jug solver with Bezout’s Identity and explores cutting-edge AI integrations including ProfessionalQwerty/OptiMCP (7 stars), ptai-eng/synapse-mcp (2 stars).",

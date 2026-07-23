@@ -4453,9 +4453,114 @@
       "score": 14.5,
       "read": false,
       "id": "item_1784760629"
+    },
+    {
+      "title": "Mcfcalderon/airline-passenger-satisfaction-analytics (0 stars)",
+      "url": "https://github.com/Mcfcalderon/airline-passenger-satisfaction-analytics",
+      "summary": "Analisis multivariado de satisfaccion de pasajeros aereos: PCA, K-Means y regresion logistica con dashboard Shiny (R).",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-23",
+      "tags": [
+        "shiny",
+        "sf",
+        "ai",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1784846646"
+    },
+    {
+      "title": "sebollin/bigbang (1 stars)",
+      "url": "https://github.com/sebollin/bigbang",
+      "summary": "bigbang — create custom R metapackages from local packages. Builds tidyverse-style metapackages from local R package archives (.tar.gz/.zip). Offline-first, for teams behind institutional firewalls.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-23",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1784846647"
+    },
+    {
+      "title": "AllanDS-coder/Kenya_Climate_Analytics_Dashboard (0 stars)",
+      "url": "https://github.com/AllanDS-coder/Kenya_Climate_Analytics_Dashboard",
+      "summary": "Interactive R Shiny dashboard for exploring county-level temperature and rainfall trends across Kenya (1990–2018).",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-23",
+      "tags": [
+        "shiny",
+        "ai",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1784846648"
+    },
+    {
+      "title": "sab-dab/ra-gut-microbiome-analysis (1 stars)",
+      "url": "https://github.com/sab-dab/ra-gut-microbiome-analysis",
+      "summary": "R scripts for microbiome preprocessing, differential abundance analysis, and machine learning–based prediction of rheumatoid arthritis.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-23",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1784846649"
+    },
+    {
+      "title": "Milanprobe/Shared-Session-Memory-Protocol-Codex-Claude_Code-main (2 stars)",
+      "url": "https://github.com/Milanprobe/Shared-Session-Memory-Protocol-Codex-Claude_Code-main",
+      "summary": "The Shared Session Memory Protocol solves a fundamental problem of AI agents: the loss of context and continuity between different work sessions and different AI tools.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-23",
+      "tags": [
+        "codex",
+        "agents",
+        "ai"
+      ],
+      "score": 19.5,
+      "read": false,
+      "id": "item_1784846650"
+    },
+    {
+      "title": "cet-kslavin/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/cet-kslavin/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-23",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1784846651"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-23",
+      "editorial_summary": "Briefing compiled on July 23, 2026. Today's selection highlights new R packages and features like Mcfcalderon/airline-passenger-satisfaction-analytics (0 stars), sebollin/bigbang (1 stars) and explores cutting-edge AI integrations including Milanprobe/Shared-Session-Memory-Protocol-Codex-Claude_Code-main (2 stars), cet-kslavin/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1784846646",
+        "item_1784846647",
+        "item_1784846648",
+        "item_1784846649",
+        "item_1784846650",
+        "item_1784846651"
+      ]
+    },
     {
       "date": "2026-07-22",
       "editorial_summary": "Briefing compiled on July 22, 2026. Today's selection highlights new R packages and features like Mapping Live U.S. Wildfire Smoke in R with sf and ggplot2, mmanaylopez/rdsframe (0 stars) and explores cutting-edge AI integrations including shrishailrana-maker/Vikunja-fastmcp (2 stars), Smallcubed/MailMavenMCP (2 stars).",

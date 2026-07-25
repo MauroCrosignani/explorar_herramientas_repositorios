@@ -4634,9 +4634,109 @@
       "score": 15.0,
       "read": false,
       "id": "item_1784933407"
+    },
+    {
+      "title": "Eruption: announcing new R package VolcanoPlotR",
+      "url": "https://www.r-bloggers.com/2026/07/eruption-announcing-new-r-package-volcanoplotr/",
+      "summary": "This is a short post to announce the release of an R package, VolcanoPlotR. Background Using proteomics, we often want to compare two experimental groups. A popular way to visualise this comparison...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-25",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785019286"
+    },
+    {
+      "title": "From Peer Review to Mentorship: My rOpenSci Story",
+      "url": "https://www.r-bloggers.com/2026/07/from-peer-review-to-mentorship-my-ropensci-story/",
+      "summary": "Getting Involved with rOpenSci\nI first came to rOpenSci in 2022, though at the time I barely knew what it was.\nI was getting a statistical package of mine ready to submit to the Journal of Statisti...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-25",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785019287"
+    },
+    {
+      "title": "controller: tidy messy terminology in R with controlled vocabularies",
+      "url": "https://www.r-bloggers.com/2026/07/controller-tidy-messy-terminology-in-r-with-controlled-vocabularies/",
+      "summary": "controller is an R package for working with controlled vocabularies.\nIt’s first release (v0.1.0) is now available now on CRAN.\nThe package addresses something I find myself doing very often in anal...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-25",
+      "tags": [
+        "cran",
+        "ai"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1785019288"
+    },
+    {
+      "title": "muttest 0.3.0: Turn surviving mutants into a to-do list",
+      "url": "https://www.r-bloggers.com/2026/07/muttest-0-3-0-turn-surviving-mutants-into-a-to-do-list/",
+      "summary": "HTML and JSON reporting, and smarter scoring for mutation testing in R.\n\n\nContinue reading: muttest 0.3.0: Turn surviving mutants into a to-do list",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-25",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1785019289"
+    },
+    {
+      "title": "sandeepbazar/ocm-mcp-server (20 stars)",
+      "url": "https://github.com/sandeepbazar/ocm-mcp-server",
+      "summary": "An MCP server that lets AI agents operate a multi-cluster Kubernetes fleet through an Open Cluster Management hub, with policy, approval, and audit between the model and your clusters.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-25",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1785019290"
+    },
+    {
+      "title": "AleBrito124356/mcp-server-cookbook (2 stars)",
+      "url": "https://github.com/AleBrito124356/mcp-server-cookbook",
+      "summary": "Five ready-to-use Model Context Protocol servers — SQL analytics, web research, knowledge base, safe filesystem, REST bridge — with Claude configs",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-25",
+      "tags": [
+        "mcp",
+        "analytics"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1785019291"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-25",
+      "editorial_summary": "Briefing compiled on July 25, 2026. Today's selection highlights new R packages and features like Eruption: announcing new R package VolcanoPlotR, From Peer Review to Mentorship: My rOpenSci Story and explores cutting-edge AI integrations including sandeepbazar/ocm-mcp-server (20 stars), AleBrito124356/mcp-server-cookbook (2 stars).",
+      "items": [
+        "item_1785019286",
+        "item_1785019287",
+        "item_1785019288",
+        "item_1785019289",
+        "item_1785019290",
+        "item_1785019291"
+      ]
+    },
     {
       "date": "2026-07-24",
       "editorial_summary": "Briefing compiled on July 24, 2026. Today's selection highlights new R packages and features like A world still to be mapped: reflections on geocomputation in R: takeaways from the talk and workshop at UseR! 2026, Level With Me: Can the WGI Predict the WJP’s Rule of Law Scores? and explores cutting-edge AI integrations including DevnorsAI/devnors-data-mcp (5 stars), replynodes/replynodes-mcp (3 stars).",

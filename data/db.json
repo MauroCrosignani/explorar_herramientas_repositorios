@@ -4722,9 +4722,106 @@
       "score": 13.0,
       "read": false,
       "id": "item_1785019291"
+    },
+    {
+      "title": "GPopt for R: Bayesian and conformal optimization of black-box functions and hyperparameter tuning",
+      "url": "https://www.r-bloggers.com/2026/07/gpopt-for-r-bayesian-and-conformal-optimization-of-black-box-functions-and-hyperparameter-tuning/",
+      "summary": "GPopt for R: Bayesian and conformal optimization of black-box functions and hyperparameter tuning\n\n\nContinue reading: GPopt for R: Bayesian and conformal optimization of black-box functions and hyp...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-26",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785105959"
+    },
+    {
+      "title": "My last R posts: How conformalization helps weak models, fast conformal prediction with jackknife+ (and no refitting), and sklearn in R",
+      "url": "https://www.r-bloggers.com/2026/07/my-last-r-posts-how-conformalization-helps-weak-models-fast-conformal-prediction-with-jackknife-and-no-refitting-and-sklearn-in-r/",
+      "summary": "My last R posts: How conformalization helps weak models, fast conformal prediction with jackknife+ (and no refitting), and sklearn in R.\n\n\nContinue reading: My last R posts: How conformalization he...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-26",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785105960"
+    },
+    {
+      "title": "elgikore/bad-apple-r (1 stars)",
+      "url": "https://github.com/elgikore/bad-apple-r",
+      "summary": "R (and by extension RStudio) are the programming language for statistics and data science, but can it run Bad Apple?",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-26",
+      "tags": [
+        "statistics"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1785105961"
+    },
+    {
+      "title": "jinyangye119/Single-cell-pipeline (1 stars)",
+      "url": "https://github.com/jinyangye119/Single-cell-pipeline",
+      "summary": "Reproducible Nextflow pipeline for single-cell RNA-seq analysis",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-26",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1785105962"
+    },
+    {
+      "title": "animexteam/telebothost-mcp (2 stars)",
+      "url": "https://github.com/animexteam/telebothost-mcp",
+      "summary": "MCP (Model Context Protocol) server for the TeleBotHost Developer API. 46 tools covering bot lifecycle, storage, broadcasts, commands, and community store. Deploys on Vercel, Render, Railway, or an...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-26",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 14.0,
+      "read": false,
+      "id": "item_1785105963"
+    },
+    {
+      "title": "DoLovya/xianyu-mcp-server (2 stars)",
+      "url": "https://github.com/DoLovya/xianyu-mcp-server",
+      "summary": "闲鱼平台 Model Context Protocol 服务，为 Claude/Cursor 提供商品检索、价格监控、卖家信息查询工具",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-26",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1785105964"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-26",
+      "editorial_summary": "Briefing compiled on July 26, 2026. Today's selection highlights new R packages and features like GPopt for R: Bayesian and conformal optimization of black-box functions and hyperparameter tuning, My last R posts: How conformalization helps weak models, fast conformal prediction with jackknife+ (and no refitting), and sklearn in R and explores cutting-edge AI integrations including animexteam/telebothost-mcp (2 stars), DoLovya/xianyu-mcp-server (2 stars).",
+      "items": [
+        "item_1785105959",
+        "item_1785105960",
+        "item_1785105961",
+        "item_1785105962",
+        "item_1785105963",
+        "item_1785105964"
+      ]
+    },
     {
       "date": "2026-07-25",
       "editorial_summary": "Briefing compiled on July 25, 2026. Today's selection highlights new R packages and features like Eruption: announcing new R package VolcanoPlotR, From Peer Review to Mentorship: My rOpenSci Story and explores cutting-edge AI integrations including sandeepbazar/ocm-mcp-server (20 stars), AleBrito124356/mcp-server-cookbook (2 stars).",

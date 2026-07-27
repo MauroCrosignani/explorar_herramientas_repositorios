@@ -20,7 +20,8 @@
     "sf",
     "tidyverse",
     "tutorial",
-    "quarto-report"
+    "quarto-report",
+    "deep learning"
   ],
   "historical_items": [
     {
@@ -4807,9 +4808,109 @@
       "score": 13.5,
       "read": false,
       "id": "item_1785105964"
+    },
+    {
+      "title": "June 2026 Top 40 New CRAN Packages",
+      "url": "https://www.r-bloggers.com/2026/07/june-2026-top-40-new-cran-packages/",
+      "summary": "Four hundred twelve new packages were submitted to CRAN in June. Here are my Top 40 picks in nineteen categories: Bioarchaeology, Biology, Climate Studies, Computational Methods, Ecology, Epidemiol...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-27",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1785192484"
+    },
+    {
+      "title": "R Weekly 2026-W31 Building glue, Self-Describing Scripts, What Makes R Strong",
+      "url": "https://rweekly.org/2026-W31.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Colin, with help from the R Weekly team members and contributors.\n\nHighl...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-27",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785192485"
+    },
+    {
+      "title": "mtariqi/hospital-admissions-r-analysis (1 stars)",
+      "url": "https://github.com/mtariqi/hospital-admissions-r-analysis",
+      "summary": "DATA ANALYSIS IN A HOSPITAL ENVIRONMENT. dataset contains 137057 observations of 17 data-related variables in a hospital environment",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-27",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1785192486"
+    },
+    {
+      "title": "Sanaurrehmanarain/Sana-Data-Science-Portfolio (1 stars)",
+      "url": "https://github.com/Sanaurrehmanarain/Sana-Data-Science-Portfolio",
+      "summary": "Central catalogue of my Data Science, Machine Learning, Deep Learning, Quantitative Finance, and Database projects — each entry links to a dedicated repository with full code, documentation, and re...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-27",
+      "tags": [
+        "ai",
+        "machine learning",
+        "deep learning"
+      ],
+      "score": 5.0,
+      "read": false,
+      "id": "item_1785192487"
+    },
+    {
+      "title": "Nyaecho/ailycode-mcp (7 stars)",
+      "url": "https://github.com/Nyaecho/ailycode-mcp",
+      "summary": "本地 MCP（Model Context Protocol）服务，提供 16 个本地开发工具，通过 SSE/HTTP 远程连接",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-27",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1785192488"
+    },
+    {
+      "title": "tonnode/mcp (42 stars)",
+      "url": "https://github.com/tonnode/mcp",
+      "summary": "TON MCP server for Claude, ChatGPT, Cursor, Codex and any MCP client — liteserver queries over native ADNL: balances, account state, transaction history, get-methods. Private & archive endpoints su...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-27",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1785192489"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-27",
+      "editorial_summary": "Briefing compiled on July 27, 2026. Today's selection highlights new R packages and features like June 2026 Top 40 New CRAN Packages, R Weekly 2026-W31 Building glue, Self-Describing Scripts, What Makes R Strong and explores cutting-edge AI integrations including Nyaecho/ailycode-mcp (7 stars), tonnode/mcp (42 stars).",
+      "items": [
+        "item_1785192484",
+        "item_1785192485",
+        "item_1785192486",
+        "item_1785192487",
+        "item_1785192488",
+        "item_1785192489"
+      ]
+    },
     {
       "date": "2026-07-26",
       "editorial_summary": "Briefing compiled on July 26, 2026. Today's selection highlights new R packages and features like GPopt for R: Bayesian and conformal optimization of black-box functions and hyperparameter tuning, My last R posts: How conformalization helps weak models, fast conformal prediction with jackknife+ (and no refitting), and sklearn in R and explores cutting-edge AI integrations including animexteam/telebothost-mcp (2 stars), DoLovya/xianyu-mcp-server (2 stars).",

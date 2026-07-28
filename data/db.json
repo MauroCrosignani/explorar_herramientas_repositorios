@@ -4896,9 +4896,106 @@
       "score": 12.0,
       "read": false,
       "id": "item_1785192489"
+    },
+    {
+      "title": "YaoxiangLi/ggpalettes (0 stars)",
+      "url": "https://github.com/YaoxiangLi/ggpalettes",
+      "summary": "Curated scientific colour palettes and scales for ggplot2",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-28",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1785278902"
+    },
+    {
+      "title": "Some useful equations for biological processes",
+      "url": "https://www.r-bloggers.com/2026/07/some-useful-equations-for-biological-processes/",
+      "summary": "Biological phenomena are often studied by examining how a numerical variable, usually called the response (e.g., the weight or height of an organism), is affected by another variable, usually calle...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-28",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785278903"
+    },
+    {
+      "title": "A collection of self-starters for nonlinear regression in R",
+      "url": "https://www.r-bloggers.com/2026/07/a-collection-of-self-starters-for-nonlinear-regression-in-r-3/",
+      "summary": "Usually, the first step in every nonlinear regression analysis is to select the function  that best describes the phenomenon under study. The next step is to fit this function to the observed data,...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-28",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1785278904"
+    },
+    {
+      "title": "abdulmashuod/BRCA-genome-expression-analysis (1 stars)",
+      "url": "https://github.com/abdulmashuod/BRCA-genome-expression-analysis",
+      "summary": "Differential gene expression analysis of TCGA breast cancer RNA-seq data using DESeq2",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-28",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1785278905"
+    },
+    {
+      "title": "alphaparkinc/genpark-mcp-server-tool-schema-validator-skill (9 stars)",
+      "url": "https://github.com/alphaparkinc/genpark-mcp-server-tool-schema-validator-skill",
+      "summary": "Model Context Protocol (MCP) server tool JSON schema validator",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-28",
+      "tags": [
+        "mcp"
+      ],
+      "score": 20.5,
+      "read": false,
+      "id": "item_1785278906"
+    },
+    {
+      "title": "patsnap/patent-literature-search-mcp (97 stars)",
+      "url": "https://github.com/patsnap/patent-literature-search-mcp",
+      "summary": "Search 200M+ patents and scientific literature in natural language directly inside Claude, Cursor, or any MCP-compatible AI tool. Powered by PatSnap's global R&D intelligence database.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-28",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1785278907"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-28",
+      "editorial_summary": "Briefing compiled on July 28, 2026. Today's selection highlights new R packages and features like YaoxiangLi/ggpalettes (0 stars), Some useful equations for biological processes and explores cutting-edge AI integrations including alphaparkinc/genpark-mcp-server-tool-schema-validator-skill (9 stars), patsnap/patent-literature-search-mcp (97 stars).",
+      "items": [
+        "item_1785278902",
+        "item_1785278903",
+        "item_1785278904",
+        "item_1785278905",
+        "item_1785278906",
+        "item_1785278907"
+      ]
+    },
     {
       "date": "2026-07-27",
       "editorial_summary": "Briefing compiled on July 27, 2026. Today's selection highlights new R packages and features like June 2026 Top 40 New CRAN Packages, R Weekly 2026-W31 Building glue, Self-Describing Scripts, What Makes R Strong and explores cutting-edge AI integrations including Nyaecho/ailycode-mcp (7 stars), tonnode/mcp (42 stars).",

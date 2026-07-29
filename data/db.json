@@ -4981,9 +4981,93 @@
       "score": 12.0,
       "read": false,
       "id": "item_1785278907"
+    },
+    {
+      "title": "patrickkipkoech119-blip/global-diabetes-burden-intelligence (2 stars)",
+      "url": "https://github.com/patrickkipkoech119-blip/global-diabetes-burden-intelligence",
+      "summary": "Interactive R Shiny dashboard for analyzing the global burden of diabetes using Global Burden of Disease (GBD) data from 1990–2019.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-29",
+      "tags": [
+        "shiny",
+        "dashboard"
+      ],
+      "score": 1.0,
+      "read": false,
+      "id": "item_1785365112"
+    },
+    {
+      "title": "ntroduction to All Things About bpvars, the R package for Forecasting with Bayesian Panel Vector Autoregressions workshop",
+      "url": "https://www.r-bloggers.com/2026/07/ntroduction-to-all-things-about-bpvars-the-r-package-for-forecasting-with-bayesian-panel-vector-autoregressions-workshop/",
+      "summary": "Join our workshop on Introduction to All Things About bpvars, the R package for Forecasting with Bayesian Panel Vector Autoregressions,  which is a part of our workshops for Ukraine series!  Here’s...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-29",
+      "tags": [
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1785365113"
+    },
+    {
+      "title": "abdulmashuod/sars-cov2-variant-analysis (1 stars)",
+      "url": "https://github.com/abdulmashuod/sars-cov2-variant-analysis",
+      "summary": "Analyze SARS-CoV-2 genomic sequences from different countries and time periods to identify mutations, track variant emergence, and helps to understand viral evolution patterns. This project demonst...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-29",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1785365114"
+    },
+    {
+      "title": "awais2o/devops-deploy-guard-mcp-server (2 stars)",
+      "url": "https://github.com/awais2o/devops-deploy-guard-mcp-server",
+      "summary": "Production-ready, zero-knowledge AI DevOps deployment, infrastructure provisioning, self-healing execution engine, and runbook generator for VPS servers via Model Context Protocol (MCP).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-29",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 20.0,
+      "read": false,
+      "id": "item_1785365115"
+    },
+    {
+      "title": "dpmadsen/multimodels-mcp (16 stars)",
+      "url": "https://github.com/dpmadsen/multimodels-mcp",
+      "summary": "MCP server that lets Claude Code delegate tasks to GPT-5.6 (Codex CLI), DeepSeek, GLM, OpenRouter and local LM Studio models — plus a 198-run benchmark of all of them",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-29",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1785365116"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-29",
+      "editorial_summary": "Briefing compiled on July 29, 2026. Today's selection highlights new R packages and features like patrickkipkoech119-blip/global-diabetes-burden-intelligence (2 stars) and explores cutting-edge AI integrations including awais2o/devops-deploy-guard-mcp-server (2 stars), dpmadsen/multimodels-mcp (16 stars).",
+      "items": [
+        "item_1785365112",
+        "item_1785365113",
+        "item_1785365114",
+        "item_1785365115",
+        "item_1785365116"
+      ]
+    },
     {
       "date": "2026-07-28",
       "editorial_summary": "Briefing compiled on July 28, 2026. Today's selection highlights new R packages and features like YaoxiangLi/ggpalettes (0 stars), Some useful equations for biological processes and explores cutting-edge AI integrations including alphaparkinc/genpark-mcp-server-tool-schema-validator-skill (9 stars), patsnap/patent-literature-search-mcp (97 stars).",

@@ -5054,9 +5054,94 @@
       "score": 12.0,
       "read": false,
       "id": "item_1785365116"
+    },
+    {
+      "title": "era 0.6.0: chronological comparison and difference",
+      "url": "https://www.r-bloggers.com/2026/07/era-0-6-0-chronological-comparison-and-difference/",
+      "summary": "era v0.6.0 is now available on CRAN:\ninstall.packages(\"era\")\nlibrary(era)\nThis minor release adds functions for chronological comparison of year vectors:\nx  # BCE years &#038;lt...\nContinue reading...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-30",
+      "tags": [
+        "cran",
+        "ai"
+      ],
+      "score": 1.0,
+      "read": false,
+      "id": "item_1785452056"
+    },
+    {
+      "title": "leanlambrecht/glm-sgr-risk-analysis (0 stars)",
+      "url": "https://github.com/leanlambrecht/glm-sgr-risk-analysis",
+      "summary": "Análisis del riesgo de morosidad en Sociedades de Garantía Recíproca mediante modelos de regresión generalizados.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-30",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1785452057"
+    },
+    {
+      "title": "alexbrxdley/Bradley-Analytics-Software-Engine (1 stars)",
+      "url": "https://github.com/alexbrxdley/Bradley-Analytics-Software-Engine",
+      "summary": "Automated NBA shot chart and heat map generator built with Python, R, and the NBA API.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-30",
+      "tags": [
+        "analytics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1785452058"
+    },
+    {
+      "title": "joomengine/joomla-mcp (2 stars)",
+      "url": "https://github.com/joomengine/joomla-mcp",
+      "summary": "A Model Context Protocol (MCP) server that enables AI assistants to securely manage and automate Joomla sites through Joomla APIs and CLI tools.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-30",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1785452059"
+    },
+    {
+      "title": "livetennisapi/livetennisapi-mcp (214 stars)",
+      "url": "https://github.com/livetennisapi/livetennisapi-mcp",
+      "summary": "MCP server for the Live Tennis API — give Claude, Cursor and other LLM agents real-time tennis scores, odds and model win-probability",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-30",
+      "tags": [
+        "mcp",
+        "llm",
+        "agents"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1785452060"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-30",
+      "editorial_summary": "Briefing compiled on July 30, 2026. Today's selection highlights new R packages and features like era 0.6.0: chronological comparison and difference and explores cutting-edge AI integrations including joomengine/joomla-mcp (2 stars), livetennisapi/livetennisapi-mcp (214 stars).",
+      "items": [
+        "item_1785452056",
+        "item_1785452057",
+        "item_1785452058",
+        "item_1785452059",
+        "item_1785452060"
+      ]
+    },
     {
       "date": "2026-07-29",
       "editorial_summary": "Briefing compiled on July 29, 2026. Today's selection highlights new R packages and features like patrickkipkoech119-blip/global-diabetes-burden-intelligence (2 stars) and explores cutting-edge AI integrations including awais2o/devops-deploy-guard-mcp-server (2 stars), dpmadsen/multimodels-mcp (16 stars).",

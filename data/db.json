@@ -5128,9 +5128,90 @@
       "score": 11.5,
       "read": false,
       "id": "item_1785452060"
+    },
+    {
+      "title": "Spurious correlations 0.2 is on CRAN!",
+      "url": "https://www.r-bloggers.com/2026/07/spurious-correlations-0-2-is-on-cran/",
+      "summary": "This release adds feedback from students and instructors\n\n\nContinue reading: Spurious correlations 0.2 is on CRAN!",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-07-31",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1785538067"
+    },
+    {
+      "title": "bicerselimcan/time-series-stock-forecasting-arima-gam (1 stars)",
+      "url": "https://github.com/bicerselimcan/time-series-stock-forecasting-arima-gam",
+      "summary": "Econometric time-series forecasting of 3M stock prices using ARIMA, GAM, and LOESS smoothing in R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-31",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1785538068"
+    },
+    {
+      "title": "jeiku5/himalayan-bird-diversity (0 stars)",
+      "url": "https://github.com/jeiku5/himalayan-bird-diversity",
+      "summary": "Bird diversity across the Himalayan elevational gradient — R/tidyverse analysis of 38 field sites (UCSB × Smithsonian K-16 Data Science internship)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-07-31",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 5.5,
+      "read": false,
+      "id": "item_1785538069"
+    },
+    {
+      "title": "twomathematicians-code/raix (1 stars)",
+      "url": "https://github.com/twomathematicians-code/raix",
+      "summary": "raix = R + AI + eXperiment — AI coding assistant for RStudio. Chat, explain, debug, generate code with any model (OpenAI, Ollama, Claude, Groq, Mistral, DeepSeek + more).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-31",
+      "tags": [
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1785538070"
+    },
+    {
+      "title": "meshery-extensions/meshery-mcp-server (23 stars)",
+      "url": "https://github.com/meshery-extensions/meshery-mcp-server",
+      "summary": "The Meshery MCP Server extension - an MCP server that streamlines and accelerates creating Meshery designs",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-07-31",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1785538071"
     }
   ],
   "reports": [
+    {
+      "date": "2026-07-31",
+      "editorial_summary": "Briefing compiled on July 31, 2026. Today's selection highlights new R packages and features like Spurious correlations 0.2 is on CRAN! and explores cutting-edge AI integrations including twomathematicians-code/raix (1 stars), meshery-extensions/meshery-mcp-server (23 stars).",
+      "items": [
+        "item_1785538067",
+        "item_1785538068",
+        "item_1785538069",
+        "item_1785538070",
+        "item_1785538071"
+      ]
+    },
     {
       "date": "2026-07-30",
       "editorial_summary": "Briefing compiled on July 30, 2026. Today's selection highlights new R packages and features like era 0.6.0: chronological comparison and difference and explores cutting-edge AI integrations including joomengine/joomla-mcp (2 stars), livetennisapi/livetennisapi-mcp (214 stars).",

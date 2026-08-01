@@ -5198,9 +5198,94 @@
       "score": 11.5,
       "read": false,
       "id": "item_1785538071"
+    },
+    {
+      "title": "Little useless-useful R functions – Honest geographical location signposts",
+      "url": "https://www.r-bloggers.com/2026/08/little-useless-useful-r-functions-honest-geographical-location-signposts/",
+      "summary": "We have all seen colourful signposts with great cities and their distances – how far each is from this current standpoint. And fundamental question is, how correct these distances are? Or even, one...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-01",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785624126"
+    },
+    {
+      "title": "elene-hovsepyan/Statistical-Analysis-of-Recycling-Behavior (1 stars)",
+      "url": "https://github.com/elene-hovsepyan/Statistical-Analysis-of-Recycling-Behavior",
+      "summary": "Statistical analysis of environmental awareness and recycling behavior using hypothesis testing, correlation analysis, and data visualization in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-01",
+      "tags": [
+        "visualization"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1785624127"
+    },
+    {
+      "title": "elene-hovsepyan/TMDB-Movie-Analytics (1 stars)",
+      "url": "https://github.com/elene-hovsepyan/TMDB-Movie-Analytics",
+      "summary": "Movie analytics project using the TMDB dataset for data cleaning, exploratory analysis, visualization, and interactive movie information retrieval.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-01",
+      "tags": [
+        "visualization",
+        "analytics"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1785624128"
+    },
+    {
+      "title": "caleb-rossvtf8117/arch-ai-tools-service-hub (36 stars)",
+      "url": "https://github.com/caleb-rossvtf8117/arch-ai-tools-service-hub",
+      "summary": "Arch AI Tools is a unified Node.js interface for AI services, data access, automation, and utility operations, with a native MCP server for building connected tool workflows in 2026.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-01",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1785624129"
+    },
+    {
+      "title": "ryan-phq2005h1/github-mcp-server (51 stars)",
+      "url": "https://github.com/ryan-phq2005h1/github-mcp-server",
+      "summary": "Official GitHub MCP Server — connect AI agents to GitHub API",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-01",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1785624130"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-01",
+      "editorial_summary": "Briefing compiled on August 01, 2026. Today's selection highlights new R packages and features like Little useless-useful R functions – Honest geographical location signposts and explores cutting-edge AI integrations including caleb-rossvtf8117/arch-ai-tools-service-hub (36 stars), ryan-phq2005h1/github-mcp-server (51 stars).",
+      "items": [
+        "item_1785624126",
+        "item_1785624127",
+        "item_1785624128",
+        "item_1785624129",
+        "item_1785624130"
+      ]
+    },
     {
       "date": "2026-07-31",
       "editorial_summary": "Briefing compiled on July 31, 2026. Today's selection highlights new R packages and features like Spurious correlations 0.2 is on CRAN! and explores cutting-edge AI integrations including twomathematicians-code/raix (1 stars), meshery-extensions/meshery-mcp-server (23 stars).",

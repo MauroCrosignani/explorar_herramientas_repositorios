@@ -5272,9 +5272,92 @@
       "score": 14.5,
       "read": false,
       "id": "item_1785624130"
+    },
+    {
+      "title": "US oil stocks by @ellis2013nz",
+      "url": "https://www.r-bloggers.com/2026/07/us-oil-stocks-by-ellis2013nz/",
+      "summary": "Like many people I have been keeping track of the slow-burn fuel crisis arising from the war in Iran, its possible expansion to the Red Sea, and exacerbation from the ongoing war between Russia and...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-02",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1785710568"
+    },
+    {
+      "title": "‘garchf’: GARCH probabilistic forecasting with package ‘forecast’-style interface (and ‘rugarch’ under the hood)",
+      "url": "https://www.r-bloggers.com/2026/07/garchf-garch-probabilistic-forecasting-with-package-forecast-style-interface-and-rugarch-under-the-hood/",
+      "summary": "The package garchf wraps\nthe extensive GARCH modeling machinery in\nrugarch\nbehind a\nforecast-style\ninterface, so that GARCH-based forecasts can be produced, plotted, and\nevaluated with the same con...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-02",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1785710569"
+    },
+    {
+      "title": "FuentesAntro/ecommerce-sales-customer-analytics (1 stars)",
+      "url": "https://github.com/FuentesAntro/ecommerce-sales-customer-analytics",
+      "summary": "BI Consulting Engagement: RFM, Sales Diagnostics & 19% M1 Retention Audit | Python, R, Power BI | 5,878 customers, £7.2M",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-02",
+      "tags": [
+        "analytics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1785710570"
+    },
+    {
+      "title": "blessedberserker/MCP-Server-Aster-DEX (33 stars)",
+      "url": "https://github.com/blessedberserker/MCP-Server-Aster-DEX",
+      "summary": "MCP server for Aster DEX — a Model Context Protocol server that gives Claude, Cursor and Cline structured access to Aster DEX market data, volume, points and airdrop eligibility via natural languag...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-02",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1785710571"
+    },
+    {
+      "title": "Javatoky/image-generator-mcp (2 stars)",
+      "url": "https://github.com/Javatoky/image-generator-mcp",
+      "summary": "A secure Model Context Protocol (MCP) server for AI image generation. Supports OpenAI DALL-E, hatch-pet desktop pet sprites, chroma-key backgrounds, and reference image workflows.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-02",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1785710572"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-02",
+      "editorial_summary": "Briefing compiled on August 02, 2026. Today's selection highlights new R packages and features like US oil stocks by @ellis2013nz and explores cutting-edge AI integrations including blessedberserker/MCP-Server-Aster-DEX (33 stars), Javatoky/image-generator-mcp (2 stars).",
+      "items": [
+        "item_1785710568",
+        "item_1785710569",
+        "item_1785710570",
+        "item_1785710571",
+        "item_1785710572"
+      ]
+    },
     {
       "date": "2026-08-01",
       "editorial_summary": "Briefing compiled on August 01, 2026. Today's selection highlights new R packages and features like Little useless-useful R functions – Honest geographical location signposts and explores cutting-edge AI integrations including caleb-rossvtf8117/arch-ai-tools-service-hub (36 stars), ryan-phq2005h1/github-mcp-server (51 stars).",

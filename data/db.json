@@ -5344,9 +5344,77 @@
       "score": 12.0,
       "read": false,
       "id": "item_1785710572"
+    },
+    {
+      "title": "prakhar-quant/KEYNOTE-024-Survival-Extrapolation-Dashboard (1 stars)",
+      "url": "https://github.com/prakhar-quant/KEYNOTE-024-Survival-Extrapolation-Dashboard",
+      "summary": "Interactive R Shiny dashboard for Kaplan–Meier reconstruction, pseudo-IPD generation, parametric survival modeling, extrapolation and RMST analysis using the KEYNOTE-024 clinical trial.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-03",
+      "tags": [
+        "shiny",
+        "dashboard"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1785797305"
+    },
+    {
+      "title": "elene-hovsepyan/Data-Visualization-Project (1 stars)",
+      "url": "https://github.com/elene-hovsepyan/Data-Visualization-Project",
+      "summary": "Course project exploring, analyzing, and visualizing data using R and R Markdown through exploratory data analysis and reproducible reporting.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-03",
+      "tags": [
+        "visualization"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1785797306"
+    },
+    {
+      "title": "isabelpapaya/MCP-Server-Lighter (45 stars)",
+      "url": "https://github.com/isabelpapaya/MCP-Server-Lighter",
+      "summary": "MCP server for Lighter — a Model Context Protocol server that lets Claude, Cursor and Cline query Lighter (lighter.xyz) volume, points, rank and airdrop eligibility in natural language. Read-only —...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-03",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1785797307"
+    },
+    {
+      "title": "walkererik1991/energyplus-idf-mcp-server (38 stars)",
+      "url": "https://github.com/walkererik1991/energyplus-idf-mcp-server",
+      "summary": "Python Model Context Protocol server for EnergyPlus building energy simulation. Inspect, change, validate, visualize, and simulate building models through structured tools, with stdio and streamabl...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-03",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1785797308"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-03",
+      "editorial_summary": "Briefing compiled on August 03, 2026. Today's selection explores cutting-edge AI integrations including isabelpapaya/MCP-Server-Lighter (45 stars), walkererik1991/energyplus-idf-mcp-server (38 stars).",
+      "items": [
+        "item_1785797305",
+        "item_1785797306",
+        "item_1785797307",
+        "item_1785797308"
+      ]
+    },
     {
       "date": "2026-08-02",
       "editorial_summary": "Briefing compiled on August 02, 2026. Today's selection highlights new R packages and features like US oil stocks by @ellis2013nz and explores cutting-edge AI integrations including blessedberserker/MCP-Server-Aster-DEX (33 stars), Javatoky/image-generator-mcp (2 stars).",

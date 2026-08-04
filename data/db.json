@@ -5402,9 +5402,91 @@
       "score": 13.5,
       "read": false,
       "id": "item_1785797308"
+    },
+    {
+      "title": "Centering a map projection on the mapped region",
+      "url": "https://www.r-bloggers.com/2026/08/centering-a-map-projection-on-the-mapped-region/",
+      "summary": "The PROJ format for defining Coordinate Reference Systems (CRS) is becoming deprecated, as PROJ strings cannot accurately store modern datum transformations, coordinate epoch information, or comple...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-04",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1785883842"
+    },
+    {
+      "title": "Analyzing Financial Trends: Kalman Filtering for Gold vs Bitcoin",
+      "url": "https://www.r-bloggers.com/2026/08/analyzing-financial-trends-kalman-filtering-for-gold-vs-bitcoin/",
+      "summary": "In their paper “A Synchronized Multi‑IMU Wearable System for Tracking of Joint‑Angles in Sports Motion Analysis” (arXiv:2607.26027v1), Samarasekera and colleagues set out to solve a very practical ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-04",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1785883843"
+    },
+    {
+      "title": "AppolinariaProkopovich/targeted-metabolomics-pipeline (1 stars)",
+      "url": "https://github.com/AppolinariaProkopovich/targeted-metabolomics-pipeline",
+      "summary": "Statistical analysis of THz radiation impact on cell metabolomics",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-04",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1785883844"
+    },
+    {
+      "title": "simonw/llm-mcp-client (12 stars)",
+      "url": "https://github.com/simonw/llm-mcp-client",
+      "summary": "Access tools from MCP servers as LLM tools",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-04",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1785883845"
+    },
+    {
+      "title": "willcadell/geo-mcp-servers (35 stars)",
+      "url": "https://github.com/willcadell/geo-mcp-servers",
+      "summary": "A curated, tracked list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation work — geocoding, routing, PostGIS, STAC/imagery, QGIS/ArcGIS, weather, and the c...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-04",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1785883846"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-04",
+      "editorial_summary": "Briefing compiled on August 04, 2026. Today's selection highlights new R packages and features like Centering a map projection on the mapped region and explores cutting-edge AI integrations including simonw/llm-mcp-client (12 stars), willcadell/geo-mcp-servers (35 stars).",
+      "items": [
+        "item_1785883842",
+        "item_1785883843",
+        "item_1785883844",
+        "item_1785883845",
+        "item_1785883846"
+      ]
+    },
     {
       "date": "2026-08-03",
       "editorial_summary": "Briefing compiled on August 03, 2026. Today's selection explores cutting-edge AI integrations including isabelpapaya/MCP-Server-Lighter (45 stars), walkererik1991/energyplus-idf-mcp-server (38 stars).",

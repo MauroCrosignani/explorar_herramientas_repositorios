@@ -5473,9 +5473,75 @@
       "score": 13.5,
       "read": false,
       "id": "item_1785883846"
+    },
+    {
+      "title": "bicerselimcan/bank-marketing-response-prediction (1 stars)",
+      "url": "https://github.com/bicerselimcan/bank-marketing-response-prediction",
+      "summary": "Customer response prediction using Logistic Regression, SVM, and Random Forest with 10-fold CV in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-05",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1785969964"
+    },
+    {
+      "title": "pratikshat369/e-commerce-shipping-delay-prediction (1 stars)",
+      "url": "https://github.com/pratikshat369/e-commerce-shipping-delay-prediction",
+      "summary": "A Data Mining project in R analyzing e-commerce shipment factors (discounts, product weights) to predict late deliveries using Decision Trees, Logistic Regression, and Naïve Bayes.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-05",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1785969965"
+    },
+    {
+      "title": "bhavyshekhaliya/awesome-public-mcp-servers (3 stars)",
+      "url": "https://github.com/bhavyshekhaliya/awesome-public-mcp-servers",
+      "summary": "A curated list of publicly accessible Model Context Protocol (MCP) servers that anyone can connect to and explore.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-05",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1785969966"
+    },
+    {
+      "title": "R Weekly 2026-W32 rsonar, the real bottleneck to learning AI tools",
+      "url": "https://rweekly.org/2026-W32.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contribut...",
+      "source": "R Weekly",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-05",
+      "tags": [
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1785969967"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-05",
+      "editorial_summary": "Briefing compiled on August 05, 2026. Today's selection explores cutting-edge AI integrations including bhavyshekhaliya/awesome-public-mcp-servers (3 stars), R Weekly 2026-W32 rsonar, the real bottleneck to learning AI tools.",
+      "items": [
+        "item_1785969964",
+        "item_1785969965",
+        "item_1785969966",
+        "item_1785969967"
+      ]
+    },
     {
       "date": "2026-08-04",
       "editorial_summary": "Briefing compiled on August 04, 2026. Today's selection highlights new R packages and features like Centering a map projection on the mapped region and explores cutting-edge AI integrations including simonw/llm-mcp-client (12 stars), willcadell/geo-mcp-servers (35 stars).",

@@ -5529,9 +5529,108 @@
       "score": 11.5,
       "read": false,
       "id": "item_1785969967"
+    },
+    {
+      "title": "Introducing the Bioconductor Student-ECR Council",
+      "url": "https://www.r-bloggers.com/2026/08/introducing-the-bioconductor-student-ecr-council/",
+      "summary": "Announcing the Bioconductor Student-ECR Council\nFrom an idea that hatched during the EuroBioC2026 Birds of a Feather session, we are super excited to announce the formation of the Student-ECR Counc...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1786066011"
+    },
+    {
+      "title": "fcalvo01/covid19-centroamerica-viz (0 stars)",
+      "url": "https://github.com/fcalvo01/covid19-centroamerica-viz",
+      "summary": "Visualización espacial del COVID-19 en Centroamérica: mapas interactivos y animados con R (sf, tmap, leaflet, gganimate)",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1786066012"
+    },
+    {
+      "title": "SoumenEpigene/GSE107221-H3K4me3-KDM5A-ChIPseq (1 stars)",
+      "url": "https://github.com/SoumenEpigene/GSE107221-H3K4me3-KDM5A-ChIPseq",
+      "summary": "Reproducible ChIP-seq analysis pipeline for GSE107221 using Galaxy, ChIPseeker and DiffBind to identify KDM5A-regulated H3K4me3 loci.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-07",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1786066013"
+    },
+    {
+      "title": "shaowen-ye/som-ensemble-cross-model-validation (1 stars)",
+      "url": "https://github.com/shaowen-ye/som-ensemble-cross-model-validation",
+      "summary": "Analysis-ready data and reproducible R workflow for SOM ensemble and cross-model validation in environmental monitoring",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-07",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1786066014"
+    },
+    {
+      "title": "bastianmoreau20/fastmcp-llm-tools (21 stars)",
+      "url": "https://github.com/bastianmoreau20/fastmcp-llm-tools",
+      "summary": "FastMCP is a Python framework for building high-performance Model Context Protocol servers that connect agents and LLMs with tools, prompts, resources, local data, and scripts.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "mcp",
+        "llm",
+        "agents"
+      ],
+      "score": 25.5,
+      "read": false,
+      "id": "item_1786066015"
+    },
+    {
+      "title": "saihgupr/esphome-mcp (2 stars)",
+      "url": "https://github.com/saihgupr/esphome-mcp",
+      "summary": "A custom Model Context Protocol (MCP) server for managing ESPHome devices directly from AI chat tools",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1786066016"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-07",
+      "editorial_summary": "Briefing compiled on August 07, 2026. Today's selection highlights new R packages and features like Introducing the Bioconductor Student-ECR Council, fcalvo01/covid19-centroamerica-viz (0 stars) and explores cutting-edge AI integrations including bastianmoreau20/fastmcp-llm-tools (21 stars), saihgupr/esphome-mcp (2 stars).",
+      "items": [
+        "item_1786066011",
+        "item_1786066012",
+        "item_1786066013",
+        "item_1786066014",
+        "item_1786066015",
+        "item_1786066016"
+      ]
+    },
     {
       "date": "2026-08-05",
       "editorial_summary": "Briefing compiled on August 05, 2026. Today's selection explores cutting-edge AI integrations including bhavyshekhaliya/awesome-public-mcp-servers (3 stars), R Weekly 2026-W32 rsonar, the real bottleneck to learning AI tools.",

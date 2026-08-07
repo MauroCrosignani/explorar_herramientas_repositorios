@@ -5616,9 +5616,106 @@
       "score": 17.0,
       "read": false,
       "id": "item_1786066016"
+    },
+    {
+      "title": "bioconductor-source/MsBackendMetabolomicsWorkbench (0 stars)",
+      "url": "https://github.com/bioconductor-source/MsBackendMetabolomicsWorkbench",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1786141366"
+    },
+    {
+      "title": "The GIS Research Assistant Job Has Transformed",
+      "url": "https://www.r-bloggers.com/2026/08/the-gis-research-assistant-job-has-transformed/",
+      "summary": "I realized this week that I won’t be hiring a GIS focused research assistant the same way as I used to.\nClaude Code is just too good at GIS in R now. I guess this happened around the release of Opu...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "sf"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1786141367"
+    },
+    {
+      "title": "Zahra-Sadeghinejad/arima-sugarcane-forecasting-replication (0 stars)",
+      "url": "https://github.com/Zahra-Sadeghinejad/arima-sugarcane-forecasting-replication",
+      "summary": "Reproducible ARIMA time-series forecasting project in R, including stationarity testing, model selection, forecasting, and residual diagnostics.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-07",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1786141368"
+    },
+    {
+      "title": "R GUI Comparison Update",
+      "url": "https://www.r-bloggers.com/2026/08/r-gui-comparison-update/",
+      "summary": "Graphical user interfaces for the R language are easy to use and getting more powerful all the time. Here is my updated comparison of jamovi, JASP, BlueSky Statistics (free &#038; Pro), Rattle, RKW...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-07",
+      "tags": [
+        "statistics"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1786141369"
+    },
+    {
+      "title": "Hopcos/jira-mcp-server (2 stars)",
+      "url": "https://github.com/Hopcos/jira-mcp-server",
+      "summary": "A Model Context Protocol (MCP) server enabling AI tools to interact with Jira — issue tracking, sprint management, JQL search, and workflow transitions through secure API token authentication.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1786141370"
+    },
+    {
+      "title": "sparkgeo/geo-mcp-servers (42 stars)",
+      "url": "https://github.com/sparkgeo/geo-mcp-servers",
+      "summary": "A curated, tracked list of Model Context Protocol (MCP) servers for geospatial, GIS, mapping, and earth-observation work — geocoding, routing, PostGIS, STAC/imagery, QGIS/ArcGIS, weather, and the c...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-07",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1786141371"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-07",
+      "editorial_summary": "Briefing compiled on August 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/MsBackendMetabolomicsWorkbench (0 stars), The GIS Research Assistant Job Has Transformed and explores cutting-edge AI integrations including Hopcos/jira-mcp-server (2 stars), sparkgeo/geo-mcp-servers (42 stars).",
+      "items": [
+        "item_1786141366",
+        "item_1786141367",
+        "item_1786141368",
+        "item_1786141369",
+        "item_1786141370",
+        "item_1786141371"
+      ]
+    },
     {
       "date": "2026-08-07",
       "editorial_summary": "Briefing compiled on August 07, 2026. Today's selection highlights new R packages and features like Introducing the Bioconductor Student-ECR Council, fcalvo01/covid19-centroamerica-viz (0 stars) and explores cutting-edge AI integrations including bastianmoreau20/fastmcp-llm-tools (21 stars), saihgupr/esphome-mcp (2 stars).",

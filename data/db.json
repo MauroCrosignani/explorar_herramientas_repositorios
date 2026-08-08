@@ -5701,9 +5701,108 @@
       "score": 13.5,
       "read": false,
       "id": "item_1786141371"
+    },
+    {
+      "title": "YuliaNuzhnenko/NCBI-GEO-Mining-GSEA (1 stars)",
+      "url": "https://github.com/YuliaNuzhnenko/NCBI-GEO-Mining-GSEA",
+      "summary": "Automated Bioconductor pipeline for programmatic retrieval, differential gene expression analysis, and GSEA pathway enrichment of public NCBI GEO transcriptomic datasets.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-08",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1786227296"
+    },
+    {
+      "title": "federicoatz/apriori-power-wizard (1 stars)",
+      "url": "https://github.com/federicoatz/apriori-power-wizard",
+      "summary": "A step-by-step Shiny wizard for a priori power analysis, built for experimental economics and behavioral science researchers.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-08",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1786227297"
+    },
+    {
+      "title": "YuliaNuzhnenko/TCGA-pan-cancer-immune-profiling (1 stars)",
+      "url": "https://github.com/YuliaNuzhnenko/TCGA-pan-cancer-immune-profiling",
+      "summary": "Reproducible Pan-Cancer transcriptomic analysis pipeline evaluating immune cell infiltration (CIBERSORT) and immune checkpoint expression (PD-L1/CTLA-4) across TCGA cohorts.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-08",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1786227298"
+    },
+    {
+      "title": "Babe Ruth:  How good was he?  Mantle versus Ruth",
+      "url": "https://www.r-bloggers.com/2026/07/babe-ruth-how-good-was-he-mantle-versus-ruth/",
+      "summary": "As a kid, my baseball hero was Mickey Mantle.  In his 18-year Major League career, he amassed tremendous statistics, and surely he was one of the game's all-time greats. When Mantle retired, he was...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-08",
+      "tags": [
+        "statistics"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1786227299"
+    },
+    {
+      "title": "santime27/mcp-server-webex-docs (2 stars)",
+      "url": "https://github.com/santime27/mcp-server-webex-docs",
+      "summary": "An MCP (Model Context Protocol) server providing fast, local full-text search and complete OpenAPI JSON schemas for all Webex   │ Developer APIs.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-08",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1786227300"
+    },
+    {
+      "title": "jackandjac/token-saver-mcp-java (18 stars)",
+      "url": "https://github.com/jackandjac/token-saver-mcp-java",
+      "summary": "MCP server that delegates simple Claude Code / Codex / Wibey tasks to a local LLM via langchain4j and langgraph4j.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-08",
+      "tags": [
+        "mcp",
+        "codex",
+        "llm",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1786227301"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-08",
+      "editorial_summary": "Briefing compiled on August 08, 2026. Today's selection highlights new R packages and features like YuliaNuzhnenko/NCBI-GEO-Mining-GSEA (1 stars), federicoatz/apriori-power-wizard (1 stars) and explores cutting-edge AI integrations including santime27/mcp-server-webex-docs (2 stars), jackandjac/token-saver-mcp-java (18 stars).",
+      "items": [
+        "item_1786227296",
+        "item_1786227297",
+        "item_1786227298",
+        "item_1786227299",
+        "item_1786227300",
+        "item_1786227301"
+      ]
+    },
     {
       "date": "2026-08-07",
       "editorial_summary": "Briefing compiled on August 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/MsBackendMetabolomicsWorkbench (0 stars), The GIS Research Assistant Job Has Transformed and explores cutting-edge AI integrations including Hopcos/jira-mcp-server (2 stars), sparkgeo/geo-mcp-servers (42 stars).",

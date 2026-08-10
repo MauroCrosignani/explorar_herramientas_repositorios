@@ -5875,9 +5875,113 @@
       "score": 12.0,
       "read": false,
       "id": "item_1786313830"
+    },
+    {
+      "title": "bicerselimcan/advanced-r-data-visualization (1 stars)",
+      "url": "https://github.com/bicerselimcan/advanced-r-data-visualization",
+      "summary": "Advanced financial data visualization and econometric analytics using R, ggplot2, and tidyverse.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-10",
+      "tags": [
+        "ggplot",
+        "tidyverse",
+        "visualization",
+        "analytics"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1786400619"
+    },
+    {
+      "title": "R Weekly 2026-W33 FDA Submissions, Windows ARM64, nycOpenData Journey",
+      "url": "https://rweekly.org/2026-W33.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-10",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1786400620"
+    },
+    {
+      "title": "guzmanthegreat/automobile-price-analysis (0 stars)",
+      "url": "https://github.com/guzmanthegreat/automobile-price-analysis",
+      "summary": "Automobile price prediction in R using exploratory data analysis, regression modeling, and holdout model evaluation.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-10",
+      "tags": [
+        "general"
+      ],
+      "score": 11,
+      "read": false,
+      "id": "item_1786400621"
+    },
+    {
+      "title": "bicerselimcan/r-omnichannel-retail-analytics-crm (1 stars)",
+      "url": "https://github.com/bicerselimcan/r-omnichannel-retail-analytics-crm",
+      "summary": "Corporate Retail Analytics: Time-Series Forecasting, Store Inventory Optimization & CRM ML Segmentation",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-10",
+      "tags": [
+        "ai",
+        "analytics"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1786400622"
+    },
+    {
+      "title": "nerdlab-dev/meta-ads-mcp (17 stars)",
+      "url": "https://github.com/nerdlab-dev/meta-ads-mcp",
+      "summary": "Ask Claude Code or Codex CLI to launch and manage your Meta ads in plain language. This repo is the small MIT installer: one npx command connects your agent to Nerdboard's hosted MCP server, so the...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-10",
+      "tags": [
+        "mcp",
+        "codex",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1786400623"
+    },
+    {
+      "title": "vaquarkhan/aegis-mcp-gateway (8 stars)",
+      "url": "https://github.com/vaquarkhan/aegis-mcp-gateway",
+      "summary": "Aegis mcp gateway is centralized security hardened model context protocol  (MCP) gateway that  epose the control and observablity planes of Apache  data system to AI agents through one governed end...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-10",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1786400624"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-10",
+      "editorial_summary": "Briefing compiled on August 10, 2026. Today's selection highlights new R packages and features like bicerselimcan/advanced-r-data-visualization (1 stars), R Weekly 2026-W33 FDA Submissions, Windows ARM64, nycOpenData Journey and explores cutting-edge AI integrations including nerdlab-dev/meta-ads-mcp (17 stars), vaquarkhan/aegis-mcp-gateway (8 stars).",
+      "items": [
+        "item_1786400619",
+        "item_1786400620",
+        "item_1786400621",
+        "item_1786400622",
+        "item_1786400623",
+        "item_1786400624"
+      ]
+    },
     {
       "date": "2026-08-09",
       "editorial_summary": "Briefing compiled on August 09, 2026. Today's selection highlights new R packages and features like bioconductor-source/DuckDBGRanges (0 stars), NZ and US petrol (‘gasoline’) and diesel prices by @ellis2013nz and explores cutting-edge AI integrations including sv-number/mcp-server (221 stars), shriramkv/mcp-load-lab (4 stars).",

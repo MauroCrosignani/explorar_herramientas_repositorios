@@ -5967,9 +5967,110 @@
       "score": 11.5,
       "read": false,
       "id": "item_1786400624"
+    },
+    {
+      "title": "bioconductor-source/RmzTabM (0 stars)",
+      "url": "https://github.com/bioconductor-source/RmzTabM",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-11",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1786487331"
+    },
+    {
+      "title": "bioconductor-source/DuckDBDataFrame (0 stars)",
+      "url": "https://github.com/bioconductor-source/DuckDBDataFrame",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-11",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1786487332"
+    },
+    {
+      "title": "Sailaja-Muvva/Predictive-Analytics-for-Mobile-Market-Trends (1 stars)",
+      "url": "https://github.com/Sailaja-Muvva/Predictive-Analytics-for-Mobile-Market-Trends",
+      "summary": "Predictive analytics project for analyzing mobile market trends and predicting mobile phone price categories using R and machine learning.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-11",
+      "tags": [
+        "ai",
+        "machine learning",
+        "analytics"
+      ],
+      "score": 7.5,
+      "read": false,
+      "id": "item_1786487333"
+    },
+    {
+      "title": "nihadaslanzade-02/quantium-data-analytics-forage (0 stars)",
+      "url": "https://github.com/nihadaslanzade-02/quantium-data-analytics-forage",
+      "summary": "End-to-end retail analytics in R - customer segmentation, quasi-experimental control-store uplift testing, and a client-ready recommendation deck.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-11",
+      "tags": [
+        "ai",
+        "analytics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1786487334"
+    },
+    {
+      "title": "tinyfish-io/tinyfish-mcp-server (2 stars)",
+      "url": "https://github.com/tinyfish-io/tinyfish-mcp-server",
+      "summary": "MCP server for the TinyFish web agent — connect your AI to the web via the Model Context Protocol.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-11",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1786487335"
+    },
+    {
+      "title": "d-j7code/PostgreSQL-MCP-Server (1 stars)",
+      "url": "https://github.com/d-j7code/PostgreSQL-MCP-Server",
+      "summary": "Professional PostgreSQL Database Access for AI Assistants via Model Context Protocol",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-11",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1786487336"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-11",
+      "editorial_summary": "Briefing compiled on August 11, 2026. Today's selection highlights new R packages and features like bioconductor-source/RmzTabM (0 stars), bioconductor-source/DuckDBDataFrame (0 stars) and explores cutting-edge AI integrations including tinyfish-io/tinyfish-mcp-server (2 stars), d-j7code/PostgreSQL-MCP-Server (1 stars).",
+      "items": [
+        "item_1786487331",
+        "item_1786487332",
+        "item_1786487333",
+        "item_1786487334",
+        "item_1786487335",
+        "item_1786487336"
+      ]
+    },
     {
       "date": "2026-08-10",
       "editorial_summary": "Briefing compiled on August 10, 2026. Today's selection highlights new R packages and features like bicerselimcan/advanced-r-data-visualization (1 stars), R Weekly 2026-W33 FDA Submissions, Windows ARM64, nycOpenData Journey and explores cutting-edge AI integrations including nerdlab-dev/meta-ads-mcp (17 stars), vaquarkhan/aegis-mcp-gateway (8 stars).",

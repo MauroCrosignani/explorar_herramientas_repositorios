@@ -6056,9 +6056,108 @@
       "score": 13.0,
       "read": false,
       "id": "item_1786487336"
+    },
+    {
+      "title": "Dual scaled y-axis with ggplot()",
+      "url": "https://www.r-bloggers.com/2026/08/dual-scaled-y-axis-with-ggplot/",
+      "summary": "I have often found myself needing to plot a single graph with two y-axes having different scales. For example, this might be useful for representing temperature and rainfall data at a given locatio...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-12",
+      "tags": [
+        "ggplot",
+        "ai"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1786573649"
+    },
+    {
+      "title": "Super-dong94/DrugR (0 stars)",
+      "url": "https://github.com/Super-dong94/DrugR",
+      "summary": "R package and Shiny application for reproducible empirical drug-release kinetic modelling",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-12",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1786573650"
+    },
+    {
+      "title": "alexbrxdley/OKC-Thunder-Schedule-Analysis (1 stars)",
+      "url": "https://github.com/alexbrxdley/OKC-Thunder-Schedule-Analysis",
+      "summary": "NBA schedule analysis and win-impact modeling through trend analysis, an original schedule visualization tool, and a logistic regression isolating how much scheduling affects team wins. View linked...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-12",
+      "tags": [
+        "visualization"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1786573651"
+    },
+    {
+      "title": "OpenLabs-so/openanalytics (40 stars)",
+      "url": "https://github.com/OpenLabs-so/openanalytics",
+      "summary": "Open-source, privacy-first web analytics with revenue attribution and an MCP server. No cookies, no cross-site profiles, aggregate-only reads. Self-hostable under AGPL-3.0.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-12",
+      "tags": [
+        "mcp",
+        "analytics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1786573652"
+    },
+    {
+      "title": "MoeinFirouzi/Email-Agent (3 stars)",
+      "url": "https://github.com/MoeinFirouzi/Email-Agent",
+      "summary": "An AI-powered autonomous email management platform built with Django, FastMCP (Model Context Protocol), and OpenAI.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-12",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1786573653"
+    },
+    {
+      "title": "mdwsk88/ms-365-21v-mcp-server (35 stars)",
+      "url": "https://github.com/mdwsk88/ms-365-21v-mcp-server",
+      "summary": "Policy-aware OAuth 2.1 MCP gateway for Microsoft 365 operated by 21Vianet",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-12",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1786573654"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-12",
+      "editorial_summary": "Briefing compiled on August 12, 2026. Today's selection highlights new R packages and features like Dual scaled y-axis with ggplot(), Super-dong94/DrugR (0 stars) and explores cutting-edge AI integrations including MoeinFirouzi/Email-Agent (3 stars), mdwsk88/ms-365-21v-mcp-server (35 stars).",
+      "items": [
+        "item_1786573649",
+        "item_1786573650",
+        "item_1786573651",
+        "item_1786573652",
+        "item_1786573653",
+        "item_1786573654"
+      ]
+    },
     {
       "date": "2026-08-11",
       "editorial_summary": "Briefing compiled on August 11, 2026. Today's selection highlights new R packages and features like bioconductor-source/RmzTabM (0 stars), bioconductor-source/DuckDBDataFrame (0 stars) and explores cutting-edge AI integrations including tinyfish-io/tinyfish-mcp-server (2 stars), d-j7code/PostgreSQL-MCP-Server (1 stars).",

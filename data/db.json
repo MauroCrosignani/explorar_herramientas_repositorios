@@ -6143,9 +6143,110 @@
       "score": 11.5,
       "read": false,
       "id": "item_1786573654"
+    },
+    {
+      "title": "Ihaka Lecture",
+      "url": "https://www.r-bloggers.com/2026/08/ihaka-lecture/",
+      "summary": "I gave the first of this year’s Ihaka Lectures at the University of Auckland this past July. It revisited and partially updated things I’ve been talking about for the past eighteen months or so on ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-13",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1786660123"
+    },
+    {
+      "title": "Why ACF Is More Than Just a Plot",
+      "url": "https://www.r-bloggers.com/2026/08/why-acf-is-more-than-just-a-plot/",
+      "summary": "1 Introduction\nTwo observations can have the same units, come from the same source, and still require a different kind of reasoning simply because one was recorded before the other.\nThat is the def...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-13",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1786660124"
+    },
+    {
+      "title": "rathodkaran2000/Global-Public-Health-Trends-Dashboard (1 stars)",
+      "url": "https://github.com/rathodkaran2000/Global-Public-Health-Trends-Dashboard",
+      "summary": "An interactive R Shiny business analytics dashboard for exploring global suicide trends across countries, demographic groups, generations, and economic conditions.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-13",
+      "tags": [
+        "shiny",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 7.5,
+      "read": false,
+      "id": "item_1786660125"
+    },
+    {
+      "title": "arpitkambe17/rna-seq-analysis (1 stars)",
+      "url": "https://github.com/arpitkambe17/rna-seq-analysis",
+      "summary": "RNA-seq analysis workflow using FastQC, Bowtie2, SAMtools, featureCounts, R, and edgeR for differential gene expression analysis.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-13",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1786660126"
+    },
+    {
+      "title": "fakelag28/funpay-mcp-server (2 stars)",
+      "url": "https://github.com/fakelag28/funpay-mcp-server",
+      "summary": "MCP-сервер (Model Context Protocol), предоставляющий AI-агентам полный программный доступ к аккаунту FunPay: чтение чатов и заказов, создание и редактирование лотов, возвраты средств и многое другое.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-13",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1786660127"
+    },
+    {
+      "title": "fellowgeek/mcp-memory (100 stars)",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "summary": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-13",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1786660128"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-13",
+      "editorial_summary": "Briefing compiled on August 13, 2026. Today's selection highlights new R packages and features like Ihaka Lecture, Why ACF Is More Than Just a Plot and explores cutting-edge AI integrations including fakelag28/funpay-mcp-server (2 stars), fellowgeek/mcp-memory (100 stars).",
+      "items": [
+        "item_1786660123",
+        "item_1786660124",
+        "item_1786660125",
+        "item_1786660126",
+        "item_1786660127",
+        "item_1786660128"
+      ]
+    },
     {
       "date": "2026-08-12",
       "editorial_summary": "Briefing compiled on August 12, 2026. Today's selection highlights new R packages and features like Dual scaled y-axis with ggplot(), Super-dong94/DrugR (0 stars) and explores cutting-edge AI integrations including MoeinFirouzi/Email-Agent (3 stars), mdwsk88/ms-365-21v-mcp-server (35 stars).",

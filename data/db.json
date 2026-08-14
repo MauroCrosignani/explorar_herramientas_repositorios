@@ -6232,9 +6232,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1786660128"
+    },
+    {
+      "title": "Reading notes on Code That Fits in Your Head by Mark Seemann",
+      "url": "https://www.r-bloggers.com/2026/08/reading-notes-on-code-that-fits-in-your-head-by-mark-seemann/",
+      "summary": "Last month, Vicki Boykis recommended the book “Code that Fits in Your Head” by Mark Seemann.\nI was intrigued, especially by her takeaway that “Writing good software should be a slow and deliberate ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-14",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1786745422"
+    },
+    {
+      "title": "R-Community A moderated Google Group to share R knowledge",
+      "url": "https://www.r-bloggers.com/2026/08/r-community-a-moderated-google-group-to-share-r-knowledge/",
+      "summary": "For R users that are just starting with R or that have been using it for years\nContinue reading: R-Community A moderated Google Group to share R knowledge",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-14",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1786745423"
+    },
+    {
+      "title": "alexfacudiaz/google-analytics-shiny-dashboard (0 stars)",
+      "url": "https://github.com/alexfacudiaz/google-analytics-shiny-dashboard",
+      "summary": "Interactive Shiny dashboard for exploratory analysis of Google Analytics data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-14",
+      "tags": [
+        "shiny",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1786745424"
+    },
+    {
+      "title": "mjeans/structural-equation-modeling (0 stars)",
+      "url": "https://github.com/mjeans/structural-equation-modeling",
+      "summary": "R and lavaan structural equation modeling case study with CFA, measurement invariance, FIML, latent mediation, diagnostics, and reproducible testing.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-14",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1786745425"
+    },
+    {
+      "title": "afishyke/Logisim-Evolution-MCP-Server (2 stars)",
+      "url": "https://github.com/afishyke/Logisim-Evolution-MCP-Server",
+      "summary": "Model Context Protocol server for Logisim-evolution .circ projects",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-14",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1786745426"
+    },
+    {
+      "title": "babazulu/plane-mcp (3 stars)",
+      "url": "https://github.com/babazulu/plane-mcp",
+      "summary": "An MCP (Model Context Protocol) server for Plane, the open-source project management tool — plus a setup wizard that binds a project folder to a Plane project in one command.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-14",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1786745427"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-14",
+      "editorial_summary": "Briefing compiled on August 14, 2026. Today's selection highlights new R packages and features like Reading notes on Code That Fits in Your Head by Mark Seemann, R-Community A moderated Google Group to share R knowledge and explores cutting-edge AI integrations including afishyke/Logisim-Evolution-MCP-Server (2 stars), babazulu/plane-mcp (3 stars).",
+      "items": [
+        "item_1786745422",
+        "item_1786745423",
+        "item_1786745424",
+        "item_1786745425",
+        "item_1786745426",
+        "item_1786745427"
+      ]
+    },
     {
       "date": "2026-08-13",
       "editorial_summary": "Briefing compiled on August 13, 2026. Today's selection highlights new R packages and features like Ihaka Lecture, Why ACF Is More Than Just a Plot and explores cutting-edge AI integrations including fakelag28/funpay-mcp-server (2 stars), fellowgeek/mcp-memory (100 stars).",

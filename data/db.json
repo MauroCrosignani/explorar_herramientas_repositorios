@@ -6318,9 +6318,108 @@
       "score": 10.5,
       "read": false,
       "id": "item_1786745427"
+    },
+    {
+      "title": "SpearSystems/LCP (1 stars)",
+      "url": "https://github.com/SpearSystems/LCP",
+      "summary": "Lead Context Protocol - The standard, Agent-compatible, transfer protocol of consumer PII across lead buyers, sellers, and platforms. ",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-15",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1786831692"
+    },
+    {
+      "title": "Some everyday data tasks: a few hints with R",
+      "url": "https://www.r-bloggers.com/2026/08/some-everyday-data-tasks-a-few-hints-with-r-2/",
+      "summary": "It is important to know how to reshape a dataframe into a form that might be more suitable for the analyses we intend to perform. For me, it is also important to know how to do this with base R, wi...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-15",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1786831693"
+    },
+    {
+      "title": "‘Zero-Shot Probabilistic Stock Returns Forecasting with Pretrained RVFL Networks’ accepted at COPA 2026 (and to appear in the Proceedings of Machine Learning Research)",
+      "url": "https://www.r-bloggers.com/2026/08/zero-shot-probabilistic-stock-returns-forecasting-with-pretrained-rvfl-networks-accepted-at-copa-2026-and-to-appear-in-the-proceedings-of-machine-learning-research/",
+      "summary": "Link to the paper and the code repository.\n\n\nContinue reading: ‘Zero-Shot Probabilistic Stock Returns Forecasting with Pretrained RVFL Networks’ accepted at COPA 2026 (and to appear in the Proceedi...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-15",
+      "tags": [
+        "ai",
+        "machine learning"
+      ],
+      "score": 11.0,
+      "read": false,
+      "id": "item_1786831694"
+    },
+    {
+      "title": "merveatmaca/RNAseq-vancomycin-analysis (1 stars)",
+      "url": "https://github.com/merveatmaca/RNAseq-vancomycin-analysis",
+      "summary": "RNA-seq differential expression analysis of GSE277984 dataset",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-15",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1786831695"
+    },
+    {
+      "title": "wangshuaifbj-collab/mcp-server-bioscience (17 stars)",
+      "url": "https://github.com/wangshuaifbj-collab/mcp-server-bioscience",
+      "summary": "A high-performance MCP server empowering AI Agents with PubMed, ClinicalTrials, ChEMBL, AlphaFold, and Ensembl capabilities. 🧬",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-15",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 19.5,
+      "read": false,
+      "id": "item_1786831696"
+    },
+    {
+      "title": "data-scrape/mcp-data-tools (1 stars)",
+      "url": "https://github.com/data-scrape/mcp-data-tools",
+      "summary": "MCP Data Tools - Model Context Protocol server for web data access",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-15",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1786831697"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-15",
+      "editorial_summary": "Briefing compiled on August 15, 2026. Today's selection highlights new R packages and features like SpearSystems/LCP (1 stars), Some everyday data tasks: a few hints with R and explores cutting-edge AI integrations including wangshuaifbj-collab/mcp-server-bioscience (17 stars), data-scrape/mcp-data-tools (1 stars).",
+      "items": [
+        "item_1786831692",
+        "item_1786831693",
+        "item_1786831694",
+        "item_1786831695",
+        "item_1786831696",
+        "item_1786831697"
+      ]
+    },
     {
       "date": "2026-08-14",
       "editorial_summary": "Briefing compiled on August 14, 2026. Today's selection highlights new R packages and features like Reading notes on Code That Fits in Your Head by Mark Seemann, R-Community A moderated Google Group to share R knowledge and explores cutting-edge AI integrations including afishyke/Logisim-Evolution-MCP-Server (2 stars), babazulu/plane-mcp (3 stars).",

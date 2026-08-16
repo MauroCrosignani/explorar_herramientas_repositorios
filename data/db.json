@@ -6405,9 +6405,108 @@
       "score": 15.5,
       "read": false,
       "id": "item_1786831697"
+    },
+    {
+      "title": "[R] Environment Variables in R Shiny-Server Container: Problem and Solutions",
+      "url": "https://www.r-bloggers.com/2026/08/r-environment-variables-in-r-shiny-server-container-problem-and-solutions/",
+      "summary": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/08/15/r-environment-variables-in-r-shiny-server-container/ -When dockerizing an R Shiny application hosted via Shiny Server (built from shiny ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-16",
+      "tags": [
+        "shiny",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1786918083"
+    },
+    {
+      "title": "Institutions Are a Package Deal: What a Correlation Can’t Tell You About the Rule of Law",
+      "url": "https://www.r-bloggers.com/2026/08/institutions-are-a-package-deal-what-a-correlation-cant-tell-you-about-the-rule-of-law/",
+      "summary": "This post asks how institutions should be conceptualized and analyzed: can the rule of law (and other institutions) sensibly be examined one at a time, or do they need to be treated as parts of an ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-16",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1786918084"
+    },
+    {
+      "title": "Deadalus-Lab/EconFlow-Analytics (0 stars)",
+      "url": "https://github.com/Deadalus-Lab/EconFlow-Analytics",
+      "summary": "A node-based canvas for end-to-end macroeconomic analysis — correctness is structural, not probabilistic",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-16",
+      "tags": [
+        "analytics"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1786918085"
+    },
+    {
+      "title": "From Census Data to Demographic Analysis with ARcenso: A Reproducible Workflow in R",
+      "url": "https://www.r-bloggers.com/2026/08/from-census-data-to-demographic-analysis-with-arcenso-a-reproducible-workflow-in-r/",
+      "summary": "Read it in: Español. Population censuses are a key source of information for understanding the composition of populations and how they change across regions within a country. They provide essential...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-16",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1786918086"
+    },
+    {
+      "title": "ismailsaoulaj/reddit-mcp-server (2 stars)",
+      "url": "https://github.com/ismailsaoulaj/reddit-mcp-server",
+      "summary": "A production-grade Model Context Protocol (MCP) server. Empowers AI assistants (Claude, Cursor) to search, fetch, and analyze Reddit discussions with resilient rate-limiting and smart LLM noise fil...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-16",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 23.5,
+      "read": false,
+      "id": "item_1786918087"
+    },
+    {
+      "title": "Cazriel/mcp-server (17 stars)",
+      "url": "https://github.com/Cazriel/mcp-server",
+      "summary": "Android MCP server exposing device tools over HTTP.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-16",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1786918088"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-16",
+      "editorial_summary": "Briefing compiled on August 16, 2026. Today's selection highlights new R packages and features like [R] Environment Variables in R Shiny-Server Container: Problem and Solutions, Institutions Are a Package Deal: What a Correlation Can’t Tell You About the Rule of Law and explores cutting-edge AI integrations including ismailsaoulaj/reddit-mcp-server (2 stars), Cazriel/mcp-server (17 stars).",
+      "items": [
+        "item_1786918083",
+        "item_1786918084",
+        "item_1786918085",
+        "item_1786918086",
+        "item_1786918087",
+        "item_1786918088"
+      ]
+    },
     {
       "date": "2026-08-15",
       "editorial_summary": "Briefing compiled on August 15, 2026. Today's selection highlights new R packages and features like SpearSystems/LCP (1 stars), Some everyday data tasks: a few hints with R and explores cutting-edge AI integrations including wangshuaifbj-collab/mcp-server-bioscience (17 stars), data-scrape/mcp-data-tools (1 stars).",

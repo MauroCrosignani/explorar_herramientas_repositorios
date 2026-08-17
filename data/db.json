@@ -6492,9 +6492,107 @@
       "score": 13.5,
       "read": false,
       "id": "item_1786918088"
+    },
+    {
+      "title": "Creating self-contained R scripts for rendering Quarto documents using the knitr engine – courtesy of the new R package managers ir and uvr",
+      "url": "https://www.r-bloggers.com/2026/08/creating-self-contained-r-scripts-for-rendering-quarto-documents-using-the-knitr-engine-courtesy-of-the-new-r-package-managers-ir-and-uvr/",
+      "summary": "Introduction\nIn previous posts I have described how to use the self-contained Python scripts feature in the uv Python package manager to create virtual environments to render Quarto documents using...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-17",
+      "tags": [
+        "quarto",
+        "ai"
+      ],
+      "score": 11.0,
+      "read": false,
+      "id": "item_1787004687"
+    },
+    {
+      "title": "More progress with Tabler for R",
+      "url": "https://www.r-bloggers.com/2026/08/more-progress-with-tabler-for-r/",
+      "summary": "For R users that are just starting with R or that have been using it for years\n\n\nContinue reading: More progress with Tabler for R",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-17",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787004688"
+    },
+    {
+      "title": "vjrupp49/sequencium-probability-analysis (0 stars)",
+      "url": "https://github.com/vjrupp49/sequencium-probability-analysis",
+      "summary": "Probability theory paper analyzing optimal strategies for the two-player number-chain game Sequencium.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-17",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1787004689"
+    },
+    {
+      "title": "vjrupp49/dst334-minneapolis-temperature-model (0 stars)",
+      "url": "https://github.com/vjrupp49/dst334-minneapolis-temperature-model",
+      "summary": "Multiple regression model predicting Minneapolis near-surface air temperature from meteorological reanalysis variables, with spline terms and LINE assumption diagnostics.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-17",
+      "tags": [
+        "ai"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1787004690"
+    },
+    {
+      "title": "shailesh17/mcp-httpserver-proxy (2 stars)",
+      "url": "https://github.com/shailesh17/mcp-httpserver-proxy",
+      "summary": "A transparent proxy to bridge a local Model Context Protocol (MCP) server listening over HTTP (SSE) to an MCP client (like Claude Desktop) using standard input/output (`stdio`).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-17",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1787004691"
+    },
+    {
+      "title": "hanoak/pexels-mcp-server (2 stars)",
+      "url": "https://github.com/hanoak/pexels-mcp-server",
+      "summary": "Production-ready Model Context Protocol (MCP) server for the Pexels API — search and browse photos and videos, with license-aware usage guidance. Unofficial; not affiliated with or endorsed by Pexels.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-17",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1787004692"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-17",
+      "editorial_summary": "Briefing compiled on August 17, 2026. Today's selection highlights new R packages and features like Creating self-contained R scripts for rendering Quarto documents using the knitr engine – courtesy of the new R package managers ir and uvr, More progress with Tabler for R and explores cutting-edge AI integrations including shailesh17/mcp-httpserver-proxy (2 stars), hanoak/pexels-mcp-server (2 stars).",
+      "items": [
+        "item_1787004687",
+        "item_1787004688",
+        "item_1787004689",
+        "item_1787004690",
+        "item_1787004691",
+        "item_1787004692"
+      ]
+    },
     {
       "date": "2026-08-16",
       "editorial_summary": "Briefing compiled on August 16, 2026. Today's selection highlights new R packages and features like [R] Environment Variables in R Shiny-Server Container: Problem and Solutions, Institutions Are a Package Deal: What a Correlation Can’t Tell You About the Rule of Law and explores cutting-edge AI integrations including ismailsaoulaj/reddit-mcp-server (2 stars), Cazriel/mcp-server (17 stars).",

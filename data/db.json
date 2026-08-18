@@ -6578,9 +6578,92 @@
       "score": 13.5,
       "read": false,
       "id": "item_1787004692"
+    },
+    {
+      "title": "New vignette: When to Use Anytime-Valid Inference",
+      "url": "https://www.r-bloggers.com/2026/08/new-vignette-when-to-use-anytime-valid-inference/",
+      "summary": "Thanks to help by Michael, the next PyFixest release will ship support for safe anytime-valid inference (SAVI). A new vignette walks through when and why to use it in randomized experiments. If you...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-18",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787090982"
+    },
+    {
+      "title": "EarlyBloomer-byte/Introduction-to-Mathematical-Modeling-of-Infectious-Disease (1 stars)",
+      "url": "https://github.com/EarlyBloomer-byte/Introduction-to-Mathematical-Modeling-of-Infectious-Disease",
+      "summary": "A full textbook turned into code: every derivation, model, and proof from An Introduction to Mathematical Modeling of Infectious Diseases (Li, 2018), reproduced and numerically verified in parallel...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-18",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1787090983"
+    },
+    {
+      "title": "Breaking the Python Barrier: Building a Pure R-Native DeepAR Engine with LibTorch",
+      "url": "https://www.r-bloggers.com/2026/08/breaking-the-python-barrier-building-a-pure-r-native-deepar-engine-with-libtorch/",
+      "summary": "Deep learning for time series forecasting in R has historically faced a major architectural hurdle: Python overhead. Frameworks like modeltime.gluonts provide interface wrappers around AWS GluonTS,...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-18",
+      "tags": [
+        "deep learning"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1787090984"
+    },
+    {
+      "title": "alphaparkinc/genpark-universal-mcp-tool-protocol-gateway-skill (8 stars)",
+      "url": "https://github.com/alphaparkinc/genpark-universal-mcp-tool-protocol-gateway-skill",
+      "summary": "Universal Model Context Protocol (MCP) gateway adapter for Claude/Cursor agents",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-18",
+      "tags": [
+        "mcp",
+        "agents"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1787090985"
+    },
+    {
+      "title": "nutanix/ntnx-api-mcp-server (14 stars)",
+      "url": "https://github.com/nutanix/ntnx-api-mcp-server",
+      "summary": "Nutanix Prism Central meets AI - an open-source MCP server exposing 1,000+ V4 API operations to AI assistants through natural language. Schemas resolved from your cluster's running PC version, not ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-18",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1787090986"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-18",
+      "editorial_summary": "Briefing compiled on August 18, 2026. Today's selection highlights new R packages and features like New vignette: When to Use Anytime-Valid Inference and explores cutting-edge AI integrations including alphaparkinc/genpark-universal-mcp-tool-protocol-gateway-skill (8 stars), nutanix/ntnx-api-mcp-server (14 stars).",
+      "items": [
+        "item_1787090982",
+        "item_1787090983",
+        "item_1787090984",
+        "item_1787090985",
+        "item_1787090986"
+      ]
+    },
     {
       "date": "2026-08-17",
       "editorial_summary": "Briefing compiled on August 17, 2026. Today's selection highlights new R packages and features like Creating self-contained R scripts for rendering Quarto documents using the knitr engine – courtesy of the new R package managers ir and uvr, More progress with Tabler for R and explores cutting-edge AI integrations including shailesh17/mcp-httpserver-proxy (2 stars), hanoak/pexels-mcp-server (2 stars).",

@@ -6650,9 +6650,107 @@
       "score": 13.0,
       "read": false,
       "id": "item_1787090986"
+    },
+    {
+      "title": "bioconductor-source/HD2013SGI (0 stars)",
+      "url": "https://github.com/bioconductor-source/HD2013SGI",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-19",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1787177540"
+    },
+    {
+      "title": "McNemar’s test in R",
+      "url": "https://www.r-bloggers.com/2026/08/mcnemars-test-in-r/",
+      "summary": "Introduction\nIn a previous article, we showed how to perform the Chi-square test of independence in R in order to test whether two qualitative variables are related. As mentioned in that article (a...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-19",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787177541"
+    },
+    {
+      "title": "ajay-nimbalkar/ngs-epigenomics-analysis (0 stars)",
+      "url": "https://github.com/ajay-nimbalkar/ngs-epigenomics-analysis",
+      "summary": "Integrative NGS analysis of chromatin accessibility, DNA methylation, chromatin states, and gene expression using Nextflow/nf-core pipelines on HPC with downstream analysis in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-19",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1787177542"
+    },
+    {
+      "title": "tanaya2026/BMP7-Medulloblastoma-Transcriptomics (1 stars)",
+      "url": "https://github.com/tanaya2026/BMP7-Medulloblastoma-Transcriptomics",
+      "summary": "Bulk RNA-seq analysis of BMP7-treated medulloblastoma cells, including differential expression, pathway enrichment, and network analysis.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-19",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1787177543"
+    },
+    {
+      "title": "ygq-future/openai-vision-mcp-server (2 stars)",
+      "url": "https://github.com/ygq-future/openai-vision-mcp-server",
+      "summary": "An Model Context Protocol (MCP) stdio server for bounded, high-precision image analysis using OpenAI Chat Completions-compatible Vision APIs (e.g. OpenAI gpt-4o, Qwen VL, DeepSeek Vision, Local vLL...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-19",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 29.0,
+      "read": false,
+      "id": "item_1787177544"
+    },
+    {
+      "title": "sandbaseai/deepseek-harness-handbook (29 stars)",
+      "url": "https://github.com/sandbaseai/deepseek-harness-handbook",
+      "summary": "Independent, source-backed handbook for DeepSeek AI's official DeepSeek Harness (dsh): agents, plugins, security, troubleshooting, and runbooks.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-19",
+      "tags": [
+        "agents",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1787177545"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-19",
+      "editorial_summary": "Briefing compiled on August 19, 2026. Today's selection highlights new R packages and features like bioconductor-source/HD2013SGI (0 stars), McNemar’s test in R and explores cutting-edge AI integrations including ygq-future/openai-vision-mcp-server (2 stars), sandbaseai/deepseek-harness-handbook (29 stars).",
+      "items": [
+        "item_1787177540",
+        "item_1787177541",
+        "item_1787177542",
+        "item_1787177543",
+        "item_1787177544",
+        "item_1787177545"
+      ]
+    },
     {
       "date": "2026-08-18",
       "editorial_summary": "Briefing compiled on August 18, 2026. Today's selection highlights new R packages and features like New vignette: When to Use Anytime-Valid Inference and explores cutting-edge AI integrations including alphaparkinc/genpark-universal-mcp-tool-protocol-gateway-skill (8 stars), nutanix/ntnx-api-mcp-server (14 stars).",

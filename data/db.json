@@ -6736,9 +6736,107 @@
       "score": 15.0,
       "read": false,
       "id": "item_1787177545"
+    },
+    {
+      "title": "samuelbharti/recount-explorer (1 stars)",
+      "url": "https://github.com/samuelbharti/recount-explorer",
+      "summary": "Shiny app to browse, analyze, and export recount3 RNA-seq studies: 18,998 datasets, quality checks, and PCA.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-20",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1787264029"
+    },
+    {
+      "title": "useR! 2026: Futurize – Tearing Down Parallelization Barriers in R with Transpilers",
+      "url": "https://www.r-bloggers.com/2026/08/user-2026-futurize-tearing-down-parallelization-barriers-in-r-with-transpilers/",
+      "summary": "Below are the slides for my Futurize - Tearing Down Parallelization Barriers in R with Transpilers talk that I presented at the useR! 2026 conference in Warzaw, Poland.\nTitle: Futurize - Tearing Do...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-20",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787264030"
+    },
+    {
+      "title": "alkayyiss-ds/r-statistics-mini-projects (0 stars)",
+      "url": "https://github.com/alkayyiss-ds/r-statistics-mini-projects",
+      "summary": "📊 Statistical analysis mini-projects in R: distributions, hypothesis testing, regression, factor analysis, and non-parametric methods",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-20",
+      "tags": [
+        "statistics"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1787264031"
+    },
+    {
+      "title": "mikenguyen13/regsensitivity (0 stars)",
+      "url": "https://github.com/mikenguyen13/regsensitivity",
+      "summary": "R package for regression sensitivity analysis to omitted variable bias: identified sets and breakdown points following Diegert, Masten & Poirier (2026) and Oster (2019).",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-20",
+      "tags": [
+        "general"
+      ],
+      "score": 4,
+      "read": false,
+      "id": "item_1787264032"
+    },
+    {
+      "title": "tarunjandra/agent-tools-mcp-hub (1 stars)",
+      "url": "https://github.com/tarunjandra/agent-tools-mcp-hub",
+      "summary": "🤖 A curated collection of modular, plug-and-play AI Agent Tools & Model Context Protocol (MCP) server connectors for Python and TypeScript.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-20",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1787264033"
+    },
+    {
+      "title": "Mohamed-Eltelb/mcp-forge (2 stars)",
+      "url": "https://github.com/Mohamed-Eltelb/mcp-forge",
+      "summary": "Comprehensive developer toolkit, starter templates, and universal AI agent skill for Model Context Protocol (MCP) servers.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-20",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1787264034"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-20",
+      "editorial_summary": "Briefing compiled on August 20, 2026. Today's selection highlights new R packages and features like samuelbharti/recount-explorer (1 stars), useR! 2026: Futurize – Tearing Down Parallelization Barriers in R with Transpilers and explores cutting-edge AI integrations including tarunjandra/agent-tools-mcp-hub (1 stars), Mohamed-Eltelb/mcp-forge (2 stars).",
+      "items": [
+        "item_1787264029",
+        "item_1787264030",
+        "item_1787264031",
+        "item_1787264032",
+        "item_1787264033",
+        "item_1787264034"
+      ]
+    },
     {
       "date": "2026-08-19",
       "editorial_summary": "Briefing compiled on August 19, 2026. Today's selection highlights new R packages and features like bioconductor-source/HD2013SGI (0 stars), McNemar’s test in R and explores cutting-edge AI integrations including ygq-future/openai-vision-mcp-server (2 stars), sandbaseai/deepseek-harness-handbook (29 stars).",

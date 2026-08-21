@@ -6822,9 +6822,108 @@
       "score": 12.0,
       "read": false,
       "id": "item_1787264034"
+    },
+    {
+      "title": "BiocJobs: declaring dispatchable jobs inside Bioconductor packages",
+      "url": "https://www.r-bloggers.com/2026/08/biocjobs-declaring-dispatchable-jobs-inside-bioconductor-packages/",
+      "summary": "The gap\nMuch of what Bioconductor packages do is interactive and exploratory, and rightly belongs in an R session. But some of it is batch-shaped: a well-defined analysis with file inputs, file out...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-21",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1787350263"
+    },
+    {
+      "title": "socviz 2.0.0 on CRAN",
+      "url": "https://www.r-bloggers.com/2026/08/socviz-2-0-0-on-cran/",
+      "summary": "In anticipation of the second edition of Data Visualization, which is coming later this year from Princeton University Press, version 2.0.0 of my socviz package is now on CRAN. The update removes s...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-21",
+      "tags": [
+        "cran",
+        "visualization"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1787350264"
+    },
+    {
+      "title": "bemts-hhs/AED-FINAL-REPORT-MODELING (0 stars)",
+      "url": "https://github.com/bemts-hhs/AED-FINAL-REPORT-MODELING",
+      "summary": "The regression arm of the report on the Iowa First Responder AED Grant project.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-21",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1787350265"
+    },
+    {
+      "title": "diego-scherzo/steam-games-analysis (1 stars)",
+      "url": "https://github.com/diego-scherzo/steam-games-analysis",
+      "summary": "Reproducible R and Quarto pipeline for analysing Steam game data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-21",
+      "tags": [
+        "quarto"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1787350266"
+    },
+    {
+      "title": "tainguyen07/agent-workflow-mcp (15 stars)",
+      "url": "https://github.com/tainguyen07/agent-workflow-mcp",
+      "summary": "Multi-agent workflow orchestrator with MCP tool servers: planner/executor agents, tool-use loop, MCP client/server, tracing and durable runs.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-21",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1787350267"
+    },
+    {
+      "title": "martinkalyonski/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/martinkalyonski/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-21",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1787350268"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-21",
+      "editorial_summary": "Briefing compiled on August 21, 2026. Today's selection highlights new R packages and features like BiocJobs: declaring dispatchable jobs inside Bioconductor packages, socviz 2.0.0 on CRAN and explores cutting-edge AI integrations including tainguyen07/agent-workflow-mcp (15 stars), martinkalyonski/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1787350263",
+        "item_1787350264",
+        "item_1787350265",
+        "item_1787350266",
+        "item_1787350267",
+        "item_1787350268"
+      ]
+    },
     {
       "date": "2026-08-20",
       "editorial_summary": "Briefing compiled on August 20, 2026. Today's selection highlights new R packages and features like samuelbharti/recount-explorer (1 stars), useR! 2026: Futurize – Tearing Down Parallelization Barriers in R with Transpilers and explores cutting-edge AI integrations including tarunjandra/agent-tools-mcp-hub (1 stars), Mohamed-Eltelb/mcp-forge (2 stars).",

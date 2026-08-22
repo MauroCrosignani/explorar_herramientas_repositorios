@@ -6909,9 +6909,106 @@
       "score": 13.5,
       "read": false,
       "id": "item_1787350268"
+    },
+    {
+      "title": "certe-medical-epidemiology/EpiSODIC (0 stars)",
+      "url": "https://github.com/certe-medical-epidemiology/EpiSODIC",
+      "summary": "This is EpiSODIC, for \"Epidemiological Signal Observation, Detection, Identification, and Classification”. An R Shiny app that does all the heavy lifting for you.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-22",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1787436523"
+    },
+    {
+      "title": "Does state life expectancy correlate with political party voting?",
+      "url": "https://www.r-bloggers.com/2026/08/does-state-life-expectancy-correlate-with-political-party-voting/",
+      "summary": "Overview\n     \nDo people in red states live shorter lives? \n     \nThis project examines whether state level life expectancy is statistically associated with each state's political climate in t...\n\n...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787436524"
+    },
+    {
+      "title": "ksitcode00/household-air-pollution-analysis (0 stars)",
+      "url": "https://github.com/ksitcode00/household-air-pollution-analysis",
+      "summary": "Environmental exposure analysis evaluating household air pollution and cookstove adoption using R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-22",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1787436525"
+    },
+    {
+      "title": "PyData Berlin Talk on our new within Fixed Effect Solver",
+      "url": "https://www.r-bloggers.com/2026/08/pydata-berlin-talk-on-our-new-within-fixed-effect-solver-2/",
+      "summary": "Yesterday I was in Berlin for the day and presented at the local PyData Meetup on our new solver for fixed effects regression. It was of course a lot of fun! The development was prompted by an issu...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-22",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1787436526"
+    },
+    {
+      "title": "duty1g/x64dbg-mcp-server (2 stars)",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "summary": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg pro...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-22",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1787436527"
+    },
+    {
+      "title": "sujipglearn/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/sujipglearn/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-22",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1787436528"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-22",
+      "editorial_summary": "Briefing compiled on August 22, 2026. Today's selection highlights new R packages and features like certe-medical-epidemiology/EpiSODIC (0 stars), Does state life expectancy correlate with political party voting? and explores cutting-edge AI integrations including duty1g/x64dbg-mcp-server (2 stars), sujipglearn/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1787436523",
+        "item_1787436524",
+        "item_1787436525",
+        "item_1787436526",
+        "item_1787436527",
+        "item_1787436528"
+      ]
+    },
     {
       "date": "2026-08-21",
       "editorial_summary": "Briefing compiled on August 21, 2026. Today's selection highlights new R packages and features like BiocJobs: declaring dispatchable jobs inside Bioconductor packages, socviz 2.0.0 on CRAN and explores cutting-edge AI integrations including tainguyen07/agent-workflow-mcp (15 stars), martinkalyonski/skills-integrate-mcp-with-copilot (1 stars).",

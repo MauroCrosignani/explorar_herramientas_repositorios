@@ -6994,9 +6994,107 @@
       "score": 13.5,
       "read": false,
       "id": "item_1787436528"
+    },
+    {
+      "title": "Using GitHub Actions to deploy to Posit Connect Cloud",
+      "url": "https://www.r-bloggers.com/2026/08/using-github-actions-to-deploy-to-posit-connect-cloud/",
+      "summary": "We’ve previously extolled the virtues of automating the repetitive chores we encounter, allowing us to focus on the tasks that matter.\nThree years ago, we posted an example of how to automate the d...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-23",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787522920"
+    },
+    {
+      "title": "Running local large language models not as difficult as you might think",
+      "url": "https://www.r-bloggers.com/2026/08/running-local-large-language-models-not-as-difficult-as-you-might-think/",
+      "summary": "This post was originally published on our collaborative substack site. Visit the site to follow us and read more similar posts.\nJointly authored by Chris Brown, Scott Spillias, Carla Sbrocchi and L...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-23",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787522921"
+    },
+    {
+      "title": "SaraTKB/nyc-sat-analysis (0 stars)",
+      "url": "https://github.com/SaraTKB/nyc-sat-analysis",
+      "summary": "Statistical analysis of NYC public high school SAT performance using R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-23",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1787522922"
+    },
+    {
+      "title": "diego-scherzo/popular-steam-games-analysis (1 stars)",
+      "url": "https://github.com/diego-scherzo/popular-steam-games-analysis",
+      "summary": "Reproducible R and Quarto pipeline for analysing popular Steam game data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-23",
+      "tags": [
+        "quarto"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1787522923"
+    },
+    {
+      "title": "Velocity07/OrbitMCP (2 stars)",
+      "url": "https://github.com/Velocity07/OrbitMCP",
+      "summary": "Edge-Native Model Context Protocol (MCP) desktop control plane & autonomous tool dispatcher with local Ollama inference and live OS telemetry.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-23",
+      "tags": [
+        "mcp"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1787522924"
+    },
+    {
+      "title": "moonlin1213/cove-book-forge-mcp (17 stars)",
+      "url": "https://github.com/moonlin1213/cove-book-forge-mcp",
+      "summary": "Turn PDF and EPUB books into cached AI analysis, Obsidian notes, and installable Codex/Claude Agent Skills through an open MCP server.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-23",
+      "tags": [
+        "mcp",
+        "codex",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1787522925"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-23",
+      "editorial_summary": "Briefing compiled on August 23, 2026. Today's selection highlights new R packages and features like Using GitHub Actions to deploy to Posit Connect Cloud, Running local large language models not as difficult as you might think and explores cutting-edge AI integrations including Velocity07/OrbitMCP (2 stars), moonlin1213/cove-book-forge-mcp (17 stars).",
+      "items": [
+        "item_1787522920",
+        "item_1787522921",
+        "item_1787522922",
+        "item_1787522923",
+        "item_1787522924",
+        "item_1787522925"
+      ]
+    },
     {
       "date": "2026-08-22",
       "editorial_summary": "Briefing compiled on August 22, 2026. Today's selection highlights new R packages and features like certe-medical-epidemiology/EpiSODIC (0 stars), Does state life expectancy correlate with political party voting? and explores cutting-edge AI integrations including duty1g/x64dbg-mcp-server (2 stars), sujipglearn/skills-integrate-mcp-with-copilot (1 stars).",

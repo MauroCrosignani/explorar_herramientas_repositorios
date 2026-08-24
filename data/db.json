@@ -7080,9 +7080,106 @@
       "score": 11.5,
       "read": false,
       "id": "item_1787522925"
+    },
+    {
+      "title": "Take Your R Projects on the Road:  Using R on Your Raspberry Pi, Android Device, and iPhone",
+      "url": "https://www.r-bloggers.com/2026/08/take-your-r-projects-on-the-road-using-r-on-your-raspberry-pi-android-device-and-iphone/",
+      "summary": "This post explores using R and RStudio with Raspberry Pi, Android OS and iPhone.  A simple R programming example is provided.\nContinue reading: Take Your R Projects on the Road:  Using R on Your Ra...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1787609575"
+    },
+    {
+      "title": "R Weekly 2026-W35 Visualization Creativity, Futurize, Tricky Async",
+      "url": "https://rweekly.org/2026-W35.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-24",
+      "tags": [
+        "visualization"
+      ],
+      "score": 0.5,
+      "read": false,
+      "id": "item_1787609576"
+    },
+    {
+      "title": "PyData Berlin Talk on our new within Fixed Effect Solver",
+      "url": "https://www.r-bloggers.com/2026/08/pydata-berlin-talk-on-our-new-within-fixed-effect-solver/",
+      "summary": "Yesterday I was in Berlin for the day and presented at the local PyData Meetup on our new solver for fixed effects regression. It was of course a lot of fun! The development was prompted by an issu...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-24",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1787609577"
+    },
+    {
+      "title": "texiermed/predict-r-analyse (0 stars)",
+      "url": "https://github.com/texiermed/predict-r-analyse",
+      "summary": "R analysis code for PREDICT-R thesis — CKD risk screening in primary care (Toulouse III, 2026)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-24",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1787609578"
+    },
+    {
+      "title": "Gentleman-Programming/dataimpulse-mcp (16 stars)",
+      "url": "https://github.com/Gentleman-Programming/dataimpulse-mcp",
+      "summary": "Educational MCP server for safe, geo-targeted web access through DataImpulse residential proxies",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1787609579"
+    },
+    {
+      "title": "shriramkv/create-mcp-server (16 stars)",
+      "url": "https://github.com/shriramkv/create-mcp-server",
+      "summary": "Scaffold a lean, best-practice MCP server that passes the quality checks by construction, with tests, CI and docs built in.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-24",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1787609580"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-24",
+      "editorial_summary": "Briefing compiled on August 24, 2026. Today's selection highlights new R packages and features like Take Your R Projects on the Road:  Using R on Your Raspberry Pi, Android Device, and iPhone, R Weekly 2026-W35 Visualization Creativity, Futurize, Tricky Async and explores cutting-edge AI integrations including Gentleman-Programming/dataimpulse-mcp (16 stars), shriramkv/create-mcp-server (16 stars).",
+      "items": [
+        "item_1787609575",
+        "item_1787609576",
+        "item_1787609577",
+        "item_1787609578",
+        "item_1787609579",
+        "item_1787609580"
+      ]
+    },
     {
       "date": "2026-08-23",
       "editorial_summary": "Briefing compiled on August 23, 2026. Today's selection highlights new R packages and features like Using GitHub Actions to deploy to Posit Connect Cloud, Running local large language models not as difficult as you might think and explores cutting-edge AI integrations including Velocity07/OrbitMCP (2 stars), moonlin1213/cove-book-forge-mcp (17 stars).",

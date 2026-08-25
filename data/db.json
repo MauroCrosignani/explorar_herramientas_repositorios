@@ -7165,9 +7165,91 @@
       "score": 11.5,
       "read": false,
       "id": "item_1787609580"
+    },
+    {
+      "title": "morrosun/ortho-gnri-nlr-icu-transfer (0 stars)",
+      "url": "https://github.com/morrosun/ortho-gnri-nlr-icu-transfer",
+      "summary": "GNRI + NLR prediction of postoperative ICU transfer in older orthopedic surgery patients (MIMIC-IV / eICU / INSPIRE) — analysis code, de-identified derived cohort, and EN/ZH web calculator.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-25",
+      "tags": [
+        "sf"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1787695971"
+    },
+    {
+      "title": "anilmetin0/lichess-elite-games-analysis (0 stars)",
+      "url": "https://github.com/anilmetin0/lichess-elite-games-analysis",
+      "summary": "Privacy-conscious R analysis of rating gaps, openings, time controls, and underdog outcomes in 480,109 elite Lichess games.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-25",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1787695972"
+    },
+    {
+      "title": "Jujordan/salary-project (1 stars)",
+      "url": "https://github.com/Jujordan/salary-project",
+      "summary": "MA3740 ANOVA Salary analysis. Final Project for MA3740. Used concepts above and beyond the scope of class to analyze salaries at MTU and look for interactions amongst them. ",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-25",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1787695973"
+    },
+    {
+      "title": "vahabcore/linkedin-mcp-server (2 stars)",
+      "url": "https://github.com/vahabcore/linkedin-mcp-server",
+      "summary": "A Model Context Protocol (MCP) server that connects Google Gemini Spark to the official LinkedIn REST API for autonomous, scheduled daily content publishing.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-25",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1787695974"
+    },
+    {
+      "title": "JawadulHadi/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/JawadulHadi/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-25",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1787695975"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-25",
+      "editorial_summary": "Briefing compiled on August 25, 2026. Today's selection highlights new R packages and features like morrosun/ortho-gnri-nlr-icu-transfer (0 stars) and explores cutting-edge AI integrations including vahabcore/linkedin-mcp-server (2 stars), JawadulHadi/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1787695971",
+        "item_1787695972",
+        "item_1787695973",
+        "item_1787695974",
+        "item_1787695975"
+      ]
+    },
     {
       "date": "2026-08-24",
       "editorial_summary": "Briefing compiled on August 24, 2026. Today's selection highlights new R packages and features like Take Your R Projects on the Road:  Using R on Your Raspberry Pi, Android Device, and iPhone, R Weekly 2026-W35 Visualization Creativity, Futurize, Tricky Async and explores cutting-edge AI integrations including Gentleman-Programming/dataimpulse-mcp (16 stars), shriramkv/create-mcp-server (16 stars).",

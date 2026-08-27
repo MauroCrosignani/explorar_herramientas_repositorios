@@ -7236,9 +7236,109 @@
       "score": 13.5,
       "read": false,
       "id": "item_1787695975"
+    },
+    {
+      "title": "jofazepa/temIST (1 stars)",
+      "url": "https://github.com/jofazepa/temIST",
+      "summary": "Tema para ggplot para usar no IST",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-27",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1787797194"
+    },
+    {
+      "title": "BjarkeHautop/altdown (1 stars)",
+      "url": "https://github.com/BjarkeHautop/altdown",
+      "summary": "A pkgdown-style Bootstrap 5 theme for altdoc + Quarto R package documentation site",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-27",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1787797195"
+    },
+    {
+      "title": "On the Expectation-Maximization (EM) algorithm and regression models",
+      "url": "https://www.r-bloggers.com/2026/08/on-the-expectation-maximization-em-algorithm-and-regression-models/",
+      "summary": "Using an iterative optimization framework to rethink regression models\nContinue reading: On the Expectation-Maximization (EM) algorithm and regression models",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-27",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1787797196"
+    },
+    {
+      "title": "alexander-jhughes/dollar-tokenisation-analysis (1 stars)",
+      "url": "https://github.com/alexander-jhughes/dollar-tokenisation-analysis",
+      "summary": "An empirical model of whether the strategic monetary alliance known as the petrodollar system has begun to run out of fuel.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-27",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1787797197"
+    },
+    {
+      "title": "laurentshowtime/mcp-agent-toolkit (6 stars)",
+      "url": "https://github.com/laurentshowtime/mcp-agent-toolkit",
+      "summary": "⚡ Production-ready Model Context Protocol (MCP) servers, agent skills, and automation workflows for Claude, Cursor, and AgentScope. / 专为现代 AI 智能体打造的开箱即用 MCP 服务与自动化技能套件。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-27",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 18.5,
+      "read": false,
+      "id": "item_1787797198"
+    },
+    {
+      "title": "Morningstar202604/AgentSeed (21 stars)",
+      "url": "https://github.com/Morningstar202604/AgentSeed",
+      "summary": "Anti-hallucination guardrails for AI coding agents - hybrid Skill + MCP server (6 tools) that verifies code before it is marked done. Works with Claude Code, Cursor, VS Code, Copilot.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-27",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1787797199"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-27",
+      "editorial_summary": "Briefing compiled on August 27, 2026. Today's selection highlights new R packages and features like jofazepa/temIST (1 stars), BjarkeHautop/altdown (1 stars) and explores cutting-edge AI integrations including laurentshowtime/mcp-agent-toolkit (6 stars), Morningstar202604/AgentSeed (21 stars).",
+      "items": [
+        "item_1787797194",
+        "item_1787797195",
+        "item_1787797196",
+        "item_1787797197",
+        "item_1787797198",
+        "item_1787797199"
+      ]
+    },
     {
       "date": "2026-08-25",
       "editorial_summary": "Briefing compiled on August 25, 2026. Today's selection highlights new R packages and features like morrosun/ortho-gnri-nlr-icu-transfer (0 stars) and explores cutting-edge AI integrations including vahabcore/linkedin-mcp-server (2 stars), JawadulHadi/skills-integrate-mcp-with-copilot (1 stars).",

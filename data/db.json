@@ -7324,9 +7324,96 @@
       "score": 15.5,
       "read": false,
       "id": "item_1787797199"
+    },
+    {
+      "title": "wzbillings/zlifts (0 stars)",
+      "url": "https://github.com/wzbillings/zlifts",
+      "summary": "Dashboard-first Quarto site for tracking normalized Garmin strength-training data",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-28",
+      "tags": [
+        "quarto",
+        "ai",
+        "dashboard"
+      ],
+      "score": 0.5,
+      "read": false,
+      "id": "item_1787896275"
+    },
+    {
+      "title": "SaeedAngiz1/Case_Study_Bellabeat_Google_Data_Analytics (0 stars)",
+      "url": "https://github.com/SaeedAngiz1/Case_Study_Bellabeat_Google_Data_Analytics",
+      "summary": "Completed the Bellabeat Case Study as part of the Google Data Analytics Professional Certificate. I analyzed smart device usage data using data cleaning, exploration, analysis, and visualization te...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-28",
+      "tags": [
+        "visualization",
+        "analytics"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1787896276"
+    },
+    {
+      "title": "kaengeza/N5004L (0 stars)",
+      "url": "https://github.com/kaengeza/N5004L",
+      "summary": "This repository contains code and examples for Exploratory Data Analysis (EDA) across a range of domains. It demonstrates various techniques for data exploration, visualization, preprocessing, and ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-28",
+      "tags": [
+        "ai",
+        "visualization"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1787896277"
+    },
+    {
+      "title": "Morningstar202604/agentseed-mcp (22 stars)",
+      "url": "https://github.com/Morningstar202604/agentseed-mcp",
+      "summary": "Anti-hallucination gate for AI coding agents — 8 MCP tools catch invented APIs (17 languages), fake \"all tests pass\" claims, and slopsquatting packages before they ship. Zero-dependency Agent Plugi...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-28",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 16.5,
+      "read": false,
+      "id": "item_1787896278"
+    },
+    {
+      "title": "mordenhost/more-mcp (19 stars)",
+      "url": "https://github.com/mordenhost/more-mcp",
+      "summary": "Turn WordPress into an MCP server for Claude, ChatGPT & Gemini: OAuth 2.0 + API-key auth, 107 built-in tools, 36 toggleable integrations (WooCommerce, Elementor, ACF, SEO & more).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-28",
+      "tags": [
+        "mcp"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1787896279"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-28",
+      "editorial_summary": "Briefing compiled on August 28, 2026. Today's selection highlights new R packages and features like wzbillings/zlifts (0 stars) and explores cutting-edge AI integrations including Morningstar202604/agentseed-mcp (22 stars), mordenhost/more-mcp (19 stars).",
+      "items": [
+        "item_1787896275",
+        "item_1787896276",
+        "item_1787896277",
+        "item_1787896278",
+        "item_1787896279"
+      ]
+    },
     {
       "date": "2026-08-27",
       "editorial_summary": "Briefing compiled on August 27, 2026. Today's selection highlights new R packages and features like jofazepa/temIST (1 stars), BjarkeHautop/altdown (1 stars) and explores cutting-edge AI integrations including laurentshowtime/mcp-agent-toolkit (6 stars), Morningstar202604/AgentSeed (21 stars).",

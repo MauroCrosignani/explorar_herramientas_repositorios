@@ -7400,9 +7400,108 @@
       "score": 14.5,
       "read": false,
       "id": "item_1787896279"
+    },
+    {
+      "title": "wbstats 1.2.0 is now on CRAN",
+      "url": "https://www.r-bloggers.com/2026/08/wbstats-1-2-0-is-now-on-cran/",
+      "summary": "Programmatic Access to Data and Statistics from the World Bank API\n\n\nContinue reading: wbstats 1.2.0 is now on CRAN",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "cran",
+        "statistics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1787973832"
+    },
+    {
+      "title": "Do you need a custom R package or Shiny app? I can build it for you",
+      "url": "https://www.r-bloggers.com/2026/08/do-you-need-a-custom-r-package-or-shiny-app-i-can-build-it-for-you/",
+      "summary": "I offer turning a set of requirements into a maintainable package or dashboard\nContinue reading: Do you need a custom R package or Shiny app? I can build it for you",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "shiny",
+        "ai",
+        "dashboard"
+      ],
+      "score": 5.5,
+      "read": false,
+      "id": "item_1787973833"
+    },
+    {
+      "title": "Rxyxs/credit-risk-market-analytics-r-python (0 stars)",
+      "url": "https://github.com/Rxyxs/credit-risk-market-analytics-r-python",
+      "summary": "Interoperabilidad bidireccional R-Python: credit scoring y LGD empirica (Tobit/GAM) en R via reticulate y rpy2, stress test IFRS9/Basilea III sobre datos macro reales de Chile",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-29",
+      "tags": [
+        "analytics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1787973834"
+    },
+    {
+      "title": "yazalj/bulk-atacseq-mature-memory-nk (0 stars)",
+      "url": "https://github.com/yazalj/bulk-atacseq-mature-memory-nk",
+      "summary": "Reproducible bulk ATAC-seq analysis of Mature and Memory human NK cells with donor-aware differential accessibility and exploratory downstream analyses.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-29",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1787973835"
+    },
+    {
+      "title": "R Weekly 2026-W30 Chord diagrams, 2026 Grants, LLM Prompting",
+      "url": "https://rweekly.org/2026-W30.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "llm"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1787973836"
+    },
+    {
+      "title": "Reading notes on The Programmer’s Brain by Felienne Hermans",
+      "url": "https://www.r-bloggers.com/2026/08/reading-notes-on-the-programmers-brain-by-felienne-hermans/",
+      "summary": "Prompted (😉) by some AI dread, I decided to go back to some basics and re-read The Programmer’s Brain by Felienne Hermans. Felienne Hermans’ work caught my attention when she gave a keynote talk at...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1787973837"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-29",
+      "editorial_summary": "Briefing compiled on August 29, 2026. Today's selection highlights new R packages and features like wbstats 1.2.0 is now on CRAN, Do you need a custom R package or Shiny app? I can build it for you and explores cutting-edge AI integrations including R Weekly 2026-W30 Chord diagrams, 2026 Grants, LLM Prompting, Reading notes on The Programmer’s Brain by Felienne Hermans.",
+      "items": [
+        "item_1787973832",
+        "item_1787973833",
+        "item_1787973834",
+        "item_1787973835",
+        "item_1787973836",
+        "item_1787973837"
+      ]
+    },
     {
       "date": "2026-08-28",
       "editorial_summary": "Briefing compiled on August 28, 2026. Today's selection highlights new R packages and features like wzbillings/zlifts (0 stars) and explores cutting-edge AI integrations including Morningstar202604/agentseed-mcp (22 stars), mordenhost/more-mcp (19 stars).",

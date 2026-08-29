@@ -7487,9 +7487,109 @@
       "score": 8.5,
       "read": false,
       "id": "item_1787973837"
+    },
+    {
+      "title": "LeandreGachet/reseaux-transferts-football (0 stars)",
+      "url": "https://github.com/LeandreGachet/reseaux-transferts-football",
+      "summary": "Le marche des transferts de football analyse comme un reseau - centralites, communautes, k-core, R et igraph",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "sf"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1788046800"
+    },
+    {
+      "title": "tarekwasfy01/RTDAL---R-Transpiled-Data-Abstraction-Library (0 stars)",
+      "url": "https://github.com/tarekwasfy01/RTDAL---R-Transpiled-Data-Abstraction-Library",
+      "summary": "RTDAL- R Transpiled Data Abstraction Library for GIS",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "sf"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1788046801"
+    },
+    {
+      "title": "migariane/SL-Tutorial (0 stars)",
+      "url": "https://github.com/migariane/SL-Tutorial",
+      "summary": "SuperLearner Tutorial for Epidemiologists & Biostatisticians — hands-on R tutorial with clinical application, cross-validated ensemble ML, and TMLE bridge.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-29",
+      "tags": [
+        "tutorial"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1788046802"
+    },
+    {
+      "title": "NVictor2004/nhs-rtt-dashboard (0 stars)",
+      "url": "https://github.com/NVictor2004/nhs-rtt-dashboard",
+      "summary": "An NHS Referral to Treatment (RTT) Waiting Times Dashboard",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-08-29",
+      "tags": [
+        "ai",
+        "dashboard"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1788046803"
+    },
+    {
+      "title": "cubetribe/Mailbunker_MCP (2 stars)",
+      "url": "https://github.com/cubetribe/Mailbunker_MCP",
+      "summary": "🔒 Zero-Trust encrypted email archive & real-time IMAP push daemon with SQLite FTS5, Obsidian Vault generator & native Model Context Protocol (MCP) server for Claude & AI agents.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 18.5,
+      "read": false,
+      "id": "item_1788046804"
+    },
+    {
+      "title": "kesaruhasun/awesome-antigravity-skills-mcp-guide (2 stars)",
+      "url": "https://github.com/kesaruhasun/awesome-antigravity-skills-mcp-guide",
+      "summary": "Curated directory of Google Antigravity Agent Skills, Model Context Protocol (MCP) servers, Free Cloud VPS hosting, and GitHub Student Pack guide.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-08-29",
+      "tags": [
+        "mcp",
+        "antigravity"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1788046805"
     }
   ],
   "reports": [
+    {
+      "date": "2026-08-29",
+      "editorial_summary": "Briefing compiled on August 29, 2026. Today's selection highlights new R packages and features like LeandreGachet/reseaux-transferts-football (0 stars), tarekwasfy01/RTDAL---R-Transpiled-Data-Abstraction-Library (0 stars) and explores cutting-edge AI integrations including cubetribe/Mailbunker_MCP (2 stars), kesaruhasun/awesome-antigravity-skills-mcp-guide (2 stars).",
+      "items": [
+        "item_1788046800",
+        "item_1788046801",
+        "item_1788046802",
+        "item_1788046803",
+        "item_1788046804",
+        "item_1788046805"
+      ]
+    },
     {
       "date": "2026-08-29",
       "editorial_summary": "Briefing compiled on August 29, 2026. Today's selection highlights new R packages and features like wbstats 1.2.0 is now on CRAN, Do you need a custom R package or Shiny app? I can build it for you and explores cutting-edge AI integrations including R Weekly 2026-W30 Chord diagrams, 2026 Grants, LLM Prompting, Reading notes on The Programmer’s Brain by Felienne Hermans.",

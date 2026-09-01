@@ -7748,9 +7748,107 @@
       "score": 15.5,
       "read": false,
       "id": "item_1788223856"
+    },
+    {
+      "title": "bioconductor-source/pepVet (0 stars)",
+      "url": "https://github.com/bioconductor-source/pepVet",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1788305835"
+    },
+    {
+      "title": "Making Iroshizuku Interactive with Observable",
+      "url": "https://www.r-bloggers.com/2026/08/making-iroshizuku-interactive-with-observable/",
+      "summary": "One tiny dataset, another rabbit hole 🐇🕳️\nIn the previous post, I turned 24 Pilot Iroshizuku fountain pen inks into a tiny shop using ggplot2.\nBut while sorting the inks by colour, I started wonder...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "ggplot",
+        "ai"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1788305836"
+    },
+    {
+      "title": "Damitri411/Damitri411 (1 stars)",
+      "url": "https://github.com/Damitri411/Damitri411",
+      "summary": "Biostatistician and Researcher focusing on:  Early Phase Oncology Dose Optimization, Rare Diseases, Time to Event Data, Longitudinal Data, Bayesian Variable Selection, Multivariate Joint Modeling",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-01",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1788305837"
+    },
+    {
+      "title": "GeekatplayStudio/Meshwright (29 stars)",
+      "url": "https://github.com/GeekatplayStudio/Meshwright",
+      "summary": "Know why your model won't print. Fix it. Prove it. — mesh analysis, repair and smart retopology for 3D printing, by Geekatplay Studio",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-01",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1788305838"
+    },
+    {
+      "title": "bsab/italia-mcp-servers (16 stars)",
+      "url": "https://github.com/bsab/italia-mcp-servers",
+      "summary": "Catalogo curato dei server MCP (Model Context Protocol) italiani — dati pubblici, legal-tech, fatturazione, PA e altro.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1788305839"
+    },
+    {
+      "title": "reachjalil/mcpexplained (2 stars)",
+      "url": "https://github.com/reachjalil/mcpexplained",
+      "summary": "Interactive, replayable explainers for the Model Context Protocol",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1788305840"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-01",
+      "editorial_summary": "Briefing compiled on September 01, 2026. Today's selection highlights new R packages and features like bioconductor-source/pepVet (0 stars), Making Iroshizuku Interactive with Observable and explores cutting-edge AI integrations including bsab/italia-mcp-servers (16 stars), reachjalil/mcpexplained (2 stars).",
+      "items": [
+        "item_1788305835",
+        "item_1788305836",
+        "item_1788305837",
+        "item_1788305838",
+        "item_1788305839",
+        "item_1788305840"
+      ]
+    },
     {
       "date": "2026-09-01",
       "editorial_summary": "Briefing compiled on September 01, 2026. Today's selection highlights new R packages and features like [R] Understanding position_dodge() and position_dodge2() in ggplot2, July 2026 Top 40 New CRAN Packages and explores cutting-edge AI integrations including drephantom/wq-brain-mcp-server (11 stars), gs4lthung/claude-wp-mcp (2 stars).",

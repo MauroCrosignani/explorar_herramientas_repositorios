@@ -7662,9 +7662,107 @@
       "score": 13.5,
       "read": false,
       "id": "item_1788134356"
+    },
+    {
+      "title": "[R] Understanding position_dodge() and position_dodge2() in ggplot2",
+      "url": "https://www.r-bloggers.com/2026/08/r-understanding-position_dodge-and-position_dodge2-in-ggplot2/",
+      "summary": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/08/30/r-understanding-position-dodge-and-position-dodge2-in-ggplot2/ -\nIn ggplot2, when displaying grouped data along categorical axes (such a...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1788223851"
+    },
+    {
+      "title": "July 2026 Top 40 New CRAN Packages",
+      "url": "https://www.r-bloggers.com/2026/08/july-2026-top-40-new-cran-packages/",
+      "summary": "Three hundred fifty-three new packages were submitted to CRAN in July. Here are my Top 40 picks in nineteen categories: Causal Inference, Chemistry, Climate Studies, Computational Methods, Ecology,...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1788223852"
+    },
+    {
+      "title": "Skip the R/Python runtime: fast tabular dashboards with Observable Framework",
+      "url": "https://www.r-bloggers.com/2026/08/skip-the-r-python-runtime-fast-tabular-dashboards-with-observable-framework/",
+      "summary": "Shiny and Streamlit dashboards depend on a live R or Python process, which makes vanilla deployments slow to load. Observable Framework compiles your data pipeline at build time and ships a static,...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-01",
+      "tags": [
+        "shiny",
+        "dashboard"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1788223853"
+    },
+    {
+      "title": "RuichenTang/biomedical-predictive-modeling (1 stars)",
+      "url": "https://github.com/RuichenTang/biomedical-predictive-modeling",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-01",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1788223854"
+    },
+    {
+      "title": "drephantom/wq-brain-mcp-server (11 stars)",
+      "url": "https://github.com/drephantom/wq-brain-mcp-server",
+      "summary": "Local MCP server for WorldQuant BRAIN research — 8 tools with explicit safety boundaries",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 20.0,
+      "read": false,
+      "id": "item_1788223855"
+    },
+    {
+      "title": "gs4lthung/claude-wp-mcp (2 stars)",
+      "url": "https://github.com/gs4lthung/claude-wp-mcp",
+      "summary": "MCP server for WordPress — lets Claude (or any Model Context Protocol client) read and manage a WordPress site over the built-in WP REST API. No plugin required on the WordPress side.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-01",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1788223856"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-01",
+      "editorial_summary": "Briefing compiled on September 01, 2026. Today's selection highlights new R packages and features like [R] Understanding position_dodge() and position_dodge2() in ggplot2, July 2026 Top 40 New CRAN Packages and explores cutting-edge AI integrations including drephantom/wq-brain-mcp-server (11 stars), gs4lthung/claude-wp-mcp (2 stars).",
+      "items": [
+        "item_1788223851",
+        "item_1788223852",
+        "item_1788223853",
+        "item_1788223854",
+        "item_1788223855",
+        "item_1788223856"
+      ]
+    },
     {
       "date": "2026-08-30",
       "editorial_summary": "Briefing compiled on August 30, 2026. Today's selection highlights new R packages and features like mbilal-OU/Biology-data-viz-ggplot2 (0 stars), tarekwasfy01/Code-Transpiler (0 stars) and explores cutting-edge AI integrations including Ryze-AI-Adgent/open-seo-mcp-skills (16 stars), sjhallo07/ibm-bob-silicon-mcp-server (2 stars).",

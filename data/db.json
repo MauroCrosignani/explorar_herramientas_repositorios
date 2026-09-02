@@ -7834,9 +7834,109 @@
       "score": 13.0,
       "read": false,
       "id": "item_1788305840"
+    },
+    {
+      "title": "mbilal-OU/ggplot2-omics-grammar (0 stars)",
+      "url": "https://github.com/mbilal-OU/ggplot2-omics-grammar",
+      "summary": "Tutorial-first biological data visualization in R with ggplot2: ten omics figures, reusable functions, tests, and pkgdown docs.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-02",
+      "tags": [
+        "ggplot",
+        "tutorial",
+        "visualization"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1788392342"
+    },
+    {
+      "title": "bioconductor-source/SwarnSeq (0 stars)",
+      "url": "https://github.com/bioconductor-source/SwarnSeq",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-02",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1788392343"
+    },
+    {
+      "title": "Amy-way05/consumer-segmentation-analysis (0 stars)",
+      "url": "https://github.com/Amy-way05/consumer-segmentation-analysis",
+      "summary": "K-means clustering and chi-square hypothesis testing on 3,000 consumer survey respondents, identifying motivation-based segments for a food product client. Individual contribution to a graduate con...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-02",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1788392344"
+    },
+    {
+      "title": "JanMarvin/gtxlsx (8 stars)",
+      "url": "https://github.com/JanMarvin/gtxlsx",
+      "summary": "Write 'gt' and HTML Tables into 'openxlsx2' Workbooks",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-02",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788392345"
+    },
+    {
+      "title": "0xdad0/jadx-mcp (8 stars)",
+      "url": "https://github.com/0xdad0/jadx-mcp",
+      "summary": "MCP (Model Context Protocol) server as a jadx-gui plugin. Lets an AI client (Claude Code, Claude Desktop, or any MCP client) analyze the app currently loaded in jadx-gui.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-02",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1788392346"
+    },
+    {
+      "title": "Nsj94/mcp-playground (2 stars)",
+      "url": "https://github.com/Nsj94/mcp-playground",
+      "summary": "Learn the Model Context Protocol by watching it happen — a real MCP client + server with a live JSON-RPC wire view, a guided tutorial, and Claude/GPT/Gemini agent modes. Built for teaching.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-02",
+      "tags": [
+        "mcp",
+        "tutorial"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1788392347"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-02",
+      "editorial_summary": "Briefing compiled on September 02, 2026. Today's selection highlights new R packages and features like mbilal-OU/ggplot2-omics-grammar (0 stars), bioconductor-source/SwarnSeq (0 stars) and explores cutting-edge AI integrations including 0xdad0/jadx-mcp (8 stars), Nsj94/mcp-playground (2 stars).",
+      "items": [
+        "item_1788392342",
+        "item_1788392343",
+        "item_1788392344",
+        "item_1788392345",
+        "item_1788392346",
+        "item_1788392347"
+      ]
+    },
     {
       "date": "2026-09-01",
       "editorial_summary": "Briefing compiled on September 01, 2026. Today's selection highlights new R packages and features like bioconductor-source/pepVet (0 stars), Making Iroshizuku Interactive with Observable and explores cutting-edge AI integrations including bsab/italia-mcp-servers (16 stars), reachjalil/mcpexplained (2 stars).",

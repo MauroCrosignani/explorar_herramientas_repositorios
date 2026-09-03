@@ -7922,9 +7922,107 @@
       "score": 12.0,
       "read": false,
       "id": "item_1788392347"
+    },
+    {
+      "title": "tag-amitkumar/TMS-Transport (1 stars)",
+      "url": "https://github.com/tag-amitkumar/TMS-Transport",
+      "summary": "TMS - Transport · A logistics ERP in R/Shiny. Bookings, consignments, fleet, GST compliance, accounts, HRMS and customer/vendor portals.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-03",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1788478605"
+    },
+    {
+      "title": "TheophileMt92/gfw-seasonality (0 stars)",
+      "url": "https://github.com/TheophileMt92/gfw-seasonality",
+      "summary": "When fleets fish, and where. Seasonality of global fishing effort by FAO area, from Global Fishing Watch data. R/Shiny.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-03",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1788478606"
+    },
+    {
+      "title": "R For SEO Part 10: SEO Reporting With Google Sheets & OpenRouter",
+      "url": "https://www.r-bloggers.com/2026/09/r-for-seo-part-10-seo-reporting-with-google-sheets-openrouter/",
+      "summary": "R For SEO Part 10: SEO Reporting With Google Sheets &#038; OpenRouter\nWelcome back, and we’re finally at the end of my R for SEO series, at least for now. We’ve gone through quite...\nThis post was ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-03",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1788478607"
+    },
+    {
+      "title": "bezawitfikadukebe/financial-wellbeing-distress-analysis (1 stars)",
+      "url": "https://github.com/bezawitfikadukebe/financial-wellbeing-distress-analysis",
+      "summary": "R analysis of financial conditions, financial well-being, and reported distress using the CFPB National Financial Well-Being Survey.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-03",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1788478608"
+    },
+    {
+      "title": "Xiaobocai08/system-informer-mcp (2 stars)",
+      "url": "https://github.com/Xiaobocai08/system-informer-mcp",
+      "summary": "Give your AI agent full control of Windows. A native C MCP (Model Context Protocol) server built on System Informer / Process Hacker — 54 tools for processes, threads, memory, handles, services, ne...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-03",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1788478609"
+    },
+    {
+      "title": "Thecimal/quantified-self-mcp (2 stars)",
+      "url": "https://github.com/Thecimal/quantified-self-mcp",
+      "summary": "A local [Model Context Protocol](https://modelcontextprotocol.io) (MCP) server that lets an LLM — e.g. Claude Desktop — query your personal health and finance data. Everything is stored in two loca...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-03",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1788478610"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-03",
+      "editorial_summary": "Briefing compiled on September 03, 2026. Today's selection highlights new R packages and features like tag-amitkumar/TMS-Transport (1 stars), TheophileMt92/gfw-seasonality (0 stars) and explores cutting-edge AI integrations including Xiaobocai08/system-informer-mcp (2 stars), Thecimal/quantified-self-mcp (2 stars).",
+      "items": [
+        "item_1788478605",
+        "item_1788478606",
+        "item_1788478607",
+        "item_1788478608",
+        "item_1788478609",
+        "item_1788478610"
+      ]
+    },
     {
       "date": "2026-09-02",
       "editorial_summary": "Briefing compiled on September 02, 2026. Today's selection highlights new R packages and features like mbilal-OU/ggplot2-omics-grammar (0 stars), bioconductor-source/SwarnSeq (0 stars) and explores cutting-edge AI integrations including 0xdad0/jadx-mcp (8 stars), Nsj94/mcp-playground (2 stars).",

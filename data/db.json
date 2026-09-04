@@ -8008,9 +8008,105 @@
       "score": 12.0,
       "read": false,
       "id": "item_1788478610"
+    },
+    {
+      "title": "R Weekly 2026-W36 Jarl R linter, R docs sites",
+      "url": "https://rweekly.org/2026-W36.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-04",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788564550"
+    },
+    {
+      "title": "Z-Test in R: Complete Guide with One-Sample & Two-Sample Examples",
+      "url": "https://www.r-bloggers.com/2026/09/z-test-in-r-complete-guide-with-one-sample-two-sample-examples/",
+      "summary": "Complete guide to running one-sample and two-sample Z-tests in R using BSDA::z.test(), the manual pnorm/qnorm method, and how to choose between a Z-test and a t-test for your data.\nRead More »\nCont...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-04",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788564551"
+    },
+    {
+      "title": "melinar924/Pcos-Risk-Lifestyle-Analysis (0 stars)",
+      "url": "https://github.com/melinar924/Pcos-Risk-Lifestyle-Analysis",
+      "summary": "Statistical and machine-learning analysis of dietary, exercise, and health factors associated with PCOS.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-04",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1788564552"
+    },
+    {
+      "title": "ROC, Paper, Scissor, Shoe",
+      "url": "https://www.r-bloggers.com/2026/09/roc-paper-scissor-shoe/",
+      "summary": "📊 Working through ROC-AUC from scratch, then poking at its blind spots — low prevalence, calibration, and finally Decision Curve Analysis. Mostly notes to myself on what I learned (and got confused...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-04",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1788564553"
+    },
+    {
+      "title": "stavasol96-arch/Pymol-Claude-MCP (33 stars)",
+      "url": "https://github.com/stavasol96-arch/Pymol-Claude-MCP",
+      "summary": "MCP server that connects Claude Code to a live PyMOL session over XML-RPC",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-04",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1788564554"
+    },
+    {
+      "title": "Claude-Reverser/IDA-instances-MCP (111 stars)",
+      "url": "https://github.com/Claude-Reverser/IDA-instances-MCP",
+      "summary": "Custom build of ida-pro-mcp - stability-hardened MCP server for hosting headless IDA Pro instances",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-04",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1788564555"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-04",
+      "editorial_summary": "Briefing compiled on September 04, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W36 Jarl R linter, R docs sites, Z-Test in R: Complete Guide with One-Sample & Two-Sample Examples and explores cutting-edge AI integrations including stavasol96-arch/Pymol-Claude-MCP (33 stars), Claude-Reverser/IDA-instances-MCP (111 stars).",
+      "items": [
+        "item_1788564550",
+        "item_1788564551",
+        "item_1788564552",
+        "item_1788564553",
+        "item_1788564554",
+        "item_1788564555"
+      ]
+    },
     {
       "date": "2026-09-03",
       "editorial_summary": "Briefing compiled on September 03, 2026. Today's selection highlights new R packages and features like tag-amitkumar/TMS-Transport (1 stars), TheophileMt92/gfw-seasonality (0 stars) and explores cutting-edge AI integrations including Xiaobocai08/system-informer-mcp (2 stars), Thecimal/quantified-self-mcp (2 stars).",

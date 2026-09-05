@@ -8092,9 +8092,108 @@
       "score": 11.5,
       "read": false,
       "id": "item_1788564555"
+    },
+    {
+      "title": "tarekwasfy01/R2Go-Transpiler (0 stars)",
+      "url": "https://github.com/tarekwasfy01/R2Go-Transpiler",
+      "summary": "R2Go is an experimental Base R to Go transpiler and proof of concept. It supports a broad set of Base R primitives, includes GUI and CLI tools, and can generate standalone Go code where supported. ...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-05",
+      "tags": [
+        "sf"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1788650725"
+    },
+    {
+      "title": "Bringing BERT — R functions in Excel — up to R 4.6",
+      "url": "https://www.r-bloggers.com/2026/09/bringing-bert-r-functions-in-excel-up-to-r-4-6/",
+      "summary": "BERT lets you call R functions from Excel cells, but its author stopped work in 2018. Bringing it up to R 4.6 — and to working on every R from 3.5 up — turned up a deadlock that froze Excel and two...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-05",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788650726"
+    },
+    {
+      "title": "Mubashir-zz/glioma-nco-registry-study (0 stars)",
+      "url": "https://github.com/Mubashir-zz/glioma-nco-registry-study",
+      "summary": "Registry analysis of objective neurocognitive endpoints in 289 randomized glioblastoma/HGG trials. Reproducible R pipeline, Firth penalized regression, publication figures.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-05",
+      "tags": [
+        "general"
+      ],
+      "score": 4,
+      "read": false,
+      "id": "item_1788650727"
+    },
+    {
+      "title": "songyue-chen/sas2r (1 stars)",
+      "url": "https://github.com/songyue-chen/sas2r",
+      "summary": "Use R to get R — translate SAS to R with a coordinated multi-agent workflow, built for clinical programming",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-05",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788650728"
+    },
+    {
+      "title": "trinity1994/MCP-Server-Aster-DEX (41 stars)",
+      "url": "https://github.com/trinity1994/MCP-Server-Aster-DEX",
+      "summary": "MCP server for Aster DEX — a Model Context Protocol server that gives Claude, Cursor and Cline structured access to Aster DEX market data, volume, points and airdrop eligibility via natural languag...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-05",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1788650729"
+    },
+    {
+      "title": "mohamdben-yahia/youtube-mcp (2 stars)",
+      "url": "https://github.com/mohamdben-yahia/youtube-mcp",
+      "summary": "The most comprehensive YouTube Model Context Protocol (MCP) server for Claude, Cursor & AI agents — 33 tools, zero-quota RSS fallbacks, quota failover pool, and 11 turnkey workflow skills.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-05",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1788650730"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-05",
+      "editorial_summary": "Briefing compiled on September 05, 2026. Today's selection highlights new R packages and features like tarekwasfy01/R2Go-Transpiler (0 stars), Bringing BERT — R functions in Excel — up to R 4.6 and explores cutting-edge AI integrations including trinity1994/MCP-Server-Aster-DEX (41 stars), mohamdben-yahia/youtube-mcp (2 stars).",
+      "items": [
+        "item_1788650725",
+        "item_1788650726",
+        "item_1788650727",
+        "item_1788650728",
+        "item_1788650729",
+        "item_1788650730"
+      ]
+    },
     {
       "date": "2026-09-04",
       "editorial_summary": "Briefing compiled on September 04, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W36 Jarl R linter, R docs sites, Z-Test in R: Complete Guide with One-Sample & Two-Sample Examples and explores cutting-edge AI integrations including stavasol96-arch/Pymol-Claude-MCP (33 stars), Claude-Reverser/IDA-instances-MCP (111 stars).",

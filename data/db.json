@@ -8179,9 +8179,107 @@
       "score": 15.5,
       "read": false,
       "id": "item_1788650730"
+    },
+    {
+      "title": "LeandreGachet/application-shiny-interventions-pompiers (0 stars)",
+      "url": "https://github.com/LeandreGachet/application-shiny-interventions-pompiers",
+      "summary": "Application R Shiny d exploration des interventions de sapeurs-pompiers - graphique adapte au type de variable",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-06",
+      "tags": [
+        "shiny"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1788736688"
+    },
+    {
+      "title": "Skewness-Managed Portfolios: A Practical Guide with R",
+      "url": "https://www.r-bloggers.com/2026/09/skewness-managed-portfolios-a-practical-guide-with-r/",
+      "summary": "Introduction Portfolio construction often relies on mean–variance optimization or factor models. Yet, recent research highlights the importance of skewness—the third statistical moment—as a driver ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-06",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788736689"
+    },
+    {
+      "title": "rajatgaur505/nhs-ae-performance-analysis (0 stars)",
+      "url": "https://github.com/rajatgaur505/nhs-ae-performance-analysis",
+      "summary": "End-to-end NHS A&E performance analysis using Power BI, Python, SQL, R and Excel.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-06",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1788736690"
+    },
+    {
+      "title": "Slicing in tidyomics",
+      "url": "https://www.r-bloggers.com/2026/09/slicing-in-tidyomics/",
+      "summary": "Introduction\nThe tidyverse verb slice() lets you select observations by position, returning a subset of the data based on integer indices. There are also some related convenience functions, which r...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-06",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1788736691"
+    },
+    {
+      "title": "Alpha-Park/genpark-mcp-tool-definition-pydantic-synthesizer-skill (8 stars)",
+      "url": "https://github.com/Alpha-Park/genpark-mcp-tool-definition-pydantic-synthesizer-skill",
+      "summary": "GenPark AI Agent Skill - Synthesizes Model Context Protocol (MCP) tool schemas directly from native Python function signatures and type hints.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-06",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1788736692"
+    },
+    {
+      "title": "alphaparkinc/genpark-mcp-tool-definition-pydantic-synthesizer-skill (8 stars)",
+      "url": "https://github.com/alphaparkinc/genpark-mcp-tool-definition-pydantic-synthesizer-skill",
+      "summary": "GenPark AI Agent Skill - Synthesizes Model Context Protocol (MCP) tool schemas directly from native Python function signatures and type hints.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-06",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1788736693"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-06",
+      "editorial_summary": "Briefing compiled on September 06, 2026. Today's selection highlights new R packages and features like LeandreGachet/application-shiny-interventions-pompiers (0 stars), Skewness-Managed Portfolios: A Practical Guide with R and explores cutting-edge AI integrations including Alpha-Park/genpark-mcp-tool-definition-pydantic-synthesizer-skill (8 stars), alphaparkinc/genpark-mcp-tool-definition-pydantic-synthesizer-skill (8 stars).",
+      "items": [
+        "item_1788736688",
+        "item_1788736689",
+        "item_1788736690",
+        "item_1788736691",
+        "item_1788736692",
+        "item_1788736693"
+      ]
+    },
     {
       "date": "2026-09-05",
       "editorial_summary": "Briefing compiled on September 05, 2026. Today's selection highlights new R packages and features like tarekwasfy01/R2Go-Transpiler (0 stars), Bringing BERT — R functions in Excel — up to R 4.6 and explores cutting-edge AI integrations including trinity1994/MCP-Server-Aster-DEX (41 stars), mohamdben-yahia/youtube-mcp (2 stars).",

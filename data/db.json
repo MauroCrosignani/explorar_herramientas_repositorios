@@ -8265,9 +8265,107 @@
       "score": 17.0,
       "read": false,
       "id": "item_1788736693"
+    },
+    {
+      "title": "bioconductor-source/MultiAssaySpatialExperiment (0 stars)",
+      "url": "https://github.com/bioconductor-source/MultiAssaySpatialExperiment",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-07",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1788824983"
+    },
+    {
+      "title": "choxos/ggextreme (1 stars)",
+      "url": "https://github.com/choxos/ggextreme",
+      "summary": "Animated bar chart races and other presentation quality charts for ggplot2",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-07",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1788824984"
+    },
+    {
+      "title": "pablogzrs/transporte-en-mx-mbn (1 stars)",
+      "url": "https://github.com/pablogzrs/transporte-en-mx-mbn",
+      "summary": "Percepción del transporte público en México: un análisis con redes bayesianas multinomiales",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-07",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788824985"
+    },
+    {
+      "title": "rpodcast/rweekly-positconf2026 (1 stars)",
+      "url": "https://github.com/rpodcast/rweekly-positconf2026",
+      "summary": "The10-year  Journey of R Weekly powered by open-source",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-07",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788824986"
+    },
+    {
+      "title": "santanumajumdar/claude-tpm-mcp-skills (2 stars)",
+      "url": "https://github.com/santanumajumdar/claude-tpm-mcp-skills",
+      "summary": "A flagship megarepo of 400+ advanced Claude AI Skills & Model Context Protocol (MCP) servers for TPMs, PMs, SDMs, and SDEs in Big Tech.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1788824987"
+    },
+    {
+      "title": "RankSpotAI/awesome-seo-mcp (86 stars)",
+      "url": "https://github.com/RankSpotAI/awesome-seo-mcp",
+      "summary": "A curated list of MCP servers for SEO. Search Console, keywords, backlinks, crawling, SERPs and AI search visibility, verified with install details and auth requirements.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1788824988"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-07",
+      "editorial_summary": "Briefing compiled on September 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/MultiAssaySpatialExperiment (0 stars), choxos/ggextreme (1 stars) and explores cutting-edge AI integrations including santanumajumdar/claude-tpm-mcp-skills (2 stars), RankSpotAI/awesome-seo-mcp (86 stars).",
+      "items": [
+        "item_1788824983",
+        "item_1788824984",
+        "item_1788824985",
+        "item_1788824986",
+        "item_1788824987",
+        "item_1788824988"
+      ]
+    },
     {
       "date": "2026-09-06",
       "editorial_summary": "Briefing compiled on September 06, 2026. Today's selection highlights new R packages and features like LeandreGachet/application-shiny-interventions-pompiers (0 stars), Skewness-Managed Portfolios: A Practical Guide with R and explores cutting-edge AI integrations including Alpha-Park/genpark-mcp-tool-definition-pydantic-synthesizer-skill (8 stars), alphaparkinc/genpark-mcp-tool-definition-pydantic-synthesizer-skill (8 stars).",

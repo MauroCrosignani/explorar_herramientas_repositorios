@@ -8351,9 +8351,106 @@
       "score": 13.0,
       "read": false,
       "id": "item_1788824988"
+    },
+    {
+      "title": "bioconductor-source/sigvar (0 stars)",
+      "url": "https://github.com/bioconductor-source/sigvar",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-08",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1788911008"
+    },
+    {
+      "title": "bioconductor-source/DaparToolshedData (0 stars)",
+      "url": "https://github.com/bioconductor-source/DaparToolshedData",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-08",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1788911009"
+    },
+    {
+      "title": "pondnatalie/us-mexico-border-socioeconomic-analysis (1 stars)",
+      "url": "https://github.com/pondnatalie/us-mexico-border-socioeconomic-analysis",
+      "summary": "End-to-end R data pipeline and Tableau analysis evaluating socioeconomic disparities across 23 U.S. border counties.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-08",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1788911010"
+    },
+    {
+      "title": "ahead (Time Series Forecasting with uncertainty quantification) gets a lot faster to install: most dependencies are now optional",
+      "url": "https://www.r-bloggers.com/2026/09/ahead-time-series-forecasting-with-uncertainty-quantification-gets-a-lot-faster-to-install-most-dependencies-are-now-optional/",
+      "summary": "ahead (R) 0.38.1 and its Python wrapper now install in a fraction of the time, by moving almost every heavy modeling dependency from Imports to Suggests and installing them at runtime, only when a ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-08",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1788911011"
+    },
+    {
+      "title": "noskillish/bankmcp (162 stars)",
+      "url": "https://github.com/noskillish/bankmcp",
+      "summary": "BankMCP™: your AI can now read your bank. Self-hosted, read-only MCP server for your own bank accounts via open banking (Enable Banking). Standard MCP; tested with Claude and Ollama.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-08",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1788911012"
+    },
+    {
+      "title": "juliodelimas/jmeter-mcp-server (83 stars)",
+      "url": "https://github.com/juliodelimas/jmeter-mcp-server",
+      "summary": "Stdio MCP server to build, run and read reports for JMeter test plans",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-08",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1788911013"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-08",
+      "editorial_summary": "Briefing compiled on September 08, 2026. Today's selection highlights new R packages and features like bioconductor-source/sigvar (0 stars), bioconductor-source/DaparToolshedData (0 stars) and explores cutting-edge AI integrations including noskillish/bankmcp (162 stars), juliodelimas/jmeter-mcp-server (83 stars).",
+      "items": [
+        "item_1788911008",
+        "item_1788911009",
+        "item_1788911010",
+        "item_1788911011",
+        "item_1788911012",
+        "item_1788911013"
+      ]
+    },
     {
       "date": "2026-09-07",
       "editorial_summary": "Briefing compiled on September 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/MultiAssaySpatialExperiment (0 stars), choxos/ggextreme (1 stars) and explores cutting-edge AI integrations including santanumajumdar/claude-tpm-mcp-skills (2 stars), RankSpotAI/awesome-seo-mcp (86 stars).",

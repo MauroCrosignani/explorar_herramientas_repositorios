@@ -8436,9 +8436,106 @@
       "score": 11.5,
       "read": false,
       "id": "item_1788911013"
+    },
+    {
+      "title": "How to Create a Function in R: Custom Median & ggplot2 Examples",
+      "url": "https://www.r-bloggers.com/2026/09/how-to-create-a-function-in-r-custom-median-ggplot2-examples/",
+      "summary": "If you've written the same block of R code three times this week — a group summary, a plot, a cleanup step — you don't need another package. You need a function. A custom function is the solution. ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-09",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1788996965"
+    },
+    {
+      "title": "R Weekly 2026-W37 Bike crashes, World Castles, Repeated measures ANOVA",
+      "url": "https://rweekly.org/2026-W37.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-09",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1788996966"
+    },
+    {
+      "title": "niecestroa/pro-survival-modeling-lab (1 stars)",
+      "url": "https://github.com/niecestroa/pro-survival-modeling-lab",
+      "summary": "Advanced survival analysis using ASA‑aligned methods, including Cox PH modeling, Kaplan–Meier curves, hazard estimation, diagnostics, and reproducible time‑to‑event workflows. Built as a profession...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-09",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1788996967"
+    },
+    {
+      "title": "Navigating Challenges in Spatial Machine Learning",
+      "url": "https://www.r-bloggers.com/2026/09/navigating-challenges-in-spatial-machine-learning/",
+      "summary": "Spatial machine learning has become a standard tool for producing environmental and geographic prediction maps. It is now relatively (technically) easy to combine field observations with remote sen...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-09",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1788996968"
+    },
+    {
+      "title": "blumenkuebel/sap-dm-pod2-mcp-server (2 stars)",
+      "url": "https://github.com/blumenkuebel/sap-dm-pod2-mcp-server",
+      "summary": "MCP (Model Context Protocol) server for SAP Digital Manufacturing - Production Operator Dashboard - POD 2.0 Extension Development",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-09",
+      "tags": [
+        "mcp",
+        "dashboard"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1788996969"
+    },
+    {
+      "title": "punkpeye/awesome-remote-mcp-servers (97 stars)",
+      "url": "https://github.com/punkpeye/awesome-remote-mcp-servers",
+      "summary": "A collection of remote MCP servers.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-09",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1788996970"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-09",
+      "editorial_summary": "Briefing compiled on September 09, 2026. Today's selection highlights new R packages and features like How to Create a Function in R: Custom Median & ggplot2 Examples, R Weekly 2026-W37 Bike crashes, World Castles, Repeated measures ANOVA and explores cutting-edge AI integrations including blumenkuebel/sap-dm-pod2-mcp-server (2 stars), punkpeye/awesome-remote-mcp-servers (97 stars).",
+      "items": [
+        "item_1788996965",
+        "item_1788996966",
+        "item_1788996967",
+        "item_1788996968",
+        "item_1788996969",
+        "item_1788996970"
+      ]
+    },
     {
       "date": "2026-09-08",
       "editorial_summary": "Briefing compiled on September 08, 2026. Today's selection highlights new R packages and features like bioconductor-source/sigvar (0 stars), bioconductor-source/DaparToolshedData (0 stars) and explores cutting-edge AI integrations including noskillish/bankmcp (162 stars), juliodelimas/jmeter-mcp-server (83 stars).",

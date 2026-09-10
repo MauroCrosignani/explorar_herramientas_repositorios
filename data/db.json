@@ -8521,9 +8521,109 @@
       "score": 11.5,
       "read": false,
       "id": "item_1788996970"
+    },
+    {
+      "title": "Identifying skills-based occupational transition pathways with the O*NET",
+      "url": "https://www.r-bloggers.com/2026/08/identifying-skills-based-occupational-transition-pathways-with-the-onet/",
+      "summary": "This post estimates potential labor market transition pathways based on the similarity of skills, abilities and knowledge required by occupations. The approach broadly follows Bratanova et al. (202...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-10",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789082964"
+    },
+    {
+      "title": "rOpenSci News Digest, August 2026",
+      "url": "https://www.r-bloggers.com/2026/08/ropensci-news-digest-august-2026/",
+      "summary": "Dear rOpenSci friends, it’s time for our monthly news roundup!  You can read this post on our blog. Now let’s dive into the activity at and around rOpenSci!\nrOpenSci HQ\nChampions Program update\nOur...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-10",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789082965"
+    },
+    {
+      "title": "qbalhkim/flood-frequency-forecasting (1 stars)",
+      "url": "https://github.com/qbalhkim/flood-frequency-forecasting",
+      "summary": "L-moments flood frequency analysis and ARIMA/ARIMAX streamflow forecasting for Sungai Kahang, Johor. Final-year project in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-10",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1789082966"
+    },
+    {
+      "title": "Tanjim-hossain/climate-pear-quality-analysis (1 stars)",
+      "url": "https://github.com/Tanjim-hossain/climate-pear-quality-analysis",
+      "summary": "Statistical analysis of pear quality and longitudinal growth under future climate scenarios using mixed models, GEE, PCA and LDA in R, SAS and Python.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-10",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1789082967"
+    },
+    {
+      "title": "Akxan/google-seo-mcp (18 stars)",
+      "url": "https://github.com/Akxan/google-seo-mcp",
+      "summary": "SEO & GEO MCP server for Claude, Codex, Cursor and any MCP client: Google Search Console, Google Analytics 4, PageSpeed Insights, Core Web Vitals, structured data, llms.txt, AI crawler checks, Word...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-10",
+      "tags": [
+        "mcp",
+        "codex",
+        "llm",
+        "ai",
+        "analytics"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1789082968"
+    },
+    {
+      "title": "bsab/france-mcp-servers (82 stars)",
+      "url": "https://github.com/bsab/france-mcp-servers",
+      "summary": "A curated catalog of Model Context Protocol servers for French data, laws, and services.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-10",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1789082969"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-10",
+      "editorial_summary": "Briefing compiled on September 10, 2026. Today's selection highlights new R packages and features like Identifying skills-based occupational transition pathways with the O*NET, rOpenSci News Digest, August 2026 and explores cutting-edge AI integrations including Akxan/google-seo-mcp (18 stars), bsab/france-mcp-servers (82 stars).",
+      "items": [
+        "item_1789082964",
+        "item_1789082965",
+        "item_1789082966",
+        "item_1789082967",
+        "item_1789082968",
+        "item_1789082969"
+      ]
+    },
     {
       "date": "2026-09-09",
       "editorial_summary": "Briefing compiled on September 09, 2026. Today's selection highlights new R packages and features like How to Create a Function in R: Custom Median & ggplot2 Examples, R Weekly 2026-W37 Bike crashes, World Castles, Repeated measures ANOVA and explores cutting-edge AI integrations including blumenkuebel/sap-dm-pod2-mcp-server (2 stars), punkpeye/awesome-remote-mcp-servers (97 stars).",

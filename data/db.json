@@ -8609,9 +8609,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1789082969"
+    },
+    {
+      "title": "chilemapas is back on CRAN",
+      "url": "https://www.r-bloggers.com/2026/09/chilemapas-is-back-on-cran/",
+      "summary": "Maps of the Political and Administrative Divisions of Chile\n\n\nContinue reading: chilemapas is back on CRAN",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-11",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1789169830"
+    },
+    {
+      "title": "ericscheier/energese (0 stars)",
+      "url": "https://github.com/ericscheier/energese",
+      "summary": "ggplot2 Layers for H.T. Odum's Energy Systems Language",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-11",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1789169831"
+    },
+    {
+      "title": "SAMCYK0921/predictive-modeling-tutorial (1 stars)",
+      "url": "https://github.com/SAMCYK0921/predictive-modeling-tutorial",
+      "summary": "预测模型自学教程：从数据清洗到模型外部验证（R 语言）",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-11",
+      "tags": [
+        "tutorial"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1789169832"
+    },
+    {
+      "title": "ajnikitins/australia-forecasting (0 stars)",
+      "url": "https://github.com/ajnikitins/australia-forecasting",
+      "summary": "Econometric forecasting of Australian GDP growth using ARDL, ARMA/ARMAX",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-11",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1789169833"
+    },
+    {
+      "title": "GregDog/mcp-server-theopenlane (2 stars)",
+      "url": "https://github.com/GregDog/mcp-server-theopenlane",
+      "summary": "A secure, open-source Model Context Protocol server for the Openlane GRC platform.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-11",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1789169834"
+    },
+    {
+      "title": "huaweicloud-mate/huaweicloud-open-mcp (2 stars)",
+      "url": "https://github.com/huaweicloud-mate/huaweicloud-open-mcp",
+      "summary": "One open, local Model Context Protocol server connects code agents — opencode, Codex, Cursor, and any other MCP-capable client — to Huawei Cloud in natural language.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-11",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1789169835"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-11",
+      "editorial_summary": "Briefing compiled on September 11, 2026. Today's selection highlights new R packages and features like chilemapas is back on CRAN, ericscheier/energese (0 stars) and explores cutting-edge AI integrations including GregDog/mcp-server-theopenlane (2 stars), huaweicloud-mate/huaweicloud-open-mcp (2 stars).",
+      "items": [
+        "item_1789169830",
+        "item_1789169831",
+        "item_1789169832",
+        "item_1789169833",
+        "item_1789169834",
+        "item_1789169835"
+      ]
+    },
     {
       "date": "2026-09-10",
       "editorial_summary": "Briefing compiled on September 10, 2026. Today's selection highlights new R packages and features like Identifying skills-based occupational transition pathways with the O*NET, rOpenSci News Digest, August 2026 and explores cutting-edge AI integrations including Akxan/google-seo-mcp (18 stars), bsab/france-mcp-servers (82 stars).",

@@ -8695,9 +8695,108 @@
       "score": 11.5,
       "read": false,
       "id": "item_1789169835"
+    },
+    {
+      "title": "jrcarob/inedemogR (0 stars)",
+      "url": "https://github.com/jrcarob/inedemogR",
+      "summary": "Site of the CRAN package `inedemogR` with instructions and basic usage ",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-12",
+      "tags": [
+        "cran"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1789255792"
+    },
+    {
+      "title": "Reading notes on Naming Things by Tom Benner",
+      "url": "https://www.r-bloggers.com/2026/08/reading-notes-on-naming-things-by-tom-benner/",
+      "summary": "Naming Things by Tom Benner a tiny but neat book about the naming of identifies in code (variables, classes, methods, so not packages or libraries).\nIt had entered my to-read list a few years ago, ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-12",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789255793"
+    },
+    {
+      "title": "niecestroa/pro-ibm-ml-course-projects (1 stars)",
+      "url": "https://github.com/niecestroa/pro-ibm-ml-course-projects",
+      "summary": "Professional machine learning pipelines derived from IBM/Coursera ML Courses 1–3, covering exploratory data analysis, supervised regression, and supervised classification. Projects are rebuilt into...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-12",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 5.5,
+      "read": false,
+      "id": "item_1789255794"
+    },
+    {
+      "title": "1MedAmine/ter-algorithme-em (1 stars)",
+      "url": "https://github.com/1MedAmine/ter-algorithme-em",
+      "summary": "Estimer les composantes d'un mélange gaussien quand les étiquettes sont invisibles. Théorie de l'EM, démonstrations de convergence et implémentation from scratch en R, sans librairie de mixture. TE...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-12",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1789255795"
+    },
+    {
+      "title": "ZeroDayEvil/ai-security-tool (17 stars)",
+      "url": "https://github.com/ZeroDayEvil/ai-security-tool",
+      "summary": "🛡️ Free open-source AI-powered security terminal & vulnerability scanner (CVE, SBOM). Supports SSH, SFTP, RDP, VNC, Serial, and 12+ autonomous AI agents (DeepSeek, OpenAI) for automated security wo...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-12",
+      "tags": [
+        "sf",
+        "agents",
+        "ai"
+      ],
+      "score": 16.5,
+      "read": false,
+      "id": "item_1789255796"
+    },
+    {
+      "title": "pooriayousefi/mcp.clj (2 stars)",
+      "url": "https://github.com/pooriayousefi/mcp.clj",
+      "summary": "A pure, lightweight Clojure SDK for the Model Context Protocol (MCP). Build and consume LLM tools with zero Java bloat, supporting stdio and the newest StreamableHTTP transports.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-12",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1789255797"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-12",
+      "editorial_summary": "Briefing compiled on September 12, 2026. Today's selection highlights new R packages and features like jrcarob/inedemogR (0 stars), Reading notes on Naming Things by Tom Benner and explores cutting-edge AI integrations including ZeroDayEvil/ai-security-tool (17 stars), pooriayousefi/mcp.clj (2 stars).",
+      "items": [
+        "item_1789255792",
+        "item_1789255793",
+        "item_1789255794",
+        "item_1789255795",
+        "item_1789255796",
+        "item_1789255797"
+      ]
+    },
     {
       "date": "2026-09-11",
       "editorial_summary": "Briefing compiled on September 11, 2026. Today's selection highlights new R packages and features like chilemapas is back on CRAN, ericscheier/energese (0 stars) and explores cutting-edge AI integrations including GregDog/mcp-server-theopenlane (2 stars), huaweicloud-mate/huaweicloud-open-mcp (2 stars).",

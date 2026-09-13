@@ -8782,9 +8782,92 @@
       "score": 12.0,
       "read": false,
       "id": "item_1789255797"
+    },
+    {
+      "title": "Cochran’s Q test in R, or the extension of McNemar’s test for more than two groups",
+      "url": "https://www.r-bloggers.com/2026/08/cochrans-q-test-in-r-or-the-extension-of-mcnemars-test-for-more-than-two-groups/",
+      "summary": "Introduction\nIn previous articles, we showed how to test whether two qualitative variables are related thanks to the Chi-square test of independence in R (and how to compute it by hand). Both artic...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-13",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789342988"
+    },
+    {
+      "title": "adenolatobi/customer-segmentation-rfm-analysis (0 stars)",
+      "url": "https://github.com/adenolatobi/customer-segmentation-rfm-analysis",
+      "summary": "Customer segmentation using RFM analysis and K-means clustering in R to identify purchasing patterns and actionable customer groups.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-13",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1789342989"
+    },
+    {
+      "title": "miabaric/hotel-database-design (0 stars)",
+      "url": "https://github.com/miabaric/hotel-database-design",
+      "summary": "Relational database design for a city's hotel industry - ER modeling, PostgreSQL schema, triggers, and data visualization in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-13",
+      "tags": [
+        "visualization"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1789342990"
+    },
+    {
+      "title": "nandhakumar-murugan/OpenAgentShield (2 stars)",
+      "url": "https://github.com/nandhakumar-murugan/OpenAgentShield",
+      "summary": "🛡️ Zero-Trust Security Firewall & AST Sandbox for Autonomous AI Agents & Model Context Protocol (MCP) Middleware",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-13",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1789342991"
+    },
+    {
+      "title": "neuronto/agentic-resource-discovery (52 stars)",
+      "url": "https://github.com/neuronto/agentic-resource-discovery",
+      "summary": "Neuronto Agentic Resource Discovery (ARD) Index. Federated search across every public ARD registry, plus a verified tool index read from each MCP server's own tools/list, hybrid lexical and semanti...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-13",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1789342992"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-13",
+      "editorial_summary": "Briefing compiled on September 13, 2026. Today's selection highlights new R packages and features like Cochran’s Q test in R, or the extension of McNemar’s test for more than two groups and explores cutting-edge AI integrations including nandhakumar-murugan/OpenAgentShield (2 stars), neuronto/agentic-resource-discovery (52 stars).",
+      "items": [
+        "item_1789342988",
+        "item_1789342989",
+        "item_1789342990",
+        "item_1789342991",
+        "item_1789342992"
+      ]
+    },
     {
       "date": "2026-09-12",
       "editorial_summary": "Briefing compiled on September 12, 2026. Today's selection highlights new R packages and features like jrcarob/inedemogR (0 stars), Reading notes on Naming Things by Tom Benner and explores cutting-edge AI integrations including ZeroDayEvil/ai-security-tool (17 stars), pooriayousefi/mcp.clj (2 stars).",

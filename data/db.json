@@ -8940,9 +8940,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1789430568"
+    },
+    {
+      "title": "bioconductor-source/polyICSFlow (0 stars)",
+      "url": "https://github.com/bioconductor-source/polyICSFlow",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "sf"
+      ],
+      "score": 9.5,
+      "read": false,
+      "id": "item_1789516018"
+    },
+    {
+      "title": "samuelbharti/shinyreact-showcase (1 stars)",
+      "url": "https://github.com/samuelbharti/shinyreact-showcase",
+      "summary": "Showcase gallery for shinyreact in different domains",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "shiny",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1789516019"
+    },
+    {
+      "title": "WalidMWH/data-science-statistics-r-python (0 stars)",
+      "url": "https://github.com/WalidMWH/data-science-statistics-r-python",
+      "summary": "Nine exercises in applied statistics and data science using R and Python - sampling, distributions, regression, and time series.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-15",
+      "tags": [
+        "statistics"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1789516020"
+    },
+    {
+      "title": "janemeimei/us-traffic-disruption-analysis (0 stars)",
+      "url": "https://github.com/janemeimei/us-traffic-disruption-analysis",
+      "summary": "7.7M accident records, R. What makes a crash block traffic for longer — and why this dataset cannot answer questions about injuries.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-15",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1789516021"
+    },
+    {
+      "title": "shworks-25/local-mcp (2 stars)",
+      "url": "https://github.com/shworks-25/local-mcp",
+      "summary": "Secure Model Context Protocol (MCP) server & gateway for Claude, Cursor, and ChatGPT. Unlimited local file editing, testing, and dev tools without cloud limits.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "mcp"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1789516022"
+    },
+    {
+      "title": "ravibagri5/crossplane-mcp-server (2 stars)",
+      "url": "https://github.com/ravibagri5/crossplane-mcp-server",
+      "summary": "A Model Context Protocol server that lets AI assistants understand a Crossplane control plane.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1789516023"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-15",
+      "editorial_summary": "Briefing compiled on September 15, 2026. Today's selection highlights new R packages and features like bioconductor-source/polyICSFlow (0 stars), samuelbharti/shinyreact-showcase (1 stars) and explores cutting-edge AI integrations including shworks-25/local-mcp (2 stars), ravibagri5/crossplane-mcp-server (2 stars).",
+      "items": [
+        "item_1789516018",
+        "item_1789516019",
+        "item_1789516020",
+        "item_1789516021",
+        "item_1789516022",
+        "item_1789516023"
+      ]
+    },
     {
       "date": "2026-09-15",
       "editorial_summary": "Briefing compiled on September 15, 2026. Today's selection highlights new R packages and features like bioconductor-source/gdscloud (0 stars), Model-agnostic prediction intervals in Python and R: does nnetsauce’s `QuantileRegressor` hold up? and explores cutting-edge AI integrations including Kerneta/daidocs (22 stars), bsab/sweden-mcp-servers (75 stars).",

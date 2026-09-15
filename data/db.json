@@ -8854,9 +8854,107 @@
       "score": 10.5,
       "read": false,
       "id": "item_1789342992"
+    },
+    {
+      "title": "bioconductor-source/gdscloud (0 stars)",
+      "url": "https://github.com/bioconductor-source/gdscloud",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1789430563"
+    },
+    {
+      "title": "Model-agnostic prediction intervals in Python and R: does nnetsauce’s `QuantileRegressor` hold up?",
+      "url": "https://www.r-bloggers.com/2026/09/model-agnostic-prediction-intervals-in-python-and-r-does-nnetsauces-quantileregressor-hold-up/",
+      "summary": "Point predictions tell you what a model *thinks* will happen. They don't tell you how much to trust that number. nnetsauce's `QuantileRegressor` takes any sklearn-compatible regressor and turns it ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789430564"
+    },
+    {
+      "title": "R Weekly 2026-W38 Tidyomics, safer joins, Positron highlights",
+      "url": "https://rweekly.org/2026-W38.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Carroll, with help from the R Weekly team members and contribut...",
+      "source": "R Weekly",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-15",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1789430565"
+    },
+    {
+      "title": "faeze-mhmd/statistical-distributions-r (1 stars)",
+      "url": "https://github.com/faeze-mhmd/statistical-distributions-r",
+      "summary": "Empirical distribution analysis and stochastic simulations in R, including QQ plots, Binomial approximations and Poisson processes.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-15",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1789430566"
+    },
+    {
+      "title": "Kerneta/daidocs (22 stars)",
+      "url": "https://github.com/Kerneta/daidocs",
+      "summary": "Open plain-text file format for AI memory. Your assistant's long-term memory as .dai files on your disk: readable by Claude, GPT, Gemini, Cursor, local models and grep (all LLM models work). MCP se...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1789430567"
+    },
+    {
+      "title": "bsab/sweden-mcp-servers (75 stars)",
+      "url": "https://github.com/bsab/sweden-mcp-servers",
+      "summary": "A curated catalog of Model Context Protocol servers for Swedish data, laws and services.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-15",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1789430568"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-15",
+      "editorial_summary": "Briefing compiled on September 15, 2026. Today's selection highlights new R packages and features like bioconductor-source/gdscloud (0 stars), Model-agnostic prediction intervals in Python and R: does nnetsauce’s `QuantileRegressor` hold up? and explores cutting-edge AI integrations including Kerneta/daidocs (22 stars), bsab/sweden-mcp-servers (75 stars).",
+      "items": [
+        "item_1789430563",
+        "item_1789430564",
+        "item_1789430565",
+        "item_1789430566",
+        "item_1789430567",
+        "item_1789430568"
+      ]
+    },
     {
       "date": "2026-09-13",
       "editorial_summary": "Briefing compiled on September 13, 2026. Today's selection highlights new R packages and features like Cochran’s Q test in R, or the extension of McNemar’s test for more than two groups and explores cutting-edge AI integrations including nandhakumar-murugan/OpenAgentShield (2 stars), neuronto/agentic-resource-discovery (52 stars).",

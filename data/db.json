@@ -9026,9 +9026,110 @@
       "score": 13.0,
       "read": false,
       "id": "item_1789516023"
+    },
+    {
+      "title": "coinclp: the COIN-OR Clp linear programming solver is back on CRAN",
+      "url": "https://www.r-bloggers.com/2026/09/coinclp-the-coin-or-clp-linear-programming-solver-is-back-on-cran/",
+      "summary": "Two small R packages of mine have gone to CRAN. coinclp binds the COIN-OR Clp linear programming solver and was accepted on […]\nThe post coinclp: the COIN-OR Clp linear programming solver is back o...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-16",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1789602985"
+    },
+    {
+      "title": "bioconductor-source/geneClusterPattern (0 stars)",
+      "url": "https://github.com/bioconductor-source/geneClusterPattern",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-16",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1789602986"
+    },
+    {
+      "title": "taiwo65-codes/16S-rRNA-Seq-v3-v4-analysis (0 stars)",
+      "url": "https://github.com/taiwo65-codes/16S-rRNA-Seq-v3-v4-analysis",
+      "summary": "End-to-end bioinformatic pipeline for 16S rRNA gene (V3-V4) amplicon sequencing analysis in R using DADA2, Phyloseq, Vegan, and DESeq2",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-16",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1789602987"
+    },
+    {
+      "title": "lonevvolf/mad-dev-environment (0 stars)",
+      "url": "https://github.com/lonevvolf/mad-dev-environment",
+      "summary": "R and Python development environment template for the Artificial Intelligence & Data Science (MAD) Master's at FH Technikum Wien. Ready for GitHub Codespaces and VS Code Dev Containers. Student-mai...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-16",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1789602988"
+    },
+    {
+      "title": "symfony/ai-mcp-tool (2 stars)",
+      "url": "https://github.com/symfony/ai-mcp-tool",
+      "summary": "Model Context Protocol AI tool bridge for Symfony applications.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-16",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 20.0,
+      "read": false,
+      "id": "item_1789602989"
+    },
+    {
+      "title": "ssfdre38/google-labs-mcp (2 stars)",
+      "url": "https://github.com/ssfdre38/google-labs-mcp",
+      "summary": "🧪 The first Model Context Protocol (MCP) bridge connecting Antigravity and AI coding agents directly to Google Labs & Google Flow (Imagen 3, Lyria, Veo).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-16",
+      "tags": [
+        "sf",
+        "mcp",
+        "antigravity",
+        "agents",
+        "ai"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1789602990"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-16",
+      "editorial_summary": "Briefing compiled on September 16, 2026. Today's selection highlights new R packages and features like coinclp: the COIN-OR Clp linear programming solver is back on CRAN, bioconductor-source/geneClusterPattern (0 stars) and explores cutting-edge AI integrations including symfony/ai-mcp-tool (2 stars), ssfdre38/google-labs-mcp (2 stars).",
+      "items": [
+        "item_1789602985",
+        "item_1789602986",
+        "item_1789602987",
+        "item_1789602988",
+        "item_1789602989",
+        "item_1789602990"
+      ]
+    },
     {
       "date": "2026-09-15",
       "editorial_summary": "Briefing compiled on September 15, 2026. Today's selection highlights new R packages and features like bioconductor-source/polyICSFlow (0 stars), samuelbharti/shinyreact-showcase (1 stars) and explores cutting-edge AI integrations including shworks-25/local-mcp (2 stars), ravibagri5/crossplane-mcp-server (2 stars).",

@@ -9115,9 +9115,107 @@
       "score": 12.5,
       "read": false,
       "id": "item_1789602990"
+    },
+    {
+      "title": "Join the R-Community on Google Groups and the next London R Users Group Social Event",
+      "url": "https://www.r-bloggers.com/2026/09/join-the-r-community-on-google-groups-and-the-next-london-r-users-group-social-event/",
+      "summary": "Think about Stackoverflow/Reddit minus the negativity.\nContinue reading: Join the R-Community on Google Groups and the next London R Users Group Social Event",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-17",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789688770"
+    },
+    {
+      "title": "Supporting open source work",
+      "url": "https://www.r-bloggers.com/2026/09/supporting-open-source-work/",
+      "summary": "An update on my open source work, and how you can help me keep doing it\nContinue reading: Supporting open source work",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-17",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789688771"
+    },
+    {
+      "title": "Analysing seed germination and emergence data with R (a tutorial)",
+      "url": "https://www.r-bloggers.com/2026/09/analysing-seed-germination-and-emergence-data-with-r-a-tutorial/",
+      "summary": "Germination and emergence assays are pretty straightforward to set up: you grab a sample of seeds, put them in a container under controlled environmental conditions (temperature, humidity, light), ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-17",
+      "tags": [
+        "ai",
+        "tutorial"
+      ],
+      "score": 4.0,
+      "read": false,
+      "id": "item_1789688772"
+    },
+    {
+      "title": "yaarakas/news-virality-prediction (0 stars)",
+      "url": "https://github.com/yaarakas/news-virality-prediction",
+      "summary": "NLP and machine learning project in R analyzing overfitting and temporal drift in news virality prediction using Logistic Regression and TF-IDF.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-17",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1789688773"
+    },
+    {
+      "title": "Shalimov04/mcp-airlock (25 stars)",
+      "url": "https://github.com/Shalimov04/mcp-airlock",
+      "summary": "Stateless governance proxy for MCP (2026-07-28): policy, dry-run, human confirmation, audit, tracing",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-17",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 11.0,
+      "read": false,
+      "id": "item_1789688774"
+    },
+    {
+      "title": "MarwanDevSpace/mcp-relight-harmonize (2 stars)",
+      "url": "https://github.com/MarwanDevSpace/mcp-relight-harmonize",
+      "summary": "Professional TypeScript Model Context Protocol (MCP) server & skill for optical profiling, physical relighting, and diffusion prompt synthesis (GPT Image & Nano Banana).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-17",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1789688775"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-17",
+      "editorial_summary": "Briefing compiled on September 17, 2026. Today's selection highlights new R packages and features like Join the R-Community on Google Groups and the next London R Users Group Social Event, Supporting open source work and explores cutting-edge AI integrations including Shalimov04/mcp-airlock (25 stars), MarwanDevSpace/mcp-relight-harmonize (2 stars).",
+      "items": [
+        "item_1789688770",
+        "item_1789688771",
+        "item_1789688772",
+        "item_1789688773",
+        "item_1789688774",
+        "item_1789688775"
+      ]
+    },
     {
       "date": "2026-09-16",
       "editorial_summary": "Briefing compiled on September 16, 2026. Today's selection highlights new R packages and features like coinclp: the COIN-OR Clp linear programming solver is back on CRAN, bioconductor-source/geneClusterPattern (0 stars) and explores cutting-edge AI integrations including symfony/ai-mcp-tool (2 stars), ssfdre38/google-labs-mcp (2 stars).",

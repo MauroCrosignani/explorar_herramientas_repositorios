@@ -9201,9 +9201,107 @@
       "score": 10.5,
       "read": false,
       "id": "item_1789688775"
+    },
+    {
+      "title": "From URL to Theme: How {css2r} Steals a Website’s Colours, and Where It Gives Up",
+      "url": "https://www.r-bloggers.com/2026/09/from-url-to-theme-how-css2r-steals-a-websites-colours-and-where-it-gives-up/",
+      "summary": "You can read the original post in its original format on Rtask website by ThinkR here: From URL to Theme: How {css2r} Steals a Website’s Colours, and Where It Gives Up\nYou have thirty minutes befor...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-18",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789774909"
+    },
+    {
+      "title": "R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL) is now publicly accessible",
+      "url": "https://www.r-bloggers.com/2026/09/r-batteries-included-r-4-6-1-with-openblas-and-intel-mkl-is-now-publicly-accessible/",
+      "summary": "R on Windows made faster\n\n\nContinue reading: R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL) is now publicly accessible",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-18",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1789774910"
+    },
+    {
+      "title": "RobertNguyen-ctrl/MelbourneCBD_FB_analytics (0 stars)",
+      "url": "https://github.com/RobertNguyen-ctrl/MelbourneCBD_FB_analytics",
+      "summary": "Data warehouse and BI system recommending optimal F&B venue locations in Melbourne CBD, from 2.37M rows of open data",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-18",
+      "tags": [
+        "analytics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1789774911"
+    },
+    {
+      "title": "ZhuwqcEva/singapore-election-information-environment (0 stars)",
+      "url": "https://github.com/ZhuwqcEva/singapore-election-information-environment",
+      "summary": "A reproducible Python and R time-series analysis of news attention to information-manipulation-related topics around Singapore’s 2025 General Election.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-18",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1789774912"
+    },
+    {
+      "title": "mateador/freehire-mcp-server (2 stars)",
+      "url": "https://github.com/mateador/freehire-mcp-server",
+      "summary": "A lightweight, standards-compliant Model Context Protocol (MCP) server that exposes the FreeHire Job Search API to Large Language Models (LLMs).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-18",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1789774913"
+    },
+    {
+      "title": "OldJii/google-play-vitals-mcp (9 stars)",
+      "url": "https://github.com/OldJii/google-play-vitals-mcp",
+      "summary": "High-performance, token-efficient Model Context Protocol (MCP) server for Google Play Android Vitals - enables AI assistants to diagnose ANRs, crashes, and startup performance.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-18",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1789774914"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-18",
+      "editorial_summary": "Briefing compiled on September 18, 2026. Today's selection highlights new R packages and features like From URL to Theme: How {css2r} Steals a Website’s Colours, and Where It Gives Up, R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL) is now publicly accessible and explores cutting-edge AI integrations including mateador/freehire-mcp-server (2 stars), OldJii/google-play-vitals-mcp (9 stars).",
+      "items": [
+        "item_1789774909",
+        "item_1789774910",
+        "item_1789774911",
+        "item_1789774912",
+        "item_1789774913",
+        "item_1789774914"
+      ]
+    },
     {
       "date": "2026-09-17",
       "editorial_summary": "Briefing compiled on September 17, 2026. Today's selection highlights new R packages and features like Join the R-Community on Google Groups and the next London R Users Group Social Event, Supporting open source work and explores cutting-edge AI integrations including Shalimov04/mcp-airlock (25 stars), MarwanDevSpace/mcp-relight-harmonize (2 stars).",

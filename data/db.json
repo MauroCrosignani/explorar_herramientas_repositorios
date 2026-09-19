@@ -9287,9 +9287,110 @@
       "score": 10.0,
       "read": false,
       "id": "item_1789774914"
+    },
+    {
+      "title": "gaospecial/quarto-fig-export (0 stars)",
+      "url": "https://github.com/gaospecial/quarto-fig-export",
+      "summary": "Quarto 扩展：一次画图自动导出 PNG/PDF/PPTX（矢量）并给图注/表注加下载链接，支持 base R 图",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-19",
+      "tags": [
+        "quarto"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1789861383"
+    },
+    {
+      "title": "EIvimeyCook/disappR (0 stars)",
+      "url": "https://github.com/EIvimeyCook/disappR",
+      "summary": "A Shiny app dfor diagnosing and modelling selective disappearance and selective appearance in longitudinal ageing data. I",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-19",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1789861384"
+    },
+    {
+      "title": "Aziz-ba/r-data-analysis (0 stars)",
+      "url": "https://github.com/Aziz-ba/r-data-analysis",
+      "summary": "Statistics, machine learning and data visualization in R (regression, classification, dataviz)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-19",
+      "tags": [
+        "machine learning",
+        "visualization",
+        "statistics"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1789861385"
+    },
+    {
+      "title": "AkeemLawrence/Kobe-Bryant-Hot-Hand-Analysis (0 stars)",
+      "url": "https://github.com/AkeemLawrence/Kobe-Bryant-Hot-Hand-Analysis",
+      "summary": "Statistical analysis in R examining Kobe Bryant's 2009 NBA Finals shooting streaks and the hot hand hypothesis using simulation and data visualization",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-19",
+      "tags": [
+        "visualization"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1789861386"
+    },
+    {
+      "title": "im-mahdi-74/claude-antigravity-mcp-bridge (2 stars)",
+      "url": "https://github.com/im-mahdi-74/claude-antigravity-mcp-bridge",
+      "summary": "A Model Context Protocol (MCP) bridge enabling Claude Desktop to execute tasks via the Google Antigravity CLI (agy).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-19",
+      "tags": [
+        "mcp",
+        "antigravity"
+      ],
+      "score": 22.0,
+      "read": false,
+      "id": "item_1789861387"
+    },
+    {
+      "title": "karansinghverma979/antigravity-google-workspace-mcp (3 stars)",
+      "url": "https://github.com/karansinghverma979/antigravity-google-workspace-mcp",
+      "summary": "Unified Model Context Protocol (MCP) server for the Google Workspace ecosystem (Calendar, Tasks, Gmail, Drive, Docs, Sheets, Contacts)",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-19",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1789861388"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-19",
+      "editorial_summary": "Briefing compiled on September 19, 2026. Today's selection highlights new R packages and features like gaospecial/quarto-fig-export (0 stars), EIvimeyCook/disappR (0 stars) and explores cutting-edge AI integrations including im-mahdi-74/claude-antigravity-mcp-bridge (2 stars), karansinghverma979/antigravity-google-workspace-mcp (3 stars).",
+      "items": [
+        "item_1789861383",
+        "item_1789861384",
+        "item_1789861385",
+        "item_1789861386",
+        "item_1789861387",
+        "item_1789861388"
+      ]
+    },
     {
       "date": "2026-09-18",
       "editorial_summary": "Briefing compiled on September 18, 2026. Today's selection highlights new R packages and features like From URL to Theme: How {css2r} Steals a Website’s Colours, and Where It Gives Up, R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL) is now publicly accessible and explores cutting-edge AI integrations including mateador/freehire-mcp-server (2 stars), OldJii/google-play-vitals-mcp (9 stars).",

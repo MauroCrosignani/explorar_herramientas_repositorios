@@ -9376,9 +9376,109 @@
       "score": 14.5,
       "read": false,
       "id": "item_1789861388"
+    },
+    {
+      "title": "kaziklubey/ggplot-shiny-gui (0 stars)",
+      "url": "https://github.com/kaziklubey/ggplot-shiny-gui",
+      "summary": "Shiny GUI for creating publication-ready ggplot2 figures.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-20",
+      "tags": [
+        "ggplot",
+        "shiny"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1789947521"
+    },
+    {
+      "title": "tptashnik13/quarto-talk-kit (0 stars)",
+      "url": "https://github.com/tptashnik13/quarto-talk-kit",
+      "summary": "A Quarto and reveal.js template for conference and job talks. A documented theme, offline-safe builds, and the layout checks that catch what rendering does not. Written to be handed to a coding agent.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-20",
+      "tags": [
+        "quarto"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1789947522"
+    },
+    {
+      "title": "pjgong64/stcraan-forecasting (0 stars)",
+      "url": "https://github.com/pjgong64/stcraan-forecasting",
+      "summary": "Analysis code for a nationwide out-of-time test of Earth observation for agricultural default forecasting — detecting silent modality collapse, measuring fusion gains, and bounding what areal data ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-20",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1789947523"
+    },
+    {
+      "title": "brenofontess/Predictive-Model-for-Consumer-Behavior (0 stars)",
+      "url": "https://github.com/brenofontess/Predictive-Model-for-Consumer-Behavior",
+      "summary": "End-to-end Data Science project forecasting customer purchase probability. Features PostgreSQL ETL pipelines, predictive modeling in R, and Power BI dashboards.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-20",
+      "tags": [
+        "dashboard"
+      ],
+      "score": 7.5,
+      "read": false,
+      "id": "item_1789947524"
+    },
+    {
+      "title": "SuperMonster003/AutoJs6-Plugin-MCP-Server (2 stars)",
+      "url": "https://github.com/SuperMonster003/AutoJs6-Plugin-MCP-Server",
+      "summary": "MCP Server plugin for AutoJs6: authenticated device automation through Model Context Protocol",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-20",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1789947525"
+    },
+    {
+      "title": "INSANE0777/Awwards-mcp (41 stars)",
+      "url": "https://github.com/INSANE0777/Awwards-mcp",
+      "summary": "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DN...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-20",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1789947526"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-20",
+      "editorial_summary": "Briefing compiled on September 20, 2026. Today's selection highlights new R packages and features like kaziklubey/ggplot-shiny-gui (0 stars), tptashnik13/quarto-talk-kit (0 stars) and explores cutting-edge AI integrations including SuperMonster003/AutoJs6-Plugin-MCP-Server (2 stars), INSANE0777/Awwards-mcp (41 stars).",
+      "items": [
+        "item_1789947521",
+        "item_1789947522",
+        "item_1789947523",
+        "item_1789947524",
+        "item_1789947525",
+        "item_1789947526"
+      ]
+    },
     {
       "date": "2026-09-19",
       "editorial_summary": "Briefing compiled on September 19, 2026. Today's selection highlights new R packages and features like gaospecial/quarto-fig-export (0 stars), EIvimeyCook/disappR (0 stars) and explores cutting-edge AI integrations including im-mahdi-74/claude-antigravity-mcp-bridge (2 stars), karansinghverma979/antigravity-google-workspace-mcp (3 stars).",

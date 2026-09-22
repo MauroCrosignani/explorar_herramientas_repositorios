@@ -9464,9 +9464,108 @@
       "score": 13.0,
       "read": false,
       "id": "item_1789947526"
+    },
+    {
+      "title": "R Weekly 2026-W39 Sessioncheck 0.2, Spreadsheet Ghosts, Observed Power",
+      "url": "https://rweekly.org/2026-W39.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\n\nH...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790036394"
+    },
+    {
+      "title": "O*NET ratings, job descriptions and classification codes as measures of occupational similarity",
+      "url": "https://www.r-bloggers.com/2026/09/onet-ratings-job-descriptions-and-classification-codes-as-measures-of-occupational-similarity/",
+      "summary": "The last post identified potential transition pathways for truck drivers based on how closely other occupations matched them on skills, abilities and knowledge. This post follows the same basic app...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790036395"
+    },
+    {
+      "title": "Nagajani-Nagakumaran/Breast-Cancer-Spatial-Transcriptomics (0 stars)",
+      "url": "https://github.com/Nagajani-Nagakumaran/Breast-Cancer-Spatial-Transcriptomics",
+      "summary": "Spatial transcriptomic analysis of human breast cancer using 10x Visium, Seurat, tumour microenvironment profiling and Moran’s I spatial statistics",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-22",
+      "tags": [
+        "statistics"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1790036396"
+    },
+    {
+      "title": "1111JiA/SLuo_Profile (1 stars)",
+      "url": "https://github.com/1111JiA/SLuo_Profile",
+      "summary": "Personal portfolio and research in consumer insight, social listening, and cross-national analysis.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-22",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1790036397"
+    },
+    {
+      "title": "menma4ever/agentic-team-mcp (2 stars)",
+      "url": "https://github.com/menma4ever/agentic-team-mcp",
+      "summary": "Autonomous hierarchical multi-agent team (CEO -> Manager -> Workers) for Model Context Protocol (MCP). Mix Claude Code, Antigravity, Codex & Direct API with persistent SQLite queues and a real-time...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "mcp",
+        "codex",
+        "antigravity"
+      ],
+      "score": 18.5,
+      "read": false,
+      "id": "item_1790036398"
+    },
+    {
+      "title": "karansinghverma979/antigravity-play-console-mcp (3 stars)",
+      "url": "https://github.com/karansinghverma979/antigravity-play-console-mcp",
+      "summary": "🚀 Production-grade Model Context Protocol (MCP) server for Google Play Console and Android Developer API v3 automation.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "mcp",
+        "antigravity"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1790036399"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-22",
+      "editorial_summary": "Briefing compiled on September 22, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W39 Sessioncheck 0.2, Spreadsheet Ghosts, Observed Power, O*NET ratings, job descriptions and classification codes as measures of occupational similarity and explores cutting-edge AI integrations including menma4ever/agentic-team-mcp (2 stars), karansinghverma979/antigravity-play-console-mcp (3 stars).",
+      "items": [
+        "item_1790036394",
+        "item_1790036395",
+        "item_1790036396",
+        "item_1790036397",
+        "item_1790036398",
+        "item_1790036399"
+      ]
+    },
     {
       "date": "2026-09-20",
       "editorial_summary": "Briefing compiled on September 20, 2026. Today's selection highlights new R packages and features like kaziklubey/ggplot-shiny-gui (0 stars), tptashnik13/quarto-talk-kit (0 stars) and explores cutting-edge AI integrations including SuperMonster003/AutoJs6-Plugin-MCP-Server (2 stars), INSANE0777/Awwards-mcp (41 stars).",

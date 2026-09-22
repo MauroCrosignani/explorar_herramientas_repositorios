@@ -9551,9 +9551,109 @@
       "score": 13.0,
       "read": false,
       "id": "item_1790036399"
+    },
+    {
+      "title": "arponbiswasanik/scorewright (0 stars)",
+      "url": "https://github.com/arponbiswasanik/scorewright",
+      "summary": "End-to-end SME credit scorecard workflow in R/Shiny: binning, scaling, validation, drift monitoring, cutoff strategy.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1790121228"
+    },
+    {
+      "title": "Semi-parametric option pricing based on underlying’s historical data (accepted at the osQF 2026 (ex R/Finance) conference)",
+      "url": "https://www.r-bloggers.com/2026/09/semi-parametric-option-pricing-based-on-underlyings-historical-data-accepted-at-the-osqf-2026-ex-r-finance-conference/",
+      "summary": "This post is a follow-up to my previous posts on semi-parametric option pricing. A link to the study (accepted for presentation at the osQF 2026 conference) is provided at the end of this post.\n\n\nC...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790121229"
+    },
+    {
+      "title": "r-learning-journey/GSE234443-bioinformatics-analysis (0 stars)",
+      "url": "https://github.com/r-learning-journey/GSE234443-bioinformatics-analysis",
+      "summary": "Differential expression analysis of FOXM1 knockdown RNA-seq data (DESeq2, R)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-22",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1790121230"
+    },
+    {
+      "title": "majedalamrii/KKIA-Commercial-Service-Intelligence (0 stars)",
+      "url": "https://github.com/majedalamrii/KKIA-Commercial-Service-Intelligence",
+      "summary": "Statistical analysis of commercial service distribution at King Khalid International Airport using Saudi open data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-22",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1790121231"
+    },
+    {
+      "title": "Brainwires/jevwire (18 stars)",
+      "url": "https://github.com/Brainwires/jevwire",
+      "summary": "Jev decision layer for agents: MCP server, embeddable DecisionModel library, and an escalate-only Claude Code plugin (TypeSafe AI's Jev)",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1790121232"
+    },
+    {
+      "title": "Ax3lsk3r3/atas-mcp (2 stars)",
+      "url": "https://github.com/Ax3lsk3r3/atas-mcp",
+      "summary": "Model Context Protocol (MCP) bridge for ATAS Platform and ATAS X to connect trading and market data with AI agents",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-22",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1790121233"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-22",
+      "editorial_summary": "Briefing compiled on September 22, 2026. Today's selection highlights new R packages and features like arponbiswasanik/scorewright (0 stars), Semi-parametric option pricing based on underlying’s historical data (accepted at the osQF 2026 (ex R/Finance) conference) and explores cutting-edge AI integrations including Brainwires/jevwire (18 stars), Ax3lsk3r3/atas-mcp (2 stars).",
+      "items": [
+        "item_1790121228",
+        "item_1790121229",
+        "item_1790121230",
+        "item_1790121231",
+        "item_1790121232",
+        "item_1790121233"
+      ]
+    },
     {
       "date": "2026-09-22",
       "editorial_summary": "Briefing compiled on September 22, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W39 Sessioncheck 0.2, Spreadsheet Ghosts, Observed Power, O*NET ratings, job descriptions and classification codes as measures of occupational similarity and explores cutting-edge AI integrations including menma4ever/agentic-team-mcp (2 stars), karansinghverma979/antigravity-play-console-mcp (3 stars).",

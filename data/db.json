@@ -9639,9 +9639,108 @@
       "score": 11.5,
       "read": false,
       "id": "item_1790121233"
+    },
+    {
+      "title": "luisr353/shinyHierarchy (1 stars)",
+      "url": "https://github.com/luisr353/shinyHierarchy",
+      "summary": "Hierarchical slicer-style input for Shiny applications with  multi-selection, tri-state checkboxes, search, cascading selection,     and a structured selection value for analytics workflows.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-24",
+      "tags": [
+        "shiny",
+        "analytics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1790208254"
+    },
+    {
+      "title": "Bootstrap v traditional asymptotic normal assumptions by @ellis2013nz",
+      "url": "https://www.r-bloggers.com/2026/09/bootstrap-v-traditional-asymptotic-normal-assumptions-by-ellis2013nz/",
+      "summary": "Today’s just a very short sequel to last week’s post, where I had a look at some very skewed distributions to test the idea that sample sizes sometimes need to be in the tens of thousands for the s...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790208255"
+    },
+    {
+      "title": "Prithwi13/Statistical-Modeling-of-Formula-1-Tire-Degradation (0 stars)",
+      "url": "https://github.com/Prithwi13/Statistical-Modeling-of-Formula-1-Tire-Degradation",
+      "summary": "Regression study separating fuel burn from nonlinear Formula 1 tire degradation, evaluated on a later season.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-24",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1790208256"
+    },
+    {
+      "title": "goldwaylab/con_pit (0 stars)",
+      "url": "https://github.com/goldwaylab/con_pit",
+      "summary": "Task, anonymized data and analysis/modeling code for Raab et al. (2024), Learning & Memory",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-24",
+      "tags": [
+        "general"
+      ],
+      "score": 4,
+      "read": false,
+      "id": "item_1790208257"
+    },
+    {
+      "title": "shuaidawang/mcp-clickvisual (1 stars)",
+      "url": "https://github.com/shuaidawang/mcp-clickvisual",
+      "summary": "MCP server for ClickVisual - search ClickHouse logs via Model Context Protocol",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1790208258"
+    },
+    {
+      "title": "BarneyD66/clipmivo-tools (193 stars)",
+      "url": "https://github.com/BarneyD66/clipmivo-tools",
+      "summary": "ClipmivoAI video generation tools: REST API, CLI, local MCP server and Agent Skill.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1790208259"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-24",
+      "editorial_summary": "Briefing compiled on September 24, 2026. Today's selection highlights new R packages and features like luisr353/shinyHierarchy (1 stars), Bootstrap v traditional asymptotic normal assumptions by @ellis2013nz and explores cutting-edge AI integrations including shuaidawang/mcp-clickvisual (1 stars), BarneyD66/clipmivo-tools (193 stars).",
+      "items": [
+        "item_1790208254",
+        "item_1790208255",
+        "item_1790208256",
+        "item_1790208257",
+        "item_1790208258",
+        "item_1790208259"
+      ]
+    },
     {
       "date": "2026-09-22",
       "editorial_summary": "Briefing compiled on September 22, 2026. Today's selection highlights new R packages and features like arponbiswasanik/scorewright (0 stars), Semi-parametric option pricing based on underlying’s historical data (accepted at the osQF 2026 (ex R/Finance) conference) and explores cutting-edge AI integrations including Brainwires/jevwire (18 stars), Ax3lsk3r3/atas-mcp (2 stars).",

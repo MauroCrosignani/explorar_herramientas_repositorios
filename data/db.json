@@ -9726,9 +9726,106 @@
       "score": 10.0,
       "read": false,
       "id": "item_1790208259"
+    },
+    {
+      "title": "General code to fit ANOVA models with JAGS and ‘rjags’",
+      "url": "https://www.r-bloggers.com/2026/09/general-code-to-fit-anova-models-with-jags-and-rjags-3/",
+      "summary": "There is a quote I really love from Marc Kéry’s book, “Introduction to WinBUGS for Ecologists” (2010, p. 11):\n“WinBUGS helps free the modeler in you.”\nAnd it’s so true! Once you deeply understand a...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-25",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790294793"
+    },
+    {
+      "title": "Happy Birthday rOpenSci — My Journey from First-Time Developer to Current Opportunities",
+      "url": "https://www.r-bloggers.com/2026/09/happy-birthday-ropensci-my-journey-from-first-time-developer-to-current-opportunities/",
+      "summary": "What? People would fund me and mentor me building my own R package?\nMy first time hearing about rOpenSci was, interestingly, at a bird conference. At an ornithological conference in 2023, I was cha...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-25",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790294794"
+    },
+    {
+      "title": "MomoMonica1/dota2-bayesian-analysis (0 stars)",
+      "url": "https://github.com/MomoMonica1/dota2-bayesian-analysis",
+      "summary": "Bayesian analysis of Dota 2 win rates and match outcomes using hierarchical beta-binomial and logistic models in R and Stan.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-25",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1790294795"
+    },
+    {
+      "title": "olivia-rippee/Lung-Multiome-Regulatory-Networks (1 stars)",
+      "url": "https://github.com/olivia-rippee/Lung-Multiome-Regulatory-Networks",
+      "summary": "Reproducible single-cell multi-omics analysis of influenza-responsive chromatin, gene expression, and regulatory networks in human alveolar epithelium.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-25",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1790294796"
+    },
+    {
+      "title": "brunocaetanobrito/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/brunocaetanobrito/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-25",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1790294797"
+    },
+    {
+      "title": "huakaiguozi/CellMap-MR (1 stars)",
+      "url": "https://github.com/huakaiguozi/CellMap-MR",
+      "summary": "CellMap-MR: R package for cellular attribution of tissue-level gene expression effects.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-25",
+      "tags": [
+        "llm",
+        "ai"
+      ],
+      "score": 11.0,
+      "read": false,
+      "id": "item_1790294798"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-25",
+      "editorial_summary": "Briefing compiled on September 25, 2026. Today's selection highlights new R packages and features like General code to fit ANOVA models with JAGS and ‘rjags’, Happy Birthday rOpenSci — My Journey from First-Time Developer to Current Opportunities and explores cutting-edge AI integrations including brunocaetanobrito/skills-integrate-mcp-with-copilot (1 stars), huakaiguozi/CellMap-MR (1 stars).",
+      "items": [
+        "item_1790294793",
+        "item_1790294794",
+        "item_1790294795",
+        "item_1790294796",
+        "item_1790294797",
+        "item_1790294798"
+      ]
+    },
     {
       "date": "2026-09-24",
       "editorial_summary": "Briefing compiled on September 24, 2026. Today's selection highlights new R packages and features like luisr353/shinyHierarchy (1 stars), Bootstrap v traditional asymptotic normal assumptions by @ellis2013nz and explores cutting-edge AI integrations including shuaidawang/mcp-clickvisual (1 stars), BarneyD66/clipmivo-tools (193 stars).",

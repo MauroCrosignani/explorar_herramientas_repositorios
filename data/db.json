@@ -9811,9 +9811,111 @@
       "score": 11.0,
       "read": false,
       "id": "item_1790294798"
+    },
+    {
+      "title": "daniahfarooq/airline-passenger-satisfaction (0 stars)",
+      "url": "https://github.com/daniahfarooq/airline-passenger-satisfaction",
+      "summary": "Passenger satisfaction classification in R — Random Forest vs Logistic Regression, with a tiered service-investment framework.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "sf",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1790381595"
+    },
+    {
+      "title": "bioconductor-source/LIPIDIFy (0 stars)",
+      "url": "https://github.com/bioconductor-source/LIPIDIFy",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1790381596"
+    },
+    {
+      "title": "SmitashreeDas/Human-Capital-Economic-Development-Asia (0 stars)",
+      "url": "https://github.com/SmitashreeDas/Human-Capital-Economic-Development-Asia",
+      "summary": "Country-wise analysis of GDP per capita, life expectancy and youth labour force participation across selected Asian countries using World Development Indicators data (2011–2024).",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-26",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1790381597"
+    },
+    {
+      "title": "Autumn 2026 Data Science Training Courses",
+      "url": "https://www.r-bloggers.com/2026/09/autumn-2026-data-science-training-courses/",
+      "summary": "There are ten public training courses left in 2026, running through October and November. If you’ve been meaning to learn Python, build your first Shiny app, or get to grips with machine learning i...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-26",
+      "tags": [
+        "shiny",
+        "ai",
+        "machine learning"
+      ],
+      "score": 5.5,
+      "read": false,
+      "id": "item_1790381598"
+    },
+    {
+      "title": "yihongdo-glitch/antigravity-browser-mcp (1 stars)",
+      "url": "https://github.com/yihongdo-glitch/antigravity-browser-mcp",
+      "summary": "Seamless Native Chrome Automation for AI Agents via Model Context Protocol (MCP)",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "agents",
+        "ai"
+      ],
+      "score": 16.0,
+      "read": false,
+      "id": "item_1790381599"
+    },
+    {
+      "title": "liorcodev/mysql-mcp-server (1 stars)",
+      "url": "https://github.com/liorcodev/mysql-mcp-server",
+      "summary": "A fast, lightweight Model Context Protocol (MCP) Server for executing secure MySQL queries",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1790381600"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-26",
+      "editorial_summary": "Briefing compiled on September 26, 2026. Today's selection highlights new R packages and features like daniahfarooq/airline-passenger-satisfaction (0 stars), bioconductor-source/LIPIDIFy (0 stars) and explores cutting-edge AI integrations including yihongdo-glitch/antigravity-browser-mcp (1 stars), liorcodev/mysql-mcp-server (1 stars).",
+      "items": [
+        "item_1790381595",
+        "item_1790381596",
+        "item_1790381597",
+        "item_1790381598",
+        "item_1790381599",
+        "item_1790381600"
+      ]
+    },
     {
       "date": "2026-09-25",
       "editorial_summary": "Briefing compiled on September 25, 2026. Today's selection highlights new R packages and features like General code to fit ANOVA models with JAGS and ‘rjags’, Happy Birthday rOpenSci — My Journey from First-Time Developer to Current Opportunities and explores cutting-edge AI integrations including brunocaetanobrito/skills-integrate-mcp-with-copilot (1 stars), huakaiguozi/CellMap-MR (1 stars).",

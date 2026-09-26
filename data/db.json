@@ -9901,9 +9901,109 @@
       "score": 13.5,
       "read": false,
       "id": "item_1790381600"
+    },
+    {
+      "title": "R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL)",
+      "url": "https://www.r-bloggers.com/2026/09/r-batteries-included-r-4-6-1-with-openblas-and-intel-mkl/",
+      "summary": "R on Windows made faster\n\n\nContinue reading: R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL)",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790467107"
+    },
+    {
+      "title": "jinpy666/dbx-plugin-ssh (32 stars)",
+      "url": "https://github.com/jinpy666/dbx-plugin-ssh",
+      "summary": "DBX SSH & SFTP plugin: secure terminal, SFTP, MCP automation, and guarded server operations.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "sf",
+        "mcp"
+      ],
+      "score": 1.0,
+      "read": false,
+      "id": "item_1790467108"
+    },
+    {
+      "title": "Quantitative Event-Driven Modeling: BTC Balance Sheet Shocks with SEC EDGAR Filings in R",
+      "url": "https://www.r-bloggers.com/2026/09/quantitative-event-driven-modeling-btc-balance-sheet-shocks-with-sec-edgar-filings-in-r/",
+      "summary": "Executive Summary MicroStrategy (MSTR) has fundamentally transitioned from a traditional enterprise software firm into an equity-based Bitcoin (BTC) holding vehicle and treasury operation. Evaluati...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-26",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1790467109"
+    },
+    {
+      "title": "palazzotto/Cluster-Analysis-on-NBA-Players (0 stars)",
+      "url": "https://github.com/palazzotto/Cluster-Analysis-on-NBA-Players",
+      "summary": "Analisi multivariata e clustering dei profili di gioco NBA.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-26",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1790467110"
+    },
+    {
+      "title": "graygnatconsole/mcp-audit-tool (69 stars)",
+      "url": "https://github.com/graygnatconsole/mcp-audit-tool",
+      "summary": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF +...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1790467111"
+    },
+    {
+      "title": "springvoiceswell/semrush-ai-tool (73 stars)",
+      "url": "https://github.com/springvoiceswell/semrush-ai-tool",
+      "summary": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-26",
+      "tags": [
+        "mcp",
+        "ai",
+        "analytics"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1790467112"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-26",
+      "editorial_summary": "Briefing compiled on September 26, 2026. Today's selection highlights new R packages and features like R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL), jinpy666/dbx-plugin-ssh (32 stars) and explores cutting-edge AI integrations including graygnatconsole/mcp-audit-tool (69 stars), springvoiceswell/semrush-ai-tool (73 stars).",
+      "items": [
+        "item_1790467107",
+        "item_1790467108",
+        "item_1790467109",
+        "item_1790467110",
+        "item_1790467111",
+        "item_1790467112"
+      ]
+    },
     {
       "date": "2026-09-26",
       "editorial_summary": "Briefing compiled on September 26, 2026. Today's selection highlights new R packages and features like daniahfarooq/airline-passenger-satisfaction (0 stars), bioconductor-source/LIPIDIFy (0 stars) and explores cutting-edge AI integrations including yihongdo-glitch/antigravity-browser-mcp (1 stars), liorcodev/mysql-mcp-server (1 stars).",

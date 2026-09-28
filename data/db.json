@@ -9989,9 +9989,77 @@
       "score": 14.5,
       "read": false,
       "id": "item_1790467112"
+    },
+    {
+      "title": "On Exact Hat Algebras",
+      "url": "https://www.r-bloggers.com/2026/09/on-exact-hat-algebras/",
+      "summary": "What is a hat algebra and why it is useful to solve maximization problems\nContinue reading: On Exact Hat Algebras",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-28",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790553868"
+    },
+    {
+      "title": "Analytics Pipeline for Dashboards, with Python, R and Javascript",
+      "url": "https://www.r-bloggers.com/2026/09/analytics-pipeline-for-dashboards-with-python-r-and-javascript/",
+      "summary": "I had a lot of fun this morning, brainstorming and assembling this _Analytics Pipeline_ for Dashboards with Claude (and yes it takes much, much more than only 10 prompts).\n\n\nContinue reading: Analy...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-28",
+      "tags": [
+        "ai",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1790553869"
+    },
+    {
+      "title": "The AI Hammer",
+      "url": "https://www.r-bloggers.com/2026/09/the-ai-hammer/",
+      "summary": "A short reflection on the use of tools without consideration\nContinue reading: The AI Hammer",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-28",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1790553870"
+    },
+    {
+      "title": "JAGS 5.0.0 is now available for macOS",
+      "url": "https://www.r-bloggers.com/2026/09/jags-5-0-0-is-now-available-for-macos/",
+      "summary": "This is a guest post by Matt Denwood. After a longer-than-anticipated delay, the macOS installer for JAGS 5.0.0 is now available via SourceForge. There are some big changes for how the official bin...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-28",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1790553871"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-28",
+      "editorial_summary": "Briefing compiled on September 28, 2026. Today's selection highlights new R packages and features like On Exact Hat Algebras and explores cutting-edge AI integrations including The AI Hammer, JAGS 5.0.0 is now available for macOS.",
+      "items": [
+        "item_1790553868",
+        "item_1790553869",
+        "item_1790553870",
+        "item_1790553871"
+      ]
+    },
     {
       "date": "2026-09-26",
       "editorial_summary": "Briefing compiled on September 26, 2026. Today's selection highlights new R packages and features like R Batteries Included (R 4.6.1 with OpenBLAS and Intel MKL), jinpy666/dbx-plugin-ssh (32 stars) and explores cutting-edge AI integrations including graygnatconsole/mcp-audit-tool (69 stars), springvoiceswell/semrush-ai-tool (73 stars).",

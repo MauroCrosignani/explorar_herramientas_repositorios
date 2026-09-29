@@ -10047,9 +10047,108 @@
       "score": 6.5,
       "read": false,
       "id": "item_1790553871"
+    },
+    {
+      "title": "R Weekly 2026-W40 knitr SQL Engine, Zulip, Snapshotting error messages",
+      "url": "https://rweekly.org/2026-W40.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Batool Almarzouq, with help from the R Weekly team members and contribut...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-29",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1790644772"
+    },
+    {
+      "title": "bioconductor-source/SpaMTPData (0 stars)",
+      "url": "https://github.com/bioconductor-source/SpaMTPData",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-29",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1790644773"
+    },
+    {
+      "title": "subhechhakhatri/Regression-Analysis-in-R (1 stars)",
+      "url": "https://github.com/subhechhakhatri/Regression-Analysis-in-R",
+      "summary": "Regression analysis to predict apartment rent and support data-driven pricing decisions using property characteristics.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-29",
+      "tags": [
+        "general"
+      ],
+      "score": 14,
+      "read": false,
+      "id": "item_1790644774"
+    },
+    {
+      "title": "h-mackay/upside-down-task-analysis (0 stars)",
+      "url": "https://github.com/h-mackay/upside-down-task-analysis",
+      "summary": "R analysis pipeline for an eye-tracking study of object orientation and visual attention in a change-detection task.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-29",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1790644775"
+    },
+    {
+      "title": "fatonkamal035-Cybersecurity/secure-mcp-server (2 stars)",
+      "url": "https://github.com/fatonkamal035-Cybersecurity/secure-mcp-server",
+      "summary": "A secure, enterprise-grade Model Context Protocol (MCP) server for Kali Linux featuring OAuth2, TLS, and strict least-privilege execution.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-29",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1790644776"
+    },
+    {
+      "title": "INSANE0777/Awwwards-mcp (92 stars)",
+      "url": "https://github.com/INSANE0777/Awwwards-mcp",
+      "summary": "Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DN...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-29",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1790644777"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-29",
+      "editorial_summary": "Briefing compiled on September 29, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W40 knitr SQL Engine, Zulip, Snapshotting error messages, bioconductor-source/SpaMTPData (0 stars) and explores cutting-edge AI integrations including fatonkamal035-Cybersecurity/secure-mcp-server (2 stars), INSANE0777/Awwwards-mcp (92 stars).",
+      "items": [
+        "item_1790644772",
+        "item_1790644773",
+        "item_1790644774",
+        "item_1790644775",
+        "item_1790644776",
+        "item_1790644777"
+      ]
+    },
     {
       "date": "2026-09-28",
       "editorial_summary": "Briefing compiled on September 28, 2026. Today's selection highlights new R packages and features like On Exact Hat Algebras and explores cutting-edge AI integrations including The AI Hammer, JAGS 5.0.0 is now available for macOS.",

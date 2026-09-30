@@ -10134,9 +10134,108 @@
       "score": 13.0,
       "read": false,
       "id": "item_1790644777"
+    },
+    {
+      "title": "August 2026 Top 40 New CRAN Packages",
+      "url": "https://www.r-bloggers.com/2026/09/august-2026-top-40-new-cran-packages/",
+      "summary": "Three hundred twenty-nine new packages were submitted to CRAN in July. Here are my Top 40 picks in nineteen categories: Agriculture, Artificial Intelligence, Climate Studies, Computational Methods,...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-30",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1790729348"
+    },
+    {
+      "title": "My first attempt at porting a Shiny app failed, and not for a technical reason",
+      "url": "https://www.r-bloggers.com/2026/09/my-first-attempt-at-porting-a-shiny-app-failed-and-not-for-a-technical-reason/",
+      "summary": "You can read the original post in its original format on Rtask website by ThinkR here: My first attempt at porting a Shiny app failed, and not for a technical reason\nDiary of a rewrite, episode 2 o...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-09-30",
+      "tags": [
+        "shiny",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1790729349"
+    },
+    {
+      "title": "yadebilgic/traditional-medicine-trust-analysis (0 stars)",
+      "url": "https://github.com/yadebilgic/traditional-medicine-trust-analysis",
+      "summary": "Statistical analysis of trust in traditional and complementary medicine in Turkey using MCA and Multinomial Logistic Regression.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-30",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1790729350"
+    },
+    {
+      "title": "ZhuojinWu/furniture-sales-time-series-forecasting (0 stars)",
+      "url": "https://github.com/ZhuojinWu/furniture-sales-time-series-forecasting",
+      "summary": "Monthly furniture sales forecasting with chronological holdout validation, SARIMA, regression with ARMA errors, and a seasonal naive benchmark.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-09-30",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1790729351"
+    },
+    {
+      "title": "enclawed/omcp (7 stars)",
+      "url": "https://github.com/enclawed/omcp",
+      "summary": "omcp — an open protocol for connecting AI models to tools and data. A community-driven hard fork of the Model Context Protocol. Build without permission.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-30",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1790729352"
+    },
+    {
+      "title": "Alpha-Park/genpark-hubx-multimodal-mobile-agent-mcp (7 stars)",
+      "url": "https://github.com/Alpha-Park/genpark-hubx-multimodal-mobile-agent-mcp",
+      "summary": "Native Model Context Protocol (MCP) server exposing HubX's mobile-first multimodal toolchain: vision diagnostics, voice transcription, photo-realistic generation, and spatial design.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-09-30",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1790729353"
     }
   ],
   "reports": [
+    {
+      "date": "2026-09-30",
+      "editorial_summary": "Briefing compiled on September 30, 2026. Today's selection highlights new R packages and features like August 2026 Top 40 New CRAN Packages, My first attempt at porting a Shiny app failed, and not for a technical reason and explores cutting-edge AI integrations including enclawed/omcp (7 stars), Alpha-Park/genpark-hubx-multimodal-mobile-agent-mcp (7 stars).",
+      "items": [
+        "item_1790729348",
+        "item_1790729349",
+        "item_1790729350",
+        "item_1790729351",
+        "item_1790729352",
+        "item_1790729353"
+      ]
+    },
     {
       "date": "2026-09-29",
       "editorial_summary": "Briefing compiled on September 29, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W40 knitr SQL Engine, Zulip, Snapshotting error messages, bioconductor-source/SpaMTPData (0 stars) and explores cutting-edge AI integrations including fatonkamal035-Cybersecurity/secure-mcp-server (2 stars), INSANE0777/Awwwards-mcp (92 stars).",

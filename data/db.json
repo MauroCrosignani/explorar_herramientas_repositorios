@@ -10221,9 +10221,108 @@
       "score": 12.0,
       "read": false,
       "id": "item_1790729353"
+    },
+    {
+      "title": "StupidKevin7743/cash-transfer-ge-replication (4 stars)",
+      "url": "https://github.com/StupidKevin7743/cash-transfer-ge-replication",
+      "summary": "Analysis-code replication package for Egger et al. (2022), General Equilibrium Effects of Cash Transfers",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-01",
+      "tags": [
+        "sf"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1790815980"
+    },
+    {
+      "title": "kbosirany/kquarto.r (0 stars)",
+      "url": "https://github.com/kbosirany/kquarto.r",
+      "summary": "Create, template and render Quarto books from R",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-01",
+      "tags": [
+        "quarto"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1790815981"
+    },
+    {
+      "title": "melani-mahanani/art-metabolic-meta-analysis (0 stars)",
+      "url": "https://github.com/melani-mahanani/art-metabolic-meta-analysis",
+      "summary": "R code for a systematic review and meta-analysis of ART regimens and metabolic outcomes in people living with HIV (HIV Medicine, 2026)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-01",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1790815982"
+    },
+    {
+      "title": "Yu-Hsuan-Liu/Big-data-in-crime-statistics-Using-Google-Trends-to-measure-victimization-in-designated-market-area (1 stars)",
+      "url": "https://github.com/Yu-Hsuan-Liu/Big-data-in-crime-statistics-Using-Google-Trends-to-measure-victimization-in-designated-market-area",
+      "summary": "Analysis of Google Trends crime-related searches and U.S. crime victimization data, 2010-2019",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-01",
+      "tags": [
+        "statistics"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1790815983"
+    },
+    {
+      "title": "alphaparkinc/genpark-hubx-multimodal-mobile-agent-mcp (7 stars)",
+      "url": "https://github.com/alphaparkinc/genpark-hubx-multimodal-mobile-agent-mcp",
+      "summary": "Native Model Context Protocol (MCP) server exposing HubX's mobile-first multimodal toolchain: vision diagnostics, voice transcription, photo-realistic generation, and spatial design.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-01",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1790815984"
+    },
+    {
+      "title": "lupingQAQ/ntobjmanager-mcp (13 stars)",
+      "url": "https://github.com/lupingQAQ/ntobjmanager-mcp",
+      "summary": "A Model Context Protocol (MCP) server that gives AI agents live, stateful Windows RPC attack-surface research, built on James Forshaw's NtObjectManager (NtCoreLib).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-01",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1790815985"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-01",
+      "editorial_summary": "Briefing compiled on October 01, 2026. Today's selection highlights new R packages and features like StupidKevin7743/cash-transfer-ge-replication (4 stars), kbosirany/kquarto.r (0 stars) and explores cutting-edge AI integrations including alphaparkinc/genpark-hubx-multimodal-mobile-agent-mcp (7 stars), lupingQAQ/ntobjmanager-mcp (13 stars).",
+      "items": [
+        "item_1790815980",
+        "item_1790815981",
+        "item_1790815982",
+        "item_1790815983",
+        "item_1790815984",
+        "item_1790815985"
+      ]
+    },
     {
       "date": "2026-09-30",
       "editorial_summary": "Briefing compiled on September 30, 2026. Today's selection highlights new R packages and features like August 2026 Top 40 New CRAN Packages, My first attempt at porting a Shiny app failed, and not for a technical reason and explores cutting-edge AI integrations including enclawed/omcp (7 stars), Alpha-Park/genpark-hubx-multimodal-mobile-agent-mcp (7 stars).",

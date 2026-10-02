@@ -10308,9 +10308,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1790815985"
+    },
+    {
+      "title": "BioC2026 conference recap",
+      "url": "https://www.r-bloggers.com/2026/09/bioc2026-conference-recap/",
+      "summary": "The North American Bioconductor Conference 2026 (([BioC2026])(https://bioc2026.bioconductor.org/)) took place from August 10-12, 2026, at the Fred Hutchinson Cancer Center in Seattle, Washington. T...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-02",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1790903381"
+    },
+    {
+      "title": "mtariqi/srebf2-regulatory-signature (1 stars)",
+      "url": "https://github.com/mtariqi/srebf2-regulatory-signature",
+      "summary": "Development and Independent Validation of a Transferable SREBF2 Transcriptional Signature for Measuring Functional SREBF2 Activity",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-02",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1790903382"
+    },
+    {
+      "title": "Ashiq-r-khan/NHANES-Cardiometabolic-Mortality-Analysis (1 stars)",
+      "url": "https://github.com/Ashiq-r-khan/NHANES-Cardiometabolic-Mortality-Analysis",
+      "summary": "Survey-weighted survival analysis of NHANES 1999-2018 linked to NDI mortality: prevalence trends, Cox models, competing risks, IPW causal effects and a 10-year risk model. Python, DuckDB SQL, R and...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-02",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1790903383"
+    },
+    {
+      "title": "Yu-Hsuan-Liu/Exploring-the-Correlation-Between-Google-Trends-and-Crime-Statistics-A-Focus-on-Motor-Vehicle-Theft (1 stars)",
+      "url": "https://github.com/Yu-Hsuan-Liu/Exploring-the-Correlation-Between-Google-Trends-and-Crime-Statistics-A-Focus-on-Motor-Vehicle-Theft",
+      "summary": "Dissertation analysis code: Google Trends search activity and motor vehicle theft in the United States",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-02",
+      "tags": [
+        "statistics"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1790903384"
+    },
+    {
+      "title": "youagainchen/claude-codex-coop (20 stars)",
+      "url": "https://github.com/youagainchen/claude-codex-coop",
+      "summary": "Let Claude and Codex call each other from their desktop apps to review, cross-check or implement, with a live side panel. / 让 Claude 与 Codex 在各自桌面版里互相审查、协作的插件。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-02",
+      "tags": [
+        "codex",
+        "ai"
+      ],
+      "score": 18.0,
+      "read": false,
+      "id": "item_1790903385"
+    },
+    {
+      "title": "CodeByZaigham/MCP-local-servers (2 stars)",
+      "url": "https://github.com/CodeByZaigham/MCP-local-servers",
+      "summary": "A collection of production-oriented local Model Context Protocol (MCP) servers that expose tools, resources, and data sources to MCP-compatible AI clients. Each server is independently runnable, re...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-02",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1790903386"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-02",
+      "editorial_summary": "Briefing compiled on October 02, 2026. Today's selection highlights new R packages and features like BioC2026 conference recap, mtariqi/srebf2-regulatory-signature (1 stars) and explores cutting-edge AI integrations including youagainchen/claude-codex-coop (20 stars), CodeByZaigham/MCP-local-servers (2 stars).",
+      "items": [
+        "item_1790903381",
+        "item_1790903382",
+        "item_1790903383",
+        "item_1790903384",
+        "item_1790903385",
+        "item_1790903386"
+      ]
+    },
     {
       "date": "2026-10-01",
       "editorial_summary": "Briefing compiled on October 01, 2026. Today's selection highlights new R packages and features like StupidKevin7743/cash-transfer-ge-replication (4 stars), kbosirany/kquarto.r (0 stars) and explores cutting-edge AI integrations including alphaparkinc/genpark-hubx-multimodal-mobile-agent-mcp (7 stars), lupingQAQ/ntobjmanager-mcp (13 stars).",

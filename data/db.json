@@ -10394,9 +10394,108 @@
       "score": 17.0,
       "read": false,
       "id": "item_1790903386"
+    },
+    {
+      "title": "lalitrolaniya/pearlmillet-biofortification-diallel (1 stars)",
+      "url": "https://github.com/lalitrolaniya/pearlmillet-biofortification-diallel",
+      "summary": "Companion code for Punia et al. (2026) Theor Appl Genet 139:265, in memory of Dr. Monika Punia. Griffing diallel analysis pooled over environments, with a browser Shiny app.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-03",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1790988429"
+    },
+    {
+      "title": "Celebrating the rOpenSci Community",
+      "url": "https://www.r-bloggers.com/2026/09/celebrating-the-ropensci-community/",
+      "summary": "Read it in: Español. rOpenSci turns 15 and I’ve been a part of this community for a good chunk of that time. As I reflected on those years, a lot of great memories came to mind, and I realized some...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-03",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1790988430"
+    },
+    {
+      "title": "amoseyal/us-airline-performance-analysis (0 stars)",
+      "url": "https://github.com/amoseyal/us-airline-performance-analysis",
+      "summary": "Analysis of 7 million U.S. airline flights using R, DuckDB, SQL, Parquet, ggplot2, and Quarto.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-03",
+      "tags": [
+        "ggplot",
+        "quarto",
+        "ai"
+      ],
+      "score": 5.5,
+      "read": false,
+      "id": "item_1790988431"
+    },
+    {
+      "title": "Lee1366/forest-disturbance-analysis (1 stars)",
+      "url": "https://github.com/Lee1366/forest-disturbance-analysis",
+      "summary": "Reproducible R workflow for analysing forest disturbance and timber-harvest dynamics using synthetic data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-03",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1790988432"
+    },
+    {
+      "title": "brideo/magento-mcp (2 stars)",
+      "url": "https://github.com/brideo/magento-mcp",
+      "summary": "Magento 2 MCP (Model Context Protocol) connector - lets Claude run read-only GraphQL queries against your Magento store as a standard custom connector, authorized via OAuth 2.1.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-03",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1790988433"
+    },
+    {
+      "title": "XiaoPuOuO/openchatx-mcp (249 stars)",
+      "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+      "summary": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-03",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1790988434"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-03",
+      "editorial_summary": "Briefing compiled on October 03, 2026. Today's selection highlights new R packages and features like lalitrolaniya/pearlmillet-biofortification-diallel (1 stars), Celebrating the rOpenSci Community and explores cutting-edge AI integrations including brideo/magento-mcp (2 stars), XiaoPuOuO/openchatx-mcp (249 stars).",
+      "items": [
+        "item_1790988429",
+        "item_1790988430",
+        "item_1790988431",
+        "item_1790988432",
+        "item_1790988433",
+        "item_1790988434"
+      ]
+    },
     {
       "date": "2026-10-02",
       "editorial_summary": "Briefing compiled on October 02, 2026. Today's selection highlights new R packages and features like BioC2026 conference recap, mtariqi/srebf2-regulatory-signature (1 stars) and explores cutting-edge AI integrations including youagainchen/claude-codex-coop (20 stars), CodeByZaigham/MCP-local-servers (2 stars).",

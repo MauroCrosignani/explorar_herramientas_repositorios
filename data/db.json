@@ -10481,9 +10481,107 @@
       "score": 10.5,
       "read": false,
       "id": "item_1790988434"
+    },
+    {
+      "title": "pipeflow: v0.4.0 on CRAN",
+      "url": "https://www.r-bloggers.com/2026/10/pipeflow-v0-4-0-on-cran/",
+      "summary": "Pipeline setup\n{pipeflow} builds a pipeline by adding one R function per step with\npip_add (see also the Get\nstarted article). In this post, we’ll work with the following toy\npipeline:\nstep load pr...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-04",
+      "tags": [
+        "cran"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1791072645"
+    },
+    {
+      "title": "RavinduNawanjana/multilateral-climate-finance-architecture (1 stars)",
+      "url": "https://github.com/RavinduNawanjana/multilateral-climate-finance-architecture",
+      "summary": "Reproducible R and Quarto research on multilateral climate finance, institutional collaboration and blended finance.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-04",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791072646"
+    },
+    {
+      "title": "jamag-md/ml-in-r-for-clinical-research (1 stars)",
+      "url": "https://github.com/jamag-md/ml-in-r-for-clinical-research",
+      "summary": "Beginner-friendly course on machine learning in R for clinical research (EN/ES). Curso de machine learning en R para investigación clínica, para principiantes (EN/ES). Logistic regression, LASSO, r...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-04",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1791072647"
+    },
+    {
+      "title": "Maria-TM1/hospital-readmission-ml (1 stars)",
+      "url": "https://github.com/Maria-TM1/hospital-readmission-ml",
+      "summary": "9-model comparison for 30-day hospital readmission: bootstrap confidence intervals show no model beats a simple logistic regression · R · tidymodels",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-04",
+      "tags": [
+        "tidymodels"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1791072648"
+    },
+    {
+      "title": "K-Dense-AI/lab-instrument-mcps (15 stars)",
+      "url": "https://github.com/K-Dense-AI/lab-instrument-mcps",
+      "summary": "Open-source MCP servers that let AI agents operate real lab instruments, with safety limits, read-only modes, audit trails, and a simulator for every instrument.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-04",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1791072649"
+    },
+    {
+      "title": "Alpha-Park/genpark-mcp-protocol-proxy-router-skill (7 stars)",
+      "url": "https://github.com/Alpha-Park/genpark-mcp-protocol-proxy-router-skill",
+      "summary": "Model Context Protocol (MCP) JSON-RPC 2.0 proxy router with capability negotiation and dynamic tool dispatch",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-04",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1791072650"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-04",
+      "editorial_summary": "Briefing compiled on October 04, 2026. Today's selection highlights new R packages and features like pipeflow: v0.4.0 on CRAN, RavinduNawanjana/multilateral-climate-finance-architecture (1 stars) and explores cutting-edge AI integrations including K-Dense-AI/lab-instrument-mcps (15 stars), Alpha-Park/genpark-mcp-protocol-proxy-router-skill (7 stars).",
+      "items": [
+        "item_1791072645",
+        "item_1791072646",
+        "item_1791072647",
+        "item_1791072648",
+        "item_1791072649",
+        "item_1791072650"
+      ]
+    },
     {
       "date": "2026-10-03",
       "editorial_summary": "Briefing compiled on October 03, 2026. Today's selection highlights new R packages and features like lalitrolaniya/pearlmillet-biofortification-diallel (1 stars), Celebrating the rOpenSci Community and explores cutting-edge AI integrations including brideo/magento-mcp (2 stars), XiaoPuOuO/openchatx-mcp (249 stars).",

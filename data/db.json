@@ -10567,9 +10567,107 @@
       "score": 10.5,
       "read": false,
       "id": "item_1791072650"
+    },
+    {
+      "title": "david-priest/positron-qmd-run-buttons (0 stars)",
+      "url": "https://github.com/david-priest/positron-qmd-run-buttons",
+      "summary": "Title-bar buttons for Quarto and Jupyter notebooks in Positron: Run Cells Above, Below and All for Quarto, plus Run Plan, which runs a named list of chunks or cells in order with one click.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-05",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791159407"
+    },
+    {
+      "title": "rOpenSci News Digest, September 2026",
+      "url": "https://www.r-bloggers.com/2026/09/ropensci-news-digest-september-2026/",
+      "summary": "Dear rOpenSci friends, it’s time for our monthly news roundup!  You can read this post on our blog. Now let’s dive into the activity at and around rOpenSci!\nrOpenSci HQ\nYani and Mark at “Open Commu...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-05",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1791159408"
+    },
+    {
+      "title": "FrancescaDP23/video-quality-regression-analysis (0 stars)",
+      "url": "https://github.com/FrancescaDP23/video-quality-regression-analysis",
+      "summary": "Statistical modelling and regression analysis of video quality in R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-05",
+      "tags": [
+        "general"
+      ],
+      "score": 14,
+      "read": false,
+      "id": "item_1791159409"
+    },
+    {
+      "title": "M-taheri-um-ac/data-science-job-market-analysis (0 stars)",
+      "url": "https://github.com/M-taheri-um-ac/data-science-job-market-analysis",
+      "summary": "SQL + R analysis of data science job salaries",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-05",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1791159410"
+    },
+    {
+      "title": "haoan33/OmniQQ-MCP (2 stars)",
+      "url": "https://github.com/haoan33/OmniQQ-MCP",
+      "summary": "🚀 OmniQQ-MCP: Full-Featured NapCatQQ (OneBot 11) MCP Server | 赋予 Claude / Cursor / Antigravity / AI Agent 完整 QQ 控制能力的全能 Model Context Protocol 服务：支持 74+ 核心工具 & 144+ 全量接口透传、二维码扫码登录、多账号热切换、实时消息监听与一键自动部署",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-05",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1791159411"
+    },
+    {
+      "title": "alphaparkinc/genpark-mcp-protocol-proxy-router-skill (7 stars)",
+      "url": "https://github.com/alphaparkinc/genpark-mcp-protocol-proxy-router-skill",
+      "summary": "Model Context Protocol (MCP) JSON-RPC 2.0 proxy router with capability negotiation and dynamic tool dispatch",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-05",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1791159412"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-05",
+      "editorial_summary": "Briefing compiled on October 05, 2026. Today's selection highlights new R packages and features like david-priest/positron-qmd-run-buttons (0 stars), rOpenSci News Digest, September 2026 and explores cutting-edge AI integrations including haoan33/OmniQQ-MCP (2 stars), alphaparkinc/genpark-mcp-protocol-proxy-router-skill (7 stars).",
+      "items": [
+        "item_1791159407",
+        "item_1791159408",
+        "item_1791159409",
+        "item_1791159410",
+        "item_1791159411",
+        "item_1791159412"
+      ]
+    },
     {
       "date": "2026-10-04",
       "editorial_summary": "Briefing compiled on October 04, 2026. Today's selection highlights new R packages and features like pipeflow: v0.4.0 on CRAN, RavinduNawanjana/multilateral-climate-finance-architecture (1 stars) and explores cutting-edge AI integrations including K-Dense-AI/lab-instrument-mcps (15 stars), Alpha-Park/genpark-mcp-protocol-proxy-router-skill (7 stars).",

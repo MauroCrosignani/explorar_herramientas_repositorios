@@ -10653,9 +10653,107 @@
       "score": 10.5,
       "read": false,
       "id": "item_1791159412"
+    },
+    {
+      "title": "R Weekly 2026-W41 Spreadsheets to gt, shinyreact, Aperiodic Tilings",
+      "url": "https://rweekly.org/2026-W41.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Sam Parmar, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-06",
+      "tags": [
+        "shiny"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1791251855"
+    },
+    {
+      "title": "Pharmaco-OmicsLab/NeoSepPulmoExplorer (0 stars)",
+      "url": "https://github.com/Pharmaco-OmicsLab/NeoSepPulmoExplorer",
+      "summary": "Integrated R Shiny web application for transcriptomics data mining ",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-06",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791251856"
+    },
+    {
+      "title": "erickyegon/within-reach (1 stars)",
+      "url": "https://github.com/erickyegon/within-reach",
+      "summary": "Money buys hospitals, compactness buys access. R + Shiny analysis of hospital access in 11,422 cities (#TidyTuesday 2026 wk 39)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-06",
+      "tags": [
+        "shiny"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1791251857"
+    },
+    {
+      "title": "gc10code/CatMath (1 stars)",
+      "url": "https://github.com/gc10code/CatMath",
+      "summary": "Point-and-click statistics and machine-learning app in R/Shiny: preprocessing, tests, PCA/NMF, regression, clustering, k-NN, random forest",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-06",
+      "tags": [
+        "shiny",
+        "statistics"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1791251858"
+    },
+    {
+      "title": "osmondcardell/mcp-video-tools (32 stars)",
+      "url": "https://github.com/osmondcardell/mcp-video-tools",
+      "summary": "Model Context Protocol tools for Argolink video jobs: discover models, submit requests, poll status, and retrieve finished content over stdio.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-06",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1791251859"
+    },
+    {
+      "title": "KhoaDayy/warudo-mcp (2 stars)",
+      "url": "https://github.com/KhoaDayy/warudo-mcp",
+      "summary": "Model Context Protocol (MCP) server & runtime bridge for Warudo 3D virtual production. Available on npm: warudo-mcp-server",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-06",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1791251860"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-06",
+      "editorial_summary": "Briefing compiled on October 06, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W41 Spreadsheets to gt, shinyreact, Aperiodic Tilings, Pharmaco-OmicsLab/NeoSepPulmoExplorer (0 stars) and explores cutting-edge AI integrations including osmondcardell/mcp-video-tools (32 stars), KhoaDayy/warudo-mcp (2 stars).",
+      "items": [
+        "item_1791251855",
+        "item_1791251856",
+        "item_1791251857",
+        "item_1791251858",
+        "item_1791251859",
+        "item_1791251860"
+      ]
+    },
     {
       "date": "2026-10-05",
       "editorial_summary": "Briefing compiled on October 05, 2026. Today's selection highlights new R packages and features like david-priest/positron-qmd-run-buttons (0 stars), rOpenSci News Digest, September 2026 and explores cutting-edge AI integrations including haoan33/OmniQQ-MCP (2 stars), alphaparkinc/genpark-mcp-protocol-proxy-router-skill (7 stars).",

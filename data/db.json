@@ -10739,9 +10739,107 @@
       "score": 12.0,
       "read": false,
       "id": "item_1791251860"
+    },
+    {
+      "title": "heise3/ExtremaRank (1 stars)",
+      "url": "https://github.com/heise3/ExtremaRank",
+      "summary": "Native R and Python sample-deletion robustness for omics: candidate certificates, minimum deletion bounds, Bioconductor model refits and donor-level pseudobulk",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-07",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1791335091"
+    },
+    {
+      "title": "Andresperez397/nfl-presnap-predictability (1 stars)",
+      "url": "https://github.com/Andresperez397/nfl-presnap-predictability",
+      "summary": "How predictable is an NFL offense before the snap? Temporal validation on unseen seasons, shrunk team tendencies, and an R Shiny scouting app",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-07",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791335092"
+    },
+    {
+      "title": "Kashika19/lung-cancer-survival-analysis (0 stars)",
+      "url": "https://github.com/Kashika19/lung-cancer-survival-analysis",
+      "summary": "R classification project comparing logistic regression, CART and random forest for lung-cancer survival-status prediction.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-07",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1791335093"
+    },
+    {
+      "title": "BessiePengjinWang/hazard-mitigation-analysis (0 stars)",
+      "url": "https://github.com/BessiePengjinWang/hazard-mitigation-analysis",
+      "summary": "R Shiny app analyzing FEMA Hazard Mitigation Assistance data: disaster geography and seasonality, fund allocation vs. benefit-cost ratio, and random forest models for award size and NY disaster-typ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-07",
+      "tags": [
+        "shiny"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1791335094"
+    },
+    {
+      "title": "aminmadaniofficial/bale-mcp-server (7 stars)",
+      "url": "https://github.com/aminmadaniofficial/bale-mcp-server",
+      "summary": "Production-grade Model Context Protocol (MCP) server for Bale Messenger with 32 tools for LLMs (Claude, Cursor, Antigravity) to interact with user accounts.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-07",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "llm"
+      ],
+      "score": 20.5,
+      "read": false,
+      "id": "item_1791335095"
+    },
+    {
+      "title": "VoltAgent/official-mcp-servers (179 stars)",
+      "url": "https://github.com/VoltAgent/official-mcp-servers",
+      "summary": "A curated directory of 280+ official MCP servers from the companies behind the products. No unofficial forks, no abandoned projects.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-07",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1791335096"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-07",
+      "editorial_summary": "Briefing compiled on October 07, 2026. Today's selection highlights new R packages and features like heise3/ExtremaRank (1 stars), Andresperez397/nfl-presnap-predictability (1 stars) and explores cutting-edge AI integrations including aminmadaniofficial/bale-mcp-server (7 stars), VoltAgent/official-mcp-servers (179 stars).",
+      "items": [
+        "item_1791335091",
+        "item_1791335092",
+        "item_1791335093",
+        "item_1791335094",
+        "item_1791335095",
+        "item_1791335096"
+      ]
+    },
     {
       "date": "2026-10-06",
       "editorial_summary": "Briefing compiled on October 06, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W41 Spreadsheets to gt, shinyreact, Aperiodic Tilings, Pharmaco-OmicsLab/NeoSepPulmoExplorer (0 stars) and explores cutting-edge AI integrations including osmondcardell/mcp-video-tools (32 stars), KhoaDayy/warudo-mcp (2 stars).",

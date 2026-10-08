@@ -10825,9 +10825,111 @@
       "score": 11.5,
       "read": false,
       "id": "item_1791335096"
+    },
+    {
+      "title": "ardanoyan/income-prediction (1 stars)",
+      "url": "https://github.com/ardanoyan/income-prediction",
+      "summary": "Customer income prediction for a digital bank (Bilkent IE 477/478 senior design project with Hayat Finans): R tidymodels notebook with OLS, LASSO, random forest, XGBoost and LightGBM, two Shiny app...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-08",
+      "tags": [
+        "shiny",
+        "tidymodels"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1791422617"
+    },
+    {
+      "title": "A Collaboration Fest for research software interoperability",
+      "url": "https://www.r-bloggers.com/2026/10/a-collaboration-fest-for-research-software-interoperability/",
+      "summary": "On 15-17 September 2026, members of the Bioconductor, Galaxy and nf-core communities came together at The Open University in Milton Keynes for the BioFAIR Data to Discovery and BioFAIR Collaboratio...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-08",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791422618"
+    },
+    {
+      "title": "tertiarycourses/C182-Data-Analytics-with-R (0 stars)",
+      "url": "https://github.com/tertiarycourses/C182-Data-Analytics-with-R",
+      "summary": "Non-WSQ Data Analytics with R (C182) — 2-day, 15-hour hands-on course: data preparation, statistics, regression, text analysis and ggplot2 visualisation with 10 R labs.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-08",
+      "tags": [
+        "ggplot",
+        "statistics",
+        "analytics"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1791422619"
+    },
+    {
+      "title": "aaditya2504/brfss-mental-health-analysis (0 stars)",
+      "url": "https://github.com/aaditya2504/brfss-mental-health-analysis",
+      "summary": "Survey-weighted analysis of social determinants of mental health, CDC BRFSS 2024 (200K+ respondents, 33 states)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-08",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1791422620"
+    },
+    {
+      "title": "whory/mcp-gamehacking (2 stars)",
+      "url": "https://github.com/whory/mcp-gamehacking",
+      "summary": "MCP (Model Context Protocol) server for game hacking & reverse engineering. A structured knowledge base of **4,100+ skills** with full source code archives, specialized agents, and workflow tools -...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-08",
+      "tags": [
+        "mcp",
+        "agents"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1791422621"
+    },
+    {
+      "title": "izzy-Ti/fayda-mcp (16 stars)",
+      "url": "https://github.com/izzy-Ti/fayda-mcp",
+      "summary": "A Model Context Protocol (MCP) bridge connecting AI agents to Ethiopia's Fayda National ID (MOSIP eSignet) for zero-trust e-KYC and identity verification.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-08",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1791422622"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-08",
+      "editorial_summary": "Briefing compiled on October 08, 2026. Today's selection highlights new R packages and features like ardanoyan/income-prediction (1 stars), A Collaboration Fest for research software interoperability and explores cutting-edge AI integrations including whory/mcp-gamehacking (2 stars), izzy-Ti/fayda-mcp (16 stars).",
+      "items": [
+        "item_1791422617",
+        "item_1791422618",
+        "item_1791422619",
+        "item_1791422620",
+        "item_1791422621",
+        "item_1791422622"
+      ]
+    },
     {
       "date": "2026-10-07",
       "editorial_summary": "Briefing compiled on October 07, 2026. Today's selection highlights new R packages and features like heise3/ExtremaRank (1 stars), Andresperez397/nfl-presnap-predictability (1 stars) and explores cutting-edge AI integrations including aminmadaniofficial/bale-mcp-server (7 stars), VoltAgent/official-mcp-servers (179 stars).",

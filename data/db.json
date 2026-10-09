@@ -10915,9 +10915,106 @@
       "score": 11.5,
       "read": false,
       "id": "item_1791422622"
+    },
+    {
+      "title": "Bayesian workflow [book review]",
+      "url": "https://www.r-bloggers.com/2026/10/bayesian-workflow-book-review/",
+      "summary": "“This original, thought-provoking, and transforming, book is much much more than an implementation manual for Bayesian Data Analysis, even though it shares almost the same perspective. (The first s...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-09",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791509475"
+    },
+    {
+      "title": "dakouri-kobri/chicken-comb-mass-qtl-mapping (0 stars)",
+      "url": "https://github.com/dakouri-kobri/chicken-comb-mass-qtl-mapping",
+      "summary": "QTL mapping of chicken comb mass with R/qtl, including covariate adjustment, permutation tests, and QTL refinement. Reproducible with Quarto and renv",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-09",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791509476"
+    },
+    {
+      "title": "yadebilgic/telco-churn-analysis (0 stars)",
+      "url": "https://github.com/yadebilgic/telco-churn-analysis",
+      "summary": "Categorical Data Analysis & Customer Churn Modeling using Chi-Square, MWU, Kruskal-Wallis, MCA & Logistic Regression in R and SPSS.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-09",
+      "tags": [
+        "general"
+      ],
+      "score": 11,
+      "read": false,
+      "id": "item_1791509477"
+    },
+    {
+      "title": "DeastV/probability-statistics-r (0 stars)",
+      "url": "https://github.com/DeastV/probability-statistics-r",
+      "summary": " Statistical computing, Monte Carlo simulations, and exploratory data analysis using R and ggplot2.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-09",
+      "tags": [
+        "ggplot",
+        "statistics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1791509478"
+    },
+    {
+      "title": "HaticeGuzell/multi-database-mcp-server (14 stars)",
+      "url": "https://github.com/HaticeGuzell/multi-database-mcp-server",
+      "summary": "Read-only Model Context Protocol server for MySQL and PostgreSQL, built with TypeScript, TypeORM and Docker.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-09",
+      "tags": [
+        "mcp"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1791509479"
+    },
+    {
+      "title": "HUA503/mcprism (3 stars)",
+      "url": "https://github.com/HUA503/mcprism",
+      "summary": "Fast single-binary security scanner for MCP (Model Context Protocol) servers — config audit, live capability enumeration, tool-poisoning detection & risk grading. Zero deps, fully offline — trivy f...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-09",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1791509480"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-09",
+      "editorial_summary": "Briefing compiled on October 09, 2026. Today's selection highlights new R packages and features like Bayesian workflow [book review], dakouri-kobri/chicken-comb-mass-qtl-mapping (0 stars) and explores cutting-edge AI integrations including HaticeGuzell/multi-database-mcp-server (14 stars), HUA503/mcprism (3 stars).",
+      "items": [
+        "item_1791509475",
+        "item_1791509476",
+        "item_1791509477",
+        "item_1791509478",
+        "item_1791509479",
+        "item_1791509480"
+      ]
+    },
     {
       "date": "2026-10-08",
       "editorial_summary": "Briefing compiled on October 08, 2026. Today's selection highlights new R packages and features like ardanoyan/income-prediction (1 stars), A Collaboration Fest for research software interoperability and explores cutting-edge AI integrations including whory/mcp-gamehacking (2 stars), izzy-Ti/fayda-mcp (16 stars).",

@@ -11000,9 +11000,109 @@
       "score": 10.5,
       "read": false,
       "id": "item_1791509480"
+    },
+    {
+      "title": "donvollb/birm-rs-inflation_shiny (0 stars)",
+      "url": "https://github.com/donvollb/birm-rs-inflation_shiny",
+      "summary": "Interactive shinylive app: zero- and one-inflated BIRM-RS for visual analogue scales",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-10",
+      "tags": [
+        "shiny"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1791595277"
+    },
+    {
+      "title": "bioconductor-source/thyroidBRS (0 stars)",
+      "url": "https://github.com/bioconductor-source/thyroidBRS",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-10",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1791595278"
+    },
+    {
+      "title": "vagades/spotify-statistical-analysis (0 stars)",
+      "url": "https://github.com/vagades/spotify-statistical-analysis",
+      "summary": "Statistical analysis of 18k Spotify tracks in Python & R: hypothesis testing, ANOVA, regression, imputation",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-10",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1791595279"
+    },
+    {
+      "title": "rolivaresIA/Machinery-Failure-Telemetry-Analysis (0 stars)",
+      "url": "https://github.com/rolivaresIA/Machinery-Failure-Telemetry-Analysis",
+      "summary": "Heavy-equipment telemetry: data quality, EDA and an ML model (logistic regression vs random forest, ROC/PR) to prioritise critical alerts. R, synthetic data.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-10",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1791595280"
+    },
+    {
+      "title": "mcpdelta/mcpdelta (80 stars)",
+      "url": "https://github.com/mcpdelta/mcpdelta",
+      "summary": "Delta MCP is a free app that sits between your AI apps and their MCP servers: one program per task instead of one tool call per step, up to 24.1× fewer tokens in our benchmarks. Every change is rec...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-10",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1791595281"
+    },
+    {
+      "title": "jeonjw85/kenfold (64 stars)",
+      "url": "https://github.com/jeonjw85/kenfold",
+      "summary": "Self-hosted memory server for AI agents. Share context across Claude Code, Codex, OpenCode, and ChatGPT over MCP.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-10",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1791595282"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-10",
+      "editorial_summary": "Briefing compiled on October 10, 2026. Today's selection highlights new R packages and features like donvollb/birm-rs-inflation_shiny (0 stars), bioconductor-source/thyroidBRS (0 stars) and explores cutting-edge AI integrations including mcpdelta/mcpdelta (80 stars), jeonjw85/kenfold (64 stars).",
+      "items": [
+        "item_1791595277",
+        "item_1791595278",
+        "item_1791595279",
+        "item_1791595280",
+        "item_1791595281",
+        "item_1791595282"
+      ]
+    },
     {
       "date": "2026-10-09",
       "editorial_summary": "Briefing compiled on October 09, 2026. Today's selection highlights new R packages and features like Bayesian workflow [book review], dakouri-kobri/chicken-comb-mass-qtl-mapping (0 stars) and explores cutting-edge AI integrations including HaticeGuzell/multi-database-mcp-server (14 stars), HUA503/mcprism (3 stars).",

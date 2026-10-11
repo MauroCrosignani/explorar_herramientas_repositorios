@@ -11088,9 +11088,109 @@
       "score": 10.0,
       "read": false,
       "id": "item_1791595282"
+    },
+    {
+      "title": "SieurRicort/quarto_template (1 stars)",
+      "url": "https://github.com/SieurRicort/quarto_template",
+      "summary": "Reusable Quarto template for reproducible reports (work in progress).",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-11",
+      "tags": [
+        "quarto"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1791678811"
+    },
+    {
+      "title": "salvadoraveldano/r-googlesheets4 (0 stars)",
+      "url": "https://github.com/salvadoraveldano/r-googlesheets4",
+      "summary": "Agent skill: build, format and visually QA Google Sheets from R (googlesheets4). Unofficial; credits the tidyverse team.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-11",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1791678812"
+    },
+    {
+      "title": "SsJjPpHh/data-analysis-agent (1 stars)",
+      "url": "https://github.com/SsJjPpHh/data-analysis-agent",
+      "summary": "AI + R 科研统计工作台 / Local research statistics workbench: 213 templates, DeepSeek-assisted analysis, local R execution, diagnostics and reproducible exports.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-11",
+      "tags": [
+        "ai",
+        "statistics"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1791678813"
+    },
+    {
+      "title": "bayanalqarni16-arch/ecommerce-analytics-olist (0 stars)",
+      "url": "https://github.com/bayanalqarni16-arch/ecommerce-analytics-olist",
+      "summary": "E-commerce sales, customer satisfaction, delivery performance, and revenue forecasting analysis using R, SQL, Power BI, and statistical methods",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-11",
+      "tags": [
+        "sf",
+        "analytics"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1791678814"
+    },
+    {
+      "title": "99apps-id/pdf-tool-mcp (3 stars)",
+      "url": "https://github.com/99apps-id/pdf-tool-mcp",
+      "summary": "High-performance Model Context Protocol (MCP) server for PDF manipulation, bank statement parsing, Office export, and document security. Ready for Claude Desktop, Cursor, and Termigo.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-11",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1791678815"
+    },
+    {
+      "title": "leandro-jm/mcp-gateway (2 stars)",
+      "url": "https://github.com/leandro-jm/mcp-gateway",
+      "summary": "A multi-tenant **Model Context Protocol (MCP) gateway** that turns existing REST/OpenAPI APIs into governed MCP tools for AI agents, without changing the APIs themselves.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-11",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1791678816"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-11",
+      "editorial_summary": "Briefing compiled on October 11, 2026. Today's selection highlights new R packages and features like SieurRicort/quarto_template (1 stars), salvadoraveldano/r-googlesheets4 (0 stars) and explores cutting-edge AI integrations including 99apps-id/pdf-tool-mcp (3 stars), leandro-jm/mcp-gateway (2 stars).",
+      "items": [
+        "item_1791678811",
+        "item_1791678812",
+        "item_1791678813",
+        "item_1791678814",
+        "item_1791678815",
+        "item_1791678816"
+      ]
+    },
     {
       "date": "2026-10-10",
       "editorial_summary": "Briefing compiled on October 10, 2026. Today's selection highlights new R packages and features like donvollb/birm-rs-inflation_shiny (0 stars), bioconductor-source/thyroidBRS (0 stars) and explores cutting-edge AI integrations including mcpdelta/mcpdelta (80 stars), jeonjw85/kenfold (64 stars).",

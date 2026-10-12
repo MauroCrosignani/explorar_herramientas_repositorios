@@ -11176,9 +11176,93 @@
       "score": 13.5,
       "read": false,
       "id": "item_1791678816"
+    },
+    {
+      "title": "Connecting to Eureka2 using a university’s Microsoft Authenticator based login",
+      "url": "https://www.r-bloggers.com/2026/10/connecting-to-eureka2-using-a-universitys-microsoft-authenticator-based-login/",
+      "summary": "Connecting to the computing cluster using a VPN tunnel\nContinue reading: Connecting to Eureka2 using a university’s Microsoft Authenticator based login",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-12",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1791766037"
+    },
+    {
+      "title": "Taanvir-Ahmed/longitudinal-survival-analysis (0 stars)",
+      "url": "https://github.com/Taanvir-Ahmed/longitudinal-survival-analysis",
+      "summary": "Linear mixed models, GEE and Cox regression for a simulated clinical follow-up study (R)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-12",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1791766038"
+    },
+    {
+      "title": "jhon1217/jhu-data-science-projects (0 stars)",
+      "url": "https://github.com/jhon1217/jhu-data-science-projects",
+      "summary": "Interactive data analytics and data science portfolio: machine learning, business analysis, reproducible research, and data products.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-12",
+      "tags": [
+        "machine learning",
+        "analytics"
+      ],
+      "score": 7.0,
+      "read": false,
+      "id": "item_1791766039"
+    },
+    {
+      "title": "duclm1x1/Muse-Chat-MCP (52 stars)",
+      "url": "https://github.com/duclm1x1/Muse-Chat-MCP",
+      "summary": "MCP server + OpenAI-compatible shim to use Meta Muse (muse.ai, Hatch) by driving the real logged-in Chrome.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-12",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1791766040"
+    },
+    {
+      "title": "jameshaworthcs/verifiedhandles-mcp (31 stars)",
+      "url": "https://github.com/jameshaworthcs/verifiedhandles-mcp",
+      "summary": "Connect an AI agent to Verified Handles: setup for each client, the MCP Registry listing, a Claude Desktop extension.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-12",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 10.0,
+      "read": false,
+      "id": "item_1791766041"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-12",
+      "editorial_summary": "Briefing compiled on October 12, 2026. Today's selection highlights new R packages and features like Connecting to Eureka2 using a university’s Microsoft Authenticator based login and explores cutting-edge AI integrations including duclm1x1/Muse-Chat-MCP (52 stars), jameshaworthcs/verifiedhandles-mcp (31 stars).",
+      "items": [
+        "item_1791766037",
+        "item_1791766038",
+        "item_1791766039",
+        "item_1791766040",
+        "item_1791766041"
+      ]
+    },
     {
       "date": "2026-10-11",
       "editorial_summary": "Briefing compiled on October 11, 2026. Today's selection highlights new R packages and features like SieurRicort/quarto_template (1 stars), salvadoraveldano/r-googlesheets4 (0 stars) and explores cutting-edge AI integrations including 99apps-id/pdf-tool-mcp (3 stars), leandro-jm/mcp-gateway (2 stars).",

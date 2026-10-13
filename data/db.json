@@ -11249,9 +11249,106 @@
       "score": 10.0,
       "read": false,
       "id": "item_1791766041"
+    },
+    {
+      "title": "Beyond the course: Reflections from the Bioconductor–Physalia sponsorship programme",
+      "url": "https://www.r-bloggers.com/2026/10/beyond-the-course-reflections-from-the-bioconductor-physalia-sponsorship-programme/",
+      "summary": "What difference can a sponsored place on a bioinformatics course make? For some researchers, it means access to training they would otherwise struggle to afford. For others, it is an opportunity to...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-13",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1791859506"
+    },
+    {
+      "title": "erfanz97/gg-figs (0 stars)",
+      "url": "https://github.com/erfanz97/gg-figs",
+      "summary": "Claude Agent Skill for publication-quality ggplot2 figures: inspects your data, picks the right chart, adds supported statistics, exports journal-ready PDF/TIFF/PNG.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-13",
+      "tags": [
+        "ggplot",
+        "statistics"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1791859507"
+    },
+    {
+      "title": "The Pit of Success, and What a Data Science Language Would Need to Make It",
+      "url": "https://www.r-bloggers.com/2026/10/the-pit-of-success-and-what-a-data-science-language-would-need-to-make-it/",
+      "summary": "Rico Mariani, a long-time performance engineer at Microsoft, coined the idea of the pit of success. A system has a pit of success when the natural, lazy way of using it leads to good outcomes. You ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-13",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1791859508"
+    },
+    {
+      "title": "suvrathaprasad/mycoPCLS-analysis (0 stars)",
+      "url": "https://github.com/suvrathaprasad/mycoPCLS-analysis",
+      "summary": "This repository is a mirror. Active development occurs on GitLab",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-13",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1791859509"
+    },
+    {
+      "title": "fragrans-maotou/zentao-mcp (2 stars)",
+      "url": "https://github.com/fragrans-maotou/zentao-mcp",
+      "summary": "ZenTao MCP Server — Model Context Protocol tools for ZenTao (禅道)",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-13",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1791859510"
+    },
+    {
+      "title": "lackaci/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/lackaci/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-13",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1791859511"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-13",
+      "editorial_summary": "Briefing compiled on October 13, 2026. Today's selection highlights new R packages and features like Beyond the course: Reflections from the Bioconductor–Physalia sponsorship programme, erfanz97/gg-figs (0 stars) and explores cutting-edge AI integrations including fragrans-maotou/zentao-mcp (2 stars), lackaci/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1791859506",
+        "item_1791859507",
+        "item_1791859508",
+        "item_1791859509",
+        "item_1791859510",
+        "item_1791859511"
+      ]
+    },
     {
       "date": "2026-10-12",
       "editorial_summary": "Briefing compiled on October 12, 2026. Today's selection highlights new R packages and features like Connecting to Eureka2 using a university’s Microsoft Authenticator based login and explores cutting-edge AI integrations including duclm1x1/Muse-Chat-MCP (52 stars), jameshaworthcs/verifiedhandles-mcp (31 stars).",

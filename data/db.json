@@ -11334,9 +11334,107 @@
       "score": 13.5,
       "read": false,
       "id": "item_1791859511"
+    },
+    {
+      "title": "statisticsplaybook/snu-thesis-quarto (1 stars)",
+      "url": "https://github.com/statisticsplaybook/snu-thesis-quarto",
+      "summary": "서울대학교 학위논문 Quarto 템플릿 — 국문·영문 석사·박사 QMD→PDF (비공식)",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-14",
+      "tags": [
+        "quarto",
+        "statistics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1791938525"
+    },
+    {
+      "title": "R Weekly 2025-W42 de Bruijn tiles, ALTREP, Parquet?",
+      "url": "https://rweekly.org/2026-W42.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Ryo Nakagawara, with help from the R Weekly team members and contributor...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-14",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1791938526"
+    },
+    {
+      "title": "corneliusvane8/seedance-2-0-python-sdk (31 stars)",
+      "url": "https://github.com/corneliusvane8/seedance-2-0-python-sdk",
+      "summary": "A practical Python client, MCP server, shell examples, and implementation notes for the Argolink Seedance 2.0 video API.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-14",
+      "tags": [
+        "mcp"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1791938527"
+    },
+    {
+      "title": "Major update to VS Code R extension",
+      "url": "https://www.r-bloggers.com/2026/10/major-update-to-vs-code-r-extension/",
+      "summary": "I was doing some analysis work with R today (don’t get to do that very often anymore) and R wasn’t playing with VS Code nicely.\nTurns out there has recently been a major update to the VS Code R edi...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-14",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1791938528"
+    },
+    {
+      "title": "Alarm2024/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/Alarm2024/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-14",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1791938529"
+    },
+    {
+      "title": "Wiktor-Barczyk/Model-Context-Protocol_MCP-server (1 stars)",
+      "url": "https://github.com/Wiktor-Barczyk/Model-Context-Protocol_MCP-server",
+      "summary": "Python-based MCP server integrating Odoo with AI assistants",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-14",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1791938530"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-14",
+      "editorial_summary": "Briefing compiled on October 14, 2026. Today's selection highlights new R packages and features like statisticsplaybook/snu-thesis-quarto (1 stars), R Weekly 2025-W42 de Bruijn tiles, ALTREP, Parquet? and explores cutting-edge AI integrations including Alarm2024/skills-integrate-mcp-with-copilot (1 stars), Wiktor-Barczyk/Model-Context-Protocol_MCP-server (1 stars).",
+      "items": [
+        "item_1791938525",
+        "item_1791938526",
+        "item_1791938527",
+        "item_1791938528",
+        "item_1791938529",
+        "item_1791938530"
+      ]
+    },
     {
       "date": "2026-10-13",
       "editorial_summary": "Briefing compiled on October 13, 2026. Today's selection highlights new R packages and features like Beyond the course: Reflections from the Bioconductor–Physalia sponsorship programme, erfanz97/gg-figs (0 stars) and explores cutting-edge AI integrations including fragrans-maotou/zentao-mcp (2 stars), lackaci/skills-integrate-mcp-with-copilot (1 stars).",

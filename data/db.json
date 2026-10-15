@@ -11420,9 +11420,108 @@
       "score": 13.0,
       "read": false,
       "id": "item_1791938530"
+    },
+    {
+      "title": "bioconductor-source/SpatialData.data (0 stars)",
+      "url": "https://github.com/bioconductor-source/SpatialData.data",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1792022986"
+    },
+    {
+      "title": "bioconductor-source/IntrinsicScan (0 stars)",
+      "url": "https://github.com/bioconductor-source/IntrinsicScan",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1792022987"
+    },
+    {
+      "title": "Axmedn/evi-functional-data-analysis (0 stars)",
+      "url": "https://github.com/Axmedn/evi-functional-data-analysis",
+      "summary": "Functional data analysis of satellite vegetation index curves in R: GCV-tuned smoothing, derivatives and functional PCA",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-15",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1792022988"
+    },
+    {
+      "title": "BorjaLafuente/galician-research-dashboard (0 stars)",
+      "url": "https://github.com/BorjaLafuente/galician-research-dashboard",
+      "summary": "Interactive R Shiny dashboard on research output, open access, impact and collaboration of the Galician universities (OpenAlex data)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-15",
+      "tags": [
+        "shiny",
+        "dashboard"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1792022989"
+    },
+    {
+      "title": "sepehr071/awesome-iran-mcp (97 stars)",
+      "url": "https://github.com/sepehr071/awesome-iran-mcp",
+      "summary": "19 open-source MCP servers (308 tools) that give AI agents the Iranian web: Digikala, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche and more. Prices in Toman.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1792022990"
+    },
+    {
+      "title": "sepehr071/snapp-mcp (33 stars)",
+      "url": "https://github.com/sepehr071/snapp-mcp",
+      "summary": "Unofficial read-only MCP server for Snappfood and SnappMarket (اسنپ‌فود), Iran: search food and groceries near you, compare prices, find deals. For Claude, Cursor and Copilot via uvx.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1792022991"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-15",
+      "editorial_summary": "Briefing compiled on October 15, 2026. Today's selection highlights new R packages and features like bioconductor-source/SpatialData.data (0 stars), bioconductor-source/IntrinsicScan (0 stars) and explores cutting-edge AI integrations including sepehr071/awesome-iran-mcp (97 stars), sepehr071/snapp-mcp (33 stars).",
+      "items": [
+        "item_1792022986",
+        "item_1792022987",
+        "item_1792022988",
+        "item_1792022989",
+        "item_1792022990",
+        "item_1792022991"
+      ]
+    },
     {
       "date": "2026-10-14",
       "editorial_summary": "Briefing compiled on October 14, 2026. Today's selection highlights new R packages and features like statisticsplaybook/snu-thesis-quarto (1 stars), R Weekly 2025-W42 de Bruijn tiles, ALTREP, Parquet? and explores cutting-edge AI integrations including Alarm2024/skills-integrate-mcp-with-copilot (1 stars), Wiktor-Barczyk/Model-Context-Protocol_MCP-server (1 stars).",

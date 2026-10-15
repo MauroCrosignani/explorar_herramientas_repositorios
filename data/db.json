@@ -11507,9 +11507,108 @@
       "score": 10.5,
       "read": false,
       "id": "item_1792022991"
+    },
+    {
+      "title": "{brochure}: multipage {shiny} apps, now on CRAN",
+      "url": "https://www.r-bloggers.com/2026/10/brochure-multipage-shiny-apps-now-on-cran/",
+      "summary": "You can read the original post in its original format on Rtask website by ThinkR here: {brochure}: multipage {shiny} apps, now on CRAN\nA {shiny} app is a single page: one url, one UI, one server fu...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "shiny",
+        "cran"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1792108625"
+    },
+    {
+      "title": "Cytometry in R and opportunities to contribute to Bioconductor",
+      "url": "https://www.r-bloggers.com/2026/10/cytometry-in-r-and-opportunities-to-contribute-to-bioconductor/",
+      "summary": "Flow cytometry researchers have a growing collection of R and Bioconductor tools available to them. But for someone who is comfortable working with cytometry data and has little programming experie...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1792108626"
+    },
+    {
+      "title": "midhunshyam/E-Commerce-Customer-Analytics (0 stars)",
+      "url": "https://github.com/midhunshyam/E-Commerce-Customer-Analytics",
+      "summary": "Anonymised data-science interview case study: customer segmentation (k-means and k-NN), 12-month customer lifetime value prediction, coupon-budget optimisation with integer programming, and SQL, on...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-15",
+      "tags": [
+        "analytics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1792108627"
+    },
+    {
+      "title": "mattimathics/Flight-Delay-Prediction (1 stars)",
+      "url": "https://github.com/mattimathics/Flight-Delay-Prediction",
+      "summary": "Flight delay analysis and leakage-free prediction on 31M US flights (Python, R, SQL)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-15",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1792108628"
+    },
+    {
+      "title": "JUSICK/Argos-mcp-guardrail (4 stars)",
+      "url": "https://github.com/JUSICK/Argos-mcp-guardrail",
+      "summary": "An invisible, zero-network security proxy for the Model Context Protocol (MCP).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1792108629"
+    },
+    {
+      "title": "RitualDev-Lab/mcp-builder-kit (3 stars)",
+      "url": "https://github.com/RitualDev-Lab/mcp-builder-kit",
+      "summary": "Production Toolkit & Scaffolding Engine for Model Context Protocol (MCP) Servers. Scaffold typed TS/Python servers, generate tools from OpenAPI, inspect conformance, audit security & containerize i...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-15",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1792108630"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-15",
+      "editorial_summary": "Briefing compiled on October 15, 2026. Today's selection highlights new R packages and features like {brochure}: multipage {shiny} apps, now on CRAN, Cytometry in R and opportunities to contribute to Bioconductor and explores cutting-edge AI integrations including JUSICK/Argos-mcp-guardrail (4 stars), RitualDev-Lab/mcp-builder-kit (3 stars).",
+      "items": [
+        "item_1792108625",
+        "item_1792108626",
+        "item_1792108627",
+        "item_1792108628",
+        "item_1792108629",
+        "item_1792108630"
+      ]
+    },
     {
       "date": "2026-10-15",
       "editorial_summary": "Briefing compiled on October 15, 2026. Today's selection highlights new R packages and features like bioconductor-source/SpatialData.data (0 stars), bioconductor-source/IntrinsicScan (0 stars) and explores cutting-edge AI integrations including sepehr071/awesome-iran-mcp (97 stars), sepehr071/snapp-mcp (33 stars).",

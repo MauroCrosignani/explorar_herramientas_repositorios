@@ -11594,9 +11594,109 @@
       "score": 12.0,
       "read": false,
       "id": "item_1792108630"
+    },
+    {
+      "title": "ryjohnson09/quarto-simulator (1 stars)",
+      "url": "https://github.com/ryjohnson09/quarto-simulator",
+      "summary": "Teach Quarto inside Quarto: an editor and live preview that simulate quarto render in the learner's browser, with graded exercises. Quarto's own Lua filters in pandoc-wasm; R via webR, Python via P...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "quarto"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1792195205"
+    },
+    {
+      "title": "cranebeaker/coop-anything (50 stars)",
+      "url": "https://github.com/cranebeaker/coop-anything",
+      "summary": "Co-op Anything: point your AI agent at any single-player game and play it with friends (online and/or splitscreen!). MCP server and playbook to let you reverse engineer, fix, test, ship and share w...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "cran",
+        "mcp",
+        "ai"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1792195206"
+    },
+    {
+      "title": "Spring 2027 data science training courses: January to June",
+      "url": "https://www.r-bloggers.com/2026/10/spring-2027-data-science-training-courses-january-to-june/",
+      "summary": "If you plan to learn R or Python in the new year, book before the end of November. Our spring 2027 data science training courses run from January to June, and early bird pricing on the first one en...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-17",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1792195207"
+    },
+    {
+      "title": "Going back to the basics: the correlation coefficient",
+      "url": "https://www.r-bloggers.com/2026/10/going-back-to-the-basics-the-correlation-coefficient-2/",
+      "summary": "In statistics, dependence or association is any statistical relationship, whether causal or not, between two random variables or bivariate data. It is often measured by the Pearson’s correlation co...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-17",
+      "tags": [
+        "statistics"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792195208"
+    },
+    {
+      "title": "anujasid/mcp-for-blender-pro (240 stars)",
+      "url": "https://github.com/anujasid/mcp-for-blender-pro",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripti...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 18.0,
+      "read": false,
+      "id": "item_1792195209"
+    },
+    {
+      "title": "What is an MCP server?",
+      "url": "https://www.r-bloggers.com/2026/10/what-is-an-mcp-server/",
+      "summary": "The Model Context Protocol (MCP) is quietly\nbecoming one of the most useful ideas in AI tooling.\nHere, we describe what MCP is, why it matters, and how to build an MCP server yourself.\nMCP is a sta...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1792195210"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-17",
+      "editorial_summary": "Briefing compiled on October 17, 2026. Today's selection highlights new R packages and features like ryjohnson09/quarto-simulator (1 stars), cranebeaker/coop-anything (50 stars) and explores cutting-edge AI integrations including anujasid/mcp-for-blender-pro (240 stars), What is an MCP server?.",
+      "items": [
+        "item_1792195205",
+        "item_1792195206",
+        "item_1792195207",
+        "item_1792195208",
+        "item_1792195209",
+        "item_1792195210"
+      ]
+    },
     {
       "date": "2026-10-15",
       "editorial_summary": "Briefing compiled on October 15, 2026. Today's selection highlights new R packages and features like {brochure}: multipage {shiny} apps, now on CRAN, Cytometry in R and opportunities to contribute to Bioconductor and explores cutting-edge AI integrations including JUSICK/Argos-mcp-guardrail (4 stars), RitualDev-Lab/mcp-builder-kit (3 stars).",

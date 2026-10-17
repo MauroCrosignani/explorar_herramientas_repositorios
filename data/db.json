@@ -11682,9 +11682,110 @@
       "score": 12.0,
       "read": false,
       "id": "item_1792195210"
+    },
+    {
+      "title": "DanielMoj/liquiditaetsplanung (0 stars)",
+      "url": "https://github.com/DanielMoj/liquiditaetsplanung",
+      "summary": "Probabilistische Liquiditätsplanung mit Monte-Carlo-Simulation (R/Shiny)",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792280040"
+    },
+    {
+      "title": "Dogs of New York",
+      "url": "https://www.r-bloggers.com/2026/10/dogs-of-new-york-2/",
+      "summary": "I recently updated nycdogs, a data package for R that I originally made for teaching purposes. It bundles up New York City’s dog licensing and dog bite datasets into an R package. The data is alrea...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792280041"
+    },
+    {
+      "title": "[Statistics] Collinearity in regression",
+      "url": "https://www.r-bloggers.com/2026/10/statistics-collinearity-in-regression/",
+      "summary": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/10/16/statistics-collinearity-in-regression/ -\nlibrary(knitr)\nlibrary(ggplot2)\nlibrary(dplyr)\nlibrary(tidyr)\nlibrary(broom)\nProblem\nWhen perfo...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-17",
+      "tags": [
+        "ggplot",
+        "dplyr",
+        "statistics"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1792280042"
+    },
+    {
+      "title": "dengyishuo/quant-technical-analysis (1 stars)",
+      "url": "https://github.com/dengyishuo/quant-technical-analysis",
+      "summary": "《量化投资视角的技术分析》书稿、代码与数据集：54 章，28 个指标逐个拆解、截面与择时双重检验、机器学习融合",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-17",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1792280043"
+    },
+    {
+      "title": "anujasid/blender-ai-mcp-addon (609 stars)",
+      "url": "https://github.com/anujasid/blender-ai-mcp-addon",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 27.0,
+      "read": false,
+      "id": "item_1792280044"
+    },
+    {
+      "title": "aymanali98/ai-connect (3 stars)",
+      "url": "https://github.com/aymanali98/ai-connect",
+      "summary": "Connect AI coding agents to WordPress over MCP (Model Context Protocol). Full-featured WordPress plugin with 43 tools, crash-safe PHP sandbox, background jobs, and fine-grained security.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-17",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1792280045"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-17",
+      "editorial_summary": "Briefing compiled on October 17, 2026. Today's selection highlights new R packages and features like DanielMoj/liquiditaetsplanung (0 stars), Dogs of New York and explores cutting-edge AI integrations including anujasid/blender-ai-mcp-addon (609 stars), aymanali98/ai-connect (3 stars).",
+      "items": [
+        "item_1792280040",
+        "item_1792280041",
+        "item_1792280042",
+        "item_1792280043",
+        "item_1792280044",
+        "item_1792280045"
+      ]
+    },
     {
       "date": "2026-10-17",
       "editorial_summary": "Briefing compiled on October 17, 2026. Today's selection highlights new R packages and features like ryjohnson09/quarto-simulator (1 stars), cranebeaker/coop-anything (50 stars) and explores cutting-edge AI integrations including anujasid/mcp-for-blender-pro (240 stars), What is an MCP server?.",

@@ -11771,9 +11771,107 @@
       "score": 13.5,
       "read": false,
       "id": "item_1792280045"
+    },
+    {
+      "title": "Estimate your BAC, now 100% in the browser",
+      "url": "https://www.r-bloggers.com/2026/10/estimate-your-bac-now-100-in-the-browser/",
+      "summary": "Thanks to the awesomeness of\n  webR and\n  Shinylive,\n  the tool I made in back in 2014 to estimate your blood alcohol concentration (BAC) now runs 100% in the browser, no server needed!\n  Try the b...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-18",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792367110"
+    },
+    {
+      "title": "Creating a permutation test, two ways",
+      "url": "https://www.r-bloggers.com/2026/10/creating-a-permutation-test-two-ways/",
+      "summary": "In my last post on permute, I looked at ordered set partitions and the new formula interface for plots and blocks. This time I want to show two helpers for the next part of writing a permutation te...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-18",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792367111"
+    },
+    {
+      "title": "Jayaramgokul/lse-data-analytics-career-accelerator (0 stars)",
+      "url": "https://github.com/Jayaramgokul/lse-data-analytics-career-accelerator",
+      "summary": "Three LSE Data Analytics Career Accelerator projects (2Market, NHS, Turtle Games): reports, original code, course data, and documented examples that reproduce every result. SQL, Tableau, Python, R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-18",
+      "tags": [
+        "analytics"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1792367112"
+    },
+    {
+      "title": "Uday96526/racialized-housing-entrepreneurial-entry (0 stars)",
+      "url": "https://github.com/Uday96526/racialized-housing-entrepreneurial-entry",
+      "summary": "Working paper (in progress): housing prices, race, and entrepreneurial entry — CPS + FHFA HPI analysis code. No IPUMS microdata.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-18",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1792367113"
+    },
+    {
+      "title": "LiCinCan/blender-ai-mcp-addon (785 stars)",
+      "url": "https://github.com/LiCinCan/blender-ai-mcp-addon",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with OpenAI, ChatGPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon and plugin, copilot for 3D, ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-18",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 27.0,
+      "read": false,
+      "id": "item_1792367114"
+    },
+    {
+      "title": "kanaworksai-hue/audio-studio-mcp (68 stars)",
+      "url": "https://github.com/kanaworksai-hue/audio-studio-mcp",
+      "summary": "Local AI BGM and sound effects for Claude Code and any MCP client. Stable Audio 3 on Apple Silicon (MLX), no cloud, no API key.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-18",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1792367115"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-18",
+      "editorial_summary": "Briefing compiled on October 18, 2026. Today's selection highlights new R packages and features like Estimate your BAC, now 100% in the browser, Creating a permutation test, two ways and explores cutting-edge AI integrations including LiCinCan/blender-ai-mcp-addon (785 stars), kanaworksai-hue/audio-studio-mcp (68 stars).",
+      "items": [
+        "item_1792367110",
+        "item_1792367111",
+        "item_1792367112",
+        "item_1792367113",
+        "item_1792367114",
+        "item_1792367115"
+      ]
+    },
     {
       "date": "2026-10-17",
       "editorial_summary": "Briefing compiled on October 17, 2026. Today's selection highlights new R packages and features like DanielMoj/liquiditaetsplanung (0 stars), Dogs of New York and explores cutting-edge AI integrations including anujasid/blender-ai-mcp-addon (609 stars), aymanali98/ai-connect (3 stars).",

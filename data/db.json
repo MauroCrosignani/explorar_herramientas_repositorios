@@ -11857,9 +11857,105 @@
       "score": 15.0,
       "read": false,
       "id": "item_1792367115"
+    },
+    {
+      "title": "R Weekly 2025-W43 R Core Contribution, Environment management, Shiny internship",
+      "url": "https://rweekly.org/2026-W43.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Eric Nantz, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-20",
+      "tags": [
+        "shiny"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1792457160"
+    },
+    {
+      "title": "From a raw spreadsheet to a published data package in a day",
+      "url": "https://www.r-bloggers.com/2026/10/from-a-raw-spreadsheet-to-a-published-data-package-in-a-day/",
+      "summary": "On 22 July 2026 at 15:05, I made the first commit to a new repository. It held an empty R package and one Excel workbook with field data from a household waste study in Kampala, Uganda. Three minut...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-20",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792457161"
+    },
+    {
+      "title": "Goodbye R-Forge, hello Codeberg",
+      "url": "https://www.r-bloggers.com/2026/10/goodbye-r-forge-hello-codeberg/",
+      "summary": "After 20 years of service the R-Forge package hosting platform will be retiring soon. Codeberg is a modern alternative that shares many of the ideas and values that R-Forge was built on. A tutorial...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-20",
+      "tags": [
+        "tutorial"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792457162"
+    },
+    {
+      "title": "Gentlenmoron/ieiprio (7 stars)",
+      "url": "https://github.com/Gentlenmoron/ieiprio",
+      "summary": "Priorización de variantes en errores innatos de la inmunidad desde VCF, Sanger, FASTA o texto",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-20",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792457163"
+    },
+    {
+      "title": "alphaparkinc/genpark-openapi-spec-to-mcp-tool-synthesizer-skill (7 stars)",
+      "url": "https://github.com/alphaparkinc/genpark-openapi-spec-to-mcp-tool-synthesizer-skill",
+      "summary": "Inspect OpenAPI 3.0 specs and synthesize schema-compliant Model Context Protocol tool declarations with input verification",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-20",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1792457164"
+    },
+    {
+      "title": "Alpha-Park/genpark-openapi-spec-to-mcp-tool-synthesizer-skill (7 stars)",
+      "url": "https://github.com/Alpha-Park/genpark-openapi-spec-to-mcp-tool-synthesizer-skill",
+      "summary": "Inspect OpenAPI 3.0 specs and synthesize schema-compliant Model Context Protocol tool declarations with input verification",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-20",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1792457165"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-20",
+      "editorial_summary": "Briefing compiled on October 20, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W43 R Core Contribution, Environment management, Shiny internship, From a raw spreadsheet to a published data package in a day and explores cutting-edge AI integrations including alphaparkinc/genpark-openapi-spec-to-mcp-tool-synthesizer-skill (7 stars), Alpha-Park/genpark-openapi-spec-to-mcp-tool-synthesizer-skill (7 stars).",
+      "items": [
+        "item_1792457160",
+        "item_1792457161",
+        "item_1792457162",
+        "item_1792457163",
+        "item_1792457164",
+        "item_1792457165"
+      ]
+    },
     {
       "date": "2026-10-18",
       "editorial_summary": "Briefing compiled on October 18, 2026. Today's selection highlights new R packages and features like Estimate your BAC, now 100% in the browser, Creating a permutation test, two ways and explores cutting-edge AI integrations including LiCinCan/blender-ai-mcp-addon (785 stars), kanaworksai-hue/audio-studio-mcp (68 stars).",

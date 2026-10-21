@@ -11941,9 +11941,106 @@
       "score": 13.5,
       "read": false,
       "id": "item_1792457165"
+    },
+    {
+      "title": "Getting the pipe shortcut to work in Positron",
+      "url": "https://www.r-bloggers.com/2026/10/getting-the-pipe-shortcut-to-work-in-positron/",
+      "summary": "For the life of me, I couldn't get Ctrl+Shift+M to work for inserting pipes (&#124;__) when editing a Quarto document in Positron visual mode. After countless hours fiddling with keybindings.json, ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-21",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792541568"
+    },
+    {
+      "title": "meztez/glmap (0 stars)",
+      "url": "https://github.com/meztez/glmap",
+      "summary": "High-Performance GPU Geospatial Mapping for 'sf' and 'terra' in R",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-21",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792541569"
+    },
+    {
+      "title": "Jimmyzheng0516/correlation-modeling-research (0 stars)",
+      "url": "https://github.com/Jimmyzheng0516/correlation-modeling-research",
+      "summary": "Time-varying correlation modeling for equity portfolios: score-driven models, Mincer-Zarnowitz forecast tests, minimum-variance portfolio comparisons, and a count-based correlation estimator (UNC h...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-21",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1792541570"
+    },
+    {
+      "title": "marcvaleroferrer/chicago-bulls-scoring-patterns (3 stars)",
+      "url": "https://github.com/marcvaleroferrer/chicago-bulls-scoring-patterns",
+      "summary": "Bachelor’s thesis on self-exciting statistical models applied to basketball scoring data, implemented in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-21",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792541571"
+    },
+    {
+      "title": "bishoku/vmcp (2 stars)",
+      "url": "https://github.com/bishoku/vmcp",
+      "summary": "An open-source gateway for the Model Context Protocol. Register upstream MCP servers once, then curate their tools, resources and prompts into virtual MCP servers: one endpoint per agent or team, e...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-21",
+      "tags": [
+        "mcp"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1792541572"
+    },
+    {
+      "title": "santhotech/agentic-host-starter-kit (2 stars)",
+      "url": "https://github.com/santhotech/agentic-host-starter-kit",
+      "summary": "Open-source starter kit for building your own AI chat host that renders MCP Apps. Connect any MCP servers (stdio or HTTP), chat with Claude, and render interactive tool UIs inline in a secure sandb...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-21",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1792541573"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-21",
+      "editorial_summary": "Briefing compiled on October 21, 2026. Today's selection highlights new R packages and features like Getting the pipe shortcut to work in Positron, meztez/glmap (0 stars) and explores cutting-edge AI integrations including bishoku/vmcp (2 stars), santhotech/agentic-host-starter-kit (2 stars).",
+      "items": [
+        "item_1792541568",
+        "item_1792541569",
+        "item_1792541570",
+        "item_1792541571",
+        "item_1792541572",
+        "item_1792541573"
+      ]
+    },
     {
       "date": "2026-10-20",
       "editorial_summary": "Briefing compiled on October 20, 2026. Today's selection highlights new R packages and features like R Weekly 2025-W43 R Core Contribution, Environment management, Shiny internship, From a raw spreadsheet to a published data package in a day and explores cutting-edge AI integrations including alphaparkinc/genpark-openapi-spec-to-mcp-tool-synthesizer-skill (7 stars), Alpha-Park/genpark-openapi-spec-to-mcp-tool-synthesizer-skill (7 stars).",

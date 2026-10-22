@@ -12026,9 +12026,108 @@
       "score": 12.0,
       "read": false,
       "id": "item_1792541573"
+    },
+    {
+      "title": "talharaziq/Advanced-Bioinformatics (1 stars)",
+      "url": "https://github.com/talharaziq/Advanced-Bioinformatics",
+      "summary": "A free, hands-on bioinformatics roadmap from Linux, Python & R to RNA-seq, genomics, Bioconductor, and advanced transcriptomics. Curated English tutorials, YouTube playlists, practical exercises, a...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-22",
+      "tags": [
+        "tutorial"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792628216"
+    },
+    {
+      "title": "Mark Padgham: Building the Machinery of Software Peer Review",
+      "url": "https://www.r-bloggers.com/2026/10/mark-padgham-building-the-machinery-of-software-peer-review/",
+      "summary": "Mark Padgham is leaving rOpenSci at the end of October, and we want to take this moment to recognize his impact and say thank you for helping to shape rOpenSci.\nMark joined rOpenSci as a staff memb...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792628217"
+    },
+    {
+      "title": "Hybrid Machine Learning & Financial Econometrics: Building Volatility-Aware Dynamic Forecast Bands for Bitcoin",
+      "url": "https://www.r-bloggers.com/2026/10/hybrid-machine-learning-financial-econometrics-building-volatility-aware-dynamic-forecast-bands-for-bitcoin/",
+      "summary": "When forecasting high-volatility financial assets like Bitcoin (BTC-USD), standard point-prediction models—whether classical ARIMA or deep neural networks—often fall short. A point estimate tells y...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-22",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1792628218"
+    },
+    {
+      "title": "stateri-science/environmental-and-socioeconomic-predictors-of-climate-vulnerability (2 stars)",
+      "url": "https://github.com/stateri-science/environmental-and-socioeconomic-predictors-of-climate-vulnerability",
+      "summary": "Undergraduate thesis examining environmental and socioeconomic predictors of climate vulnerability across 17 administrative regions of the Philippines (2010–2024) using a complementary Two-Way Fixe...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-22",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792628219"
+    },
+    {
+      "title": "zerocheducat/MCP-Toolkit (2 stars)",
+      "url": "https://github.com/zerocheducat/MCP-Toolkit",
+      "summary": "A collection of Model Context Protocol (MCP) tools for memory, semantic search, web search, galleries, and extensible AI agent workflows.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-22",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1792628220"
+    },
+    {
+      "title": "NotReallyEight/pdf-mcp-analyser (2 stars)",
+      "url": "https://github.com/NotReallyEight/pdf-mcp-analyser",
+      "summary": "Un server Model Context Protocol (MCP) leggero e attento alla privacy, scritto in Python. Consente ai modelli linguistici locali (LLM) di analizzare in modo intelligente manuali e libri di testo in...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-22",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1792628221"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-22",
+      "editorial_summary": "Briefing compiled on October 22, 2026. Today's selection highlights new R packages and features like talharaziq/Advanced-Bioinformatics (1 stars), Mark Padgham: Building the Machinery of Software Peer Review and explores cutting-edge AI integrations including zerocheducat/MCP-Toolkit (2 stars), NotReallyEight/pdf-mcp-analyser (2 stars).",
+      "items": [
+        "item_1792628216",
+        "item_1792628217",
+        "item_1792628218",
+        "item_1792628219",
+        "item_1792628220",
+        "item_1792628221"
+      ]
+    },
     {
       "date": "2026-10-21",
       "editorial_summary": "Briefing compiled on October 21, 2026. Today's selection highlights new R packages and features like Getting the pipe shortcut to work in Positron, meztez/glmap (0 stars) and explores cutting-edge AI integrations including bishoku/vmcp (2 stars), santhotech/agentic-host-starter-kit (2 stars).",

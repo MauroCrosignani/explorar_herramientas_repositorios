@@ -12113,9 +12113,110 @@
       "score": 11.5,
       "read": false,
       "id": "item_1792628221"
+    },
+    {
+      "title": "bioconductor-source/CMEnt (0 stars)",
+      "url": "https://github.com/bioconductor-source/CMEnt",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-23",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1792714402"
+    },
+    {
+      "title": "moisescsantos/ENEM-2025-Desigualdade-Projeto (1 stars)",
+      "url": "https://github.com/moisescsantos/ENEM-2025-Desigualdade-Projeto",
+      "summary": "ENEM 2025: desigualdade de notas por rede de ensino, perfil socioeconômico e PIB regional nas 510 regiões imediatas — R, duckdb, fixest, sf",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-23",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792714403"
+    },
+    {
+      "title": "NesyaLs/data-analysis-r (0 stars)",
+      "url": "https://github.com/NesyaLs/data-analysis-r",
+      "summary": "Data analysis in R: PCA, k-means/Ward clustering, MCA, KNN, logistic regression, credit scoring",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-23",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1792714404"
+    },
+    {
+      "title": "mhauser2708-tech/rhc-causal-analysis (0 stars)",
+      "url": "https://github.com/mhauser2708-tech/rhc-causal-analysis",
+      "summary": "Causal effect of right heart catheterization on mortality: OLS, IPW, AIPW with double ML and causal forest CATEs (R)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-23",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1792714405"
+    },
+    {
+      "title": "Graphicle-AI/graphicle (342 stars)",
+      "url": "https://github.com/Graphicle-AI/graphicle",
+      "summary": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-23",
+      "tags": [
+        "mcp",
+        "codex",
+        "agents",
+        "ai"
+      ],
+      "score": 11.0,
+      "read": false,
+      "id": "item_1792714406"
+    },
+    {
+      "title": "TKCat meets LLMs: an MCP server for well-documented knowledge resources",
+      "url": "https://www.r-bloggers.com/2026/10/tkcat-meets-llms-an-mcp-server-for-well-documented-knowledge-resources/",
+      "summary": "1 Documentation was always the point\nTKCat (Tailored Knowledge Catalog) is built on a simple idea: a knowledge resource is more than a set of tables. In TKCat, each resource is a modeled database (...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-23",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1792714407"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-23",
+      "editorial_summary": "Briefing compiled on October 23, 2026. Today's selection highlights new R packages and features like bioconductor-source/CMEnt (0 stars), moisescsantos/ENEM-2025-Desigualdade-Projeto (1 stars) and explores cutting-edge AI integrations including Graphicle-AI/graphicle (342 stars), TKCat meets LLMs: an MCP server for well-documented knowledge resources.",
+      "items": [
+        "item_1792714402",
+        "item_1792714403",
+        "item_1792714404",
+        "item_1792714405",
+        "item_1792714406",
+        "item_1792714407"
+      ]
+    },
     {
       "date": "2026-10-22",
       "editorial_summary": "Briefing compiled on October 22, 2026. Today's selection highlights new R packages and features like talharaziq/Advanced-Bioinformatics (1 stars), Mark Padgham: Building the Machinery of Software Peer Review and explores cutting-edge AI integrations including zerocheducat/MCP-Toolkit (2 stars), NotReallyEight/pdf-mcp-analyser (2 stars).",

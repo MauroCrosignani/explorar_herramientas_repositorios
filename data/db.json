@@ -12202,9 +12202,108 @@
       "score": 10.5,
       "read": false,
       "id": "item_1792714407"
+    },
+    {
+      "title": "babasaraki/intro-bioinfo (1 stars)",
+      "url": "https://github.com/babasaraki/intro-bioinfo",
+      "summary": "A complete 47-module undergraduate bioinformatics course: chapters, slides, labs and solutions, built with Quarto.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792800382"
+    },
+    {
+      "title": "Automatically center a projection on the plotted map",
+      "url": "https://www.r-bloggers.com/2026/10/automatically-center-a-projection-on-the-plotted-map/",
+      "summary": "Following this previous post and this discussion on Mastodon, I wrote a function that wraps a combination of functions from the ‘terra’ package to project a SpatRaster or SpatVector layer while aut...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792800383"
+    },
+    {
+      "title": "Stathmin/tidymarkers (1 stars)",
+      "url": "https://github.com/Stathmin/tidymarkers",
+      "summary": "Tidy design and quality control of genetic markers in pure R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-24",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1792800384"
+    },
+    {
+      "title": "hujizhou35-cmd/EpiStepLab (5 stars)",
+      "url": "https://github.com/hujizhou35-cmd/EpiStepLab",
+      "summary": "Stepwise medical public-database research with readable R code, complete inputs, and checked outputs.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792800385"
+    },
+    {
+      "title": "baitouwuya/dsh-mcp-server (2 stars)",
+      "url": "https://github.com/baitouwuya/dsh-mcp-server",
+      "summary": "DeepSeek Harness (DSH) plugin that publishes the running Harness as a Model Context Protocol (MCP) server for other agent harnesses.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 20.0,
+      "read": false,
+      "id": "item_1792800386"
+    },
+    {
+      "title": "sepehr071/iran-mcp (147 stars)",
+      "url": "https://github.com/sepehr071/iran-mcp",
+      "summary": "39 MCP servers (488 tools) that give AI agents the Iranian web: Digikala, Torob, Divar, Snappfood, Jabama, MrBilit, Paziresh24, Taaghche, laws, tax, crypto, stocks, news and more. Prices in Toman.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1792800387"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-24",
+      "editorial_summary": "Briefing compiled on October 24, 2026. Today's selection highlights new R packages and features like babasaraki/intro-bioinfo (1 stars), Automatically center a projection on the plotted map and explores cutting-edge AI integrations including baitouwuya/dsh-mcp-server (2 stars), sepehr071/iran-mcp (147 stars).",
+      "items": [
+        "item_1792800382",
+        "item_1792800383",
+        "item_1792800384",
+        "item_1792800385",
+        "item_1792800386",
+        "item_1792800387"
+      ]
+    },
     {
       "date": "2026-10-23",
       "editorial_summary": "Briefing compiled on October 23, 2026. Today's selection highlights new R packages and features like bioconductor-source/CMEnt (0 stars), moisescsantos/ENEM-2025-Desigualdade-Projeto (1 stars) and explores cutting-edge AI integrations including Graphicle-AI/graphicle (342 stars), TKCat meets LLMs: an MCP server for well-documented knowledge resources.",

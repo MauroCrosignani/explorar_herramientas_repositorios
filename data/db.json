@@ -12289,9 +12289,108 @@
       "score": 11.5,
       "read": false,
       "id": "item_1792800387"
+    },
+    {
+      "title": "ZengZichao/MCMCtreeR-Bench (1 stars)",
+      "url": "https://github.com/ZengZichao/MCMCtreeR-Bench",
+      "summary": "Bilingual Shiny application for preparing MCMCtree time priors and visualising time-calibrated phylogenies.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792885781"
+    },
+    {
+      "title": "Bashar444/arwad (1 stars)",
+      "url": "https://github.com/Bashar444/arwad",
+      "summary": "Arwad: R, compiled. A statistical programming language that keeps R's syntax and CRAN, and compiles numerical work to native code with deterministic memory.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "cran"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792885782"
+    },
+    {
+      "title": "topazape/arf.nvim (3 stars)",
+      "url": "https://github.com/topazape/arf.nvim",
+      "summary": "Run R code and display text output and plots inline in Neovim.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792885783"
+    },
+    {
+      "title": "Steema/TeeChart-for-R (3 stars)",
+      "url": "https://github.com/Steema/TeeChart-for-R",
+      "summary": "TeeChart charting graphing plotting library for the R Language",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-24",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1792885784"
+    },
+    {
+      "title": "AGI-CEO/awesome-money-making-mcp-servers (2 stars)",
+      "url": "https://github.com/AGI-CEO/awesome-money-making-mcp-servers",
+      "summary": "💰 A curated list of the best Model Context Protocol (MCP) servers for making money, running an AI agency, B2B sales, SEO/GEO, paid ads, e-commerce, and social media automation.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1792885785"
+    },
+    {
+      "title": "omrankhamb/ai-payment-intelligence (2 stars)",
+      "url": "https://github.com/omrankhamb/ai-payment-intelligence",
+      "summary": "An AI-native payment framework bridges conversational AI models (like LLMs or multi-agent assistants) with financial networks using standard developer protocols like the Model Context Protocol (MCP).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-24",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1792885786"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-24",
+      "editorial_summary": "Briefing compiled on October 24, 2026. Today's selection highlights new R packages and features like ZengZichao/MCMCtreeR-Bench (1 stars), Bashar444/arwad (1 stars) and explores cutting-edge AI integrations including AGI-CEO/awesome-money-making-mcp-servers (2 stars), omrankhamb/ai-payment-intelligence (2 stars).",
+      "items": [
+        "item_1792885781",
+        "item_1792885782",
+        "item_1792885783",
+        "item_1792885784",
+        "item_1792885785",
+        "item_1792885786"
+      ]
+    },
     {
       "date": "2026-10-24",
       "editorial_summary": "Briefing compiled on October 24, 2026. Today's selection highlights new R packages and features like babasaraki/intro-bioinfo (1 stars), Automatically center a projection on the plotted map and explores cutting-edge AI integrations including baitouwuya/dsh-mcp-server (2 stars), sepehr071/iran-mcp (147 stars).",

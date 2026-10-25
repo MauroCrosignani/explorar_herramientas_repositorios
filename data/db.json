@@ -12376,9 +12376,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1792885786"
+    },
+    {
+      "title": "bioconductor-source/SpatialData.plot (0 stars)",
+      "url": "https://github.com/bioconductor-source/SpatialData.plot",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-25",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1792971537"
+    },
+    {
+      "title": "bashar-al-agha/arwad (1 stars)",
+      "url": "https://github.com/bashar-al-agha/arwad",
+      "summary": "Arwad: R, compiled. A statistical programming language that keeps R's syntax and CRAN, and compiles numerical work to native code with deterministic memory.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-25",
+      "tags": [
+        "cran"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1792971538"
+    },
+    {
+      "title": "satyambhanot/nba-win-probability-regression (0 stars)",
+      "url": "https://github.com/satyambhanot/nba-win-probability-regression",
+      "summary": "Multiple linear regression predicting NBA team win probability from three-point and field goal percentage (R, 2018-19 season)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-25",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1792971539"
+    },
+    {
+      "title": "anikasndp-code/student-stress-analysis (0 stars)",
+      "url": "https://github.com/anikasndp-code/student-stress-analysis",
+      "summary": "Statistical analysis in R of what drives student academic stress: hypothesis testing, Bayesian reasoning, and cross-validated prediction models  Website: leave blank.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-25",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1792971540"
+    },
+    {
+      "title": "heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server (58 stars)",
+      "url": "https://github.com/heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server",
+      "summary": "WhatsApp MCP Server for AI Agents - TypeScript, Baileys and Cloud API",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-25",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1792971541"
+    },
+    {
+      "title": "Nikhil-creat/personal-mcp-assistant (3 stars)",
+      "url": "https://github.com/Nikhil-creat/personal-mcp-assistant",
+      "summary": "Personal MCP Assistant: Groq-powered ReAct agent over calendar, notes and scanned images via the Model Context Protocol. Hybrid RAG (pgvector + tsvector + RRF), CNN/OCR vision worker, Next.js UI wi...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-25",
+      "tags": [
+        "mcp"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1792971542"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-25",
+      "editorial_summary": "Briefing compiled on October 25, 2026. Today's selection highlights new R packages and features like bioconductor-source/SpatialData.plot (0 stars), bashar-al-agha/arwad (1 stars) and explores cutting-edge AI integrations including heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server (58 stars), Nikhil-creat/personal-mcp-assistant (3 stars).",
+      "items": [
+        "item_1792971537",
+        "item_1792971538",
+        "item_1792971539",
+        "item_1792971540",
+        "item_1792971541",
+        "item_1792971542"
+      ]
+    },
     {
       "date": "2026-10-24",
       "editorial_summary": "Briefing compiled on October 24, 2026. Today's selection highlights new R packages and features like ZengZichao/MCMCtreeR-Bench (1 stars), Bashar444/arwad (1 stars) and explores cutting-edge AI integrations including AGI-CEO/awesome-money-making-mcp-servers (2 stars), omrankhamb/ai-payment-intelligence (2 stars).",

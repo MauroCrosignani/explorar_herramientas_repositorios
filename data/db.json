@@ -12462,9 +12462,106 @@
       "score": 10.5,
       "read": false,
       "id": "item_1792971542"
+    },
+    {
+      "title": "benjamingreen-tse/dvf-analyse-prix (1 stars)",
+      "url": "https://github.com/benjamingreen-tse/dvf-analyse-prix",
+      "summary": "Housing price per m² in Haute-Garonne (DVF 2025): reproducible R pipeline, robustness checks and Quarto report",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-27",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1793062662"
+    },
+    {
+      "title": "R Weekly 2026-W44 15 yrs of ROpenSci, BAC in the browser",
+      "url": "https://rweekly.org/2026-W44.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jon Calder, with help from the R Weekly team members and contributors.\n\n...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-27",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793062663"
+    },
+    {
+      "title": "Mokshitsharma/Zudio-Sales-Analysis-R (0 stars)",
+      "url": "https://github.com/Mokshitsharma/Zudio-Sales-Analysis-R",
+      "summary": "Zudio retail sales analysis in R: cleaning, feature engineering, EDA and plots, and sales prediction with linear regression, random forest and XGBoost.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-27",
+      "tags": [
+        "ai"
+      ],
+      "score": 10.5,
+      "read": false,
+      "id": "item_1793062664"
+    },
+    {
+      "title": "dowkadam/alzhemier-data-analysis (0 stars)",
+      "url": "https://github.com/dowkadam/alzhemier-data-analysis",
+      "summary": "Risk factor analysis of Alzheimer’s disease using logistic regression in R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-27",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1793062665"
+    },
+    {
+      "title": "aiready-nz/aiready-mcp (2 stars)",
+      "url": "https://github.com/aiready-nz/aiready-mcp",
+      "summary": "Official Model Context Protocol (MCP) server for AIready (aiready.nz). Passive AI-readiness auditing, AEO/GEO scoring, and report management for New Zealand websites",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-27",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1793062666"
+    },
+    {
+      "title": "malikdivyajyoti2-star/Self-hosted-mcp-server (2 stars)",
+      "url": "https://github.com/malikdivyajyoti2-star/Self-hosted-mcp-server",
+      "summary": "Self-hosted Model Context Protocol (MCP) server in Python with Streamable HTTP, bearer-token auth, and Docker support.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-27",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1793062667"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-27",
+      "editorial_summary": "Briefing compiled on October 27, 2026. Today's selection highlights new R packages and features like benjamingreen-tse/dvf-analyse-prix (1 stars), R Weekly 2026-W44 15 yrs of ROpenSci, BAC in the browser and explores cutting-edge AI integrations including aiready-nz/aiready-mcp (2 stars), malikdivyajyoti2-star/Self-hosted-mcp-server (2 stars).",
+      "items": [
+        "item_1793062662",
+        "item_1793062663",
+        "item_1793062664",
+        "item_1793062665",
+        "item_1793062666",
+        "item_1793062667"
+      ]
+    },
     {
       "date": "2026-10-25",
       "editorial_summary": "Briefing compiled on October 25, 2026. Today's selection highlights new R packages and features like bioconductor-source/SpatialData.plot (0 stars), bashar-al-agha/arwad (1 stars) and explores cutting-edge AI integrations including heitorcarvalhohlbryzeis6-cloud/whatsapp-mcp-server (58 stars), Nikhil-creat/personal-mcp-assistant (3 stars).",

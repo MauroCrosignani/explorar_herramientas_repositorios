@@ -12547,9 +12547,109 @@
       "score": 13.5,
       "read": false,
       "id": "item_1793062667"
+    },
+    {
+      "title": "atamalfuzi/bc_pop_change_map (0 stars)",
+      "url": "https://github.com/atamalfuzi/bc_pop_change_map",
+      "summary": "Maps of estimated and projected population change across BC municipalities (R, sf, ggplot2, open data)",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-28",
+      "tags": [
+        "ggplot",
+        "sf"
+      ],
+      "score": 5.0,
+      "read": false,
+      "id": "item_1793148442"
+    },
+    {
+      "title": "Archont561/archont561.r-universe.dev (0 stars)",
+      "url": "https://github.com/Archont561/archont561.r-universe.dev",
+      "summary": "Personal CRAN-compatible R package universe for @Archont561 powered by r-universe.dev.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-28",
+      "tags": [
+        "cran"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1793148443"
+    },
+    {
+      "title": "tarabl2023-dev/israel-rental-market-analysis (0 stars)",
+      "url": "https://github.com/tarabl2023-dev/israel-rental-market-analysis",
+      "summary": "Rental market analysis of Israel's major cities in R & Tidyverse, using official CBS data (rent by city, district, dwelling size and trend 2023-2026)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-28",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1793148444"
+    },
+    {
+      "title": "caretS3 and ahead for Tabular and Time Series Machine Learning",
+      "url": "https://www.r-bloggers.com/2026/10/carets3-and-ahead-for-tabular-and-time-series-machine-learning/",
+      "summary": "Exploring the integration of caretS3 and ahead for tabular and time series machine learning tasks.\n\n\nContinue reading: caretS3 and ahead for Tabular and Time Series Machine Learning",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-28",
+      "tags": [
+        "machine learning"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1793148445"
+    },
+    {
+      "title": "ali0zdas/Antigravity-opencode-Bridge-MCP (2 stars)",
+      "url": "https://github.com/ali0zdas/Antigravity-opencode-Bridge-MCP",
+      "summary": "Zero-config Model Context Protocol (MCP) bridge connecting Google Antigravity to OpenCode's model providers & free DeepSeek V4.1 Flash subagents. Features autonomous daemon management and reasoning...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-28",
+      "tags": [
+        "mcp",
+        "antigravity",
+        "agents"
+      ],
+      "score": 18.5,
+      "read": false,
+      "id": "item_1793148446"
+    },
+    {
+      "title": "boyuchengz/canvas-mcp (116 stars)",
+      "url": "https://github.com/boyuchengz/canvas-mcp",
+      "summary": "Read-only MCP server that connects Claude, ChatGPT and other AI assistants to Canvas LMS.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-28",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1793148447"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-28",
+      "editorial_summary": "Briefing compiled on October 28, 2026. Today's selection highlights new R packages and features like atamalfuzi/bc_pop_change_map (0 stars), Archont561/archont561.r-universe.dev (0 stars) and explores cutting-edge AI integrations including ali0zdas/Antigravity-opencode-Bridge-MCP (2 stars), boyuchengz/canvas-mcp (116 stars).",
+      "items": [
+        "item_1793148442",
+        "item_1793148443",
+        "item_1793148444",
+        "item_1793148445",
+        "item_1793148446",
+        "item_1793148447"
+      ]
+    },
     {
       "date": "2026-10-27",
       "editorial_summary": "Briefing compiled on October 27, 2026. Today's selection highlights new R packages and features like benjamingreen-tse/dvf-analyse-prix (1 stars), R Weekly 2026-W44 15 yrs of ROpenSci, BAC in the browser and explores cutting-edge AI integrations including aiready-nz/aiready-mcp (2 stars), malikdivyajyoti2-star/Self-hosted-mcp-server (2 stars).",

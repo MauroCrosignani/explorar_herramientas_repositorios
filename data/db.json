@@ -12635,9 +12635,111 @@
       "score": 12.0,
       "read": false,
       "id": "item_1793148447"
+    },
+    {
+      "title": "Siguax/analisis-poblacion-extranjera-argentina (1 stars)",
+      "url": "https://github.com/Siguax/analisis-poblacion-extranjera-argentina",
+      "summary": "Análisis exploratorio en R de la población de origen extranjero residente en Argentina (Datos.gob.ar, agosto 2024). Data wrangling con Tidyverse, visualización con ggplot2 y documento en R Markdown.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-29",
+      "tags": [
+        "ggplot",
+        "tidyverse"
+      ],
+      "score": 5.0,
+      "read": false,
+      "id": "item_1793236797"
+    },
+    {
+      "title": "bioconductor-source/prolfqua (0 stars)",
+      "url": "https://github.com/bioconductor-source/prolfqua",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-29",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1793236798"
+    },
+    {
+      "title": "Claudio-Cela/Diamond-price-analysis (0 stars)",
+      "url": "https://github.com/Claudio-Cela/Diamond-price-analysis",
+      "summary": "Regression analysis testing Blue Nile’s 4 C’s pricing claims against ~1,200 diamond listings in R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-29",
+      "tags": [
+        "ai"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1793236799"
+    },
+    {
+      "title": "Claudio-Cela/KC-housing-price-analysis (0 stars)",
+      "url": "https://github.com/Claudio-Cela/KC-housing-price-analysis",
+      "summary": "Multiple linear and logistic regression on 21,613 King County home sales — price prediction and quality classification (AUC 0.919)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-29",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1793236800"
+    },
+    {
+      "title": "AISEO-VirtualabDigital/mcp-video-editor (70 stars)",
+      "url": "https://github.com/AISEO-VirtualabDigital/mcp-video-editor",
+      "summary": "Wag na kayo magbayad ng 5k PHP. Ito na — libre.  MCP server that lets Cursor, Claude, Codex, Antigravity, OpenCode & KiloCode edit videos in CapCut and OpenCut. 50 tools, dry-run safe, path-travers...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-29",
+      "tags": [
+        "mcp",
+        "codex",
+        "antigravity",
+        "ai"
+      ],
+      "score": 18.0,
+      "read": false,
+      "id": "item_1793236801"
+    },
+    {
+      "title": "river-ai-lab/graph-memory-mcp (4 stars)",
+      "url": "https://github.com/river-ai-lab/graph-memory-mcp",
+      "summary": "Semantic, persistent knowledge graph memory for LLM-based and multi-agent systems, exposed via the Model Context Protocol (MCP).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-29",
+      "tags": [
+        "mcp",
+        "llm",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1793236802"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-29",
+      "editorial_summary": "Briefing compiled on October 29, 2026. Today's selection highlights new R packages and features like Siguax/analisis-poblacion-extranjera-argentina (1 stars), bioconductor-source/prolfqua (0 stars) and explores cutting-edge AI integrations including AISEO-VirtualabDigital/mcp-video-editor (70 stars), river-ai-lab/graph-memory-mcp (4 stars).",
+      "items": [
+        "item_1793236797",
+        "item_1793236798",
+        "item_1793236799",
+        "item_1793236800",
+        "item_1793236801",
+        "item_1793236802"
+      ]
+    },
     {
       "date": "2026-10-28",
       "editorial_summary": "Briefing compiled on October 28, 2026. Today's selection highlights new R packages and features like atamalfuzi/bc_pop_change_map (0 stars), Archont561/archont561.r-universe.dev (0 stars) and explores cutting-edge AI integrations including ali0zdas/Antigravity-opencode-Bridge-MCP (2 stars), boyuchengz/canvas-mcp (116 stars).",

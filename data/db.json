@@ -12725,9 +12725,109 @@
       "score": 14.5,
       "read": false,
       "id": "item_1793236802"
+    },
+    {
+      "title": "bioconductor-source/WithinHostExperiment (0 stars)",
+      "url": "https://github.com/bioconductor-source/WithinHostExperiment",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-30",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1793323443"
+    },
+    {
+      "title": "Battles and space-filling curves",
+      "url": "https://www.r-bloggers.com/2026/10/battles-and-space-filling-curves/",
+      "summary": "I recently learned about an interesting way of reducing the dimension of a data set. I’d like to illustrate it with a data set of about 550 historical battles in the UK, extracted from Wikidata usi...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-30",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793323444"
+    },
+    {
+      "title": "dleneice/Student-Schedule-Audit-Dashboard (0 stars)",
+      "url": "https://github.com/dleneice/Student-Schedule-Audit-Dashboard",
+      "summary": "Interactive R Shiny dashboard for student schedule validation, enrollment anomaly detection, master schedule reconciliation, and instructional service analytics.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-30",
+      "tags": [
+        "shiny",
+        "llm",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 7.0,
+      "read": false,
+      "id": "item_1793323445"
+    },
+    {
+      "title": "FaridaISSIFOU/consumer-delinquency-forecasting (0 stars)",
+      "url": "https://github.com/FaridaISSIFOU/consumer-delinquency-forecasting",
+      "summary": "Forecasting US consumer loan delinquency from macroeconomic indicators (FRED, 1987–2025) using time series methods in Python and R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-30",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1793323446"
+    },
+    {
+      "title": "Windlich13044/rpocket-skill4agent-mcp-server (32 stars)",
+      "url": "https://github.com/Windlich13044/rpocket-skill4agent-mcp-server",
+      "summary": "MCP Server for skill4agent - Search and install AI skills via Model Context Protocol",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-30",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1793323447"
+    },
+    {
+      "title": "FrierenSZ/spotify-mcp-server (2 stars)",
+      "url": "https://github.com/FrierenSZ/spotify-mcp-server",
+      "summary": "A Model Context Protocol (MCP) server for Spotify playback control and playlist management",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-30",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1793323448"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-30",
+      "editorial_summary": "Briefing compiled on October 30, 2026. Today's selection highlights new R packages and features like bioconductor-source/WithinHostExperiment (0 stars), Battles and space-filling curves and explores cutting-edge AI integrations including Windlich13044/rpocket-skill4agent-mcp-server (32 stars), FrierenSZ/spotify-mcp-server (2 stars).",
+      "items": [
+        "item_1793323443",
+        "item_1793323444",
+        "item_1793323445",
+        "item_1793323446",
+        "item_1793323447",
+        "item_1793323448"
+      ]
+    },
     {
       "date": "2026-10-29",
       "editorial_summary": "Briefing compiled on October 29, 2026. Today's selection highlights new R packages and features like Siguax/analisis-poblacion-extranjera-argentina (1 stars), bioconductor-source/prolfqua (0 stars) and explores cutting-edge AI integrations including AISEO-VirtualabDigital/mcp-video-editor (70 stars), river-ai-lab/graph-memory-mcp (4 stars).",

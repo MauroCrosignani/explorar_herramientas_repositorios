@@ -12813,9 +12813,107 @@
       "score": 13.5,
       "read": false,
       "id": "item_1793323448"
+    },
+    {
+      "title": "September 2026 Top 40 New CRAN Packages",
+      "url": "https://www.r-bloggers.com/2026/10/september-2026-top-40-new-cran-packages/",
+      "summary": "Agriculture\nHRRI v1.0.9: Provides diagnostic functions for integrating longitudinal soil, plant and microbial observations during redox disturbance and recovery. Functions calculate stoichiometric ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-31",
+      "tags": [
+        "cran"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1793408956"
+    },
+    {
+      "title": "Dogs of New York, Shapes and Sizes Edition",
+      "url": "https://www.r-bloggers.com/2026/10/dogs-of-new-york-shapes-and-sizes-edition/",
+      "summary": "My recent Dogs of New\nYork, post\ngot circulated a little. On Friday I got a very nice note from William\nKornblum, an urban and\ncommunity studies sociologist who these days is emeritus at CUNY. In t...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-10-31",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793408957"
+    },
+    {
+      "title": "casildata/wine-quality-multivariate-analysis (0 stars)",
+      "url": "https://github.com/casildata/wine-quality-multivariate-analysis",
+      "summary": "Multivariate analysis in R of 6,497 vinho verde wines: robust outlier detection (MCD vs classical Mahalanobis), PCA, clustering, factor analysis and cross-validated LDA; unsupervised k-means recove...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-31",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1793408958"
+    },
+    {
+      "title": "bensalemmanar-creator/airbnb-nyc-price-forecasting-r (0 stars)",
+      "url": "https://github.com/bensalemmanar-creator/airbnb-nyc-price-forecasting-r",
+      "summary": "Forecasting monthly median Airbnb prices in NYC with ARIMA, SARIMA, ETS and Prophet in R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-10-31",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1793408959"
+    },
+    {
+      "title": "sovereignmcp/sovereignmcp (2 stars)",
+      "url": "https://github.com/sovereignmcp/sovereignmcp",
+      "summary": "A zero-trust Model Context Protocol (MCP) gateway that intercepts high-risk AI tool calls and enforces cryptographically signed human approvals before execution.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-31",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1793408960"
+    },
+    {
+      "title": "BabeeJin/garmin-cn-mcp (2 stars)",
+      "url": "https://github.com/BabeeJin/garmin-cn-mcp",
+      "summary": "A Model Context Protocol (MCP) server that lets AI assistants (Claude, WorkBuddy, or any MCP client) creating, scheduling and pushing workouts to your devices.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-10-31",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1793408961"
     }
   ],
   "reports": [
+    {
+      "date": "2026-10-31",
+      "editorial_summary": "Briefing compiled on October 31, 2026. Today's selection highlights new R packages and features like September 2026 Top 40 New CRAN Packages, Dogs of New York, Shapes and Sizes Edition and explores cutting-edge AI integrations including sovereignmcp/sovereignmcp (2 stars), BabeeJin/garmin-cn-mcp (2 stars).",
+      "items": [
+        "item_1793408956",
+        "item_1793408957",
+        "item_1793408958",
+        "item_1793408959",
+        "item_1793408960",
+        "item_1793408961"
+      ]
+    },
     {
       "date": "2026-10-30",
       "editorial_summary": "Briefing compiled on October 30, 2026. Today's selection highlights new R packages and features like bioconductor-source/WithinHostExperiment (0 stars), Battles and space-filling curves and explores cutting-edge AI integrations including Windlich13044/rpocket-skill4agent-mcp-server (32 stars), FrierenSZ/spotify-mcp-server (2 stars).",

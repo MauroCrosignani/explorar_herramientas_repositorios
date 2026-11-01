@@ -12899,9 +12899,106 @@
       "score": 12.0,
       "read": false,
       "id": "item_1793408961"
+    },
+    {
+      "title": "JozefRivest/project-template-quarto (0 stars)",
+      "url": "https://github.com/JozefRivest/project-template-quarto",
+      "summary": "Quarto template for research projects: paper, slides, and poster built from one codebase, with renv, a makefile, and YAML reading notes",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-01",
+      "tags": [
+        "quarto"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1793493037"
+    },
+    {
+      "title": "{poorman}: Tips and Tricks for Faster Grouped Operations in base R",
+      "url": "https://www.r-bloggers.com/2026/10/poorman-tips-and-tricks-for-faster-grouped-operations-in-base-r/",
+      "summary": "Introduction\nWhen learning R, we are always told to vectorise, vectorise, vectorise. This is because R is an interpreted language.\nEvery time R runs a line of R code, it has to look up each name, m...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-01",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793493038"
+    },
+    {
+      "title": "[Statistics] Understand Simpson’s paradox by simulation",
+      "url": "https://www.r-bloggers.com/2026/10/statistics-understand-simpsons-paradox-by-simulation/",
+      "summary": "Zhenguo Zhang's Blog https://fortune9.netlify.app/2026/10/23/python-simpsons-paradox/ -\nIntroduction\nSimpson’s paradox occurs when the direction of an association reverses after data from several g...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-01",
+      "tags": [
+        "statistics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1793493039"
+    },
+    {
+      "title": "AdvancedPeopleAnalytics/panelviz (1 stars)",
+      "url": "https://github.com/AdvancedPeopleAnalytics/panelviz",
+      "summary": "An R package for visualising any panel (longitudinal) data: say which column is the individual and which is time, and get publication-ready charts.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-01",
+      "tags": [
+        "analytics"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1793493040"
+    },
+    {
+      "title": "Vecesta-co/enterprise-mcp-server (2 stars)",
+      "url": "https://github.com/Vecesta-co/enterprise-mcp-server",
+      "summary": "Production-ready Model Context Protocol (MCP) server with Stdio and HTTP transports, 8 core enterprise tools, and strict SQL safety by Vecesta.co",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-01",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1793493041"
+    },
+    {
+      "title": "Agents in Production Webinar: From a Chatbot to a Tool You Can Rely On",
+      "url": "https://www.r-bloggers.com/2026/10/agents-in-production-webinar-from-a-chatbot-to-a-tool-you-can-rely-on/",
+      "summary": "Ask a large language model a question about your data, and you’ll probably get a confident answer.\nAsk it again, and you might get a different one.\nSometimes, neither answer is correct.\nThat’s a pr...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-01",
+      "tags": [
+        "agents",
+        "ai"
+      ],
+      "score": 11.0,
+      "read": false,
+      "id": "item_1793493042"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-01",
+      "editorial_summary": "Briefing compiled on November 01, 2026. Today's selection highlights new R packages and features like JozefRivest/project-template-quarto (0 stars), {poorman}: Tips and Tricks for Faster Grouped Operations in base R and explores cutting-edge AI integrations including Vecesta-co/enterprise-mcp-server (2 stars), Agents in Production Webinar: From a Chatbot to a Tool You Can Rely On.",
+      "items": [
+        "item_1793493037",
+        "item_1793493038",
+        "item_1793493039",
+        "item_1793493040",
+        "item_1793493041",
+        "item_1793493042"
+      ]
+    },
     {
       "date": "2026-10-31",
       "editorial_summary": "Briefing compiled on October 31, 2026. Today's selection highlights new R packages and features like September 2026 Top 40 New CRAN Packages, Dogs of New York, Shapes and Sizes Edition and explores cutting-edge AI integrations including sovereignmcp/sovereignmcp (2 stars), BabeeJin/garmin-cn-mcp (2 stars).",

@@ -12984,9 +12984,108 @@
       "score": 11.0,
       "read": false,
       "id": "item_1793493042"
+    },
+    {
+      "title": "Top-cited scientists in clinical medicine by country: the Stanford–Elsevier top 2% list in R",
+      "url": "https://www.r-bloggers.com/2026/11/top-cited-scientists-in-clinical-medicine-by-country-the-stanford-elsevier-top-2-list-in-r/",
+      "summary": "Clinical medicine is by far the largest field in the 2026 Stanford–Elsevier top 2% list: 76,155 of the 249,310 listed authors, 31%, have it…\n\n\nContinue reading: Top-cited scientists in clinical med...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-02",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793581516"
+    },
+    {
+      "title": "My Messy Notes of Learning MICE From Scratch",
+      "url": "https://www.r-bloggers.com/2026/10/my-messy-notes-of-learning-mice-from-scratch/",
+      "summary": "MICE always felt like magic to me 🪄 So I tried rebuilding it from scratch in R to understand it better. Lots of mistakes and help along the way, but my version ended up close to the mice package. M...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-02",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793581517"
+    },
+    {
+      "title": "Tuanyatuanya/education-finance-naep (0 stars)",
+      "url": "https://github.com/Tuanyatuanya/education-finance-naep",
+      "summary": "How state education finance relates to NAEP achievement (1992–2015): year-FE regression, diagnostics, moderation — R",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-02",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1793581518"
+    },
+    {
+      "title": "kenjiwagner/csipredictions (0 stars)",
+      "url": "https://github.com/kenjiwagner/csipredictions",
+      "summary": "Forecasting the U. Michigan Consumer Sentiment Index with Google Trends and macroeconomic data (ARIMA, VAR, MIDAS)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-02",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1793581519"
+    },
+    {
+      "title": "Aranmobinarann/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/Aranmobinarann/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-02",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1793581520"
+    },
+    {
+      "title": "glincker/awesome-selfhosted-ai (69 stars)",
+      "url": "https://github.com/glincker/awesome-selfhosted-ai",
+      "summary": "Curated list of self-hosted open-source AI: local LLMs, chat UIs, agents, MCP servers, RAG, speech and image generation. Health-checked weekly, dead projects removed automatically.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-02",
+      "tags": [
+        "mcp",
+        "llm",
+        "agents",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1793581521"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-02",
+      "editorial_summary": "Briefing compiled on November 02, 2026. Today's selection highlights new R packages and features like Top-cited scientists in clinical medicine by country: the Stanford–Elsevier top 2% list in R, My Messy Notes of Learning MICE From Scratch and explores cutting-edge AI integrations including Aranmobinarann/skills-integrate-mcp-with-copilot (1 stars), glincker/awesome-selfhosted-ai (69 stars).",
+      "items": [
+        "item_1793581516",
+        "item_1793581517",
+        "item_1793581518",
+        "item_1793581519",
+        "item_1793581520",
+        "item_1793581521"
+      ]
+    },
     {
       "date": "2026-11-01",
       "editorial_summary": "Briefing compiled on November 01, 2026. Today's selection highlights new R packages and features like JozefRivest/project-template-quarto (0 stars), {poorman}: Tips and Tricks for Faster Grouped Operations in base R and explores cutting-edge AI integrations including Vecesta-co/enterprise-mcp-server (2 stars), Agents in Production Webinar: From a Chatbot to a Tool You Can Rely On.",

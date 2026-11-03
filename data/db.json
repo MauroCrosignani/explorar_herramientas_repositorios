@@ -13071,9 +13071,112 @@
       "score": 13.0,
       "read": false,
       "id": "item_1793581521"
+    },
+    {
+      "title": "R Weekly 2026-W45 safeconduct and r2parquet, interactive charts, on message and on brand",
+      "url": "https://rweekly.org/2026-W45.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-03",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793675247"
+    },
+    {
+      "title": "Register for the Summer R Workshops in Brisbane, at UQ: Introduction to R and Statistical Modelling",
+      "url": "https://www.r-bloggers.com/2026/11/register-for-the-summer-r-workshops-in-brisbane-at-uq-introduction-to-r-and-statistical-modelling/",
+      "summary": "Learn the R skills needed to analyse data confidently, build powerful statistical models, create publication-quality figures, and answer complex research questions with the Centre for Biodiversity ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-03",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793675248"
+    },
+    {
+      "title": "Abhishek-Akabari/household-carbon-footprint-analysis-r (0 stars)",
+      "url": "https://github.com/Abhishek-Akabari/household-carbon-footprint-analysis-r",
+      "summary": "R analysis of household carbon footprint: data-quality plan, EDA, multiple linear regression (R² 0.60) and logistic regression for recycling. R Markdown, tidyverse.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-03",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1793675249"
+    },
+    {
+      "title": "Roche Open-Source TLG Packages Move to pharmaverse",
+      "url": "https://www.r-bloggers.com/2026/11/roche-open-source-tlg-packages-move-to-pharmaverse/",
+      "summary": "Written on behalf of the NEST team.\nOver the past few months, we have reached an important milestone in our open-source journey: transitioning key clinical reporting and exploratory analysis R pack...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-03",
+      "tags": [
+        "general"
+      ],
+      "score": 4,
+      "read": false,
+      "id": "item_1793675250"
+    },
+    {
+      "title": "Agents in Production: Build Your First AI Agent in R with {ellmer}",
+      "url": "https://www.r-bloggers.com/2026/11/agents-in-production-build-your-first-ai-agent-in-r-with-ellmer/",
+      "summary": "This is part one of a five-part series on putting AI agents into production with R.\nEach part builds on the same app, a clinical trial safety assistant. The parts are:\nFrom Chatbot to Agent (this p...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-03",
+      "tags": [
+        "llm",
+        "agents",
+        "ai"
+      ],
+      "score": 17.5,
+      "read": false,
+      "id": "item_1793675251"
+    },
+    {
+      "title": "code-by-nanthu/mcp-qa-expert-engine (2 stars)",
+      "url": "https://github.com/code-by-nanthu/mcp-qa-expert-engine",
+      "summary": "A universal Model Context Protocol (MCP) server that transforms AI coding agents (Claude Code, Codex, Antigravity, Cursor) into an expert Senior QA Automation and Manual Testing Engineer.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-03",
+      "tags": [
+        "sf",
+        "mcp",
+        "codex",
+        "antigravity",
+        "agents",
+        "ai"
+      ],
+      "score": 16.0,
+      "read": false,
+      "id": "item_1793675252"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-03",
+      "editorial_summary": "Briefing compiled on November 03, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W45 safeconduct and r2parquet, interactive charts, on message and on brand, Register for the Summer R Workshops in Brisbane, at UQ: Introduction to R and Statistical Modelling and explores cutting-edge AI integrations including Agents in Production: Build Your First AI Agent in R with {ellmer}, code-by-nanthu/mcp-qa-expert-engine (2 stars).",
+      "items": [
+        "item_1793675247",
+        "item_1793675248",
+        "item_1793675249",
+        "item_1793675250",
+        "item_1793675251",
+        "item_1793675252"
+      ]
+    },
     {
       "date": "2026-11-02",
       "editorial_summary": "Briefing compiled on November 02, 2026. Today's selection highlights new R packages and features like Top-cited scientists in clinical medicine by country: the Stanford–Elsevier top 2% list in R, My Messy Notes of Learning MICE From Scratch and explores cutting-edge AI integrations including Aranmobinarann/skills-integrate-mcp-with-copilot (1 stars), glincker/awesome-selfhosted-ai (69 stars).",

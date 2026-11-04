@@ -13162,9 +13162,109 @@
       "score": 16.0,
       "read": false,
       "id": "item_1793675252"
+    },
+    {
+      "title": "bioconductor-source/enrichmet (0 stars)",
+      "url": "https://github.com/bioconductor-source/enrichmet",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-04",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1793756665"
+    },
+    {
+      "title": "diegosg-dev/CodeRunnerObsidian (0 stars)",
+      "url": "https://github.com/diegosg-dev/CodeRunnerObsidian",
+      "summary": "Execute R code chunks inside Obsidian Markdown notes like RMarkdown (Rmd) and Quarto, with persistent R sessions, inline graphics, and document knitting.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-04",
+      "tags": [
+        "quarto"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1793756666"
+    },
+    {
+      "title": "shreshth108-gif/storm-surge-water-level-forecasting (1 stars)",
+      "url": "https://github.com/shreshth108-gif/storm-surge-water-level-forecasting",
+      "summary": "Five-minute-ahead water-level forecasts for the Oosterschelde storm-surge barrier with harmonic and non-linear regression",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-04",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1793756667"
+    },
+    {
+      "title": "llmontiel/forecasting-in-r (0 stars)",
+      "url": "https://github.com/llmontiel/forecasting-in-r",
+      "summary": "Weekly demand forecasting in R — auto.arima & ETS, backtested vs. seasonal-naive",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-04",
+      "tags": [
+        "llm",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1793756668"
+    },
+    {
+      "title": "Faixiang/Moodle-MCP (88 stars)",
+      "url": "https://github.com/Faixiang/Moodle-MCP",
+      "summary": "Zero-dependency MCP server for the Moodle Web Service API — read-only course, assignment, quiz, deadline and file tools for Claude, Cursor and any MCP client. Actively maintained · v1.4.0 · 10 tool...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-04",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1793756669"
+    },
+    {
+      "title": "ElysiumForge-Labs/elysium-chain-mcp (79 stars)",
+      "url": "https://github.com/ElysiumForge-Labs/elysium-chain-mcp",
+      "summary": "MCP server for AI agents to read and interact with Elysium, Kinetiq’s Arbitrum Orbit L2 on Hyperliquid",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-04",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1793756670"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-04",
+      "editorial_summary": "Briefing compiled on November 04, 2026. Today's selection highlights new R packages and features like bioconductor-source/enrichmet (0 stars), diegosg-dev/CodeRunnerObsidian (0 stars) and explores cutting-edge AI integrations including Faixiang/Moodle-MCP (88 stars), ElysiumForge-Labs/elysium-chain-mcp (79 stars).",
+      "items": [
+        "item_1793756665",
+        "item_1793756666",
+        "item_1793756667",
+        "item_1793756668",
+        "item_1793756669",
+        "item_1793756670"
+      ]
+    },
     {
       "date": "2026-11-03",
       "editorial_summary": "Briefing compiled on November 03, 2026. Today's selection highlights new R packages and features like R Weekly 2026-W45 safeconduct and r2parquet, interactive charts, on message and on brand, Register for the Summer R Workshops in Brisbane, at UQ: Introduction to R and Statistical Modelling and explores cutting-edge AI integrations including Agents in Production: Build Your First AI Agent in R with {ellmer}, code-by-nanthu/mcp-qa-expert-engine (2 stars).",

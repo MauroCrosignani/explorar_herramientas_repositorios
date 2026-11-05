@@ -13250,9 +13250,106 @@
       "score": 14.5,
       "read": false,
       "id": "item_1793756670"
+    },
+    {
+      "title": "lab1702/shiny-quack (0 stars)",
+      "url": "https://github.com/lab1702/shiny-quack",
+      "summary": "Example Shiny app that serves DuckDB through the quack client/server extension and runs concurrent, non-blocking queries with ExtendedTask and future workers",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-05",
+      "tags": [
+        "shiny"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1793843530"
+    },
+    {
+      "title": "bioconductor-source/tTEscanR (0 stars)",
+      "url": "https://github.com/bioconductor-source/tTEscanR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-05",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1793843531"
+    },
+    {
+      "title": "Stratified Modeling for Imbalanced Data",
+      "url": "https://www.r-bloggers.com/2026/11/stratified-modeling-for-imbalanced-data/",
+      "summary": "NOTE: Any updates to this article will be maintained here: https://medley.bryer.org/articles/stratified_glm.html\nIntroduction\nStatistical modeling when there is substantial imbalance in the depende...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-05",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1793843532"
+    },
+    {
+      "title": "Introducing tuiksdmx: A Metadata-Driven R Client for Turkish Official Statistics",
+      "url": "https://www.r-bloggers.com/2026/11/introducing-tuiksdmx-a-metadata-driven-r-client-for-turkish-official-statistics/",
+      "summary": "The tuiksdmx R package logo\n1 Introduction\nAccessing official statistics programmatically should be straightforward. In practice, however, finding the right dataset is only part of the problem. An ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-05",
+      "tags": [
+        "ai",
+        "statistics"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1793843533"
+    },
+    {
+      "title": "gil-silva/v-mcp-server (2 stars)",
+      "url": "https://github.com/gil-silva/v-mcp-server",
+      "summary": "Give your coding agent real V powers. Compile errors, program runs, structured diagnostics, smart test selection, repo maps — over the Model Context Protocol (MCP).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-05",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1793843534"
+    },
+    {
+      "title": "Pyrochem/defi-quant-mcp-server (1 stars)",
+      "url": "https://github.com/Pyrochem/defi-quant-mcp-server",
+      "summary": "Model Context Protocol (MCP) server for 6-protocol DeFi quantitative telemetry, stablecoin carry radar, and risk simulation.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-05",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1793843535"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-05",
+      "editorial_summary": "Briefing compiled on November 05, 2026. Today's selection highlights new R packages and features like lab1702/shiny-quack (0 stars), bioconductor-source/tTEscanR (0 stars) and explores cutting-edge AI integrations including gil-silva/v-mcp-server (2 stars), Pyrochem/defi-quant-mcp-server (1 stars).",
+      "items": [
+        "item_1793843530",
+        "item_1793843531",
+        "item_1793843532",
+        "item_1793843533",
+        "item_1793843534",
+        "item_1793843535"
+      ]
+    },
     {
       "date": "2026-11-04",
       "editorial_summary": "Briefing compiled on November 04, 2026. Today's selection highlights new R packages and features like bioconductor-source/enrichmet (0 stars), diegosg-dev/CodeRunnerObsidian (0 stars) and explores cutting-edge AI integrations including Faixiang/Moodle-MCP (88 stars), ElysiumForge-Labs/elysium-chain-mcp (79 stars).",

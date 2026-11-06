@@ -13335,9 +13335,106 @@
       "score": 13.5,
       "read": false,
       "id": "item_1793843535"
+    },
+    {
+      "title": "zihewang025-prog/CoReSurg (3 stars)",
+      "url": "https://github.com/zihewang025-prog/CoReSurg",
+      "summary": "CoReSurg: lightweight surgical image restoration with dual-scale context and coarse residual transfer. Model source, protocol, and validation results.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-06",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1793929872"
+    },
+    {
+      "title": "SAS to R: Why R, and Where Your Migration Budget Should Go",
+      "url": "https://www.r-bloggers.com/2026/11/sas-to-r-why-r-and-where-your-migration-budget-should-go/",
+      "summary": "This post is part of our SAS to R series:\nPart 1: Is SAS still used, and is it worth keeping?\nPart 2: Why R, and where your migration budget should go (this post)\nPart 3: coming soon\nIf you’re movi...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-06",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1793929873"
+    },
+    {
+      "title": "rplatypus rebuilt: deep learning for medical images in R",
+      "url": "https://www.r-bloggers.com/2026/11/rplatypus-rebuilt-deep-learning-for-medical-images-in-r/",
+      "summary": "In October 2020 I wrote about platypus, an R package for object detection and image segmentation: YOLOv3 and U-Net in a few lines of R, on top of the keras and tensorflow packages. People used it. ...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-06",
+      "tags": [
+        "deep learning"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1793929874"
+    },
+    {
+      "title": "hammedakano/TLS_ULS_DBH_calibration_showcase (1 stars)",
+      "url": "https://github.com/hammedakano/TLS_ULS_DBH_calibration_showcase",
+      "summary": "Showcase component: calibration transfer of ULS DBH models to unseen plots with local TLS trees (SYSSIFOSS data)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-06",
+      "tags": [
+        "sf"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1793929875"
+    },
+    {
+      "title": "farroyom7/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/farroyom7/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-06",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1793929876"
+    },
+    {
+      "title": "RainedFeral/mcp-typography-server-resocket (38 stars)",
+      "url": "https://github.com/RainedFeral/mcp-typography-server-resocket",
+      "summary": "MCP-сервер для книжной типографики (алгоритм Кнута — Пласса) и визуального аудита вёрстки для AI-агентов на базе Justif и Playwright.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-06",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1793929877"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-06",
+      "editorial_summary": "Briefing compiled on November 06, 2026. Today's selection highlights new R packages and features like zihewang025-prog/CoReSurg (3 stars), SAS to R: Why R, and Where Your Migration Budget Should Go and explores cutting-edge AI integrations including farroyom7/skills-integrate-mcp-with-copilot (1 stars), RainedFeral/mcp-typography-server-resocket (38 stars).",
+      "items": [
+        "item_1793929872",
+        "item_1793929873",
+        "item_1793929874",
+        "item_1793929875",
+        "item_1793929876",
+        "item_1793929877"
+      ]
+    },
     {
       "date": "2026-11-05",
       "editorial_summary": "Briefing compiled on November 05, 2026. Today's selection highlights new R packages and features like lab1702/shiny-quack (0 stars), bioconductor-source/tTEscanR (0 stars) and explores cutting-edge AI integrations including gil-silva/v-mcp-server (2 stars), Pyrochem/defi-quant-mcp-server (1 stars).",

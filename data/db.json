@@ -13420,9 +13420,106 @@
       "score": 13.0,
       "read": false,
       "id": "item_1793929877"
+    },
+    {
+      "title": "bioconductor-source/lantern (0 stars)",
+      "url": "https://github.com/bioconductor-source/lantern",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-07",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1794014535"
+    },
+    {
+      "title": "Postal codes and tessellations",
+      "url": "https://www.r-bloggers.com/2026/11/postal-codes-and-tessellations/",
+      "summary": "From five imaginary points to a map of Slovenia: postal code areas with  Voronoi, giscoR and sf.\n\n\nContinue reading: Postal codes and tessellations",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-07",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794014536"
+    },
+    {
+      "title": "MTCInv/hotpot-clv-analysis (0 stars)",
+      "url": "https://github.com/MTCInv/hotpot-clv-analysis",
+      "summary": "R analysis of CAC and CLV for a hotpot restaurant survey dataset",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-07",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1794014537"
+    },
+    {
+      "title": "Free AI and Data Courses with 365 Data Science: Unlimited Access until Nov. 20",
+      "url": "https://www.r-bloggers.com/2026/11/free-ai-and-data-courses-with-365-data-science-unlimited-access-until-nov-20/",
+      "summary": "Free AI and Data Courses with 365 Data Science: Unlimited Access until Nov. 20 365 Data Science opens its doors this November 100% for free! From November 5 to November 20, 2026, enjoy unlimited ac...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-07",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1794014538"
+    },
+    {
+      "title": "hakkiburakalks/flink-mcp-server (2 stars)",
+      "url": "https://github.com/hakkiburakalks/flink-mcp-server",
+      "summary": "A universal, platform-independent Model Context Protocol (MCP) server for Apache Flink, enabling AI-powered monitoring, diagnostics, and cluster management across Kubernetes, Docker, YARN, and stan...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-07",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1794014539"
+    },
+    {
+      "title": "fujc683/gpt-image-2-6-mcp-server (102 stars)",
+      "url": "https://github.com/fujc683/gpt-image-2-6-mcp-server",
+      "summary": "Use GPT Image 2.6 from Claude, Cursor and VS Code via MCP.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-07",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1794014540"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-07",
+      "editorial_summary": "Briefing compiled on November 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/lantern (0 stars), Postal codes and tessellations and explores cutting-edge AI integrations including hakkiburakalks/flink-mcp-server (2 stars), fujc683/gpt-image-2-6-mcp-server (102 stars).",
+      "items": [
+        "item_1794014535",
+        "item_1794014536",
+        "item_1794014537",
+        "item_1794014538",
+        "item_1794014539",
+        "item_1794014540"
+      ]
+    },
     {
       "date": "2026-11-06",
       "editorial_summary": "Briefing compiled on November 06, 2026. Today's selection highlights new R packages and features like zihewang025-prog/CoReSurg (3 stars), SAS to R: Why R, and Where Your Migration Budget Should Go and explores cutting-edge AI integrations including farroyom7/skills-integrate-mcp-with-copilot (1 stars), RainedFeral/mcp-typography-server-resocket (38 stars).",

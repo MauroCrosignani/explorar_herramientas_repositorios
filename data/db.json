@@ -13505,9 +13505,106 @@
       "score": 13.5,
       "read": false,
       "id": "item_1794014540"
+    },
+    {
+      "title": "Environmental modelling in your web browser",
+      "url": "https://www.r-bloggers.com/2026/11/environmental-modelling-in-your-web-browser/",
+      "summary": "I recall when the R shiny framework first came out. It suddenly got relatively easy for us ecological modellers and environmental statisticians to turn our R code into web apps. This improved acces...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-08",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794099411"
+    },
+    {
+      "title": "Kindness, Curiosity, and Kitties: A rOpenSci 15th Anniversary Interview with Mo",
+      "url": "https://www.r-bloggers.com/2026/11/kindness-curiosity-and-kitties-a-ropensci-15th-anniversary-interview-with-mo/",
+      "summary": "As part of rOpenSci’s 15th anniversary celebrations, Community Manager Yani sits down with community member Mo to talk about how a first software review turned into years of involvement across R-Un...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-08",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794099412"
+    },
+    {
+      "title": "thatoneguy006/tidylandmark (1 stars)",
+      "url": "https://github.com/thatoneguy006/tidylandmark",
+      "summary": "A tidyverse-friendly framework for landmark survival analysis with longitudinal covariates and competing risks.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-08",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1794099413"
+    },
+    {
+      "title": "atanasovmi/the-oceans-clock (1 stars)",
+      "url": "https://github.com/atanasovmi/the-oceans-clock",
+      "summary": "What tells a coral reef that tonight is the night? An R analysis of about 23 million values, joining 6,178 spawning records with NOAA heat stress, NASA Moon positions and an aquarium diary through ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-08",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794099414"
+    },
+    {
+      "title": "radwanalmsora/mcp-server-autocad-lisp-helper (2 stars)",
+      "url": "https://github.com/radwanalmsora/mcp-server-autocad-lisp-helper",
+      "summary": "Model Context Protocol (MCP) server for static analysis, syntax checking, and state leakage detection in AutoCAD AutoLISP (.lsp) files.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-08",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1794099415"
+    },
+    {
+      "title": "runlayer/mcp-explained (2 stars)",
+      "url": "https://github.com/runlayer/mcp-explained",
+      "summary": "Interactive, animated explainer of the Model Context Protocol: every JSON-RPC message on the wire",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-08",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1794099416"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-08",
+      "editorial_summary": "Briefing compiled on November 08, 2026. Today's selection highlights new R packages and features like Environmental modelling in your web browser, Kindness, Curiosity, and Kitties: A rOpenSci 15th Anniversary Interview with Mo and explores cutting-edge AI integrations including radwanalmsora/mcp-server-autocad-lisp-helper (2 stars), runlayer/mcp-explained (2 stars).",
+      "items": [
+        "item_1794099411",
+        "item_1794099412",
+        "item_1794099413",
+        "item_1794099414",
+        "item_1794099415",
+        "item_1794099416"
+      ]
+    },
     {
       "date": "2026-11-07",
       "editorial_summary": "Briefing compiled on November 07, 2026. Today's selection highlights new R packages and features like bioconductor-source/lantern (0 stars), Postal codes and tessellations and explores cutting-edge AI integrations including hakkiburakalks/flink-mcp-server (2 stars), fujc683/gpt-image-2-6-mcp-server (102 stars).",

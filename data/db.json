@@ -13590,9 +13590,108 @@
       "score": 13.0,
       "read": false,
       "id": "item_1794099416"
+    },
+    {
+      "title": "bioconductor-source/PscanRBackgrounds (0 stars)",
+      "url": "https://github.com/bioconductor-source/PscanRBackgrounds",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-09",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1794186991"
+    },
+    {
+      "title": "Roche and Appsilon Build on Their Collaboration to Support teal’s Continued Development",
+      "url": "https://www.r-bloggers.com/2026/11/roche-and-appsilon-build-on-their-collaboration-to-support-teals-continued-development/",
+      "summary": "Following the recent migration of the teal framework to pharmaverse, Roche and Appsilon are building on their existing collaboration to support its continued development. Appsilon will continue con...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-09",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794186992"
+    },
+    {
+      "title": "Using caretS3 with ahead::ctxthetaf for Time Series Forecasting",
+      "url": "https://www.r-bloggers.com/2026/11/using-carets3-with-aheadctxthetaf-for-time-series-forecasting/",
+      "summary": "A demonstration of using caretS3 models for time series forecasting with ahead::ctxthetaf.\nContinue reading: Using caretS3 with ahead::ctxthetaf for Time Series Forecasting",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-09",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1794186993"
+    },
+    {
+      "title": "RKirbs/fortnite-esports-analysis (0 stars)",
+      "url": "https://github.com/RKirbs/fortnite-esports-analysis",
+      "summary": "R + Quarto analysis of $209M in Fortnite esports prize money: prize pools vs. audience attention, earnings concentration, and regional fairness.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-09",
+      "tags": [
+        "quarto",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1794186994"
+    },
+    {
+      "title": "gogoymh/auto-ontology-mcp (216 stars)",
+      "url": "https://github.com/gogoymh/auto-ontology-mcp",
+      "summary": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-09",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1794186995"
+    },
+    {
+      "title": "Darek3399/MCP-Bridge (3 stars)",
+      "url": "https://github.com/Darek3399/MCP-Bridge",
+      "summary": "Local-first MCP Hub & Server Manager for Windows. Connect all STDIO and HTTP Model Context Protocol servers through one endpoint with real-time tool switching and Tailscale Funnel.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-09",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1794186996"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-09",
+      "editorial_summary": "Briefing compiled on November 09, 2026. Today's selection highlights new R packages and features like bioconductor-source/PscanRBackgrounds (0 stars), Roche and Appsilon Build on Their Collaboration to Support teal’s Continued Development and explores cutting-edge AI integrations including gogoymh/auto-ontology-mcp (216 stars), Darek3399/MCP-Bridge (3 stars).",
+      "items": [
+        "item_1794186991",
+        "item_1794186992",
+        "item_1794186993",
+        "item_1794186994",
+        "item_1794186995",
+        "item_1794186996"
+      ]
+    },
     {
       "date": "2026-11-08",
       "editorial_summary": "Briefing compiled on November 08, 2026. Today's selection highlights new R packages and features like Environmental modelling in your web browser, Kindness, Curiosity, and Kitties: A rOpenSci 15th Anniversary Interview with Mo and explores cutting-edge AI integrations including radwanalmsora/mcp-server-autocad-lisp-helper (2 stars), runlayer/mcp-explained (2 stars).",

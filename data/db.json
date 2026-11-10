@@ -13677,9 +13677,109 @@
       "score": 12.0,
       "read": false,
       "id": "item_1794186996"
+    },
+    {
+      "title": "mdsumner/r-zarr-capability (1 stars)",
+      "url": "https://github.com/mdsumner/r-zarr-capability",
+      "summary": "A capability map of the R routes to Zarr: GDAL drivers and bindings, native R, Rust, Arrow, NCZarr, Bioconductor, reticulate",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-10",
+      "tags": [
+        "general"
+      ],
+      "score": 4,
+      "read": false,
+      "id": "item_1794282715"
+    },
+    {
+      "title": "newkor3185-blip/FigureIDE (1 stars)",
+      "url": "https://github.com/newkor3185-blip/FigureIDE",
+      "summary": "Open-source scientific figure editor combining R/ggplot2 visualization with precise vector graphics editing, built on VectorCraft.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-10",
+      "tags": [
+        "ggplot",
+        "visualization"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1794282716"
+    },
+    {
+      "title": "sgibertm/beyond-hearing (1 stars)",
+      "url": "https://github.com/sgibertm/beyond-hearing",
+      "summary": "Statistical study in R on hearing loss and depression using NHANES data (regression, ANOVA, t-tests)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-10",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794282717"
+    },
+    {
+      "title": "ANISH2k4/calciummate (0 stars)",
+      "url": "https://github.com/ANISH2k4/calciummate",
+      "summary": "Single-cell calcium imaging analysis for organoids: Fiji macro for ΔF/F0 movies and cell traces, plus R script comparing two drugs cell by cell",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-10",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794282718"
+    },
+    {
+      "title": "avianhermana/copilot-desktop-mcp (2 stars)",
+      "url": "https://github.com/avianhermana/copilot-desktop-mcp",
+      "summary": "A policy-controlled Model Context Protocol (MCP) server for Windows desktop automation, office documents, and local AI productivity.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-10",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1794282719"
+    },
+    {
+      "title": "kanaworksai-hue/sozai-search-mcp (39 stars)",
+      "url": "https://github.com/kanaworksai-hue/sozai-search-mcp",
+      "summary": "Free 3D assets for AI agents: search ~36,000 free (mostly CC0) models, materials and HDRIs with real-world sizes, as an MCP server",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-10",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 14.5,
+      "read": false,
+      "id": "item_1794282720"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-10",
+      "editorial_summary": "Briefing compiled on November 10, 2026. Today's selection highlights new R packages and features like mdsumner/r-zarr-capability (1 stars), newkor3185-blip/FigureIDE (1 stars) and explores cutting-edge AI integrations including avianhermana/copilot-desktop-mcp (2 stars), kanaworksai-hue/sozai-search-mcp (39 stars).",
+      "items": [
+        "item_1794282715",
+        "item_1794282716",
+        "item_1794282717",
+        "item_1794282718",
+        "item_1794282719",
+        "item_1794282720"
+      ]
+    },
     {
       "date": "2026-11-09",
       "editorial_summary": "Briefing compiled on November 09, 2026. Today's selection highlights new R packages and features like bioconductor-source/PscanRBackgrounds (0 stars), Roche and Appsilon Build on Their Collaboration to Support teal’s Continued Development and explores cutting-edge AI integrations including gogoymh/auto-ontology-mcp (216 stars), Darek3399/MCP-Bridge (3 stars).",

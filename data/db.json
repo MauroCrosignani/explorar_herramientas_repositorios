@@ -13765,9 +13765,107 @@
       "score": 14.5,
       "read": false,
       "id": "item_1794282720"
+    },
+    {
+      "title": "bioconductor-source/methylTFRAnnotationMm10 (0 stars)",
+      "url": "https://github.com/bioconductor-source/methylTFRAnnotationMm10",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-11",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1794360720"
+    },
+    {
+      "title": "lizetafo/Glia-IF-Quantification (1 stars)",
+      "url": "https://github.com/lizetafo/Glia-IF-Quantification",
+      "summary": "R Shiny apps for GFAP and IBA1 immunofluorescence quantification and morphology",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-11",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794360721"
+    },
+    {
+      "title": "ercegovaci-hash/swiss-imports-forecasting-r (0 stars)",
+      "url": "https://github.com/ercegovaci-hash/swiss-imports-forecasting-r",
+      "summary": "Forecasting Switzerland's import share of GDP in R: Box-Jenkins ARIMA, rolling-origin backtest vs ETS/Theta/neural net, and a 2025 out-of-sample reality check",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-11",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1794360722"
+    },
+    {
+      "title": "Chanza-bj/AG_Report_Analysis (0 stars)",
+      "url": "https://github.com/Chanza-bj/AG_Report_Analysis",
+      "summary": "Reproducible analysis of Zambia Auditor General reports, 2021-2025: budget execution, audit-findings value, and ministry recurrence, every figure page-cited.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-11",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1794360723"
+    },
+    {
+      "title": "rohith0707/llm-cost-watch (3 stars)",
+      "url": "https://github.com/rohith0707/llm-cost-watch",
+      "summary": "Model Context Protocol (MCP) server for LLM spend & latency intelligence. Ask Claude why our LLM bill jumped.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-11",
+      "tags": [
+        "mcp",
+        "llm"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1794360724"
+    },
+    {
+      "title": "minteeqahmed-png/MCP-Shield- (2 stars)",
+      "url": "https://github.com/minteeqahmed-png/MCP-Shield-",
+      "summary": "Zero config AI Agent and Model Context Protocol Security Scanner that detects tool poisoning, decodes obfuscated prompt injections, and audits Python AST for dangerous execution.\"",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-11",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1794360725"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-11",
+      "editorial_summary": "Briefing compiled on November 11, 2026. Today's selection highlights new R packages and features like bioconductor-source/methylTFRAnnotationMm10 (0 stars), lizetafo/Glia-IF-Quantification (1 stars) and explores cutting-edge AI integrations including rohith0707/llm-cost-watch (3 stars), minteeqahmed-png/MCP-Shield- (2 stars).",
+      "items": [
+        "item_1794360720",
+        "item_1794360721",
+        "item_1794360722",
+        "item_1794360723",
+        "item_1794360724",
+        "item_1794360725"
+      ]
+    },
     {
       "date": "2026-11-10",
       "editorial_summary": "Briefing compiled on November 10, 2026. Today's selection highlights new R packages and features like mdsumner/r-zarr-capability (1 stars), newkor3185-blip/FigureIDE (1 stars) and explores cutting-edge AI integrations including avianhermana/copilot-desktop-mcp (2 stars), kanaworksai-hue/sozai-search-mcp (39 stars).",

@@ -13851,9 +13851,108 @@
       "score": 12.0,
       "read": false,
       "id": "item_1794360725"
+    },
+    {
+      "title": "Distribution of race by ZCTA",
+      "url": "https://www.r-bloggers.com/2026/11/distribution-of-race-by-zcta/",
+      "summary": "What's a ZCTA?\n     \n    For years I assumed that a city consists of a number of zipcodes, and the city's population was simply the sum of the populations those zipcodes. \n     \n    It turns ...\n\n\n...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-12",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794450851"
+    },
+    {
+      "title": "The rule of law and economic growth: what three decades of data show",
+      "url": "https://www.r-bloggers.com/2026/11/the-rule-of-law-and-economic-growth-what-three-decades-of-data-show/",
+      "summary": "Weighted by population, the rule of law has slipped globally since 1996. India and the United States contributed a large part to this decline, while China's net impact was negligible thanks to a re...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-12",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794450852"
+    },
+    {
+      "title": "awiqar/georgia-avoidable-ed (0 stars)",
+      "url": "https://github.com/awiqar/georgia-avoidable-ed",
+      "summary": "County-level analysis of avoidable ER use in Georgia (2019–2025): income, not primary care physician supply, predicts ambulatory care sensitive ED visits. R / tidyverse.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-12",
+      "tags": [
+        "tidyverse"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1794450853"
+    },
+    {
+      "title": "gianluca-sottile/statatlas (0 stars)",
+      "url": "https://github.com/gianluca-sottile/statatlas",
+      "summary": "Atlante interattivo di probabilità e inferenza statistica: 16 laboratori didattici, dalle distribuzioni alla regressione quantilica, penalizzata e non parametrica. Un unico file HTML offline, simul...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-12",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794450854"
+    },
+    {
+      "title": "SsKanDon/blender-ai-mcp-addon (112 stars)",
+      "url": "https://github.com/SsKanDon/blender-ai-mcp-addon",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scri...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-12",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 25.0,
+      "read": false,
+      "id": "item_1794450855"
+    },
+    {
+      "title": "FCBRTH/facilitybot-MCP-agent-skills (2 stars)",
+      "url": "https://github.com/FCBRTH/facilitybot-MCP-agent-skills",
+      "summary": "Official agent skills and domain knowledge guidelines for FacilityBot's Model Context Protocol (MCP) server. Equips AI agents to analyze maintenance workflows, manage work orders, and optimize faci...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-12",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1794450856"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-12",
+      "editorial_summary": "Briefing compiled on November 12, 2026. Today's selection highlights new R packages and features like Distribution of race by ZCTA, The rule of law and economic growth: what three decades of data show and explores cutting-edge AI integrations including SsKanDon/blender-ai-mcp-addon (112 stars), FCBRTH/facilitybot-MCP-agent-skills (2 stars).",
+      "items": [
+        "item_1794450851",
+        "item_1794450852",
+        "item_1794450853",
+        "item_1794450854",
+        "item_1794450855",
+        "item_1794450856"
+      ]
+    },
     {
       "date": "2026-11-11",
       "editorial_summary": "Briefing compiled on November 11, 2026. Today's selection highlights new R packages and features like bioconductor-source/methylTFRAnnotationMm10 (0 stars), lizetafo/Glia-IF-Quantification (1 stars) and explores cutting-edge AI integrations including rohith0707/llm-cost-watch (3 stars), minteeqahmed-png/MCP-Shield- (2 stars).",

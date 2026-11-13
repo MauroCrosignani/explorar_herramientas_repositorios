@@ -13938,9 +13938,107 @@
       "score": 11.5,
       "read": false,
       "id": "item_1794450856"
+    },
+    {
+      "title": "Bioconductor Carpentries workshops in Japanese: lessons from Japan",
+      "url": "https://www.r-bloggers.com/2026/11/bioconductor-carpentries-workshops-in-japanese-lessons-from-japan/",
+      "summary": "An apology first\nThis post should have been written a year ago. The two workshops it describes took place in August and September 2025, and a report in Japanese appeared in the newsletter of the Ja...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-13",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1794535963"
+    },
+    {
+      "title": "bioconductor-source/NADIA (0 stars)",
+      "url": "https://github.com/bioconductor-source/NADIA",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-13",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1794535964"
+    },
+    {
+      "title": "danielpetrica/dochia-cycle-model (1 stars)",
+      "url": "https://github.com/danielpetrica/dochia-cycle-model",
+      "summary": "A small, calibrated, on-device statistical model for menstrual-cycle forecasting. Research/education; not a medical device.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-13",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794535965"
+    },
+    {
+      "title": "Preparing the Data: Cattell’s 16 Factor Personality Measure",
+      "url": "https://www.r-bloggers.com/2026/11/preparing-the-data-cattells-16-factor-personality-measure/",
+      "summary": "As I said in my previous post, I'm working on a 2-part series where I show how to conduct psychometric analysis on a personality measure. Those posts are coming very soon, but today, I wanted to st...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-13",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794535966"
+    },
+    {
+      "title": "hitkeeen/blender-ai-mcp-addon (42 stars)",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scri...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-13",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 25.0,
+      "read": false,
+      "id": "item_1794535967"
+    },
+    {
+      "title": "racdeufindurch198812/Blender-AI-MCP-Studio (46 stars)",
+      "url": "https://github.com/racdeufindurch198812/Blender-AI-MCP-Studio",
+      "summary": "Blender AI MCP Studio is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — wi...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-13",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1794535968"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-13",
+      "editorial_summary": "Briefing compiled on November 13, 2026. Today's selection highlights new R packages and features like Bioconductor Carpentries workshops in Japanese: lessons from Japan, bioconductor-source/NADIA (0 stars) and explores cutting-edge AI integrations including hitkeeen/blender-ai-mcp-addon (42 stars), racdeufindurch198812/Blender-AI-MCP-Studio (46 stars).",
+      "items": [
+        "item_1794535963",
+        "item_1794535964",
+        "item_1794535965",
+        "item_1794535966",
+        "item_1794535967",
+        "item_1794535968"
+      ]
+    },
     {
       "date": "2026-11-12",
       "editorial_summary": "Briefing compiled on November 12, 2026. Today's selection highlights new R packages and features like Distribution of race by ZCTA, The rule of law and economic growth: what three decades of data show and explores cutting-edge AI integrations including SsKanDon/blender-ai-mcp-addon (112 stars), FCBRTH/facilitybot-MCP-agent-skills (2 stars).",

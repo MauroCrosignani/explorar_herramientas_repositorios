@@ -14024,9 +14024,106 @@
       "score": 15.0,
       "read": false,
       "id": "item_1794535968"
+    },
+    {
+      "title": "gcol33/ggplot3d (0 stars)",
+      "url": "https://github.com/gcol33/ggplot3d",
+      "summary": "3D plots in the grammar of graphics: z as a position scale, exact visibility, vector and raster output",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-14",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1794621180"
+    },
+    {
+      "title": "bioconductor-source/TxDb.Athaliana.Ensembl.TAIR10 (0 stars)",
+      "url": "https://github.com/bioconductor-source/TxDb.Athaliana.Ensembl.TAIR10",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-14",
+      "tags": [
+        "ai"
+      ],
+      "score": 4.5,
+      "read": false,
+      "id": "item_1794621181"
+    },
+    {
+      "title": "gciavolella/Theophylline-pk (0 stars)",
+      "url": "https://github.com/gciavolella/Theophylline-pk",
+      "summary": "Population PK analysis of theophylline in R (nlmixr2): model building, VPC and dosing simulation",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-14",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794621182"
+    },
+    {
+      "title": "itmarkerz/calcbloc-r (0 stars)",
+      "url": "https://github.com/itmarkerz/calcbloc-r",
+      "summary": "An R package that gives statisticians and economists tidy data frames of 2026 income tax brackets, social security contribution rates and allowances for 29+ countries, with the official source and ...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-14",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794621183"
+    },
+    {
+      "title": "baiblinocun1986/blender-ai-copilot-hub (171 stars)",
+      "url": "https://github.com/baiblinocun1986/blender-ai-copilot-hub",
+      "summary": "A multi-provider AI copilot hub for Blender—bring OpenAI, Anthropic Claude, Google Gemini, OpenRouter, OpenCode Zen, Ollama and custom endpoints into one hub of saved connections, with 27 supervise...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-14",
+      "tags": [
+        "ai"
+      ],
+      "score": 21.5,
+      "read": false,
+      "id": "item_1794621184"
+    },
+    {
+      "title": "zovulrira1974/blender-ai-copilot-assets (166 stars)",
+      "url": "https://github.com/zovulrira1974/blender-ai-copilot-assets",
+      "summary": "An asset-savvy AI copilot for Blender—search Poly Haven, Sketchfab and Poly Pizza mid-conversation, check what fits, import after your confirmation, with 27 scene tools and a built-in MCP server al...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-14",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1794621185"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-14",
+      "editorial_summary": "Briefing compiled on November 14, 2026. Today's selection highlights new R packages and features like gcol33/ggplot3d (0 stars), bioconductor-source/TxDb.Athaliana.Ensembl.TAIR10 (0 stars) and explores cutting-edge AI integrations including baiblinocun1986/blender-ai-copilot-hub (171 stars), zovulrira1974/blender-ai-copilot-assets (166 stars).",
+      "items": [
+        "item_1794621180",
+        "item_1794621181",
+        "item_1794621182",
+        "item_1794621183",
+        "item_1794621184",
+        "item_1794621185"
+      ]
+    },
     {
       "date": "2026-11-13",
       "editorial_summary": "Briefing compiled on November 13, 2026. Today's selection highlights new R packages and features like Bioconductor Carpentries workshops in Japanese: lessons from Japan, bioconductor-source/NADIA (0 stars) and explores cutting-edge AI integrations including hitkeeen/blender-ai-mcp-addon (42 stars), racdeufindurch198812/Blender-AI-MCP-Studio (46 stars).",

@@ -14109,9 +14109,111 @@
       "score": 17.0,
       "read": false,
       "id": "item_1794621185"
+    },
+    {
+      "title": "dmetrics1/micronegocios-colombia-2024 (0 stars)",
+      "url": "https://github.com/dmetrics1/micronegocios-colombia-2024",
+      "summary": "Minería de reglas de asociación y caracterización de la economía popular en Colombia con EMICRON 2024 (DANE), R y Quarto",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-15",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794705841"
+    },
+    {
+      "title": "alex-sukhoi/pls-sem-app-experience-loyalty (0 stars)",
+      "url": "https://github.com/alex-sukhoi/pls-sem-app-experience-loyalty",
+      "summary": "PLS-SEM in R (SEMinR): app user experience -> satisfaction -> trust -> loyalty, with HTMT, PLSpredict, bootstrapped mediation and multigroup analysis",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-15",
+      "tags": [
+        "sf"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794705842"
+    },
+    {
+      "title": "SPSivapriya/Industry_Analytics_Dashboard_Using_RShiny (1 stars)",
+      "url": "https://github.com/SPSivapriya/Industry_Analytics_Dashboard_Using_RShiny",
+      "summary": "Interactive R Shiny dashboard for HR attrition and retail sales analytics, featuring KPI tracking, dynamic filters, data visualization, and CSV exports.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-15",
+      "tags": [
+        "shiny",
+        "ai",
+        "dashboard",
+        "visualization",
+        "analytics"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1794705843"
+    },
+    {
+      "title": "Nuclei, five years later: what a mean Dice hides",
+      "url": "https://www.r-bloggers.com/2026/11/nuclei-five-years-later-what-a-mean-dice-hides/",
+      "summary": "In 2020 I trained a U-Net on the 2018 Data Science Bowl nuclei with the first version of this package, watched a Dice score climb during training, and finished the post with four predicted masks on...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-15",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794705844"
+    },
+    {
+      "title": "brandrail-app/brandrail (2 stars)",
+      "url": "https://github.com/brandrail-app/brandrail",
+      "summary": "mcp mcp-server model-context-protocol design-system design-tokens dtcg claude-code cursor github-copilot codex ai-coding linter figma web-components react angular vue frontend developer-tools brand",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-15",
+      "tags": [
+        "mcp",
+        "codex",
+        "ai"
+      ],
+      "score": 17.5,
+      "read": false,
+      "id": "item_1794705845"
+    },
+    {
+      "title": "tiobeharxi1987/blender-ai-copilot-flow (342 stars)",
+      "url": "https://github.com/tiobeharxi1987/blender-ai-copilot-flow",
+      "summary": "A controlled AI workflow for Blender: every copilot edit is a supervised tool call—proposed, approved, executed in sequence, cancellable after the current step and undoable by name—inside a visual ...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-15",
+      "tags": [
+        "ai"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1794705846"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-15",
+      "editorial_summary": "Briefing compiled on November 15, 2026. Today's selection highlights new R packages and features like dmetrics1/micronegocios-colombia-2024 (0 stars), alex-sukhoi/pls-sem-app-experience-loyalty (0 stars) and explores cutting-edge AI integrations including brandrail-app/brandrail (2 stars), tiobeharxi1987/blender-ai-copilot-flow (342 stars).",
+      "items": [
+        "item_1794705841",
+        "item_1794705842",
+        "item_1794705843",
+        "item_1794705844",
+        "item_1794705845",
+        "item_1794705846"
+      ]
+    },
     {
       "date": "2026-11-14",
       "editorial_summary": "Briefing compiled on November 14, 2026. Today's selection highlights new R packages and features like gcol33/ggplot3d (0 stars), bioconductor-source/TxDb.Athaliana.Ensembl.TAIR10 (0 stars) and explores cutting-edge AI integrations including baiblinocun1986/blender-ai-copilot-hub (171 stars), zovulrira1974/blender-ai-copilot-assets (166 stars).",

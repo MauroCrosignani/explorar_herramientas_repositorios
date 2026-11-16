@@ -14199,9 +14199,110 @@
       "score": 15.5,
       "read": false,
       "id": "item_1794705846"
+    },
+    {
+      "title": "pyr.js: Python and R in HTML pages, with one script tag",
+      "url": "https://www.r-bloggers.com/2026/11/pyr-js-python-and-r-in-html-pages-with-one-script-tag/",
+      "summary": "pyr.js runs Python and R code directly in HTML pages, in the browser, with one script tag: no server, no build step, no install. Pyodide and webR do the heavy lifting.\n\n\nContinue reading: pyr.js: P...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-16",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794792424"
+    },
+    {
+      "title": "Semantic segmentation in rplatypus and pyplatypus: what is in the box",
+      "url": "https://www.r-bloggers.com/2026/11/semantic-segmentation-in-rplatypus-and-pyplatypus-what-is-in-the-box/",
+      "summary": "The last post took one published model and one dataset and asked where the model is weakest. This one steps back and opens the box: everything rplatypus and pyplatypus offer for semantic segmentati...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-16",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794792425"
+    },
+    {
+      "title": "kyanite03/analytics-case-studies (1 stars)",
+      "url": "https://github.com/kyanite03/analytics-case-studies",
+      "summary": "Applied statistics & data analysis case studies — R, Python, Shiny",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-16",
+      "tags": [
+        "shiny",
+        "statistics",
+        "analytics"
+      ],
+      "score": 7.5,
+      "read": false,
+      "id": "item_1794792426"
+    },
+    {
+      "title": "pdmdp/migraine-treatment-analysis (1 stars)",
+      "url": "https://github.com/pdmdp/migraine-treatment-analysis",
+      "summary": "Migraine treatment response and discontinuation: multiple imputation, logistic regression and longitudinal mixed-effects models in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-16",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1794792427"
+    },
+    {
+      "title": "Discortics/discortics-mcp (2 stars)",
+      "url": "https://github.com/Discortics/discortics-mcp",
+      "summary": "The official Model Context Protocol (MCP) server for Discord. Architect, configure, theme, and automate Discord servers with AI agents (Claude, Cursor, Grok, ChatGPT).",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-16",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1794792428"
+    },
+    {
+      "title": "credoksopho1984/blender-ai-copilot-studio (513 stars)",
+      "url": "https://github.com/credoksopho1984/blender-ai-copilot-studio",
+      "summary": "An AI copilot and MCP server for Blender that turns plain-language briefs into scene operations—inside a visual chat studio with multi-agent teams, your choice of AI models, and 27 built-in scene t...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-16",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1794792429"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-16",
+      "editorial_summary": "Briefing compiled on November 16, 2026. Today's selection highlights new R packages and features like pyr.js: Python and R in HTML pages, with one script tag, Semantic segmentation in rplatypus and pyplatypus: what is in the box and explores cutting-edge AI integrations including Discortics/discortics-mcp (2 stars), credoksopho1984/blender-ai-copilot-studio (513 stars).",
+      "items": [
+        "item_1794792424",
+        "item_1794792425",
+        "item_1794792426",
+        "item_1794792427",
+        "item_1794792428",
+        "item_1794792429"
+      ]
+    },
     {
       "date": "2026-11-15",
       "editorial_summary": "Briefing compiled on November 15, 2026. Today's selection highlights new R packages and features like dmetrics1/micronegocios-colombia-2024 (0 stars), alex-sukhoi/pls-sem-app-experience-loyalty (0 stars) and explores cutting-edge AI integrations including brandrail-app/brandrail (2 stars), tiobeharxi1987/blender-ai-copilot-flow (342 stars).",

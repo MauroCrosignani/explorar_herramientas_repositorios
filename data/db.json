@@ -14288,9 +14288,107 @@
       "score": 15.0,
       "read": false,
       "id": "item_1794792429"
+    },
+    {
+      "title": "ManuelRazoAlc/time-series-cybersecurity (0 stars)",
+      "url": "https://github.com/ManuelRazoAlc/time-series-cybersecurity",
+      "summary": "Anomaly detection and alert forecasting on simulated access logs with ARIMA, SARIMA, ETS and Isolation Forest in R, presented as Quarto slides.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-17",
+      "tags": [
+        "quarto"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794888806"
+    },
+    {
+      "title": "R Weekly 2026-W47 Friction Worth Keeping, Balloon Accidents, Semantic Segmentation",
+      "url": "https://rweekly.org/2026-W47.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Colin Fay, with help from the R Weekly team members and contributors.\n\nH...",
+      "source": "R Weekly",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-17",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794888807"
+    },
+    {
+      "title": "Interim Analysis: My Messy Notes",
+      "url": "https://www.r-bloggers.com/2026/11/interim-analysis-my-messy-notes/",
+      "summary": "Why can’t we just peek at our data with α = 0.05 every time? 🤔 Gotta see it to believe it! Simulating the inflated error, seeing why it’s not Bonferroni, and rebuilding O’Brien-Fleming &#038; Lan-D...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-17",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1794888808"
+    },
+    {
+      "title": "spencerpingel/panx1-melanoma-rnaseq (0 stars)",
+      "url": "https://github.com/spencerpingel/panx1-melanoma-rnaseq",
+      "summary": "Reanalysis of public RNA-seq data: PANX1 knockout and spironolactone in melanoma cells (limma, GSEA)",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-17",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794888809"
+    },
+    {
+      "title": "Molinsny1337/claude-code-codex-mcp (1 stars)",
+      "url": "https://github.com/Molinsny1337/claude-code-codex-mcp",
+      "summary": "Model Context Protocol (MCP) server bridging Claude Code with Codex sessions and models",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-17",
+      "tags": [
+        "mcp",
+        "codex"
+      ],
+      "score": 22.0,
+      "read": false,
+      "id": "item_1794888810"
+    },
+    {
+      "title": "khanhpham-net/MCP-SIM-100-Contained-Malicious-MCP-Server-Benchmark-Corpus (1 stars)",
+      "url": "https://github.com/khanhpham-net/MCP-SIM-100-Contained-Malicious-MCP-Server-Benchmark-Corpus",
+      "summary": "Provide a standardized benchmark corpus of 100, contained malicious Model Context Protocol (MCP)",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-17",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 20.0,
+      "read": false,
+      "id": "item_1794888811"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-17",
+      "editorial_summary": "Briefing compiled on November 17, 2026. Today's selection highlights new R packages and features like ManuelRazoAlc/time-series-cybersecurity (0 stars), R Weekly 2026-W47 Friction Worth Keeping, Balloon Accidents, Semantic Segmentation and explores cutting-edge AI integrations including Molinsny1337/claude-code-codex-mcp (1 stars), khanhpham-net/MCP-SIM-100-Contained-Malicious-MCP-Server-Benchmark-Corpus (1 stars).",
+      "items": [
+        "item_1794888806",
+        "item_1794888807",
+        "item_1794888808",
+        "item_1794888809",
+        "item_1794888810",
+        "item_1794888811"
+      ]
+    },
     {
       "date": "2026-11-16",
       "editorial_summary": "Briefing compiled on November 16, 2026. Today's selection highlights new R packages and features like pyr.js: Python and R in HTML pages, with one script tag, Semantic segmentation in rplatypus and pyplatypus: what is in the box and explores cutting-edge AI integrations including Discortics/discortics-mcp (2 stars), credoksopho1984/blender-ai-copilot-studio (513 stars).",

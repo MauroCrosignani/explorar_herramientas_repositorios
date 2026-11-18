@@ -14374,9 +14374,107 @@
       "score": 20.0,
       "read": false,
       "id": "item_1794888811"
+    },
+    {
+      "title": "bioconductor-source/IsoNetAnalyzeR (0 stars)",
+      "url": "https://github.com/bioconductor-source/IsoNetAnalyzeR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-18",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1794971487"
+    },
+    {
+      "title": "\"You get a free drink if you order a Burger or a Salad and a Dessert.\"",
+      "url": "https://www.r-bloggers.com/2026/11/you-get-a-free-drink-if-you-order-a-burger-or-a-salad-and-a-dessert/",
+      "summary": "A restaurant advertises, \"You get a free drink if you order a Burger or a Salad and a Dessert.\" Suppose you only order a Burger. Should the restaurant give you a free drink? \n    &#038;nb...\n\n\nCont...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-18",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1794971488"
+    },
+    {
+      "title": "LeonorCarv/data-science-engineering-portfolio (0 stars)",
+      "url": "https://github.com/LeonorCarv/data-science-engineering-portfolio",
+      "summary": "Coursework and projects from the MSc in Data Science and Engineering",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-18",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1794971489"
+    },
+    {
+      "title": "ashajyothi292/mrs-transcriptional-signatures (1 stars)",
+      "url": "https://github.com/ashajyothi292/mrs-transcriptional-signatures",
+      "summary": "Transcriptional signatures of 1H-MRS metabolites in paediatric brain tumours: gene set panel and analysis code from my MSc Bioinformatics dissertation",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-18",
+      "tags": [
+        "ai"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1794971490"
+    },
+    {
+      "title": "Doug-218/blender-ai-copilot-forge (509 stars)",
+      "url": "https://github.com/Doug-218/blender-ai-copilot-forge",
+      "summary": "A scene-forging AI copilot for Blender—describe the layout and watch primitives, cameras, lights, materials and parenting assemble in ordered steps, with approvals, named undo and a built-in MCP se...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-18",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1794971491"
+    },
+    {
+      "title": "findavoulot1973/Blender-AI-MCP-Suite (498 stars)",
+      "url": "https://github.com/findavoulot1973/Blender-AI-MCP-Suite",
+      "summary": "Blender AI MCP Suite is an AI assistant and built-in Model Context Protocol MCP server for Blender that turns plain-language briefs into inspected, approved and reversible 3D scene operations — wit...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-18",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1794971492"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-18",
+      "editorial_summary": "Briefing compiled on November 18, 2026. Today's selection highlights new R packages and features like bioconductor-source/IsoNetAnalyzeR (0 stars), \"You get a free drink if you order a Burger or a Salad and a Dessert.\" and explores cutting-edge AI integrations including Doug-218/blender-ai-copilot-forge (509 stars), findavoulot1973/Blender-AI-MCP-Suite (498 stars).",
+      "items": [
+        "item_1794971487",
+        "item_1794971488",
+        "item_1794971489",
+        "item_1794971490",
+        "item_1794971491",
+        "item_1794971492"
+      ]
+    },
     {
       "date": "2026-11-17",
       "editorial_summary": "Briefing compiled on November 17, 2026. Today's selection highlights new R packages and features like ManuelRazoAlc/time-series-cybersecurity (0 stars), R Weekly 2026-W47 Friction Worth Keeping, Balloon Accidents, Semantic Segmentation and explores cutting-edge AI integrations including Molinsny1337/claude-code-codex-mcp (1 stars), khanhpham-net/MCP-SIM-100-Contained-Malicious-MCP-Server-Benchmark-Corpus (1 stars).",

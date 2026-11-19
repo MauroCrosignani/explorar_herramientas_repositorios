@@ -14460,9 +14460,108 @@
       "score": 15.0,
       "read": false,
       "id": "item_1794971492"
+    },
+    {
+      "title": "ChristianVerdin/nfl-advanced-metrics (0 stars)",
+      "url": "https://github.com/ChristianVerdin/nfl-advanced-metrics",
+      "summary": "NFL advanced metrics visualized in R with nflverse, nflplotR and ggplot2: EPA, CPOE, team logos and circle-cropped player headshots",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-19",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1795056710"
+    },
+    {
+      "title": "smooth in Python: TBATS implementation",
+      "url": "https://www.r-bloggers.com/2026/11/smooth-in-python-tbats-implementation/",
+      "summary": "TBATS is a popular exponential smoothing model for data with complex seasonality: long seasonal periods, fractional ones (e.g. 52.18 weeks in a year, as I discussed in my previous post), and severa...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-19",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1795056711"
+    },
+    {
+      "title": "athulanand70-cmd/erectaid-pms-analytics (0 stars)",
+      "url": "https://github.com/athulanand70-cmd/erectaid-pms-analytics",
+      "summary": "Medical device complaint & post-market surveillance analytics dashboard (R Shiny + SQLite). Synthetic data, for demonstration only.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-19",
+      "tags": [
+        "shiny",
+        "ai",
+        "dashboard",
+        "analytics"
+      ],
+      "score": 7.0,
+      "read": false,
+      "id": "item_1795056712"
+    },
+    {
+      "title": "ChakybAbdi/london-housing-epc (0 stars)",
+      "url": "https://github.com/ChakybAbdi/london-housing-epc",
+      "summary": "London house prices x energy efficiency: record linkage of 2018-2025 Land Registry sales to EPC certificates, TfL station distances, EDA and k-means clustering in R.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-19",
+      "tags": [
+        "general"
+      ],
+      "score": 2,
+      "read": false,
+      "id": "item_1795056713"
+    },
+    {
+      "title": "108ido/gemini-pc-mcp (2 stars)",
+      "url": "https://github.com/108ido/gemini-pc-mcp",
+      "summary": "Connect Google Gemini to your local PC via Model Context Protocol (MCP) to read/write files and run safe commands",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-19",
+      "tags": [
+        "mcp"
+      ],
+      "score": 15.5,
+      "read": false,
+      "id": "item_1795056714"
+    },
+    {
+      "title": "MelissiaCervone94583/virtual-card-usdt-mcp-tool-use-ecosystem-billing-vcc (31 stars)",
+      "url": "https://github.com/MelissiaCervone94583/virtual-card-usdt-mcp-tool-use-ecosystem-billing-vcc",
+      "summary": "直击 Model Context Protocol (MCP) 生态工具链（云端浏览器、沙箱代码执行器、企业数据连接器）多节点按量计费痛点，用 CoreGold 商业虚拟卡（VCC）+ USDT 实现微服务级预算硬隔离。",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-19",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1795056715"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-19",
+      "editorial_summary": "Briefing compiled on November 19, 2026. Today's selection highlights new R packages and features like ChristianVerdin/nfl-advanced-metrics (0 stars), smooth in Python: TBATS implementation and explores cutting-edge AI integrations including 108ido/gemini-pc-mcp (2 stars), MelissiaCervone94583/virtual-card-usdt-mcp-tool-use-ecosystem-billing-vcc (31 stars).",
+      "items": [
+        "item_1795056710",
+        "item_1795056711",
+        "item_1795056712",
+        "item_1795056713",
+        "item_1795056714",
+        "item_1795056715"
+      ]
+    },
     {
       "date": "2026-11-18",
       "editorial_summary": "Briefing compiled on November 18, 2026. Today's selection highlights new R packages and features like bioconductor-source/IsoNetAnalyzeR (0 stars), \"You get a free drink if you order a Burger or a Salad and a Dessert.\" and explores cutting-edge AI integrations including Doug-218/blender-ai-copilot-forge (509 stars), findavoulot1973/Blender-AI-MCP-Suite (498 stars).",

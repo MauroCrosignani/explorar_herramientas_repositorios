@@ -14547,9 +14547,106 @@
       "score": 13.5,
       "read": false,
       "id": "item_1795056715"
+    },
+    {
+      "title": "From Brisbane to the rOpenSci Community: Ten Years of Open Research Software",
+      "url": "https://www.r-bloggers.com/2026/11/from-brisbane-to-the-ropensci-community-ten-years-of-open-research-software/",
+      "summary": "With rOpenSci turning 15 this year, it’s hard to believe that I’ve been part of it for 10 of those years.\nMy involvement started in Brisbane in 2016, at the first Australian rOpenSci Unconference.\n...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-20",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1795142573"
+    },
+    {
+      "title": "Why the overall rate can flip: weighted means and Simpson’s paradox in R",
+      "url": "https://www.r-bloggers.com/2026/11/why-the-overall-rate-can-flip-weighted-means-and-simpsons-paradox-in-r/",
+      "summary": "Introduction\nThe data\nAn overall rate is a weighted mean\nThe result depends on the reference mix\nWhen exactly does the comparison flip?\nWhich rate should you report?\nReferences\nNote: This post has ...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-20",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1795142574"
+    },
+    {
+      "title": "MNNGT/heart-disease-logistic-regression (0 stars)",
+      "url": "https://github.com/MNNGT/heart-disease-logistic-regression",
+      "summary": "Reproducible cardiovascular epidemiology analysis using multivariable logistic regression, adjusted odds ratios, model diagnostics and cross-validation in R and Quarto.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-20",
+      "tags": [
+        "quarto"
+      ],
+      "score": 8.5,
+      "read": false,
+      "id": "item_1795142575"
+    },
+    {
+      "title": "tunaozorak/stock-price-markov-chain-analysis (0 stars)",
+      "url": "https://github.com/tunaozorak/stock-price-markov-chain-analysis",
+      "summary": "Reproducible R analysis of PLTR price-band transitions using Markov chains, with numerical checks, stationary-distribution analysis, and an independent absorbing-chain example.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-20",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1795142576"
+    },
+    {
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon (639 stars)",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "summary": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scri...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-20",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 25.0,
+      "read": false,
+      "id": "item_1795142577"
+    },
+    {
+      "title": "peter-hendy/mcp-server-scanner-extension (1 stars)",
+      "url": "https://github.com/peter-hendy/mcp-server-scanner-extension",
+      "summary": "Burp Suite extension that security-tests MCP (Model Context Protocol) servers",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-20",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1795142578"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-20",
+      "editorial_summary": "Briefing compiled on November 20, 2026. Today's selection highlights new R packages and features like From Brisbane to the rOpenSci Community: Ten Years of Open Research Software, Why the overall rate can flip: weighted means and Simpson’s paradox in R and explores cutting-edge AI integrations including bookwjitchieni1986/blender-ai-mcp-addon (639 stars), peter-hendy/mcp-server-scanner-extension (1 stars).",
+      "items": [
+        "item_1795142573",
+        "item_1795142574",
+        "item_1795142575",
+        "item_1795142576",
+        "item_1795142577",
+        "item_1795142578"
+      ]
+    },
     {
       "date": "2026-11-19",
       "editorial_summary": "Briefing compiled on November 19, 2026. Today's selection highlights new R packages and features like ChristianVerdin/nfl-advanced-metrics (0 stars), smooth in Python: TBATS implementation and explores cutting-edge AI integrations including 108ido/gemini-pc-mcp (2 stars), MelissiaCervone94583/virtual-card-usdt-mcp-tool-use-ecosystem-billing-vcc (31 stars).",

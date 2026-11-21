@@ -14632,9 +14632,106 @@
       "score": 13.5,
       "read": false,
       "id": "item_1795142578"
+    },
+    {
+      "title": "nrojas289/vigilancia-salud-eje-cafetero (0 stars)",
+      "url": "https://github.com/nrojas289/vigilancia-salud-eje-cafetero",
+      "summary": "Tablero R Shiny de vigilancia en salud pública del Eje Cafetero (SIVIGILA 2022-2024 + DANE): tasas, comparación con Colombia, curvas semanales y mapa municipal.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-21",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1795229608"
+    },
+    {
+      "title": "Hacking Two Hours of Contributions to R",
+      "url": "https://www.r-bloggers.com/2026/11/hacking-two-hours-of-contributions-to-r/",
+      "summary": "Read it in: Español. LatinR is a conference on the use of R in Research and Development that brings together the Latin American community using our favorite programming language. In 2026 it took pl...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-21",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1795229609"
+    },
+    {
+      "title": "alex-sukhoi/power-analysis-toolkit (0 stars)",
+      "url": "https://github.com/alex-sukhoi/power-analysis-toolkit",
+      "summary": "Sample size and power analysis in R: t-tests, ANOVA, correlation, chi-square, regression, simulation-based logistic regression, clustered designs, methods text",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-21",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1795229610"
+    },
+    {
+      "title": "alex-sukhoi/survival-analysis-km-cox (0 stars)",
+      "url": "https://github.com/alex-sukhoi/survival-analysis-km-cox",
+      "summary": "Overall survival analysis in R: Kaplan-Meier curves with numbers at risk, log-rank tests, Cox regression with forest plot and proportional-hazards checks",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-21",
+      "tags": [
+        "general"
+      ],
+      "score": 9,
+      "read": false,
+      "id": "item_1795229611"
+    },
+    {
+      "title": "tukuk/tukuk-mcp-server (1 stars)",
+      "url": "https://github.com/tukuk/tukuk-mcp-server",
+      "summary": "Tukuk Model Context Protocol (MCP) Server for AI agent tools and integrations",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-21",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 17.0,
+      "read": false,
+      "id": "item_1795229612"
+    },
+    {
+      "title": "themanyone/playwright-mcp-server-python (1 stars)",
+      "url": "https://github.com/themanyone/playwright-mcp-server-python",
+      "summary": "A Community-driven Model Context Protocol (MCP) server, written in Python",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-21",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1795229613"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-21",
+      "editorial_summary": "Briefing compiled on November 21, 2026. Today's selection highlights new R packages and features like nrojas289/vigilancia-salud-eje-cafetero (0 stars), Hacking Two Hours of Contributions to R and explores cutting-edge AI integrations including tukuk/tukuk-mcp-server (1 stars), themanyone/playwright-mcp-server-python (1 stars).",
+      "items": [
+        "item_1795229608",
+        "item_1795229609",
+        "item_1795229610",
+        "item_1795229611",
+        "item_1795229612",
+        "item_1795229613"
+      ]
+    },
     {
       "date": "2026-11-20",
       "editorial_summary": "Briefing compiled on November 20, 2026. Today's selection highlights new R packages and features like From Brisbane to the rOpenSci Community: Ten Years of Open Research Software, Why the overall rate can flip: weighted means and Simpson’s paradox in R and explores cutting-edge AI integrations including bookwjitchieni1986/blender-ai-mcp-addon (639 stars), peter-hendy/mcp-server-scanner-extension (1 stars).",

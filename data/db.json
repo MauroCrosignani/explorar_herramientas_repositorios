@@ -14717,9 +14717,106 @@
       "score": 13.5,
       "read": false,
       "id": "item_1795229613"
+    },
+    {
+      "title": "bioconductor-source/methylTFR (0 stars)",
+      "url": "https://github.com/bioconductor-source/methylTFR",
+      "summary": "No description provided.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-22",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1795311795"
+    },
+    {
+      "title": "joellattmann/gganimslide (1 stars)",
+      "url": "https://github.com/joellattmann/gganimslide",
+      "summary": "Turn ggplot2 plots into native, click-animated PowerPoint slides and LaTeX Beamer presentations.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-22",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1795311796"
+    },
+    {
+      "title": "GinnoLmao/regression-diagnostics-in-r (0 stars)",
+      "url": "https://github.com/GinnoLmao/regression-diagnostics-in-r",
+      "summary": "Portable exploratory regression workflows with residual diagnostics and explicitly synthetic verification.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-22",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1795311797"
+    },
+    {
+      "title": "Yukthi-Portfolio/tetris-interruption-analysis (0 stars)",
+      "url": "https://github.com/Yukthi-Portfolio/tetris-interruption-analysis",
+      "summary": "Statistical analysis in R of how auditory vs visual interruptions affect Tetris performance",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-22",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1795311798"
+    },
+    {
+      "title": "ccarrott/Read-Only-SQLite-MCP-Server (2 stars)",
+      "url": "https://github.com/ccarrott/Read-Only-SQLite-MCP-Server",
+      "summary": "A safe, high-performance SQLite database inspection and exploration server built on the Model Context Protocol (MCP) using `FastMCP`.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-22",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1795311799"
+    },
+    {
+      "title": "fumbdendade19718/blender-ai-copilot-desk (505 stars)",
+      "url": "https://github.com/fumbdendade19718/blender-ai-copilot-desk",
+      "summary": "A visual AI desk for Blender—chat, scene objects, viewport snapshots, approvals and a live task board in one companion window, backed by your choice of models and a built-in MCP server. · blender-a...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-22",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 13.0,
+      "read": false,
+      "id": "item_1795311800"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-22",
+      "editorial_summary": "Briefing compiled on November 22, 2026. Today's selection highlights new R packages and features like bioconductor-source/methylTFR (0 stars), joellattmann/gganimslide (1 stars) and explores cutting-edge AI integrations including ccarrott/Read-Only-SQLite-MCP-Server (2 stars), fumbdendade19718/blender-ai-copilot-desk (505 stars).",
+      "items": [
+        "item_1795311795",
+        "item_1795311796",
+        "item_1795311797",
+        "item_1795311798",
+        "item_1795311799",
+        "item_1795311800"
+      ]
+    },
     {
       "date": "2026-11-21",
       "editorial_summary": "Briefing compiled on November 21, 2026. Today's selection highlights new R packages and features like nrojas289/vigilancia-salud-eje-cafetero (0 stars), Hacking Two Hours of Contributions to R and explores cutting-edge AI integrations including tukuk/tukuk-mcp-server (1 stars), themanyone/playwright-mcp-server-python (1 stars).",

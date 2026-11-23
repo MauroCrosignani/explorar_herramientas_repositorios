@@ -14802,9 +14802,108 @@
       "score": 13.0,
       "read": false,
       "id": "item_1795311800"
+    },
+    {
+      "title": "ItsMikeF/forecast-honesty-lab (0 stars)",
+      "url": "https://github.com/ItsMikeF/forecast-honesty-lab",
+      "summary": "34 forecasting models, 18 tested against real market prices, 15 lost. The scorecard, the data, and eight lessons on testing a forecast honestly. R + ggplot2.",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-23",
+      "tags": [
+        "ggplot",
+        "ai"
+      ],
+      "score": 3.0,
+      "read": false,
+      "id": "item_1795399316"
+    },
+    {
+      "title": "pyr.js: Python and R in HTML, documentation and examples",
+      "url": "https://www.r-bloggers.com/2026/11/pyr-js-python-and-r-in-html-documentation-and-examples/",
+      "summary": "pyr.js runs Python and R code directly in HTML pages, in the browser, with one script tag: no server, no build step, no install. Pyodide and webR do the heavy lifting.\n\n\nContinue reading: pyr.js: P...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-23",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1795399317"
+    },
+    {
+      "title": "adops-tool/awesome-marketing-mix-modeling (1 stars)",
+      "url": "https://github.com/adops-tool/awesome-marketing-mix-modeling",
+      "summary": "📊 Curated list of Marketing Mix Modeling (MMM) frameworks, causal inference libraries, geo-lift testing tools, attribution models, datasets, and research papers for data scientists.",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-23",
+      "tags": [
+        "general"
+      ],
+      "score": 7,
+      "read": false,
+      "id": "item_1795399318"
+    },
+    {
+      "title": "Classical Test Theory Analysis of the 16 Factor Personality Measure",
+      "url": "https://www.r-bloggers.com/2026/11/classical-test-theory-analysis-of-the-16-factor-personality-measure/",
+      "summary": "In my\nlast\npost, I talked through how to clean the dataset of careless\nresponders, responders with too much missing data, and people older than\ntime itself. Today, I’ll go through a classical test\n...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-23",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1795399319"
+    },
+    {
+      "title": "benzgasfuncring197110/blender-ai-copilot-bridge (492 stars)",
+      "url": "https://github.com/benzgasfuncring197110/blender-ai-copilot-bridge",
+      "summary": "An MCP bridge for Blender that exposes 27 supervised scene tools to OpenCode and any compatible client—authenticated Streamable HTTP on a local endpoint, with the visual chat studio and agent teams...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-23",
+      "tags": [
+        "sf",
+        "mcp",
+        "ai"
+      ],
+      "score": 12.5,
+      "read": false,
+      "id": "item_1795399320"
+    },
+    {
+      "title": "precygtrucqui1981/blender-ai-copilot-lab (505 stars)",
+      "url": "https://github.com/precygtrucqui1981/blender-ai-copilot-lab",
+      "summary": "An AI lab for Blender where manager–worker–reviewer agent teams run multi-step scene briefs as supervised experiments—a live task board, review findings, one correction attempt per blocked task, na...",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-23",
+      "tags": [
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1795399321"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-23",
+      "editorial_summary": "Briefing compiled on November 23, 2026. Today's selection highlights new R packages and features like ItsMikeF/forecast-honesty-lab (0 stars), pyr.js: Python and R in HTML, documentation and examples and explores cutting-edge AI integrations including benzgasfuncring197110/blender-ai-copilot-bridge (492 stars), precygtrucqui1981/blender-ai-copilot-lab (505 stars).",
+      "items": [
+        "item_1795399316",
+        "item_1795399317",
+        "item_1795399318",
+        "item_1795399319",
+        "item_1795399320",
+        "item_1795399321"
+      ]
+    },
     {
       "date": "2026-11-22",
       "editorial_summary": "Briefing compiled on November 22, 2026. Today's selection highlights new R packages and features like bioconductor-source/methylTFR (0 stars), joellattmann/gganimslide (1 stars) and explores cutting-edge AI integrations including ccarrott/Read-Only-SQLite-MCP-Server (2 stars), fumbdendade19718/blender-ai-copilot-desk (505 stars).",

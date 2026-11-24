@@ -14889,9 +14889,111 @@
       "score": 11.5,
       "read": false,
       "id": "item_1795399321"
+    },
+    {
+      "title": "mitranaimi/freshwater-trajectory-transfer (0 stars)",
+      "url": "https://github.com/mitranaimi/freshwater-trajectory-transfer",
+      "summary": "Exploratory test on open data: does the relation between river invertebrate trends and ecological-quality trajectories transfer to a country the model has not seen? Reading notes and a roadmap incl...",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-24",
+      "tags": [
+        "sf",
+        "ai"
+      ],
+      "score": 6.0,
+      "read": false,
+      "id": "item_1795498735"
+    },
+    {
+      "title": "gratia 0.12.1",
+      "url": "https://www.r-bloggers.com/2026/11/gratia-0-12-1/",
+      "summary": "A new version of gratia, 0.12.1, is now available on CRAN. This is a major new release, with a tonne of new features, improvements and bug fixes. There are so many changes in this version that ~1/2...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-24",
+      "tags": [
+        "cran",
+        "ai"
+      ],
+      "score": 1.0,
+      "read": false,
+      "id": "item_1795498736"
+    },
+    {
+      "title": "SyedaSukainaAhmed/pd-sn-meta-analysis (1 stars)",
+      "url": "https://github.com/SyedaSukainaAhmed/pd-sn-meta-analysis",
+      "summary": "Reproducible R pipeline for a Parkinson's disease substantia nigra transcriptome meta-analysis: 5 public Affymetrix cohorts, limma + robust rank aggregation, dopaminergic-score adjustment, negative...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-24",
+      "tags": [
+        "ai"
+      ],
+      "score": 11.5,
+      "read": false,
+      "id": "item_1795498737"
+    },
+    {
+      "title": "blorr 0.3.2",
+      "url": "https://www.r-bloggers.com/2026/11/blorr-0-3-2/",
+      "summary": "blorr 0.3.2 is on CRAN. blorr provides tools for binary logistic regression in R: model fit statistics, variable selection, bivariate analysis, weight of evidence, and the validation charts used in...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-24",
+      "tags": [
+        "cran",
+        "statistics"
+      ],
+      "score": 5.0,
+      "read": false,
+      "id": "item_1795498738"
+    },
+    {
+      "title": "Ziad-Amr1/blender-ai-mcp (1 stars)",
+      "url": "https://github.com/Ziad-Amr1/blender-ai-mcp",
+      "summary": "AI Model Context Protocol (MCP) server and live bidirectional bridge for Blender 3D",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-24",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1795498739"
+    },
+    {
+      "title": "notionmaster001-max/mcpforge-enterprise-starter (1 stars)",
+      "url": "https://github.com/notionmaster001-max/mcpforge-enterprise-starter",
+      "summary": "Production Model Context Protocol (MCP) Server Starter for Claude Desktop & AI Agents",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-24",
+      "tags": [
+        "mcp",
+        "agents",
+        "ai"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1795498740"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-24",
+      "editorial_summary": "Briefing compiled on November 24, 2026. Today's selection highlights new R packages and features like mitranaimi/freshwater-trajectory-transfer (0 stars), gratia 0.12.1 and explores cutting-edge AI integrations including Ziad-Amr1/blender-ai-mcp (1 stars), notionmaster001-max/mcpforge-enterprise-starter (1 stars).",
+      "items": [
+        "item_1795498735",
+        "item_1795498736",
+        "item_1795498737",
+        "item_1795498738",
+        "item_1795498739",
+        "item_1795498740"
+      ]
+    },
     {
       "date": "2026-11-23",
       "editorial_summary": "Briefing compiled on November 23, 2026. Today's selection highlights new R packages and features like ItsMikeF/forecast-honesty-lab (0 stars), pyr.js: Python and R in HTML, documentation and examples and explores cutting-edge AI integrations including benzgasfuncring197110/blender-ai-copilot-bridge (492 stars), precygtrucqui1981/blender-ai-copilot-lab (505 stars).",

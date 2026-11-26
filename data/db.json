@@ -15066,9 +15066,106 @@
       "score": 11.5,
       "read": false,
       "id": "item_1795581527"
+    },
+    {
+      "title": "junjunlab/ggutils (2 stars)",
+      "url": "https://github.com/junjunlab/ggutils",
+      "summary": "Utility functions for ggplot2: smart axis labels with leader lines, and more",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-26",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1795664948"
+    },
+    {
+      "title": "F1perS-Efe/Benchmark (0 stars)",
+      "url": "https://github.com/F1perS-Efe/Benchmark",
+      "summary": "SigBenchR: reproducible gene-signature benchmarking for immunotherapy response (ROC-AUC, null permutation, REML+HKSJ, Shiny UI)",
+      "source": "GitHub Search",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-26",
+      "tags": [
+        "shiny"
+      ],
+      "score": 1.5,
+      "read": false,
+      "id": "item_1795664949"
+    },
+    {
+      "title": "olsrr 0.7.1",
+      "url": "https://www.r-bloggers.com/2026/11/olsrr-0-7-1/",
+      "summary": "olsrr 0.7.1 is on CRAN. olsrr provides tools for building and checking ordinary least squares regression models in R: regression summaries, variable selection, heteroskedasticity and normality test...",
+      "source": "R-bloggers",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-26",
+      "tags": [
+        "cran"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1795664950"
+    },
+    {
+      "title": "rushadnihal/bcg-vaccine-trials (1 stars)",
+      "url": "https://github.com/rushadnihal/bcg-vaccine-trials",
+      "summary": "Random-effects meta-analysis and meta-regression of 13 BCG vaccine trials in R (metafor): pooled RR 0.49, latitude explains 76% of heterogeneity. Includes forest, Baujat, bubble and contour-enhance...",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-26",
+      "tags": [
+        "ai"
+      ],
+      "score": 3.5,
+      "read": false,
+      "id": "item_1795664951"
+    },
+    {
+      "title": "rfpacheco/google-gmail-mcp (1 stars)",
+      "url": "https://github.com/rfpacheco/google-gmail-mcp",
+      "summary": "Model Context Protocol (MCP) server for Gmail integration with 5-pillar sorting and filtering engine",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-26",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 15.0,
+      "read": false,
+      "id": "item_1795664952"
+    },
+    {
+      "title": "sethumadhavan505/skills-integrate-mcp-with-copilot (1 stars)",
+      "url": "https://github.com/sethumadhavan505/skills-integrate-mcp-with-copilot",
+      "summary": "Exercise: Integrate Model Context Protocol with GitHub Copilot",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-26",
+      "tags": [
+        "mcp"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1795664953"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-26",
+      "editorial_summary": "Briefing compiled on November 26, 2026. Today's selection highlights new R packages and features like junjunlab/ggutils (2 stars), F1perS-Efe/Benchmark (0 stars) and explores cutting-edge AI integrations including rfpacheco/google-gmail-mcp (1 stars), sethumadhavan505/skills-integrate-mcp-with-copilot (1 stars).",
+      "items": [
+        "item_1795664948",
+        "item_1795664949",
+        "item_1795664950",
+        "item_1795664951",
+        "item_1795664952",
+        "item_1795664953"
+      ]
+    },
     {
       "date": "2026-11-25",
       "editorial_summary": "Briefing compiled on November 25, 2026. Today's selection highlights new R packages and features like junjunlab/ggsmartext (2 stars), Why Risk Ratio Is Preferred, What is Modified Poisson, and Why Do We Even Care About Standard Error? and explores cutting-edge AI integrations including zgraham1981/MCP-Server-Lighter (30 stars), system1970/opencode-antigravity-acp (18 stars).",

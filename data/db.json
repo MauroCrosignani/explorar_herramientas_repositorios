@@ -15151,9 +15151,75 @@
       "score": 13.5,
       "read": false,
       "id": "item_1795664953"
+    },
+    {
+      "title": "“Just ask the model for translation”",
+      "url": "https://www.r-bloggers.com/2026/11/just-ask-the-model-for-translation/",
+      "summary": "You can read the original post in its original format on Rtask website by ThinkR here: “Just ask the model for translation”\nI was recently in charge of ensuring the migration from a piece of code t...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-27",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1795751439"
+    },
+    {
+      "title": "vistributions 0.2.2",
+      "url": "https://www.r-bloggers.com/2026/11/vistributions-0-2-2/",
+      "summary": "vistributions 0.2.2\nvistributions draws the probability and percentile questions you ask of the normal, t, chi-square, F and binomial distributions, with the answer printed on the plot.\nVersion 0.2...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-27",
+      "tags": [
+        "general"
+      ],
+      "score": 1,
+      "read": false,
+      "id": "item_1795751440"
+    },
+    {
+      "title": "Introducing PLaMo-based AI translation for Bioconductor lessons",
+      "url": "https://www.r-bloggers.com/2026/11/introducing-plamo-based-ai-translation-for-bioconductor-lessons/",
+      "summary": "In the report on our Japanese workshops, I explained why our Crowdin integration had become difficult to maintain. Keeping executable R Markdown lessons in sync required file conversions, translati...",
+      "source": "R-bloggers",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-27",
+      "tags": [
+        "ai"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1795751441"
+    },
+    {
+      "title": "R Weekly 2026-W23 Building a computer, Toolbars, Memory model",
+      "url": "https://rweekly.org/2026-W23.html",
+      "summary": "Hello and welcome to this new issue!\n   \n  How to have (my) content shared by R Weekly?\n\n\nThis week’s release was curated by Jonathan Kitt, with help from the R Weekly team members and contributors...",
+      "source": "R Weekly",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-27",
+      "tags": [
+        "general"
+      ],
+      "score": 5,
+      "read": false,
+      "id": "item_1795751442"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-27",
+      "editorial_summary": "Briefing compiled on November 27, 2026. Today's selection highlights new R packages and features like “Just ask the model for translation”, vistributions 0.2.2 and explores cutting-edge AI integrations including Introducing PLaMo-based AI translation for Bioconductor lessons, R Weekly 2026-W23 Building a computer, Toolbars, Memory model.",
+      "items": [
+        "item_1795751439",
+        "item_1795751440",
+        "item_1795751441",
+        "item_1795751442"
+      ]
+    },
     {
       "date": "2026-11-26",
       "editorial_summary": "Briefing compiled on November 26, 2026. Today's selection highlights new R packages and features like junjunlab/ggutils (2 stars), F1perS-Efe/Benchmark (0 stars) and explores cutting-edge AI integrations including rfpacheco/google-gmail-mcp (1 stars), sethumadhavan505/skills-integrate-mcp-with-copilot (1 stars).",

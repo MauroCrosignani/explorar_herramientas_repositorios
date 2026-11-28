@@ -15207,9 +15207,109 @@
       "score": 5,
       "read": false,
       "id": "item_1795751442"
+    },
+    {
+      "title": "Customising gratia plots with ggplot2 themes",
+      "url": "https://www.r-bloggers.com/2026/11/customising-gratia-plots-with-ggplot2-themes/",
+      "summary": "With gratia 0.12.1, you can change the colour of a smooth or the opacity of its interval after calling draw() using the new theme system. These settings now live in ggplot2 themes, alongside famili...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-28",
+      "tags": [
+        "ggplot"
+      ],
+      "score": 13.5,
+      "read": false,
+      "id": "item_1795837000"
+    },
+    {
+      "title": "mvgam 2.0 on CRAN: State-Space models built on brms",
+      "url": "https://www.r-bloggers.com/2026/11/mvgam-2-0-on-cran-state-space-models-built-on-brms/",
+      "summary": "Welcoming mvgam 2.0 to CRAN\nVersion 2.0 of mvgam\nhas now been published on CRAN. When I\nannounced the first CRAN release, I finished with a list of features I wanted to add. Two of those were zero-...",
+      "source": "R-bloggers",
+      "category": "R Packages & Tools",
+      "date_added": "2026-11-28",
+      "tags": [
+        "cran"
+      ],
+      "score": 6.5,
+      "read": false,
+      "id": "item_1795837001"
+    },
+    {
+      "title": "ChariSaladh/R-africa-development-analysis (1 stars)",
+      "url": "https://github.com/ChariSaladh/R-africa-development-analysis",
+      "summary": "Life expectancy and income in Africa, 1952-2007: analysis in R with tidyverse, ggplot2 and R Markdown",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-28",
+      "tags": [
+        "ggplot",
+        "tidyverse"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1795837002"
+    },
+    {
+      "title": "asad110abbas/r-sales-eda (0 stars)",
+      "url": "https://github.com/asad110abbas/r-sales-eda",
+      "summary": "Exploratory analysis of e-commerce sales in R with tidyverse and ggplot2",
+      "source": "GitHub Search",
+      "category": "Data Science & Reporting",
+      "date_added": "2026-11-28",
+      "tags": [
+        "ggplot",
+        "tidyverse"
+      ],
+      "score": 8.0,
+      "read": false,
+      "id": "item_1795837003"
+    },
+    {
+      "title": "local-ai-mobile/android-mcp-tools (1 stars)",
+      "url": "https://github.com/local-ai-mobile/android-mcp-tools",
+      "summary": "On-device Model Context Protocol (MCP) server & system tool runtime for Android with multi-IPC support.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-28",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 20.0,
+      "read": false,
+      "id": "item_1795837004"
+    },
+    {
+      "title": "ccarter01011/traxagent-claude-plugin (172 stars)",
+      "url": "https://github.com/ccarter01011/traxagent-claude-plugin",
+      "summary": "Ask Claude, ChatGPT, Claude Code, Cursor or VS Code who spent your AI budget and what to fix. TraxAgent's read-only MCP server and Claude Code plugin.",
+      "source": "GitHub Search",
+      "category": "AI & Agentic Developer Tools",
+      "date_added": "2026-11-28",
+      "tags": [
+        "mcp",
+        "ai"
+      ],
+      "score": 12.0,
+      "read": false,
+      "id": "item_1795837005"
     }
   ],
   "reports": [
+    {
+      "date": "2026-11-28",
+      "editorial_summary": "Briefing compiled on November 28, 2026. Today's selection highlights new R packages and features like Customising gratia plots with ggplot2 themes, mvgam 2.0 on CRAN: State-Space models built on brms and explores cutting-edge AI integrations including local-ai-mobile/android-mcp-tools (1 stars), ccarter01011/traxagent-claude-plugin (172 stars).",
+      "items": [
+        "item_1795837000",
+        "item_1795837001",
+        "item_1795837002",
+        "item_1795837003",
+        "item_1795837004",
+        "item_1795837005"
+      ]
+    },
     {
       "date": "2026-11-27",
       "editorial_summary": "Briefing compiled on November 27, 2026. Today's selection highlights new R packages and features like “Just ask the model for translation”, vistributions 0.2.2 and explores cutting-edge AI integrations including Introducing PLaMo-based AI translation for Bioconductor lessons, R Weekly 2026-W23 Building a computer, Toolbars, Memory model.",
